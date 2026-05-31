@@ -65,6 +65,9 @@ The dataset allows an AI to understand that a user experiencing `Burnout` or `Ex
 
 Every entry includes attributes linking it to these structured tags, making it incredibly powerful for search and retrieval.
 
+### Data Collection & Generation
+To collect and generate this structured wisdom dynamically, we utilize the Gemini-powered pipeline located in the companion `sandhi-emotional-intelligence-dataset/sandhi_dataset_pipeline` directory. Ensure you set up your `.env` file with your `GEMINI_API_KEY` before running the pipeline.
+
 ---
 
 ## 🚀 Use Cases in Production

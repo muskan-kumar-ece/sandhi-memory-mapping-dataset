@@ -40,9 +40,9 @@ def procedural_evaluation(response_id):
 
 # ----------------- Execution Main -----------------
 
-responses_path = r"c:\workflow\sandhidataset\sandhi_dataset_pipeline\outputs\responses.json"
-inputs_path = r"c:\workflow\sandhidataset\sandhi_dataset_pipeline\processed_data\inputs.json"
-outputs_dir = r"c:\workflow\sandhidataset\sandhi_dataset_pipeline\outputs"
+responses_path = r"c:\workflow\sandhi-memory-mapping-dataset\sandhi-emotional-intelligence-dataset\sandhi_dataset_pipeline\outputs\responses.json"
+inputs_path = r"c:\workflow\sandhi-memory-mapping-dataset\sandhi-emotional-intelligence-dataset\sandhi_dataset_pipeline\processed_data\inputs.json"
+outputs_dir = r"c:\workflow\sandhi-memory-mapping-dataset\sandhi-emotional-intelligence-dataset\sandhi_dataset_pipeline\outputs"
 
 print("Beginning Sandhi Evaluation Pipeline...")
 

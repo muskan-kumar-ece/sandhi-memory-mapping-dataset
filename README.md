@@ -85,6 +85,9 @@ The dataset was developed through a combination of:
 
 All collected information was transformed into structured knowledge representations and organized into a standardized taxonomy designed for AI applications, Retrieval-Augmented Generation (RAG), personalization systems, and emotional intelligence research.
 
+### Automated Data Collection Pipeline
+This repository includes a `sandhi_dataset_pipeline` directory within the emotional intelligence dataset. It contains an automated, Gemini API-powered pipeline to scrape, structure, and evaluate new data directly into the dataset format. To use it, simply configure a `.env` file with `GEMINI_API_KEY` and run `run_pipeline.py`.
+
 ---
 
 ## 💻 Quick Start & Usage

@@ -18,7 +18,7 @@ api_key = os.getenv("GEMINI_API_KEY")
 is_placeholder = not api_key or "your_gemini_api_key" in api_key
 
 # Paths setup
-DATASET_ROOT = r"c:\workflow\sandhi-brain\sandhidataset"
+DATASET_ROOT = r"c:\workflow\sandhi-memory-mapping-dataset\sandhi-emotional-intelligence-dataset"
 taxonomy_json_path = os.path.join(DATASET_ROOT, "taxonomy", "emotions.json")
 
 # Load emotions taxonomy mappings to match categories/subcategories

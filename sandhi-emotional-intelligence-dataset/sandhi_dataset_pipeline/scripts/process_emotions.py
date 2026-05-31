@@ -96,8 +96,8 @@ def procedural_structure(title, body):
 
 # ----------------- Execution Main -----------------
 
-raw_posts_path = r"c:\workflow\sandhidataset\sandhi_dataset_pipeline\raw_data\raw_posts.json"
-processed_data_dir = r"c:\workflow\sandhidataset\sandhi_dataset_pipeline\processed_data"
+raw_posts_path = r"c:\workflow\sandhi-memory-mapping-dataset\sandhi-emotional-intelligence-dataset\sandhi_dataset_pipeline\raw_data\raw_posts.json"
+processed_data_dir = r"c:\workflow\sandhi-memory-mapping-dataset\sandhi-emotional-intelligence-dataset\sandhi_dataset_pipeline\processed_data"
 
 print("Beginning AI Emotional Structuring Engine...")
 

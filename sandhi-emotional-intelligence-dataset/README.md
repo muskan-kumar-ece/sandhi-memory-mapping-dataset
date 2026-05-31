@@ -91,6 +91,18 @@ This checks:
 2. Perfect alignment between `categories.json` and `emotions.json`.
 3. Existence of all 130 root category folders and 711 subfolders on disk.
 
+### Data Collection Pipeline
+
+This repository includes a Gemini-powered data collection pipeline (`sandhi_dataset_pipeline/scripts`). It automates the extraction, formatting, and structuring of raw emotional discussions into our dataset.
+
+**Setup:**
+1. Create a `.env` file in the root repository.
+2. Add your Gemini API key: `GEMINI_API_KEY=your_gemini_api_key_here`. (This file is added to `.gitignore` to prevent secret leakage.)
+3. Run the complete pipeline orchestrator:
+```bash
+python sandhi_dataset_pipeline/scripts/run_pipeline.py --query "fear of failing college exam"
+```
+
 ---
 
 ## 🚀 Use Cases in Production

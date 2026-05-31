@@ -76,8 +76,8 @@ def procedural_response(input_id, subcategory):
 
 # ----------------- Execution Main -----------------
 
-inputs_path = r"c:\workflow\sandhidataset\sandhi_dataset_pipeline\processed_data\inputs.json"
-outputs_dir = r"c:\workflow\sandhidataset\sandhi_dataset_pipeline\outputs"
+inputs_path = r"c:\workflow\sandhi-memory-mapping-dataset\sandhi-emotional-intelligence-dataset\sandhi_dataset_pipeline\processed_data\inputs.json"
+outputs_dir = r"c:\workflow\sandhi-memory-mapping-dataset\sandhi-emotional-intelligence-dataset\sandhi_dataset_pipeline\outputs"
 
 print("Beginning Sandhi Response Generation Pipeline...")
 
