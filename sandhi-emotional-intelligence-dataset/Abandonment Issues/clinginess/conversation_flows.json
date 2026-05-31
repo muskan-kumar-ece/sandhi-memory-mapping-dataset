@@ -1,0 +1,20 @@
+{
+  "flow_name": "Cognitive Validation to Active Coping for Abandonment Issues",
+  "stages": [
+    {
+      "stage": 1,
+      "name": "Emotional Validation",
+      "description": "Validate the patient's immediate distress regarding clinginess."
+    },
+    {
+      "stage": 2,
+      "name": "Cognitive Reframing",
+      "description": "Gently challenge negative cognitive distortions surrounding clinginess."
+    },
+    {
+      "stage": 3,
+      "name": "Micro-Actionable Stepping",
+      "description": "Establish a tiny, immediate, and completely achievable task to break paralysis."
+    }
+  ]
+}

@@ -1,0 +1,3602 @@
+[
+  {
+    "response_id": "rsp_imsy_fra_001",
+    "input_id": "inp_imsy_fra_001",
+    "response_style": "calming",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_002",
+    "input_id": "inp_imsy_fra_002",
+    "response_style": "grounding",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_003",
+    "input_id": "inp_imsy_fra_003",
+    "response_style": "calming",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_004",
+    "input_id": "inp_imsy_fra_004",
+    "response_style": "calming",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_005",
+    "input_id": "inp_imsy_fra_005",
+    "response_style": "calming",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_006",
+    "input_id": "inp_imsy_fra_006",
+    "response_style": "grounding",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_007",
+    "input_id": "inp_imsy_fra_007",
+    "response_style": "grounding",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_008",
+    "input_id": "inp_imsy_fra_008",
+    "response_style": "reflective",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_009",
+    "input_id": "inp_imsy_fra_009",
+    "response_style": "grounding",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_010",
+    "input_id": "inp_imsy_fra_010",
+    "response_style": "calming",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_011",
+    "input_id": "inp_imsy_fra_011",
+    "response_style": "reflective",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_012",
+    "input_id": "inp_imsy_fra_012",
+    "response_style": "reflective",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_013",
+    "input_id": "inp_imsy_fra_013",
+    "response_style": "calming",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_014",
+    "input_id": "inp_imsy_fra_014",
+    "response_style": "calming",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_015",
+    "input_id": "inp_imsy_fra_015",
+    "response_style": "grounding",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_016",
+    "input_id": "inp_imsy_fra_016",
+    "response_style": "grounding",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_017",
+    "input_id": "inp_imsy_fra_017",
+    "response_style": "grounding",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_018",
+    "input_id": "inp_imsy_fra_018",
+    "response_style": "calming",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_019",
+    "input_id": "inp_imsy_fra_019",
+    "response_style": "calming",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_020",
+    "input_id": "inp_imsy_fra_020",
+    "response_style": "grounding",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_021",
+    "input_id": "inp_imsy_fra_021",
+    "response_style": "grounding",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_022",
+    "input_id": "inp_imsy_fra_022",
+    "response_style": "reflective",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_023",
+    "input_id": "inp_imsy_fra_023",
+    "response_style": "calming",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_024",
+    "input_id": "inp_imsy_fra_024",
+    "response_style": "grounding",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_025",
+    "input_id": "inp_imsy_fra_025",
+    "response_style": "calming",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_026",
+    "input_id": "inp_imsy_fra_026",
+    "response_style": "reflective",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_027",
+    "input_id": "inp_imsy_fra_027",
+    "response_style": "reflective",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_028",
+    "input_id": "inp_imsy_fra_028",
+    "response_style": "calming",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_029",
+    "input_id": "inp_imsy_fra_029",
+    "response_style": "reflective",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_030",
+    "input_id": "inp_imsy_fra_030",
+    "response_style": "reflective",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_031",
+    "input_id": "inp_imsy_fra_031",
+    "response_style": "grounding",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_032",
+    "input_id": "inp_imsy_fra_032",
+    "response_style": "grounding",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_033",
+    "input_id": "inp_imsy_fra_033",
+    "response_style": "reflective",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_034",
+    "input_id": "inp_imsy_fra_034",
+    "response_style": "grounding",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_035",
+    "input_id": "inp_imsy_fra_035",
+    "response_style": "grounding",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_036",
+    "input_id": "inp_imsy_fra_036",
+    "response_style": "calming",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_037",
+    "input_id": "inp_imsy_fra_037",
+    "response_style": "grounding",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_038",
+    "input_id": "inp_imsy_fra_038",
+    "response_style": "reflective",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_039",
+    "input_id": "inp_imsy_fra_039",
+    "response_style": "reflective",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_040",
+    "input_id": "inp_imsy_fra_040",
+    "response_style": "calming",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_041",
+    "input_id": "inp_imsy_fra_041",
+    "response_style": "grounding",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_042",
+    "input_id": "inp_imsy_fra_042",
+    "response_style": "calming",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_043",
+    "input_id": "inp_imsy_fra_043",
+    "response_style": "grounding",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_044",
+    "input_id": "inp_imsy_fra_044",
+    "response_style": "reflective",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_045",
+    "input_id": "inp_imsy_fra_045",
+    "response_style": "calming",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_046",
+    "input_id": "inp_imsy_fra_046",
+    "response_style": "grounding",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_047",
+    "input_id": "inp_imsy_fra_047",
+    "response_style": "grounding",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_048",
+    "input_id": "inp_imsy_fra_048",
+    "response_style": "calming",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_049",
+    "input_id": "inp_imsy_fra_049",
+    "response_style": "grounding",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_050",
+    "input_id": "inp_imsy_fra_050",
+    "response_style": "reflective",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_051",
+    "input_id": "inp_imsy_fra_051",
+    "response_style": "grounding",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_052",
+    "input_id": "inp_imsy_fra_052",
+    "response_style": "grounding",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_053",
+    "input_id": "inp_imsy_fra_053",
+    "response_style": "grounding",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_054",
+    "input_id": "inp_imsy_fra_054",
+    "response_style": "calming",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_055",
+    "input_id": "inp_imsy_fra_055",
+    "response_style": "calming",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_056",
+    "input_id": "inp_imsy_fra_056",
+    "response_style": "reflective",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_057",
+    "input_id": "inp_imsy_fra_057",
+    "response_style": "reflective",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_058",
+    "input_id": "inp_imsy_fra_058",
+    "response_style": "calming",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_059",
+    "input_id": "inp_imsy_fra_059",
+    "response_style": "grounding",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_060",
+    "input_id": "inp_imsy_fra_060",
+    "response_style": "reflective",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_061",
+    "input_id": "inp_imsy_fra_061",
+    "response_style": "calming",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_062",
+    "input_id": "inp_imsy_fra_062",
+    "response_style": "grounding",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_063",
+    "input_id": "inp_imsy_fra_063",
+    "response_style": "grounding",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_064",
+    "input_id": "inp_imsy_fra_064",
+    "response_style": "grounding",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_065",
+    "input_id": "inp_imsy_fra_065",
+    "response_style": "calming",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_066",
+    "input_id": "inp_imsy_fra_066",
+    "response_style": "reflective",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_067",
+    "input_id": "inp_imsy_fra_067",
+    "response_style": "calming",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_068",
+    "input_id": "inp_imsy_fra_068",
+    "response_style": "calming",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_069",
+    "input_id": "inp_imsy_fra_069",
+    "response_style": "calming",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_070",
+    "input_id": "inp_imsy_fra_070",
+    "response_style": "calming",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_071",
+    "input_id": "inp_imsy_fra_071",
+    "response_style": "calming",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_072",
+    "input_id": "inp_imsy_fra_072",
+    "response_style": "reflective",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_073",
+    "input_id": "inp_imsy_fra_073",
+    "response_style": "reflective",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_074",
+    "input_id": "inp_imsy_fra_074",
+    "response_style": "grounding",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_075",
+    "input_id": "inp_imsy_fra_075",
+    "response_style": "reflective",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_076",
+    "input_id": "inp_imsy_fra_076",
+    "response_style": "grounding",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_077",
+    "input_id": "inp_imsy_fra_077",
+    "response_style": "reflective",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_078",
+    "input_id": "inp_imsy_fra_078",
+    "response_style": "grounding",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_079",
+    "input_id": "inp_imsy_fra_079",
+    "response_style": "reflective",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_080",
+    "input_id": "inp_imsy_fra_080",
+    "response_style": "reflective",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_081",
+    "input_id": "inp_imsy_fra_081",
+    "response_style": "grounding",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_082",
+    "input_id": "inp_imsy_fra_082",
+    "response_style": "calming",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_083",
+    "input_id": "inp_imsy_fra_083",
+    "response_style": "grounding",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_084",
+    "input_id": "inp_imsy_fra_084",
+    "response_style": "reflective",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_085",
+    "input_id": "inp_imsy_fra_085",
+    "response_style": "calming",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_086",
+    "input_id": "inp_imsy_fra_086",
+    "response_style": "reflective",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_087",
+    "input_id": "inp_imsy_fra_087",
+    "response_style": "reflective",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_088",
+    "input_id": "inp_imsy_fra_088",
+    "response_style": "grounding",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_089",
+    "input_id": "inp_imsy_fra_089",
+    "response_style": "reflective",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_090",
+    "input_id": "inp_imsy_fra_090",
+    "response_style": "grounding",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_091",
+    "input_id": "inp_imsy_fra_091",
+    "response_style": "reflective",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_092",
+    "input_id": "inp_imsy_fra_092",
+    "response_style": "grounding",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_093",
+    "input_id": "inp_imsy_fra_093",
+    "response_style": "reflective",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_094",
+    "input_id": "inp_imsy_fra_094",
+    "response_style": "reflective",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_095",
+    "input_id": "inp_imsy_fra_095",
+    "response_style": "calming",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_096",
+    "input_id": "inp_imsy_fra_096",
+    "response_style": "reflective",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_097",
+    "input_id": "inp_imsy_fra_097",
+    "response_style": "calming",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_098",
+    "input_id": "inp_imsy_fra_098",
+    "response_style": "reflective",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_099",
+    "input_id": "inp_imsy_fra_099",
+    "response_style": "calming",
+    "sandhi_response": "Feeling like a fraud when utilizing templates is common, but coding is about logic assembly. You put those parts together; you belong here.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_100",
+    "input_id": "inp_imsy_fra_100",
+    "response_style": "reflective",
+    "sandhi_response": "Attributing your success strictly to luck is a classic imposter defense. You solved those test rounds with your own brain—own your hard work.",
+    "wisdom_theme": "imposter_mitigation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_101",
+    "input_id": "inp_imsy_fra_101",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_102",
+    "input_id": "inp_imsy_fra_102",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_103",
+    "input_id": "inp_imsy_fra_103",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_104",
+    "input_id": "inp_imsy_fra_104",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_105",
+    "input_id": "inp_imsy_fra_105",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_106",
+    "input_id": "inp_imsy_fra_106",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_107",
+    "input_id": "inp_imsy_fra_107",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_108",
+    "input_id": "inp_imsy_fra_108",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_109",
+    "input_id": "inp_imsy_fra_109",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_110",
+    "input_id": "inp_imsy_fra_110",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_111",
+    "input_id": "inp_imsy_fra_111",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_112",
+    "input_id": "inp_imsy_fra_112",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_113",
+    "input_id": "inp_imsy_fra_113",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_114",
+    "input_id": "inp_imsy_fra_114",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_115",
+    "input_id": "inp_imsy_fra_115",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_116",
+    "input_id": "inp_imsy_fra_116",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_117",
+    "input_id": "inp_imsy_fra_117",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_118",
+    "input_id": "inp_imsy_fra_118",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_119",
+    "input_id": "inp_imsy_fra_119",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_120",
+    "input_id": "inp_imsy_fra_120",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_121",
+    "input_id": "inp_imsy_fra_121",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_122",
+    "input_id": "inp_imsy_fra_122",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_123",
+    "input_id": "inp_imsy_fra_123",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_124",
+    "input_id": "inp_imsy_fra_124",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_125",
+    "input_id": "inp_imsy_fra_125",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_126",
+    "input_id": "inp_imsy_fra_126",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_127",
+    "input_id": "inp_imsy_fra_127",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_128",
+    "input_id": "inp_imsy_fra_128",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_129",
+    "input_id": "inp_imsy_fra_129",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_130",
+    "input_id": "inp_imsy_fra_130",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_131",
+    "input_id": "inp_imsy_fra_131",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_132",
+    "input_id": "inp_imsy_fra_132",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_133",
+    "input_id": "inp_imsy_fra_133",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_134",
+    "input_id": "inp_imsy_fra_134",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_135",
+    "input_id": "inp_imsy_fra_135",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_136",
+    "input_id": "inp_imsy_fra_136",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_137",
+    "input_id": "inp_imsy_fra_137",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_138",
+    "input_id": "inp_imsy_fra_138",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_139",
+    "input_id": "inp_imsy_fra_139",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_140",
+    "input_id": "inp_imsy_fra_140",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_141",
+    "input_id": "inp_imsy_fra_141",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_142",
+    "input_id": "inp_imsy_fra_142",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_143",
+    "input_id": "inp_imsy_fra_143",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_144",
+    "input_id": "inp_imsy_fra_144",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_145",
+    "input_id": "inp_imsy_fra_145",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_146",
+    "input_id": "inp_imsy_fra_146",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_147",
+    "input_id": "inp_imsy_fra_147",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_148",
+    "input_id": "inp_imsy_fra_148",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_149",
+    "input_id": "inp_imsy_fra_149",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_150",
+    "input_id": "inp_imsy_fra_150",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_151",
+    "input_id": "inp_imsy_fra_151",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_152",
+    "input_id": "inp_imsy_fra_152",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_153",
+    "input_id": "inp_imsy_fra_153",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_154",
+    "input_id": "inp_imsy_fra_154",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_155",
+    "input_id": "inp_imsy_fra_155",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_156",
+    "input_id": "inp_imsy_fra_156",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_157",
+    "input_id": "inp_imsy_fra_157",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_158",
+    "input_id": "inp_imsy_fra_158",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_159",
+    "input_id": "inp_imsy_fra_159",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_160",
+    "input_id": "inp_imsy_fra_160",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_161",
+    "input_id": "inp_imsy_fra_161",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_162",
+    "input_id": "inp_imsy_fra_162",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_163",
+    "input_id": "inp_imsy_fra_163",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_164",
+    "input_id": "inp_imsy_fra_164",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_165",
+    "input_id": "inp_imsy_fra_165",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_166",
+    "input_id": "inp_imsy_fra_166",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_167",
+    "input_id": "inp_imsy_fra_167",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_168",
+    "input_id": "inp_imsy_fra_168",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_169",
+    "input_id": "inp_imsy_fra_169",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_170",
+    "input_id": "inp_imsy_fra_170",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_171",
+    "input_id": "inp_imsy_fra_171",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_172",
+    "input_id": "inp_imsy_fra_172",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_173",
+    "input_id": "inp_imsy_fra_173",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_174",
+    "input_id": "inp_imsy_fra_174",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_175",
+    "input_id": "inp_imsy_fra_175",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_176",
+    "input_id": "inp_imsy_fra_176",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_177",
+    "input_id": "inp_imsy_fra_177",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_178",
+    "input_id": "inp_imsy_fra_178",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_179",
+    "input_id": "inp_imsy_fra_179",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_180",
+    "input_id": "inp_imsy_fra_180",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_181",
+    "input_id": "inp_imsy_fra_181",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_182",
+    "input_id": "inp_imsy_fra_182",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_183",
+    "input_id": "inp_imsy_fra_183",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_184",
+    "input_id": "inp_imsy_fra_184",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_185",
+    "input_id": "inp_imsy_fra_185",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_186",
+    "input_id": "inp_imsy_fra_186",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_187",
+    "input_id": "inp_imsy_fra_187",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_188",
+    "input_id": "inp_imsy_fra_188",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_189",
+    "input_id": "inp_imsy_fra_189",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_190",
+    "input_id": "inp_imsy_fra_190",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_191",
+    "input_id": "inp_imsy_fra_191",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_192",
+    "input_id": "inp_imsy_fra_192",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_193",
+    "input_id": "inp_imsy_fra_193",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_194",
+    "input_id": "inp_imsy_fra_194",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_195",
+    "input_id": "inp_imsy_fra_195",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_196",
+    "input_id": "inp_imsy_fra_196",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_197",
+    "input_id": "inp_imsy_fra_197",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_198",
+    "input_id": "inp_imsy_fra_198",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_199",
+    "input_id": "inp_imsy_fra_199",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_200",
+    "input_id": "inp_imsy_fra_200",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_201",
+    "input_id": "inp_imsy_fra_201",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_202",
+    "input_id": "inp_imsy_fra_202",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_203",
+    "input_id": "inp_imsy_fra_203",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_204",
+    "input_id": "inp_imsy_fra_204",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_205",
+    "input_id": "inp_imsy_fra_205",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_206",
+    "input_id": "inp_imsy_fra_206",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_207",
+    "input_id": "inp_imsy_fra_207",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_208",
+    "input_id": "inp_imsy_fra_208",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_209",
+    "input_id": "inp_imsy_fra_209",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_210",
+    "input_id": "inp_imsy_fra_210",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_211",
+    "input_id": "inp_imsy_fra_211",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_212",
+    "input_id": "inp_imsy_fra_212",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_213",
+    "input_id": "inp_imsy_fra_213",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_214",
+    "input_id": "inp_imsy_fra_214",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_215",
+    "input_id": "inp_imsy_fra_215",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_216",
+    "input_id": "inp_imsy_fra_216",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_217",
+    "input_id": "inp_imsy_fra_217",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_218",
+    "input_id": "inp_imsy_fra_218",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_219",
+    "input_id": "inp_imsy_fra_219",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_220",
+    "input_id": "inp_imsy_fra_220",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_221",
+    "input_id": "inp_imsy_fra_221",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_222",
+    "input_id": "inp_imsy_fra_222",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_223",
+    "input_id": "inp_imsy_fra_223",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_224",
+    "input_id": "inp_imsy_fra_224",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_225",
+    "input_id": "inp_imsy_fra_225",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_226",
+    "input_id": "inp_imsy_fra_226",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_227",
+    "input_id": "inp_imsy_fra_227",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_228",
+    "input_id": "inp_imsy_fra_228",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_229",
+    "input_id": "inp_imsy_fra_229",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_230",
+    "input_id": "inp_imsy_fra_230",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_231",
+    "input_id": "inp_imsy_fra_231",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_232",
+    "input_id": "inp_imsy_fra_232",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_233",
+    "input_id": "inp_imsy_fra_233",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_234",
+    "input_id": "inp_imsy_fra_234",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_235",
+    "input_id": "inp_imsy_fra_235",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_236",
+    "input_id": "inp_imsy_fra_236",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_237",
+    "input_id": "inp_imsy_fra_237",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_238",
+    "input_id": "inp_imsy_fra_238",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_239",
+    "input_id": "inp_imsy_fra_239",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_240",
+    "input_id": "inp_imsy_fra_240",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_241",
+    "input_id": "inp_imsy_fra_241",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_242",
+    "input_id": "inp_imsy_fra_242",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_243",
+    "input_id": "inp_imsy_fra_243",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_244",
+    "input_id": "inp_imsy_fra_244",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_245",
+    "input_id": "inp_imsy_fra_245",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_246",
+    "input_id": "inp_imsy_fra_246",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_247",
+    "input_id": "inp_imsy_fra_247",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_248",
+    "input_id": "inp_imsy_fra_248",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_249",
+    "input_id": "inp_imsy_fra_249",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_250",
+    "input_id": "inp_imsy_fra_250",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_251",
+    "input_id": "inp_imsy_fra_251",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_252",
+    "input_id": "inp_imsy_fra_252",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_253",
+    "input_id": "inp_imsy_fra_253",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_254",
+    "input_id": "inp_imsy_fra_254",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_255",
+    "input_id": "inp_imsy_fra_255",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_256",
+    "input_id": "inp_imsy_fra_256",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_257",
+    "input_id": "inp_imsy_fra_257",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_258",
+    "input_id": "inp_imsy_fra_258",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_259",
+    "input_id": "inp_imsy_fra_259",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_260",
+    "input_id": "inp_imsy_fra_260",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_261",
+    "input_id": "inp_imsy_fra_261",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_262",
+    "input_id": "inp_imsy_fra_262",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_263",
+    "input_id": "inp_imsy_fra_263",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_264",
+    "input_id": "inp_imsy_fra_264",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_265",
+    "input_id": "inp_imsy_fra_265",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_266",
+    "input_id": "inp_imsy_fra_266",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_267",
+    "input_id": "inp_imsy_fra_267",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_268",
+    "input_id": "inp_imsy_fra_268",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_269",
+    "input_id": "inp_imsy_fra_269",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_270",
+    "input_id": "inp_imsy_fra_270",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_271",
+    "input_id": "inp_imsy_fra_271",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_272",
+    "input_id": "inp_imsy_fra_272",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_273",
+    "input_id": "inp_imsy_fra_273",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_274",
+    "input_id": "inp_imsy_fra_274",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_275",
+    "input_id": "inp_imsy_fra_275",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_276",
+    "input_id": "inp_imsy_fra_276",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_277",
+    "input_id": "inp_imsy_fra_277",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_278",
+    "input_id": "inp_imsy_fra_278",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_279",
+    "input_id": "inp_imsy_fra_279",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_280",
+    "input_id": "inp_imsy_fra_280",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_281",
+    "input_id": "inp_imsy_fra_281",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_282",
+    "input_id": "inp_imsy_fra_282",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_283",
+    "input_id": "inp_imsy_fra_283",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_284",
+    "input_id": "inp_imsy_fra_284",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_285",
+    "input_id": "inp_imsy_fra_285",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_286",
+    "input_id": "inp_imsy_fra_286",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_287",
+    "input_id": "inp_imsy_fra_287",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_288",
+    "input_id": "inp_imsy_fra_288",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_289",
+    "input_id": "inp_imsy_fra_289",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_290",
+    "input_id": "inp_imsy_fra_290",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_291",
+    "input_id": "inp_imsy_fra_291",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_292",
+    "input_id": "inp_imsy_fra_292",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_293",
+    "input_id": "inp_imsy_fra_293",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_294",
+    "input_id": "inp_imsy_fra_294",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_295",
+    "input_id": "inp_imsy_fra_295",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_296",
+    "input_id": "inp_imsy_fra_296",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_297",
+    "input_id": "inp_imsy_fra_297",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_298",
+    "input_id": "inp_imsy_fra_298",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_299",
+    "input_id": "inp_imsy_fra_299",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_300",
+    "input_id": "inp_imsy_fra_300",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_301",
+    "input_id": "inp_imsy_fra_301",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_302",
+    "input_id": "inp_imsy_fra_302",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_303",
+    "input_id": "inp_imsy_fra_303",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_304",
+    "input_id": "inp_imsy_fra_304",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_305",
+    "input_id": "inp_imsy_fra_305",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_306",
+    "input_id": "inp_imsy_fra_306",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_307",
+    "input_id": "inp_imsy_fra_307",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_308",
+    "input_id": "inp_imsy_fra_308",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_309",
+    "input_id": "inp_imsy_fra_309",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_310",
+    "input_id": "inp_imsy_fra_310",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_311",
+    "input_id": "inp_imsy_fra_311",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_312",
+    "input_id": "inp_imsy_fra_312",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_313",
+    "input_id": "inp_imsy_fra_313",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_314",
+    "input_id": "inp_imsy_fra_314",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_315",
+    "input_id": "inp_imsy_fra_315",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_316",
+    "input_id": "inp_imsy_fra_316",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_317",
+    "input_id": "inp_imsy_fra_317",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_318",
+    "input_id": "inp_imsy_fra_318",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_319",
+    "input_id": "inp_imsy_fra_319",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_320",
+    "input_id": "inp_imsy_fra_320",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_321",
+    "input_id": "inp_imsy_fra_321",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_322",
+    "input_id": "inp_imsy_fra_322",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_323",
+    "input_id": "inp_imsy_fra_323",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_324",
+    "input_id": "inp_imsy_fra_324",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_325",
+    "input_id": "inp_imsy_fra_325",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_326",
+    "input_id": "inp_imsy_fra_326",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_327",
+    "input_id": "inp_imsy_fra_327",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_328",
+    "input_id": "inp_imsy_fra_328",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_329",
+    "input_id": "inp_imsy_fra_329",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_330",
+    "input_id": "inp_imsy_fra_330",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_331",
+    "input_id": "inp_imsy_fra_331",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_332",
+    "input_id": "inp_imsy_fra_332",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_333",
+    "input_id": "inp_imsy_fra_333",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_334",
+    "input_id": "inp_imsy_fra_334",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_335",
+    "input_id": "inp_imsy_fra_335",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_336",
+    "input_id": "inp_imsy_fra_336",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_337",
+    "input_id": "inp_imsy_fra_337",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_338",
+    "input_id": "inp_imsy_fra_338",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_339",
+    "input_id": "inp_imsy_fra_339",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_340",
+    "input_id": "inp_imsy_fra_340",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_341",
+    "input_id": "inp_imsy_fra_341",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_342",
+    "input_id": "inp_imsy_fra_342",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_343",
+    "input_id": "inp_imsy_fra_343",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_344",
+    "input_id": "inp_imsy_fra_344",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_345",
+    "input_id": "inp_imsy_fra_345",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_346",
+    "input_id": "inp_imsy_fra_346",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_347",
+    "input_id": "inp_imsy_fra_347",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_348",
+    "input_id": "inp_imsy_fra_348",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_349",
+    "input_id": "inp_imsy_fra_349",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_350",
+    "input_id": "inp_imsy_fra_350",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_351",
+    "input_id": "inp_imsy_fra_351",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_352",
+    "input_id": "inp_imsy_fra_352",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_353",
+    "input_id": "inp_imsy_fra_353",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_354",
+    "input_id": "inp_imsy_fra_354",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_355",
+    "input_id": "inp_imsy_fra_355",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_356",
+    "input_id": "inp_imsy_fra_356",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_357",
+    "input_id": "inp_imsy_fra_357",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_358",
+    "input_id": "inp_imsy_fra_358",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_359",
+    "input_id": "inp_imsy_fra_359",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_360",
+    "input_id": "inp_imsy_fra_360",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_361",
+    "input_id": "inp_imsy_fra_361",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_362",
+    "input_id": "inp_imsy_fra_362",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_363",
+    "input_id": "inp_imsy_fra_363",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_364",
+    "input_id": "inp_imsy_fra_364",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_365",
+    "input_id": "inp_imsy_fra_365",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_366",
+    "input_id": "inp_imsy_fra_366",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_367",
+    "input_id": "inp_imsy_fra_367",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_368",
+    "input_id": "inp_imsy_fra_368",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_369",
+    "input_id": "inp_imsy_fra_369",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_370",
+    "input_id": "inp_imsy_fra_370",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_371",
+    "input_id": "inp_imsy_fra_371",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_372",
+    "input_id": "inp_imsy_fra_372",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_373",
+    "input_id": "inp_imsy_fra_373",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_374",
+    "input_id": "inp_imsy_fra_374",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_375",
+    "input_id": "inp_imsy_fra_375",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_376",
+    "input_id": "inp_imsy_fra_376",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_377",
+    "input_id": "inp_imsy_fra_377",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_378",
+    "input_id": "inp_imsy_fra_378",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_379",
+    "input_id": "inp_imsy_fra_379",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_380",
+    "input_id": "inp_imsy_fra_380",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_381",
+    "input_id": "inp_imsy_fra_381",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_382",
+    "input_id": "inp_imsy_fra_382",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_383",
+    "input_id": "inp_imsy_fra_383",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_384",
+    "input_id": "inp_imsy_fra_384",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_385",
+    "input_id": "inp_imsy_fra_385",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_386",
+    "input_id": "inp_imsy_fra_386",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_387",
+    "input_id": "inp_imsy_fra_387",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_388",
+    "input_id": "inp_imsy_fra_388",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_389",
+    "input_id": "inp_imsy_fra_389",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_390",
+    "input_id": "inp_imsy_fra_390",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_391",
+    "input_id": "inp_imsy_fra_391",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_392",
+    "input_id": "inp_imsy_fra_392",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_393",
+    "input_id": "inp_imsy_fra_393",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_394",
+    "input_id": "inp_imsy_fra_394",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_395",
+    "input_id": "inp_imsy_fra_395",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_396",
+    "input_id": "inp_imsy_fra_396",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_397",
+    "input_id": "inp_imsy_fra_397",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_398",
+    "input_id": "inp_imsy_fra_398",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_399",
+    "input_id": "inp_imsy_fra_399",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_imsy_fra_400",
+    "input_id": "inp_imsy_fra_400",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of fraud feeling is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  }
+]

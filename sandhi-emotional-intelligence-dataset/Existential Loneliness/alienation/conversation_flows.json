@@ -1,0 +1,20 @@
+{
+  "flow_name": "Cognitive Validation to Active Coping for Existential Loneliness",
+  "stages": [
+    {
+      "stage": 1,
+      "name": "Emotional Validation",
+      "description": "Validate the patient's immediate distress regarding alienation."
+    },
+    {
+      "stage": 2,
+      "name": "Cognitive Reframing",
+      "description": "Gently challenge negative cognitive distortions surrounding alienation."
+    },
+    {
+      "stage": 3,
+      "name": "Micro-Actionable Stepping",
+      "description": "Establish a tiny, immediate, and completely achievable task to break paralysis."
+    }
+  ]
+}

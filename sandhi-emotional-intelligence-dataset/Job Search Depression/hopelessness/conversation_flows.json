@@ -1,0 +1,20 @@
+{
+  "flow_name": "Cognitive Validation to Active Coping for Job Search Depression",
+  "stages": [
+    {
+      "stage": 1,
+      "name": "Emotional Validation",
+      "description": "Validate the patient's immediate distress regarding hopelessness."
+    },
+    {
+      "stage": 2,
+      "name": "Cognitive Reframing",
+      "description": "Gently challenge negative cognitive distortions surrounding hopelessness."
+    },
+    {
+      "stage": 3,
+      "name": "Micro-Actionable Stepping",
+      "description": "Establish a tiny, immediate, and completely achievable task to break paralysis."
+    }
+  ]
+}

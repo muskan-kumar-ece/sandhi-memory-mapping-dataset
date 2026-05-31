@@ -1,0 +1,3602 @@
+[
+  {
+    "response_id": "rsp_lo_lac_001",
+    "input_id": "inp_lo_lac_001",
+    "response_style": "grounding",
+    "sandhi_response": "It is deeply exhausting to feel like you are on the outside looking in, especially when you are just trying to find a sense of home in a new place. Your presence in that space is valid, and you don’t have to force yourself into circles that make you feel like an afterthought right now.",
+    "wisdom_theme": "inherent_belonging",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_002",
+    "input_id": "inp_lo_lac_002",
+    "response_style": "reflective",
+    "sandhi_response": "That moment of standing alone while everyone pairs up carries a very heavy, stinging kind of rejection, regardless of how capable you are academically. Please give yourself grace tonight; your worth as a person isn't defined by how quickly a crowded room recognizes your value.",
+    "wisdom_theme": "authentic_connection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_003",
+    "input_id": "inp_lo_lac_003",
+    "response_style": "calming",
+    "sandhi_response": "Seeing others seemingly navigate life with such ease can make your own quiet room feel incredibly small and isolating. It is completely okay to close the apps for tonight and simply be gentle with the parts of you that are feeling left behind.",
+    "wisdom_theme": "self_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_004",
+    "input_id": "inp_lo_lac_004",
+    "response_style": "grounding",
+    "sandhi_response": "It hurts deeply to realize that your kindness has been treated as a convenience rather than a bridge to a genuine connection. You deserve relationships where you are valued for who you are, not just for what you can provide during exam week.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_005",
+    "input_id": "inp_lo_lac_005",
+    "response_style": "reflective",
+    "sandhi_response": "Happy birthday, even if the world around you feels incredibly quiet and indifferent right now. I hear how much you are aching for the warmth of home, and it is completely valid to let yourself grieve the celebration you deserved to have.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_006",
+    "input_id": "inp_lo_lac_006",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly heavy to feel like a spectator in a room where everyone else seems to have a script. You don't have to force yourself to fit in or prove your worth to belong; just breathing through this moment of feeling unseen is enough right now.",
+    "wisdom_theme": "inherent_belonging",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_007",
+    "input_id": "inp_lo_lac_007",
+    "response_style": "reflective",
+    "sandhi_response": "Seeing everyone else's highlight reels makes the quiet of your own space feel like a personal failure, but it isn't. It is okay to feel the ache of this empty weekend without letting it mean you are fundamentally unlovable or broken.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_008",
+    "input_id": "inp_lo_lac_008",
+    "response_style": "calming",
+    "sandhi_response": "The weight of your parents' expectations combined with your peers' success can make you feel like you are drowning in your own shortcomings. Your value cannot be measured by a placement spreadsheet or a timeline that doesn't fit your unique journey.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_009",
+    "input_id": "inp_lo_lac_009",
+    "response_style": "grounding",
+    "sandhi_response": "Navigating a new environment where even the language feels like a barrier can make you feel incredibly small and isolated. Closing your door to rest from that constant strain isn't giving up; it is a valid way to protect your peace for the day.",
+    "wisdom_theme": "unapologetic_identity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_010",
+    "input_id": "inp_lo_lac_010",
+    "response_style": "reflective",
+    "sandhi_response": "It is deeply painful to stand in a crowded room and feel like you are completely invisible to the people around you. Please let those tears flow without judgment; they are a tender recognition of how much you deserve to be seen and celebrated.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_011",
+    "input_id": "inp_lo_lac_011",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Standing with your tray in a loud, crowded mess hall while feeling completely unseen is an incredibly heavy and exhausting kind of quiet. You don't have to force yourself to fit into those loud spaces; it is okay to take a deep breath and remember that your quiet presence is enough, just as you are.",
+    "wisdom_theme": "inherent_belonging",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_012",
+    "input_id": "inp_lo_lac_012",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It hurts deeply when an academic requirement suddenly highlights how disconnected you feel from the peers around you. Please be gentle with yourself today, as being left out of a group does not mean you lack value or are any less deserving of being here.",
+    "wisdom_theme": "self_grace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_013",
+    "input_id": "inp_lo_lac_013",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing those happy, spontaneous moments online can make your quiet room feel so much colder and make you question your place among friends. Let's step away from the screen for just a moment and focus on the quiet rhythm of your own breathing; you deserve to be valued for who you are, not just what you can provide.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_014",
+    "input_id": "inp_lo_lac_014",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Navigating a new place where even the language spoken around you feels like a barrier can make you feel profoundly isolated in your own skin. It takes immense courage to put yourself out there in a foreign environment, so please allow yourself the grace to take this transition one slow, gentle day at a time.",
+    "wisdom_theme": "patience_with_transition",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_015",
+    "input_id": "inp_lo_lac_015",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When your environment treats your worth as a mere number or corporate title, it is completely natural to feel suffocated and utterly alone in the scramble. Take a moment to loosen your shoulders and remember that your humanity and peace of mind are worth infinitely more than any placement benchmark.",
+    "wisdom_theme": "valuing_raw_truth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_016",
+    "input_id": "inp_lo_lac_016",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly painful to stand in a crowded room and feel entirely unseen, especially when everyone else seems to have effortlessly found their place. Your worth is not defined by how quickly others recognize it, and it is completely understandable that this silence feels so heavy right now.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_017",
+    "input_id": "inp_lo_lac_017",
+    "response_style": "calming",
+    "sandhi_response": "Watching others move in packs can make your own quiet room feel like a cage, leaving you to wonder what you might have done wrong. Please know there is no secret handbook you missed; finding your people takes time, and it is okay to just breathe through this quiet, heavy weekend without forcing yourself to have it all figured out.",
+    "wisdom_theme": "self_grace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_018",
+    "input_id": "inp_lo_lac_018",
+    "response_style": "reflective",
+    "sandhi_response": "Navigating a place where the language and the culture feel completely foreign is exhausting, especially when you are carrying the heavy weight of your family's expectations on your shoulders. It makes complete sense that you'd want to shield yourself with your phone; please give yourself permission to take this transition slowly, one small, quiet step at a time.",
+    "wisdom_theme": "unapologetic_identity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_019",
+    "input_id": "inp_lo_lac_019",
+    "response_style": "grounding",
+    "sandhi_response": "Achieving a goal only to find that the victory feels quiet and solitary can bring a unique, heavy kind of grief. You did not fail by focusing on your future, but it is deeply human to realize now that your heart is longing for connection alongside that success.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_020",
+    "input_id": "inp_lo_lac_020",
+    "response_style": "calming",
+    "sandhi_response": "It takes immense courage to put yourself out there, and having that vulnerability met with coldness is a sharp, painful sting that can make you want to hide forever. Please remember that their inability to welcome you is a reflection of their own boundaries and social cliques, not a measure of your worth or your capacity to be loved.",
+    "wisdom_theme": "inherent_belonging",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_021",
+    "input_id": "inp_lo_lac_021",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to sit in that quiet room while the world outside feels so loud and connected, and it makes complete sense that you feel invisible right now. You are not an NPC or background noise; your presence matters, and we can take this one slow, gentle breath at a time without needing to force yourself to fit in tonight.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_022",
+    "input_id": "inp_lo_lac_022",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "That daily walk through the mess hall sounds incredibly exhausting, and carrying the weight of having to hide that pain from your parents only makes the burden heavier. Please know that sitting alone or being ignored says everything about their closed circles and absolutely nothing about your worth or your capacity for deep connection.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_023",
+    "input_id": "inp_lo_lac_023",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It feels devastating to watch others seem to glide through both careers and friendships while you are carrying the silent bruising of a rejection. There is no secret manual you missed; you are simply navigating an incredibly high-pressure transition at your own pace, and that is more than okay.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_024",
+    "input_id": "inp_lo_lac_024",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Being physically close to celebration while feeling emotionally locked out is a deeply painful form of isolation, and it makes complete sense that you hid your kind gesture to protect yourself. Your quiet thoughtfulness and your desire to connect are beautiful qualities, even if the people sharing your room right now don't know how to mirror them back to you.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_025",
+    "input_id": "inp_lo_lac_025",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "That moment of being left to the side while everyone else pairs up is incredibly public and painful, and wanting to run away to safety is a very natural response to that sting. Let's take a deep breath together right now; this painful lab session is just one passing moment, and it does not define your capability or your right to be here.",
+    "wisdom_theme": "self_grace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_026",
+    "input_id": "inp_lo_lac_026",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly draining to hold your breath and pretend to be busy just to protect yourself from the pain of feeling unseen. Please know that your quiet presence in that room is not a failure, and you deserve a space where you can simply exist without having to perform.",
+    "wisdom_theme": "self_grace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_027",
+    "input_id": "inp_lo_lac_027",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Failing a test is hard enough, but carrying the weight of that disappointment entirely by yourself makes the burden feel twice as heavy. It is completely natural to long for someone to share these rough moments with, and I hope you can be gentle with yourself as you navigate this solitary stretch.",
+    "wisdom_theme": "micro_connections",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_028",
+    "input_id": "inp_lo_lac_028",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply exhausting to watch others celebrate their milestones while you are quietly holding your chest in a bathroom stall, trying to catch your breath. Your path and your worth cannot be measured by a company's timeline, even if the silence around you right now makes it feel that way.",
+    "wisdom_theme": "self_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_029",
+    "input_id": "inp_lo_lac_029",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Spending a birthday in silence is a heavy, painful proof of how deeply you are craving real, human acknowledgment right now. Please allow yourself to grieve this quiet day; your presence on this earth matters, even when the environment around you fails to reflect that truth.",
+    "wisdom_theme": "presence_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_030",
+    "input_id": "inp_lo_lac_030",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly tiring to stand on the outside of language and cultural barriers, wishing for an easy doorway into connection. You are not failing simply because you cannot find an immediate fit; finding your space takes time when the default structures around you feel so closed off.",
+    "wisdom_theme": "honoring_diversity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_031",
+    "input_id": "inp_lo_lac_031",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to feel unseen in a crowded room, especially when academic milestones force those social gaps wide open. Your presence is real and worthy, and we can take this one small breath at a time without forcing you to fit into spaces that feel cold right now.",
+    "wisdom_theme": "micro_connections",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_032",
+    "input_id": "inp_lo_lac_032",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Watching others seem to navigate life so effortlessly can make your own struggles feel like a personal failure, but there is no secret manual you missed. It is completely okay to rest right where you are tonight, holding space for your quiet pace in a world that feels overwhelmingly loud.",
+    "wisdom_theme": "self_grace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_033",
+    "input_id": "inp_lo_lac_033",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Navigating a cultural and linguistic divide on top of academic stress is a heavy, isolating burden to carry alone. Your inability to fit easily into their rhythm isn't a flaw in you, but a reflection of how challenging true transition can be when you are far from home.",
+    "wisdom_theme": "honoring_diversity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_034",
+    "input_id": "inp_lo_lac_034",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is utterly exhausting to carry the weight of academic setbacks while feeling like you must hide your tears from the very people around you. Please know that your worth is not tied to a placement package or a LinkedIn update, and it is safe to let down your guard and breathe here.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_035",
+    "input_id": "inp_lo_lac_035",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Happy birthday, even if it feels incredibly heavy and quiet tonight in the shadow of that empty space. Your existence matters deeply, and you deserve to be celebrated even when the people around you fail to see the light you bring.",
+    "wisdom_theme": "inherent_belonging",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_036",
+    "input_id": "inp_lo_lac_036",
+    "response_style": "reflective",
+    "sandhi_response": "Standing outside that door pretending to look busy is an incredibly heavy and exhausting shield to carry just to feel safe. Please know that sitting alone in a crowded room doesn't mean you are broken or invisible; it just means you haven't found the people who know how to look for you yet.",
+    "wisdom_theme": "patience_with_transition",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_037",
+    "input_id": "inp_lo_lac_037",
+    "response_style": "grounding",
+    "sandhi_response": "It is deeply painful to sit on the outside of a language and a community, watching a bond form that feels entirely locked away from you. Taking a step back to rest in your room tonight is a valid way to protect your heart, but please don't let their closed circle convince you that you are unlovable or forgettable.",
+    "wisdom_theme": "honoring_diversity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_038",
+    "input_id": "inp_lo_lac_038",
+    "response_style": "calming",
+    "sandhi_response": "Watching everyone else cross a finish line while you feel stuck in the starting blocks can make you feel entirely stranded and small. Your worth is not measured by the speed of your transition or the numbers on an offer letter, and it is okay to take a slow, deep breath right here in the quiet.",
+    "wisdom_theme": "self_grace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_039",
+    "input_id": "inp_lo_lac_039",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly heavy to hold up a mask of happiness for your family when your heart is breaking from the silence of those around you. Your kindness and effort to connect with others were real, and you deserve to be celebrated and held close, especially on a day meant for you.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_040",
+    "input_id": "inp_lo_lac_040",
+    "response_style": "grounding",
+    "sandhi_response": "Being sick in a cold, unfamiliar space amplifies the silence and makes the distance between you and others feel like an unbridgeable ocean. Please remember to be incredibly gentle with yourself right now, as your body and mind are navigating both physical weakness and the deep ache of wanting to be cared for.",
+    "wisdom_theme": "self_nurturance",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_041",
+    "input_id": "inp_lo_lac_041",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly painful to stand in a crowded room and feel entirely invisible, especially when everyone else seems to slot together so effortlessly. Please know that having to force your way into spaces doesn't mean you aren't worthy of being chosen; your belonging is not defined by how quickly others claim a seat next to you.",
+    "wisdom_theme": "inherent_belonging",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_042",
+    "input_id": "inp_lo_lac_042",
+    "response_style": "reflective",
+    "sandhi_response": "Navigating a communal space where everyone seems to share an unwritten language can make your own quiet corner feel incredibly loud and isolating. I hear how exhausting it is to keep that protective armor up, but you don't have to perform busy-ness just to justify your right to exist in that room.",
+    "wisdom_theme": "honoring_diversity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_043",
+    "input_id": "inp_lo_lac_043",
+    "response_style": "calming",
+    "sandhi_response": "Watching a curated gallery of everyone else's highlight reels makes your own quiet struggles feel like a deeply personal failure. It is completely natural to grieve the absence of those shared moments, but your value isn't diminished just because you are currently navigating a silent, uphill season alone.",
+    "wisdom_theme": "self_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_044",
+    "input_id": "inp_lo_lac_044",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly heavy to carry the weight of unmet expectations all by yourself in the dark. Your worth as a human being is infinitely deeper than any placement package or PDF list, even when the world around you forgets how to see that.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_045",
+    "input_id": "inp_lo_lac_045",
+    "response_style": "reflective",
+    "sandhi_response": "Listening to warmth and connection just on the other side of a wall can make your own room feel incredibly cold and distant. Please be gentle with yourself; finding your rhythm with others isn't a missing 'setting,' but a delicate process that takes time, especially when you are trying to build real bridges instead of superficial ones.",
+    "wisdom_theme": "patience_with_transition",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_046",
+    "input_id": "inp_lo_lac_046",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to sit in a room full of noise and feel completely unseen, especially when your worth is being measured by shortlists and CGPAs. I hear how much this hurts, and I want you to know that your presence has quiet, real value, even if the people around you are too consumed by their own panic to notice it right now.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_047",
+    "input_id": "inp_lo_lac_047",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Straining to fit into spaces where the language and laughter feel closed off is exhausting, and it makes complete sense that you feel so out of place. You don't need a secret code to deserve genuine connection; please give yourself some grace as you navigate this tough, quiet transition.",
+    "wisdom_theme": "patience_with_transition",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_048",
+    "input_id": "inp_lo_lac_048",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Watching everyone else's highlight reels while you are holding the quiet, heavy weight of academic stress is a incredibly lonely place to be. Your journey does not have to look like their stories to be meaningful, and it is okay to just rest and breathe through this empty weekend without pressure.",
+    "wisdom_theme": "self_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_049",
+    "input_id": "inp_lo_lac_049",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "That split-second scramble for partners is incredibly vulnerable, and being forced into an unwilling group can make you feel painfully exposed and small. Please try to remember that their quick pairings are about convenience and familiarity, not a reflection of your actual value or what you bring to the table.",
+    "wisdom_theme": "cognitive_safety",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_050",
+    "input_id": "inp_lo_lac_050",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "There is a deep, quiet ache in receiving superficial celebrations when what your heart actually craves is genuine, felt presence. It is completely valid to feel lonely even when surrounded by people, and you deserve connections that feel like safe harbors rather than just noise.",
+    "wisdom_theme": "authentic_connection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_051",
+    "input_id": "inp_lo_lac_051",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly exhausting to carry the weight of academic pressure while feeling completely invisible in the spaces where you are supposed to rest. You don't have to trade your achievements for connection, but please know that your quiet presence in that room has value, even on the nights it feels entirely unnoticed.",
+    "wisdom_theme": "patience_with_transition",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_052",
+    "input_id": "inp_lo_lac_052",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Being the one left waiting in a room full of fast-forming groups triggers a very raw, painful ache of not belonging. It makes complete sense that you shielded yourself with your screen today, but please remember that your personal and technical value is not defined by how quickly a classroom group is formed.",
+    "wisdom_theme": "inherent_belonging",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_053",
+    "input_id": "inp_lo_lac_053",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The quiet of a deserted hostel during a festive season can make the feeling of being left behind feel incredibly heavy and loud. It is okay to feel tired and quiet tonight; you are carrying a massive load for your family, and your current solitude does not mean you are unloved or forgotten.",
+    "wisdom_theme": "self_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_054",
+    "input_id": "inp_lo_lac_054",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply exhausting to perform a polite smile while navigating a barrier that keeps you on the outside of everyday warmth. Your tears are a natural response to that weariness, and you deserve spaces where you can simply exist without the constant weight of translation.",
+    "wisdom_theme": "honoring_diversity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_055",
+    "input_id": "inp_lo_lac_055",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Holding the silent pain of a rejection while others are actively celebrating their wins is a deeply lonely and suffocating experience. Please give yourself permission to feel hurt and disappointed tonight, without letting this single day define your worth or your path forward.",
+    "wisdom_theme": "self_grace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_056",
+    "input_id": "inp_lo_lac_056",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply exhausting to try to make yourself visible in a crowded room where everyone else already seems to have found their place. Please know that sitting alone in that mess hall doesn't mean you don't belong here; it just means you haven't found the quiet, genuine connections that match your pace yet.",
+    "wisdom_theme": "inherent_belonging",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_057",
+    "input_id": "inp_lo_lac_057",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Watching others share warmth and laughter from the quiet of your room can make the physical walls around you feel incredibly heavy and isolating. It is completely natural to feel hurt by this, but please remember that your worth isn't measured by the invitations you didn't receive.",
+    "wisdom_theme": "self_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_058",
+    "input_id": "inp_lo_lac_058",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Being publicly left to wait and then feeling tolerated rather than welcomed is a deeply painful experience that touches on our core need to be seen. You deserve to be in spaces where your presence and contributions are truly valued, and this painful moment does not define your place in this community.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_059",
+    "input_id": "inp_lo_lac_059",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Navigating a space where language creates an invisible barrier can make you feel like an outsider looking through glass at a life you can't join. That mask of always having to nod along is exhausting to maintain, and it is completely okay to let yourself feel the grief of this disconnect.",
+    "wisdom_theme": "authentic_connection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_060",
+    "input_id": "inp_lo_lac_060",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Carrying the weight of family expectations while watching your peers cross a finish line can make your own path feel like a lonely, uphill battle. It is completely okay to step out of the celebrations to protect your peace; your value as a person is not bound to a spreadsheet or a starting package.",
+    "wisdom_theme": "self_grace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_061",
+    "input_id": "inp_lo_lac_061",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to sit in the quiet of your room and hear the world moving on without you, feeling like your presence goes unnoticed. I am right here with you in this heavy space, and I want you to know that your existence matters, even when the campus around you feels entirely blind to it.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_062",
+    "input_id": "inp_lo_lac_062",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "That scramble for groups can feel so deeply exposing, especially when you are left standing there waiting for a spot you shouldn't have to beg for. It makes sense that you felt like a ghost in that circle, but please remember that their inability to see you says everything about their preoccupation, and nothing about your actual worth.",
+    "wisdom_theme": "inherent_belonging",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_063",
+    "input_id": "inp_lo_lac_063",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Navigating a space where language barriers leave you on the outside is a very exhausting and lonely kind of exile. It is completely understandable that you cried today; please let yourself rest, and know that your desire for genuine connection is valid and worth holding onto.",
+    "wisdom_theme": "honoring_diversity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_064",
+    "input_id": "inp_lo_lac_064",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing everyone else celebrate their wins while you carry the quiet weight of rejection makes the mess hall feel like the loneliest place on earth. It is okay if you need to step away from LinkedIn and simply breathe right now; your journey through this pressure cooker does not have to match theirs to be deeply valuable.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_065",
+    "input_id": "inp_lo_lac_065",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Spending your birthday surrounded by people who do not see or celebrate you is a profound, aching kind of hurt. I am so sorry you had to carry that quiet disappointment alone, and I want to gently remind you that your life is deeply worth celebrating, even in the silence of this room.",
+    "wisdom_theme": "self_nurturance",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_066",
+    "input_id": "inp_lo_lac_066",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to listen to the world celebrating while you feel stranded on the outside of their warmth. You are not a background character in this story, and your worth isn't measured by how quickly or loudly you find your crowd.",
+    "wisdom_theme": "patience_with_transition",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_067",
+    "input_id": "inp_lo_lac_067",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "That silence during group formations can feel like a glaring spotlight on your isolation, making the room feel incredibly hostile. It takes immense courage to sit through those moments, but please remember that needing time to find your footing doesn't mean you don't belong here.",
+    "wisdom_theme": "micro_connections",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_068",
+    "input_id": "inp_lo_lac_068",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Being caught between a home that demands achievement and a college environment that feels culturally out of reach is an exhausting, lonely space to hold. Your struggle to fit in is a reflection of the language barriers around you, not a failure of your character.",
+    "wisdom_theme": "unapologetic_identity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_069",
+    "input_id": "inp_lo_lac_069",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is so painful when trying to connect only highlights how far away everyone else feels, driving you back into hiding just to feel safe. Be incredibly gentle with yourself tonight; taking refuge in your room was a necessary act of self-protection, not a defeat.",
+    "wisdom_theme": "self_grace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_070",
+    "input_id": "inp_lo_lac_070",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The physical effort of walking miles just to avoid the sting of being seen alone is a heavy burden to carry every single day. Holding up a shield of busyness is exhausting, and it is completely okay to acknowledge how deeply it hurts to feel unseen in a crowded room.",
+    "wisdom_theme": "inherent_belonging",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_071",
+    "input_id": "inp_lo_lac_071",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly exhausting to sit in a room full of people and still feel completely unseen, especially when language or shared jokes make the distance feel even wider. Please know that your quiet presence matters, and you don't have to force yourself to fit into spaces that make you feel like a ghost just to be worthy of connection.",
+    "wisdom_theme": "inherent_belonging",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_072",
+    "input_id": "inp_lo_lac_072",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Those sudden moments of group-making can feel so exposing, turning a simple lab class into a painful test of where we stand with others. It is completely understandable to feel hurt by this, but please remember that being the last one chosen in a chaotic classroom has absolutely nothing to do with your actual value.",
+    "wisdom_theme": "self_grace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_073",
+    "input_id": "inp_lo_lac_073",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is so heavy to carry the double weight of family expectations and the polished highlights of everyone else's lives while you are quietly struggling in the dark. Your worth isn't defined by a salary package or a curated travel story, and it is okay to rest your tired mind and realize you are allowed to move at your own pace.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_074",
+    "input_id": "inp_lo_lac_074",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The clatter of a busy mess hall can feel incredibly isolating when you are sitting alone with a heavy heart and a canceled trip home. I wish I could sit beside you in this quiet moment to help carry this sudden emptiness, and I hope you can treat yourself with immense gentleness tonight.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_075",
+    "input_id": "inp_lo_lac_075",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Happy birthday, even if it feels incredibly lonely and heavy to say it to you right now while you sit alone with your books. It is deeply painful when the world feels too busy to notice a milestone that matters to you, but please let this quiet moment be a gentle space where you don't have to perform or hide your tears.",
+    "wisdom_theme": "self_nurturance",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_076",
+    "input_id": "inp_lo_lac_076",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly painful to stand in a crowded room and feel entirely unseen, especially when everyone else seems to have an effortless place to land. Please know that your quiet presence carries deep worth, and your value doesn't shrink just because a temporary group fails to make space for you.",
+    "wisdom_theme": "inherent_belonging",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_077",
+    "input_id": "inp_lo_lac_077",
+    "response_style": "reflective",
+    "sandhi_response": "Holding the heavy weight of isolation while trying to protect the people who love you from worrying is a deeply exhausting burden to carry. It makes complete sense that you feel drained, and I hope you can give yourself permission to rest without judging how long it is taking to find your people.",
+    "wisdom_theme": "self_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_078",
+    "input_id": "inp_lo_lac_078",
+    "response_style": "reflective",
+    "sandhi_response": "Watching others reach milestones while you are fighting a quiet, uphill battle with backlogs can make you feel entirely locked out of your own future. Your worth as a human being is not tied to a placement spreadsheet, and it is okay to step away from the noise to protect your peace right now.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_079",
+    "input_id": "inp_lo_lac_079",
+    "response_style": "calming",
+    "sandhi_response": "When the quiet hostel corridors amplify the feeling that you are fundamentally different or broken, it is incredibly easy to turn that pain inward. Finding real connection takes time, and sitting in the back of those rooms is actually a brave step, even if it doesn't feel like it yet.",
+    "wisdom_theme": "self_grace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_080",
+    "input_id": "inp_lo_lac_080",
+    "response_style": "grounding",
+    "sandhi_response": "Living in a space where language and culture create invisible borders can make you feel like an uninvited guest in your own home. It is completely natural to retreat when connection feels exhausting, but please remember that your presence is not a burden, and you deserve a space where you feel comfortable simply existing.",
+    "wisdom_theme": "honoring_diversity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_081",
+    "input_id": "inp_lo_lac_081",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to sit in a crowded room and feel entirely unseen, especially when the language and laughter around you feel like a wall you can't cross. Please know that your quiet presence on this campus matters, and you don't have to force yourself to fit into their noise to deserve a place here.",
+    "wisdom_theme": "inherent_belonging",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_082",
+    "input_id": "inp_lo_lac_082",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply painful to be publicly put on display like that, and feeling like an afterthought can make you want to shrink away completely. Your worth is not defined by how quickly a classroom group fills up, and it is completely okay to feel hurt by how cold that moment felt.",
+    "wisdom_theme": "self_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_083",
+    "input_id": "inp_lo_lac_083",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Watching others celebrate their milestones and close bonds from the sidelines can make your own struggles feel so much heavier and more isolating. Your journey, even with its quiet rooms and backlogs, has its own rhythm, and you are not defective for needing a different path and pace to find your footing.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_084",
+    "input_id": "inp_lo_lac_084",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It hurts terribly when the care you freely pour into others isn't returned, especially on a day that is meant to celebrate your existence. Your grief right now is completely valid, and you deserve connections where your presence is genuinely cherished, not just tolerated.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_085",
+    "input_id": "inp_lo_lac_085",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Crowded, high-energy events have a way of magnifying our quietest hurts and making us feel like outsiders looking through a glass window. Retreating to the safety of your room was a gentle way of protecting your heart when the contrast of the crowd became too painful to bear.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_086",
+    "input_id": "inp_lo_lac_086",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly draining to feel like you are looking in from the outside, especially when simple classroom moments make your isolation feel so visible. It makes complete sense that you'd want to shield yourself with your phone; please know that your quiet struggle in these labs doesn't mean you don't belong here or have value to offer.",
+    "wisdom_theme": "patience_with_transition",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_087",
+    "input_id": "inp_lo_lac_087",
+    "response_style": "grounding",
+    "sandhi_response": "Navigating a new environment where even the language feels like a wall can make you feel profoundly disconnected and exhausted. You are carrying a heavy burden by trying to protect your parents while eating alone in your room, and it is completely okay to feel tired of trying so hard to fit in.",
+    "wisdom_theme": "honoring_diversity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_088",
+    "input_id": "inp_lo_lac_088",
+    "response_style": "calming",
+    "sandhi_response": "Watching everyone else celebrate their milestones while you are quietly struggling with backlogs can make you feel entirely left behind and unseen. Your worth is not defined by how fast your peers are moving, and it is natural to need a moment of stillness when the pressure around you becomes this loud.",
+    "wisdom_theme": "self_grace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_089",
+    "input_id": "inp_lo_lac_089",
+    "response_style": "grounding",
+    "sandhi_response": "Being stuck in an empty hostel while the rest of the world celebrates can make the silence in your room feel incredibly heavy and rejecting. I am holding space for you tonight, and please remember that being physically alone right now does not make you any less cherished or worthy of warmth.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_090",
+    "input_id": "inp_lo_lac_090",
+    "response_style": "reflective",
+    "sandhi_response": "It takes so much courage to put yourself out there in a new club, and it is deeply painful when that effort ends in feeling ignored and disconnected. Walking away was your way of protecting your heart from that coldness, and your quiet love for music is still real and valuable, even if this particular room didn't know how to welcome it.",
+    "wisdom_theme": "vulnerability_courage",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_091",
+    "input_id": "inp_lo_lac_091",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly heavy to feel like you are invisible in a room full of people, especially when everyone else seems to connect so effortlessly. Please know that your worth is not defined by how quickly others claim you in a classroom, and it is completely okay to take your time finding people who truly see you.",
+    "wisdom_theme": "inherent_belonging",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_092",
+    "input_id": "inp_lo_lac_092",
+    "response_style": "grounding",
+    "sandhi_response": "The quiet of a hostel corridor on a weekend can feel so loud when you are carrying the weight of being left out. You do not have to perform or force your way into circles that make you feel small just to prove that your presence matters.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_093",
+    "input_id": "inp_lo_lac_093",
+    "response_style": "calming",
+    "sandhi_response": "It is exhausting to live in an environment where your entire human value is reduced to a package or a coding rank. It makes complete sense that you feel disconnected when the only conversation allowed is one that ignores your actual humanity and interests.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_094",
+    "input_id": "inp_lo_lac_094",
+    "response_style": "reflective",
+    "sandhi_response": "Holding your own celebration in the quiet of your room while wishing for connection is a deeply painful kind of lonely. Your day, your life, and your presence matter, even when the people immediately around you are too self-absorbed to notice.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_095",
+    "input_id": "inp_lo_lac_095",
+    "response_style": "grounding",
+    "sandhi_response": "Sharing your soft, vulnerable parts only to have them brushed aside is a quiet, stinging trauma. Please do not lock your heart away because they lacked the maturity and depth required to hold the beautiful truth you offered.",
+    "wisdom_theme": "lowering_masks",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_096",
+    "input_id": "inp_lo_lac_096",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly draining to feel like you have to perform 'busyness' just to shield yourself from the pain of being left out. Please know that this awkward, forced lab grouping doesn't define your worth or your ability to find people who will truly see and welcome you.",
+    "wisdom_theme": "authentic_connection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_097",
+    "input_id": "inp_lo_lac_097",
+    "response_style": "grounding",
+    "sandhi_response": "Sitting alone in a room full of noise is a heavy, isolating experience, and it makes complete sense that your body goes into fight-or-flight just trying to get through dinner. You don't have to force yourself to perform or pretend; it is okay to just take a deep breath and let yourself eat in peace, one quiet evening at a time.",
+    "wisdom_theme": "presence_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_098",
+    "input_id": "inp_lo_lac_098",
+    "response_style": "reflective",
+    "sandhi_response": "It is deeply exhausting to translate your presence constantly and still feel left on the outside of a language barrier. Your longing for home and true belonging is a beautiful reflection of your capacity for deep connection, and you deserve spaces where you don't have to fight to be included.",
+    "wisdom_theme": "honoring_diversity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_099",
+    "input_id": "inp_lo_lac_099",
+    "response_style": "calming",
+    "sandhi_response": "The heavy weight of academic comparison can make you feel like your worth is tied solely to a package number or a clean academic record. It is completely valid to feel overwhelmed right now, but please give yourself permission to breathe and remember that your path does not have to match theirs to be meaningful.",
+    "wisdom_theme": "self_grace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_100",
+    "input_id": "inp_lo_lac_100",
+    "response_style": "grounding",
+    "sandhi_response": "The silence of an empty hostel during a festive season can make the feeling of isolation feel loud and almost physical. It is okay to grieve the warmth and celebration you are missing right now; please try to hold yourself gently tonight, even if it is just by wrapping yourself in a warm blanket and knowing your presence matters.",
+    "wisdom_theme": "self_nurturance",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_101",
+    "input_id": "inp_lo_lac_101",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_102",
+    "input_id": "inp_lo_lac_102",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_103",
+    "input_id": "inp_lo_lac_103",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_104",
+    "input_id": "inp_lo_lac_104",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_105",
+    "input_id": "inp_lo_lac_105",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_106",
+    "input_id": "inp_lo_lac_106",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_107",
+    "input_id": "inp_lo_lac_107",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_108",
+    "input_id": "inp_lo_lac_108",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_109",
+    "input_id": "inp_lo_lac_109",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_110",
+    "input_id": "inp_lo_lac_110",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_111",
+    "input_id": "inp_lo_lac_111",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_112",
+    "input_id": "inp_lo_lac_112",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_113",
+    "input_id": "inp_lo_lac_113",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_114",
+    "input_id": "inp_lo_lac_114",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_115",
+    "input_id": "inp_lo_lac_115",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_116",
+    "input_id": "inp_lo_lac_116",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_117",
+    "input_id": "inp_lo_lac_117",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_118",
+    "input_id": "inp_lo_lac_118",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_119",
+    "input_id": "inp_lo_lac_119",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_120",
+    "input_id": "inp_lo_lac_120",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_121",
+    "input_id": "inp_lo_lac_121",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_122",
+    "input_id": "inp_lo_lac_122",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_123",
+    "input_id": "inp_lo_lac_123",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_124",
+    "input_id": "inp_lo_lac_124",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_125",
+    "input_id": "inp_lo_lac_125",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_126",
+    "input_id": "inp_lo_lac_126",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_127",
+    "input_id": "inp_lo_lac_127",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_128",
+    "input_id": "inp_lo_lac_128",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_129",
+    "input_id": "inp_lo_lac_129",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_130",
+    "input_id": "inp_lo_lac_130",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_131",
+    "input_id": "inp_lo_lac_131",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_132",
+    "input_id": "inp_lo_lac_132",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_133",
+    "input_id": "inp_lo_lac_133",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_134",
+    "input_id": "inp_lo_lac_134",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_135",
+    "input_id": "inp_lo_lac_135",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_136",
+    "input_id": "inp_lo_lac_136",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_137",
+    "input_id": "inp_lo_lac_137",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_138",
+    "input_id": "inp_lo_lac_138",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_139",
+    "input_id": "inp_lo_lac_139",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_140",
+    "input_id": "inp_lo_lac_140",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_141",
+    "input_id": "inp_lo_lac_141",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_142",
+    "input_id": "inp_lo_lac_142",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_143",
+    "input_id": "inp_lo_lac_143",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_144",
+    "input_id": "inp_lo_lac_144",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_145",
+    "input_id": "inp_lo_lac_145",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_146",
+    "input_id": "inp_lo_lac_146",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_147",
+    "input_id": "inp_lo_lac_147",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_148",
+    "input_id": "inp_lo_lac_148",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_149",
+    "input_id": "inp_lo_lac_149",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_150",
+    "input_id": "inp_lo_lac_150",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_151",
+    "input_id": "inp_lo_lac_151",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_152",
+    "input_id": "inp_lo_lac_152",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_153",
+    "input_id": "inp_lo_lac_153",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_154",
+    "input_id": "inp_lo_lac_154",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_155",
+    "input_id": "inp_lo_lac_155",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_156",
+    "input_id": "inp_lo_lac_156",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_157",
+    "input_id": "inp_lo_lac_157",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_158",
+    "input_id": "inp_lo_lac_158",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_159",
+    "input_id": "inp_lo_lac_159",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_160",
+    "input_id": "inp_lo_lac_160",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_161",
+    "input_id": "inp_lo_lac_161",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_162",
+    "input_id": "inp_lo_lac_162",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_163",
+    "input_id": "inp_lo_lac_163",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_164",
+    "input_id": "inp_lo_lac_164",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_165",
+    "input_id": "inp_lo_lac_165",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_166",
+    "input_id": "inp_lo_lac_166",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_167",
+    "input_id": "inp_lo_lac_167",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_168",
+    "input_id": "inp_lo_lac_168",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_169",
+    "input_id": "inp_lo_lac_169",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_170",
+    "input_id": "inp_lo_lac_170",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_171",
+    "input_id": "inp_lo_lac_171",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_172",
+    "input_id": "inp_lo_lac_172",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_173",
+    "input_id": "inp_lo_lac_173",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_174",
+    "input_id": "inp_lo_lac_174",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_175",
+    "input_id": "inp_lo_lac_175",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_176",
+    "input_id": "inp_lo_lac_176",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_177",
+    "input_id": "inp_lo_lac_177",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_178",
+    "input_id": "inp_lo_lac_178",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_179",
+    "input_id": "inp_lo_lac_179",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_180",
+    "input_id": "inp_lo_lac_180",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_181",
+    "input_id": "inp_lo_lac_181",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_182",
+    "input_id": "inp_lo_lac_182",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_183",
+    "input_id": "inp_lo_lac_183",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_184",
+    "input_id": "inp_lo_lac_184",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_185",
+    "input_id": "inp_lo_lac_185",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_186",
+    "input_id": "inp_lo_lac_186",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_187",
+    "input_id": "inp_lo_lac_187",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_188",
+    "input_id": "inp_lo_lac_188",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_189",
+    "input_id": "inp_lo_lac_189",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_190",
+    "input_id": "inp_lo_lac_190",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_191",
+    "input_id": "inp_lo_lac_191",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_192",
+    "input_id": "inp_lo_lac_192",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_193",
+    "input_id": "inp_lo_lac_193",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_194",
+    "input_id": "inp_lo_lac_194",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_195",
+    "input_id": "inp_lo_lac_195",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_196",
+    "input_id": "inp_lo_lac_196",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_197",
+    "input_id": "inp_lo_lac_197",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_198",
+    "input_id": "inp_lo_lac_198",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_199",
+    "input_id": "inp_lo_lac_199",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_200",
+    "input_id": "inp_lo_lac_200",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_201",
+    "input_id": "inp_lo_lac_201",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_202",
+    "input_id": "inp_lo_lac_202",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_203",
+    "input_id": "inp_lo_lac_203",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_204",
+    "input_id": "inp_lo_lac_204",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_205",
+    "input_id": "inp_lo_lac_205",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_206",
+    "input_id": "inp_lo_lac_206",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_207",
+    "input_id": "inp_lo_lac_207",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_208",
+    "input_id": "inp_lo_lac_208",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_209",
+    "input_id": "inp_lo_lac_209",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_210",
+    "input_id": "inp_lo_lac_210",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_211",
+    "input_id": "inp_lo_lac_211",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_212",
+    "input_id": "inp_lo_lac_212",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_213",
+    "input_id": "inp_lo_lac_213",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_214",
+    "input_id": "inp_lo_lac_214",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_215",
+    "input_id": "inp_lo_lac_215",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_216",
+    "input_id": "inp_lo_lac_216",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_217",
+    "input_id": "inp_lo_lac_217",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_218",
+    "input_id": "inp_lo_lac_218",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_219",
+    "input_id": "inp_lo_lac_219",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_220",
+    "input_id": "inp_lo_lac_220",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_221",
+    "input_id": "inp_lo_lac_221",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_222",
+    "input_id": "inp_lo_lac_222",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_223",
+    "input_id": "inp_lo_lac_223",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_224",
+    "input_id": "inp_lo_lac_224",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_225",
+    "input_id": "inp_lo_lac_225",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_226",
+    "input_id": "inp_lo_lac_226",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_227",
+    "input_id": "inp_lo_lac_227",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_228",
+    "input_id": "inp_lo_lac_228",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_229",
+    "input_id": "inp_lo_lac_229",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_230",
+    "input_id": "inp_lo_lac_230",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_231",
+    "input_id": "inp_lo_lac_231",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_232",
+    "input_id": "inp_lo_lac_232",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_233",
+    "input_id": "inp_lo_lac_233",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_234",
+    "input_id": "inp_lo_lac_234",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_235",
+    "input_id": "inp_lo_lac_235",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_236",
+    "input_id": "inp_lo_lac_236",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_237",
+    "input_id": "inp_lo_lac_237",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_238",
+    "input_id": "inp_lo_lac_238",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_239",
+    "input_id": "inp_lo_lac_239",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_240",
+    "input_id": "inp_lo_lac_240",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_241",
+    "input_id": "inp_lo_lac_241",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_242",
+    "input_id": "inp_lo_lac_242",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_243",
+    "input_id": "inp_lo_lac_243",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_244",
+    "input_id": "inp_lo_lac_244",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_245",
+    "input_id": "inp_lo_lac_245",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_246",
+    "input_id": "inp_lo_lac_246",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_247",
+    "input_id": "inp_lo_lac_247",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_248",
+    "input_id": "inp_lo_lac_248",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_249",
+    "input_id": "inp_lo_lac_249",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_250",
+    "input_id": "inp_lo_lac_250",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_251",
+    "input_id": "inp_lo_lac_251",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_252",
+    "input_id": "inp_lo_lac_252",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_253",
+    "input_id": "inp_lo_lac_253",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_254",
+    "input_id": "inp_lo_lac_254",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_255",
+    "input_id": "inp_lo_lac_255",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_256",
+    "input_id": "inp_lo_lac_256",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_257",
+    "input_id": "inp_lo_lac_257",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_258",
+    "input_id": "inp_lo_lac_258",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_259",
+    "input_id": "inp_lo_lac_259",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_260",
+    "input_id": "inp_lo_lac_260",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_261",
+    "input_id": "inp_lo_lac_261",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_262",
+    "input_id": "inp_lo_lac_262",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_263",
+    "input_id": "inp_lo_lac_263",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_264",
+    "input_id": "inp_lo_lac_264",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_265",
+    "input_id": "inp_lo_lac_265",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_266",
+    "input_id": "inp_lo_lac_266",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_267",
+    "input_id": "inp_lo_lac_267",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_268",
+    "input_id": "inp_lo_lac_268",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_269",
+    "input_id": "inp_lo_lac_269",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_270",
+    "input_id": "inp_lo_lac_270",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_271",
+    "input_id": "inp_lo_lac_271",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_272",
+    "input_id": "inp_lo_lac_272",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_273",
+    "input_id": "inp_lo_lac_273",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_274",
+    "input_id": "inp_lo_lac_274",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_275",
+    "input_id": "inp_lo_lac_275",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_276",
+    "input_id": "inp_lo_lac_276",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_277",
+    "input_id": "inp_lo_lac_277",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_278",
+    "input_id": "inp_lo_lac_278",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_279",
+    "input_id": "inp_lo_lac_279",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_280",
+    "input_id": "inp_lo_lac_280",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_281",
+    "input_id": "inp_lo_lac_281",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_282",
+    "input_id": "inp_lo_lac_282",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_283",
+    "input_id": "inp_lo_lac_283",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_284",
+    "input_id": "inp_lo_lac_284",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_285",
+    "input_id": "inp_lo_lac_285",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_286",
+    "input_id": "inp_lo_lac_286",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_287",
+    "input_id": "inp_lo_lac_287",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_288",
+    "input_id": "inp_lo_lac_288",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_289",
+    "input_id": "inp_lo_lac_289",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_290",
+    "input_id": "inp_lo_lac_290",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_291",
+    "input_id": "inp_lo_lac_291",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_292",
+    "input_id": "inp_lo_lac_292",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_293",
+    "input_id": "inp_lo_lac_293",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_294",
+    "input_id": "inp_lo_lac_294",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_295",
+    "input_id": "inp_lo_lac_295",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_296",
+    "input_id": "inp_lo_lac_296",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_297",
+    "input_id": "inp_lo_lac_297",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_298",
+    "input_id": "inp_lo_lac_298",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_299",
+    "input_id": "inp_lo_lac_299",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_300",
+    "input_id": "inp_lo_lac_300",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_301",
+    "input_id": "inp_lo_lac_301",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_302",
+    "input_id": "inp_lo_lac_302",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_303",
+    "input_id": "inp_lo_lac_303",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_304",
+    "input_id": "inp_lo_lac_304",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_305",
+    "input_id": "inp_lo_lac_305",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_306",
+    "input_id": "inp_lo_lac_306",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_307",
+    "input_id": "inp_lo_lac_307",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_308",
+    "input_id": "inp_lo_lac_308",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_309",
+    "input_id": "inp_lo_lac_309",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_310",
+    "input_id": "inp_lo_lac_310",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_311",
+    "input_id": "inp_lo_lac_311",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_312",
+    "input_id": "inp_lo_lac_312",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_313",
+    "input_id": "inp_lo_lac_313",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_314",
+    "input_id": "inp_lo_lac_314",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_315",
+    "input_id": "inp_lo_lac_315",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_316",
+    "input_id": "inp_lo_lac_316",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_317",
+    "input_id": "inp_lo_lac_317",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_318",
+    "input_id": "inp_lo_lac_318",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_319",
+    "input_id": "inp_lo_lac_319",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_320",
+    "input_id": "inp_lo_lac_320",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_321",
+    "input_id": "inp_lo_lac_321",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_322",
+    "input_id": "inp_lo_lac_322",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_323",
+    "input_id": "inp_lo_lac_323",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_324",
+    "input_id": "inp_lo_lac_324",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_325",
+    "input_id": "inp_lo_lac_325",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_326",
+    "input_id": "inp_lo_lac_326",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_327",
+    "input_id": "inp_lo_lac_327",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_328",
+    "input_id": "inp_lo_lac_328",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_329",
+    "input_id": "inp_lo_lac_329",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_330",
+    "input_id": "inp_lo_lac_330",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_331",
+    "input_id": "inp_lo_lac_331",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_332",
+    "input_id": "inp_lo_lac_332",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_333",
+    "input_id": "inp_lo_lac_333",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_334",
+    "input_id": "inp_lo_lac_334",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_335",
+    "input_id": "inp_lo_lac_335",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_336",
+    "input_id": "inp_lo_lac_336",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_337",
+    "input_id": "inp_lo_lac_337",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_338",
+    "input_id": "inp_lo_lac_338",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_339",
+    "input_id": "inp_lo_lac_339",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_340",
+    "input_id": "inp_lo_lac_340",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_341",
+    "input_id": "inp_lo_lac_341",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_342",
+    "input_id": "inp_lo_lac_342",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_343",
+    "input_id": "inp_lo_lac_343",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_344",
+    "input_id": "inp_lo_lac_344",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_345",
+    "input_id": "inp_lo_lac_345",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_346",
+    "input_id": "inp_lo_lac_346",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_347",
+    "input_id": "inp_lo_lac_347",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_348",
+    "input_id": "inp_lo_lac_348",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_349",
+    "input_id": "inp_lo_lac_349",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_350",
+    "input_id": "inp_lo_lac_350",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_351",
+    "input_id": "inp_lo_lac_351",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_352",
+    "input_id": "inp_lo_lac_352",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_353",
+    "input_id": "inp_lo_lac_353",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_354",
+    "input_id": "inp_lo_lac_354",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_355",
+    "input_id": "inp_lo_lac_355",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_356",
+    "input_id": "inp_lo_lac_356",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_357",
+    "input_id": "inp_lo_lac_357",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_358",
+    "input_id": "inp_lo_lac_358",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_359",
+    "input_id": "inp_lo_lac_359",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_360",
+    "input_id": "inp_lo_lac_360",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_361",
+    "input_id": "inp_lo_lac_361",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_362",
+    "input_id": "inp_lo_lac_362",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_363",
+    "input_id": "inp_lo_lac_363",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_364",
+    "input_id": "inp_lo_lac_364",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_365",
+    "input_id": "inp_lo_lac_365",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_366",
+    "input_id": "inp_lo_lac_366",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_367",
+    "input_id": "inp_lo_lac_367",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_368",
+    "input_id": "inp_lo_lac_368",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_369",
+    "input_id": "inp_lo_lac_369",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_370",
+    "input_id": "inp_lo_lac_370",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_371",
+    "input_id": "inp_lo_lac_371",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_372",
+    "input_id": "inp_lo_lac_372",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_373",
+    "input_id": "inp_lo_lac_373",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_374",
+    "input_id": "inp_lo_lac_374",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_375",
+    "input_id": "inp_lo_lac_375",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_376",
+    "input_id": "inp_lo_lac_376",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_377",
+    "input_id": "inp_lo_lac_377",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_378",
+    "input_id": "inp_lo_lac_378",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_379",
+    "input_id": "inp_lo_lac_379",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_380",
+    "input_id": "inp_lo_lac_380",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_381",
+    "input_id": "inp_lo_lac_381",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_382",
+    "input_id": "inp_lo_lac_382",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_383",
+    "input_id": "inp_lo_lac_383",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_384",
+    "input_id": "inp_lo_lac_384",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_385",
+    "input_id": "inp_lo_lac_385",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_386",
+    "input_id": "inp_lo_lac_386",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_387",
+    "input_id": "inp_lo_lac_387",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_388",
+    "input_id": "inp_lo_lac_388",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_389",
+    "input_id": "inp_lo_lac_389",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_390",
+    "input_id": "inp_lo_lac_390",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_391",
+    "input_id": "inp_lo_lac_391",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_392",
+    "input_id": "inp_lo_lac_392",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_393",
+    "input_id": "inp_lo_lac_393",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_394",
+    "input_id": "inp_lo_lac_394",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_395",
+    "input_id": "inp_lo_lac_395",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_396",
+    "input_id": "inp_lo_lac_396",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_397",
+    "input_id": "inp_lo_lac_397",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_398",
+    "input_id": "inp_lo_lac_398",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_399",
+    "input_id": "inp_lo_lac_399",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of lack of belonging is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_lo_lac_400",
+    "input_id": "inp_lo_lac_400",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  }
+]

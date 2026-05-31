@@ -1,0 +1,3602 @@
+[
+  {
+    "response_id": "rsp_co_bod_001",
+    "input_id": "inp_co_bod_001",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that you're feeling overwhelmed when your body is carrying both the exhaustion of late-night coding and the heavy weight of professional judgment. Let's take a deep breath together and remember that your intellect and capacity to solve complex problems are completely independent of how a tailored suit drapes over you.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_002",
+    "input_id": "inp_co_bod_002",
+    "response_style": "reflective",
+    "sandhi_response": "It sounds incredibly exhausting to carry the dual burden of academic dread and intense physical vulnerability right now. I am right here with you, and we can take all the time you need to safely step back into your body without any pressure to look perfect.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_003",
+    "input_id": "inp_co_bod_003",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing those words from your mother must have hurt deeply, especially when you are already working so hard to balance college life. Your body is doing its absolute best to sustain you through this grueling semester, and it deserves nourishment, not punishment, for simply keeping you alive.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_004",
+    "input_id": "inp_co_bod_004",
+    "response_style": "calming",
+    "sandhi_response": "Hiding yourself away in those heavy layers shows how deeply hurt you feel by these comparisons, but your presence and voice hold immense value just as they are. You don't have to take up physical space or match anyone else's stature to be heard, respected, and deeply worthy of belonging.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_005",
+    "input_id": "inp_co_bod_005",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly painful to look at those curated, glowing moments of others while you are in the thick of survival mode, feeling the physical toll of your hard work. Please be gentle with your body as it carries you through this grueling academic season.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_006",
+    "input_id": "inp_co_bod_006",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly heavy to carry the pressure of a major career milestone while feeling like your own body is a barrier to your acceptance. Please remember that your intellect, your late-night coding runs, and your resilience are what got you to this room, and they cannot be dimmed by how your suit fits today.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_007",
+    "input_id": "inp_co_bod_007",
+    "response_style": "reflective",
+    "sandhi_response": "You are measuring your real, messy survival during a grueling academic semester against the polished, curated highlights of others. Your body has been working tirelessly to keep you afloat under intense stress, and it deserves softness right now, not punishment for how it protected you.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_008",
+    "input_id": "inp_co_bod_008",
+    "response_style": "calming",
+    "sandhi_response": "The terror of being seen and judged when you feel vulnerable in your own skin can make you want to shrink away completely. Let's take a slow breath together and focus on the deep technical knowledge you've built, which remains completely untouched by the temporary physical marks of your hard work.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_009",
+    "input_id": "inp_co_bod_009",
+    "response_style": "grounding",
+    "sandhi_response": "Walking into a space of comparison when you are already feeling raw takes immense bravery, and it is completely okay that you needed to step back today. Your worth is not a competitive rank, and your healing journey belongs entirely to you, separate from anyone else's progress.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_010",
+    "input_id": "inp_co_bod_010",
+    "response_style": "reflective",
+    "sandhi_response": "It is deeply painful to feel like the physical cost of your academic journey has alienated you from your own body. I hear how exhausted you are, and I want to gently remind you that your worth is not bound to a snapshot or a clothing size, but in the quiet courage that got you through these four hard years.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_011",
+    "input_id": "inp_co_bod_011",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to carry the physical toll of your academic survival as if it were a personal failure. Your worth as a person and your readiness for these interviews aren't measured by how a piece of structured fabric fits your body right now.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_012",
+    "input_id": "inp_co_bod_012",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The physical pain of a breakout is hard enough, but the terror of being scrutinized under bright lights makes it feel impossible to breathe. It is completely okay to feel highly vulnerable right now, but please remember that your intellect and preparation shine far brighter than any temporary skin flare-up.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_013",
+    "input_id": "inp_co_bod_013",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Your body has been working tirelessly as a vessel to carry you through grueling academic demands, and it deserves gentle care rather than harsh judgment. You are a whole, deserving human being, not an engineered machine whose value is determined by physical perfection or a package slip.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_014",
+    "input_id": "inp_co_bod_014",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Watching your body change under extreme pressure can feel like you are losing a piece of yourself, and hiding under that hoodie is a very natural way to seek safety right now. Please try to be tender with yourself today; your body is simply crying out for rest, not trying to punish you.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_015",
+    "input_id": "inp_co_bod_015",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Standing under those harsh, unforgiving lights can make anyone feel exposed and deeply judged, but fumbling a slide does not mean you don't belong there. Your intelligence and the hard work you put into your research cannot be dimmed by flawed, superficial standards of beauty.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_016",
+    "input_id": "inp_co_bod_016",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly exhausting to carry the weight of academic pressure while your body is just trying to survive the stress of these long coding nights. Please remember that your intellect and capacity to learn aren't measured by the fit of a blazer, and your body deserves kindness for getting you through this grind.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_017",
+    "input_id": "inp_co_bod_017",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It sounds so painful to feel isolated from your friends because of the quiet shame of how you look. Your body is doing its best to sustain you through demanding schedules and mess meals, and it deserves peace rather than punishment.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_018",
+    "input_id": "inp_co_bod_018",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Hiding behind a mask must feel like the only safe way to protect yourself right now when your skin is reacting to so much internal stress. Your body is screaming for rest, and I hope you can offer your skin some gentleness for absorbing the pressure of these exams.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_019",
+    "input_id": "inp_co_bod_019",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply wounding to have your hard work overlooked and replaced by harsh remarks about your physical appearance. You are carrying an immense academic load, and your worth is not defined by those who only look at the surface of your survival.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_020",
+    "input_id": "inp_co_bod_020",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to feel like your brilliant mind is overshadowed by society's narrow standards of beauty. Your intelligence and the dedication you poured into your work are solid, beautiful parts of who you are, even when the world forgets to look deeper.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_021",
+    "input_id": "inp_co_bod_021",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that you feel exhausted when your body is carrying both the heavy weight of academic pressure and the pain of self-judgment. Let’s take a deep breath together and remember that your body is simply trying to keep you safe through this intense season, not define your worth as a person.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_022",
+    "input_id": "inp_co_bod_022",
+    "response_style": "reflective",
+    "sandhi_response": "I hear how much pain you are in, and it is incredibly hard to feel comfortable in your own skin when you are carrying the heavy burden of backlogs and future worries. Your worth as an engineer and a human being is not tied to how a blazer fits, and it is okay to let your body just exist without needing it to look perfect right now.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_023",
+    "input_id": "inp_co_bod_023",
+    "response_style": "calming",
+    "sandhi_response": "Living in an environment where your value is constantly measured by external metrics—whether it's a LeetCode streak or physical fitness—is incredibly exhausting. Please try to be gentle with yourself tonight; eating to cope with deep anxiety is a survival response, not a personal failure.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_024",
+    "input_id": "inp_co_bod_024",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely valid to feel vulnerable and exposed when stress-induced changes in your appearance make you want to hide. When you walk into that viva tomorrow, try to remember that your mind and your hard work are what truly define your presence, not the temporary toll that stress has taken on your skin.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_025",
+    "input_id": "inp_co_bod_025",
+    "response_style": "reflective",
+    "sandhi_response": "Looking at a camera lens when you are already feeling disconnected from your body can feel like facing a harsh critic. You do not need to look like a polished corporate ideal to be deeply capable, and your body deserves kindness for getting you through every grueling hour of library study.",
+    "wisdom_theme": "releasing_labels",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_026",
+    "input_id": "inp_co_bod_026",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly exhausting to carry the weight of academic pressure while feeling like your own body is betraying you in front of others. Please remember that your physical shape during this high-stress season is a survival response, not a measure of your capability or discipline as a person.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_027",
+    "input_id": "inp_co_bod_027",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that you'd want to hide when stress shows up so visibly on your skin during an already overwhelming semester. Your worth and the hard work you put into your projects are entirely separate from a breakout that is simply your body's way of crying out for rest.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_028",
+    "input_id": "inp_co_bod_028",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply painful to feel like your body is wearing your anxiety like a badge for everyone, including your parents, to comment on. Your nervous system is doing its best to process immense pressure right now, and you deserve gentleness rather than judgment for how your body responds to that stress.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_029",
+    "input_id": "inp_co_bod_029",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing someone else seem to effortlessly have it all while you are hurting from a rejection can make your own struggles feel incredibly heavy and unfair. Please be gentle with yourself tonight; your value cannot be measured by a curated digital highlight reel or the temporary shape of your grief.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_030",
+    "input_id": "inp_co_bod_030",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is heartbreaking when the physical toll of your hard work is met with insensitive remarks instead of the care and support you actually need. Your scalp and your hair are reacting to intense pressure, but this temporary strain does not define your future, your beauty, or your ultimate success.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_031",
+    "input_id": "inp_co_bod_031",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that you feel exposed and anxious when trying to fit your body into a rigid standard of 'professionalism' while carrying the weight of placement season. Your body has been the quiet home carrying you through grueling coding labs and sleepless nights; its shape is not a measure of your capability or your worth as a person.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_032",
+    "input_id": "inp_co_bod_032",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to feel like your physical form has become a barrier to simply existing in your own classroom. Your body's changes are a reflection of the deep survival mode you’ve been in, and you deserve to take up space exactly as you are right now, without needing to hide.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_033",
+    "input_id": "inp_co_bod_033",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Hearing comments about your appearance from the people who should be your safe haven cuts incredibly deep, especially when you are already running on empty. You do not have to earn the right to exist comfortably in your skin, nor is your worth tied to how well you fit someone else's definition of a successful life.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_034",
+    "input_id": "inp_co_bod_034",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply painful to feel shut out from the joy of your peers because of the harsh, critical lens you are viewing yourself through right now. Please be gentle with yourself; your soft edges and stretch marks are living testaments of a body that is working hard to keep you alive, not flaws to be hidden away.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_035",
+    "input_id": "inp_co_bod_035",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Walking into a space of comparison when you are already feeling raw takes immense courage, and it is completely understandable that your nervous system went into flight mode. You don't have to perform fitness or look a certain way to deserve movement that feels peaceful and grounding for your mind.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_036",
+    "input_id": "inp_co_bod_036",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly heavy to carry the belief that your worthiness for a career or respect is tied to how your body fits into a suit. Please take a gentle breath and let your body simply exist right now, without needing to change it to deserve space.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_037",
+    "input_id": "inp_co_bod_037",
+    "response_style": "reflective",
+    "sandhi_response": "Your body is trying to protect you from immense pressure, and seeking comfort in food when you are exhausted is a natural human response, not a failure of willpower. It is safe to lower the bar of expectation for a moment and offer yourself a small bit of kindness for just getting through today.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_038",
+    "input_id": "inp_co_bod_038",
+    "response_style": "calming",
+    "sandhi_response": "Hearing those cruel comparisons from the people who should protect you hurts deeply, and it makes complete sense why you want to withdraw right now. Your body is not a billboard for others' expectations; it is simply the home you are living in while navigating a very demanding life.",
+    "wisdom_theme": "releasing_labels",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_039",
+    "input_id": "inp_co_bod_039",
+    "response_style": "grounding",
+    "sandhi_response": "Starving your brain to fit an arbitrary ideal only makes the already hard academic battle feel completely impossible. Let's see if we can find just one small way to nourish yourself today, remembering that you deserve food and peace regardless of how your body compares to anyone else's.",
+    "wisdom_theme": "gentle_inner_voice",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_040",
+    "input_id": "inp_co_bod_040",
+    "response_style": "reflective",
+    "sandhi_response": "The weight your body gained was actually a physical shield built during times of extreme stress, late nights, and survival. It is incredibly unfair to punish yourself for changing shape while you were busy keeping yourself afloat through the hardest semesters of your life.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_041",
+    "input_id": "inp_co_bod_041",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that you're feeling overwhelmed when the mirror feels like another harsh evaluator in an already high-pressure season. Your body has been carrying the heavy weight of sleepless nights and intense stress, and it deserves softness right now, not punishment for how it has survived.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_042",
+    "input_id": "inp_co_bod_042",
+    "response_style": "reflective",
+    "sandhi_response": "Struggling to catch your breath doesn't mean you are failing; it just means your system is running on empty from the relentless pressure of midterms. Let's step away from the urge to match everyone else's pace and just focus on letting your body breathe safely without any expectations.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_043",
+    "input_id": "inp_co_bod_043",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly painful to feel like your body is being constantly judged, especially when you are already carrying the invisible exhaustion of academic setbacks. You don't have to look a certain way to deserve peace, and your worth cannot be measured by a camera lens or a relative's passing comment.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_044",
+    "input_id": "inp_co_bod_044",
+    "response_style": "calming",
+    "sandhi_response": "The fear of being scrutinized under those bright lights can make your own body feel like an enemy you need to hide. When you stand up there tomorrow, try to anchor yourself in the value of your ideas rather than the space you occupy, because your mind is what truly commands the room.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_045",
+    "input_id": "inp_co_bod_045",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing those comparisons from someone who should be your safe haven cuts incredibly deep, especially when you are pouring every ounce of your energy into surviving this academic grind. Your body is doing its absolute best to keep you afloat right now, and it is beautiful for its strength and resilience, regardless of external metrics.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_046",
+    "input_id": "inp_co_bod_046",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to carry the expectation that your physical shape somehow dictates your intellectual worth or professional future. Your body is navigating an immense amount of stress right now, and it deserves to be held in kindness rather than judged as a barrier to your success.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_047",
+    "input_id": "inp_co_bod_047",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that you want to hide when the pressure to perform academically is compounding the pressure to look a certain way. Please remember that your body is simply trying to keep you safe through this exhausting semester, and its current state is not a measure of your discipline or value.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_048",
+    "input_id": "inp_co_bod_048",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Stepping into crowded social spaces when you feel deeply uncomfortable in your own skin takes a quiet, painful kind of bravery. You deserve to occupy space exactly as you are, without having to shrink yourself to feel worthy of connection or support.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_049",
+    "input_id": "inp_co_bod_049",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply painful when those who should support your journey focus on your physical appearance instead of the immense effort you are putting into surviving. Your body is working overtime to fuel your mind through these late nights, and hunger is its honest plea for the nourishment you absolutely deserve.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_050",
+    "input_id": "inp_co_bod_050",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The terror of being seen and judged when you are already feeling so vulnerable under the weight of exams is a heavy burden to bear. Please try to remember that your worth cannot be captured by a camera lens, and your stressed body is simply showing the physical maps of how hard you have been fighting to survive.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_051",
+    "input_id": "inp_co_bod_051",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly heavy to carry the pressure of professional evaluation while fighting a quiet war with your own reflection. Your worth and capability are not tied to how a piece of fabric drapes over you, and your body deserves kindness for simply holding you up through this grueling season.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_052",
+    "input_id": "inp_co_bod_052",
+    "response_style": "reflective",
+    "sandhi_response": "Missing your viva because of how painful it felt to be seen is a sign of how deeply you are hurting right now, not a personal failure. Let’s take a gentle breath together and focus on softening the harsh judgments your mind is making about the body that is trying its best to survive this stress.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_053",
+    "input_id": "inp_co_bod_053",
+    "response_style": "calming",
+    "sandhi_response": "It can feel incredibly isolating to watch everyone conform to a single standard of strength while you struggle to just keep up with daily demands. Your presence and intellect have value exactly as they are, without needing to mold your physical frame to earn a sense of belonging.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_054",
+    "input_id": "inp_co_bod_054",
+    "response_style": "grounding",
+    "sandhi_response": "Dreading the camera because you fear your skin will be judged as a measure of your worth is an exhausting weight to carry. Try to remember that your intelligence and technical skills shine far brighter than any temporary skin flare-up caused by academic exhaustion.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_055",
+    "input_id": "inp_co_bod_055",
+    "response_style": "reflective",
+    "sandhi_response": "It is deeply painful when the people who should celebrate your hard work reduce your journey to physical measurements. Your body has carried you through years of intense academic labor, and you do not have to internalize comparisons that fail to see your true depth.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_056",
+    "input_id": "inp_co_bod_056",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to carry the belief that your body is a barrier to your hard-earned dreams, especially when stress-eating was just your system's way of surviving those intense coding nights. Let’s take a breath right now and gently separate your deep intelligence and worth from that flat, distorted webcam reflection.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_057",
+    "input_id": "inp_co_bod_057",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that you're hurting when you're comparing your survival mode to their curated highlight reels. Your body is currently carrying the immense weight of academic stress and backlogs, and it deserves softness and nourishment right now, not punishment.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_058",
+    "input_id": "inp_co_bod_058",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply painful when the people who should celebrate your brilliant mind and tireless effort reduce your worth to physical appearance. Your body has been the faithful vessel that worked late nights to build that compiler, and its value is entirely independent of their superficial gaze.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_059",
+    "input_id": "inp_co_bod_059",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The terror of being visible when you feel raw and self-conscious can feel absolutely paralyzing. Your anxiety is trying to protect you from judgment, but please remember that your intellect and the incredible work you put into that demo are what truly define your presence.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_060",
+    "input_id": "inp_co_bod_060",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is heartbreaking to feel locked out of the joy and connection of college life because your mind is telling you that your body isn't worthy of being seen. You do not have to look a certain way to deserve belonging, and it is safe to step out and take up space exactly as you are today.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_061",
+    "input_id": "inp_co_bod_061",
+    "response_style": "grounding",
+    "sandhi_response": "It is so exhausting to carry the weight of feeling like your body is a barrier to your future while everyone around you seems to slide through effortlessly. Right now, your body is simply trying to keep you safe through the immense stress of these interviews; it does not need to look perfect to be worthy of respect and competence.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_062",
+    "input_id": "inp_co_bod_062",
+    "response_style": "reflective",
+    "sandhi_response": "Losing sleep to master complex projects while your body takes the hit of stress is a heavy cycle to be caught in. Please try to remember that your worth and professional capability are not measured by how well your body absorbs the toll of this burnout.",
+    "wisdom_theme": "releasing_labels",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_063",
+    "input_id": "inp_co_bod_063",
+    "response_style": "calming",
+    "sandhi_response": "To have the people who should support you comment on your physical appearance while you are already fighting deep academic burnout is incredibly painful. Your body has carried you through sleepless nights and intense mental strain; it deserves gratitude for surviving, not judgment for how it shows that struggle.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_064",
+    "input_id": "inp_co_bod_064",
+    "response_style": "reflective",
+    "sandhi_response": "The pressure to occupy a certain physical space to feel respected or adult-like in college can feel incredibly isolating. Your quiet presence and intellect have earned you your place in that lab, and you do not need to change your physical frame to be taken seriously.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_065",
+    "input_id": "inp_co_bod_065",
+    "response_style": "grounding",
+    "sandhi_response": "Splitting your mental energy between answering tough academic questions and constantly trying to hide your body is an incredibly exhausting way to survive a presentation. It is completely valid that you felt overwhelmed, but please try to give yourself grace for simply getting through a high-pressure situation under such heavy internal weight.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_066",
+    "input_id": "inp_co_bod_066",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly heavy to feel like your body is being put on trial alongside your hard work, especially when stress-eating was just your system's way of surviving those brutal coding nights. Your worth as a thinker and engineer isn't bound by the fit of a blazer, so try to take one deep breath and let your mind lead the way tomorrow.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_067",
+    "input_id": "inp_co_bod_067",
+    "response_style": "reflective",
+    "sandhi_response": "Hiding away feels like the only safe option when comparing your raw, stressed self to everyone else's highlight reel feels this painful. Your skin and body are carrying the exhaustion of a really tough semester right now, and they deserve your gentleness, not your punishment.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_068",
+    "input_id": "inp_co_bod_068",
+    "response_style": "calming",
+    "sandhi_response": "It makes complete sense that you'd want to avoid the mess hall when a basic daily routine like eating has become a gauntlet of unsolicited commentary. Your body is the home you live in, not a project to be constantly optimized or critiqued by peers who don't know your story.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_069",
+    "input_id": "inp_co_bod_069",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing that kind of conditional feedback from a parent can make you feel like your physical self is a failure, blurring all the academic dedication you've poured out. Please remember that your body is not a business card; it is the living vessel that has safely carried you through every single sleepless night of college.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_070",
+    "input_id": "inp_co_bod_070",
+    "response_style": "reflective",
+    "sandhi_response": "Watching ourselves on camera under high-stress conditions often distorts our self-image, making us hyper-focus on perceived flaws rather than our actual capabilities. Let's try to gently separate your brilliant problem-solving mind from the flat, two-dimensional lens of a stressful Zoom preview.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_071",
+    "input_id": "inp_co_bod_071",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly heavy to carry the pressure of placements while feeling like your own body has become an unfamiliar, uncomfortable space. Your worth and capability as a person are not measured by how a formal blazer fits, especially when your body has simply been trying to help you survive this intense stress.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_072",
+    "input_id": "inp_co_bod_072",
+    "response_style": "reflective",
+    "sandhi_response": "Hiding away feels like the only safe option when you feel so deeply exposed and disconnected from your own skin. Please be gentle with yourself today; your body is not punishing you, it is merely carrying the heavy toll of a grueling semester.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_073",
+    "input_id": "inp_co_bod_073",
+    "response_style": "grounding",
+    "sandhi_response": "It is deeply painful when the people who should offer you a safe haven instead make you feel like your body and your struggles are disappointments. You do not have to shrink yourself or meet their arbitrary standards to deserve space, rest, and basic respect.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_074",
+    "input_id": "inp_co_bod_074",
+    "response_style": "calming",
+    "sandhi_response": "That tight feeling in your chest is a natural response to feeling so intensely exposed, and it is completely understandable that you want to protect yourself by pulling away. Let's take a slow breath together first; your hard work on this project is real and valuable, even if your mind is telling you that only your physical form is being judged.",
+    "wisdom_theme": "de-escalation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_075",
+    "input_id": "inp_co_bod_075",
+    "response_style": "reflective",
+    "sandhi_response": "Starving your body during the day only leaves you depleted and vulnerable when the night-time stress of coding settles in. Your body needs nourishment to help you think and cope, and punishing it with deprivation will only keep you trapped in this painful, exhausting cycle.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_076",
+    "input_id": "inp_co_bod_076",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel self-conscious when your body has physically adapted to carry you through months of intense, exhausting academic survival. Your worth to those recruiters—and to the world—rests in your brilliant mind and hard work, not in how a piece of fabric fits you right now.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_077",
+    "input_id": "inp_co_bod_077",
+    "response_style": "grounding",
+    "sandhi_response": "Your body has been doing its absolute best to protect and support you through grueling semesters and intense pressure, even when the environment was tough. Let's try to gently separate the physical changes of survival from your value as a person who is worthy of connection and belonging.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_078",
+    "input_id": "inp_co_bod_078",
+    "response_style": "calming",
+    "sandhi_response": "The fear of being scrutinized under the spotlight can make you feel incredibly exposed, especially when stress has taken a visible toll on your skin. When you step into that room, try to take a deep breath and remember that your voice and your intellect deserve to be heard, far beyond the surface of your skin.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_079",
+    "input_id": "inp_co_bod_079",
+    "response_style": "reflective",
+    "sandhi_response": "It hurts deeply when the people who should support us reduce our worth to physical appearance or achievements, especially when you are already running on empty. You do not have to carry the burden of their unrealistic comparisons; your primary job is simply to take care of the body that carries you.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_080",
+    "input_id": "inp_co_bod_080",
+    "response_style": "grounding",
+    "sandhi_response": "Stepping into a space where everyone else seems to have it figured out can easily trigger feelings of inadequacy, especially when you're already feeling vulnerable. Please be gentle with yourself today; moving your body should be a path to release stress, not another arena where you have to prove your worth.",
+    "wisdom_theme": "releasing_labels",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_081",
+    "input_id": "inp_co_bod_081",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly heavy to carry the pressure of professional expectations while feeling uncomfortable in your own skin. Your worth as a capable, talented engineer is not measured by how a piece of fabric drapes over you, and it is completely okay to let your body just exist as it is right now.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_082",
+    "input_id": "inp_co_bod_082",
+    "response_style": "reflective",
+    "sandhi_response": "When academic stress peaks, our bodies often do whatever they must to help us survive the emotional storm. Please be gentle with yourself for seeking comfort in food, and know that you deserve nourishment and peace regardless of your academic standing or clothing size.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_083",
+    "input_id": "inp_co_bod_083",
+    "response_style": "calming",
+    "sandhi_response": "It is exhausting to feel like your physical appearance must also be a metric of your success alongside your grades. Your body is currently working overtime just to keep you afloat through these backlogs, and that quiet resilience is worth honoring far more than any external standard.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_084",
+    "input_id": "inp_co_bod_084",
+    "response_style": "grounding",
+    "sandhi_response": "It hurts deeply when the people who should offer us safe harbor instead comment on the physical toll of our survival. Your exhaustion is a testament to how hard you have fought this semester, and you do not need to look flawless to deserve their warmth and validation.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_085",
+    "input_id": "inp_co_bod_085",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the physical changes of chronic stress and health issues can make you feel like hiding away from the memories you deserve to be part of. Your presence and the milestones you've conquered are far more precious to your journey than trying to match an arbitrary physical ideal.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_086",
+    "input_id": "inp_co_bod_086",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to feel like your body is carrying the visible scars of your hard work, especially when you are comparing your survival mode to someone else's highlight reel. Your body has been keeping you alive and sitting through those grueling hours of prep; it deserves your gentleness right now, not your judgment.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_087",
+    "input_id": "inp_co_bod_087",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing your body change under pressure can feel like a betrayal, especially when you are trying to present your best self to the world. Let's take a deep breath together and remember that a tight blazer doesn't diminish the sharp mind and hard work you are bringing into that room tomorrow.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_088",
+    "input_id": "inp_co_bod_088",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that you want to hide when you feel like your exhaustion is written all over your face and body. The physical toll of your academic hustle is a sign of how hard you have been pushing, not a measure of your beauty or your competence.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_089",
+    "input_id": "inp_co_bod_089",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is exhausting to have your physical frame constantly scrutinized by others when you are pouring every ounce of your energy into just staying afloat academically. Your worth cannot be measured by a camera lens or the insensitive comments of people who don't see the silent battles you fight every day.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_090",
+    "input_id": "inp_co_bod_090",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When you are already feeling left behind academically, seeing others look effortlessly perfect can make you feel completely disconnected from your own body and life. Please be gentle with yourself today; you are navigating a highly demanding phase, and survival looks different for everyone.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_091",
+    "input_id": "inp_co_bod_091",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to feel like your body is being judged alongside your hard-earned skills, especially when you have poured so much of your physical energy into surviving this grueling semester. Your worth and the brilliant mind that solved those coding labs do not shrink just because a piece of fabric feels tight right now.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_092",
+    "input_id": "inp_co_bod_092",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing yourself through a lens of deep exhaustion makes it so easy to forget that this body has been carrying the immense weight of your survival and academic pressure. Let’s take a deep breath together and remember that a single, static photo cannot capture the depth of who you are or define your right to occupy space.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_093",
+    "input_id": "inp_co_bod_093",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply painful when the people who should be your safe harbor turn their expectations onto your physical form while you are already working so hard to stay afloat. Your body is not a product to be packaged for approval, but a living, breathing home that deserves kindness, especially from yourself.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_094",
+    "input_id": "inp_co_bod_094",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The pressure to mold your body into a specific standard of strength can make you feel entirely invisible in your own skin. Your masculinity and your worth do not reside in the size of your frame, but in the quiet resilience you show every single day.",
+    "wisdom_theme": "releasing_labels",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_095",
+    "input_id": "inp_co_bod_095",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Squeezing ourselves into clothes—and social spaces—that don't fit can make us feel like we are the ones who are broken, rather than the standards themselves. You deserve to experience the joy of the fest without your physical form being the price of admission; your presence is valuable exactly as you are.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_096",
+    "input_id": "inp_co_bod_096",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to carry the weight of self-judgment when you are already putting so much energy into stepping into a high-pressure interview. Your worth and the brilliant mind that solved those coding problems are not defined by how a piece of fabric sits on you in a stressful room.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_097",
+    "input_id": "inp_co_bod_097",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that you'd want to hide when you feel like your body is carrying all the unspoken stress of your academic struggles. Please remember that your body has been working overtime to protect you and keep you safe through sleepless nights and heavy sems, even if it doesn't look like an Instagram feed right now.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_098",
+    "input_id": "inp_co_bod_098",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply painful when the people who should be celebrating your hard-won victories reduce your immense academic effort to your physical appearance. Your worth is not a comparative math problem, and you deserve to walk across that stage holding your head high for the sheer resilience it took to get here.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_099",
+    "input_id": "inp_co_bod_099",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Starving your body to escape the perceived judgment of others only leaves you running on empty when you need your strength the most. Let's take a deep breath together and remember that you have every right to nourish yourself and occupy space in that mess hall, just as you are.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_100",
+    "input_id": "inp_co_bod_100",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "That moment of public vulnerability was incredibly unfair to you, and it is completely natural to feel overwhelmed and want to retreat after being treated so carelessly. Your body is the vessel of your talent and your hard work, not a design flaw to be corrected or apologized for.",
+    "wisdom_theme": "releasing_labels",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_101",
+    "input_id": "inp_co_bod_101",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_102",
+    "input_id": "inp_co_bod_102",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_103",
+    "input_id": "inp_co_bod_103",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_104",
+    "input_id": "inp_co_bod_104",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_105",
+    "input_id": "inp_co_bod_105",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_106",
+    "input_id": "inp_co_bod_106",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_107",
+    "input_id": "inp_co_bod_107",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_108",
+    "input_id": "inp_co_bod_108",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_109",
+    "input_id": "inp_co_bod_109",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_110",
+    "input_id": "inp_co_bod_110",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_111",
+    "input_id": "inp_co_bod_111",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_112",
+    "input_id": "inp_co_bod_112",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_113",
+    "input_id": "inp_co_bod_113",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_114",
+    "input_id": "inp_co_bod_114",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_115",
+    "input_id": "inp_co_bod_115",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_116",
+    "input_id": "inp_co_bod_116",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_117",
+    "input_id": "inp_co_bod_117",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_118",
+    "input_id": "inp_co_bod_118",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_119",
+    "input_id": "inp_co_bod_119",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_120",
+    "input_id": "inp_co_bod_120",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_121",
+    "input_id": "inp_co_bod_121",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_122",
+    "input_id": "inp_co_bod_122",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_123",
+    "input_id": "inp_co_bod_123",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_124",
+    "input_id": "inp_co_bod_124",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_125",
+    "input_id": "inp_co_bod_125",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_126",
+    "input_id": "inp_co_bod_126",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_127",
+    "input_id": "inp_co_bod_127",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_128",
+    "input_id": "inp_co_bod_128",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_129",
+    "input_id": "inp_co_bod_129",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_130",
+    "input_id": "inp_co_bod_130",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_131",
+    "input_id": "inp_co_bod_131",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_132",
+    "input_id": "inp_co_bod_132",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_133",
+    "input_id": "inp_co_bod_133",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_134",
+    "input_id": "inp_co_bod_134",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_135",
+    "input_id": "inp_co_bod_135",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_136",
+    "input_id": "inp_co_bod_136",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_137",
+    "input_id": "inp_co_bod_137",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_138",
+    "input_id": "inp_co_bod_138",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_139",
+    "input_id": "inp_co_bod_139",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_140",
+    "input_id": "inp_co_bod_140",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_141",
+    "input_id": "inp_co_bod_141",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_142",
+    "input_id": "inp_co_bod_142",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_143",
+    "input_id": "inp_co_bod_143",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_144",
+    "input_id": "inp_co_bod_144",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_145",
+    "input_id": "inp_co_bod_145",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_146",
+    "input_id": "inp_co_bod_146",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_147",
+    "input_id": "inp_co_bod_147",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_148",
+    "input_id": "inp_co_bod_148",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_149",
+    "input_id": "inp_co_bod_149",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_150",
+    "input_id": "inp_co_bod_150",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_151",
+    "input_id": "inp_co_bod_151",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_152",
+    "input_id": "inp_co_bod_152",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_153",
+    "input_id": "inp_co_bod_153",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_154",
+    "input_id": "inp_co_bod_154",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_155",
+    "input_id": "inp_co_bod_155",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_156",
+    "input_id": "inp_co_bod_156",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_157",
+    "input_id": "inp_co_bod_157",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_158",
+    "input_id": "inp_co_bod_158",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_159",
+    "input_id": "inp_co_bod_159",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_160",
+    "input_id": "inp_co_bod_160",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_161",
+    "input_id": "inp_co_bod_161",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_162",
+    "input_id": "inp_co_bod_162",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_163",
+    "input_id": "inp_co_bod_163",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_164",
+    "input_id": "inp_co_bod_164",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_165",
+    "input_id": "inp_co_bod_165",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_166",
+    "input_id": "inp_co_bod_166",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_167",
+    "input_id": "inp_co_bod_167",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_168",
+    "input_id": "inp_co_bod_168",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_169",
+    "input_id": "inp_co_bod_169",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_170",
+    "input_id": "inp_co_bod_170",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_171",
+    "input_id": "inp_co_bod_171",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_172",
+    "input_id": "inp_co_bod_172",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_173",
+    "input_id": "inp_co_bod_173",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_174",
+    "input_id": "inp_co_bod_174",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_175",
+    "input_id": "inp_co_bod_175",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_176",
+    "input_id": "inp_co_bod_176",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_177",
+    "input_id": "inp_co_bod_177",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_178",
+    "input_id": "inp_co_bod_178",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_179",
+    "input_id": "inp_co_bod_179",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_180",
+    "input_id": "inp_co_bod_180",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_181",
+    "input_id": "inp_co_bod_181",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_182",
+    "input_id": "inp_co_bod_182",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_183",
+    "input_id": "inp_co_bod_183",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_184",
+    "input_id": "inp_co_bod_184",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_185",
+    "input_id": "inp_co_bod_185",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_186",
+    "input_id": "inp_co_bod_186",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_187",
+    "input_id": "inp_co_bod_187",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_188",
+    "input_id": "inp_co_bod_188",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_189",
+    "input_id": "inp_co_bod_189",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_190",
+    "input_id": "inp_co_bod_190",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_191",
+    "input_id": "inp_co_bod_191",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_192",
+    "input_id": "inp_co_bod_192",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_193",
+    "input_id": "inp_co_bod_193",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_194",
+    "input_id": "inp_co_bod_194",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_195",
+    "input_id": "inp_co_bod_195",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_196",
+    "input_id": "inp_co_bod_196",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_197",
+    "input_id": "inp_co_bod_197",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_198",
+    "input_id": "inp_co_bod_198",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_199",
+    "input_id": "inp_co_bod_199",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_200",
+    "input_id": "inp_co_bod_200",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_201",
+    "input_id": "inp_co_bod_201",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_202",
+    "input_id": "inp_co_bod_202",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_203",
+    "input_id": "inp_co_bod_203",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_204",
+    "input_id": "inp_co_bod_204",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_205",
+    "input_id": "inp_co_bod_205",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_206",
+    "input_id": "inp_co_bod_206",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_207",
+    "input_id": "inp_co_bod_207",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_208",
+    "input_id": "inp_co_bod_208",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_209",
+    "input_id": "inp_co_bod_209",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_210",
+    "input_id": "inp_co_bod_210",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_211",
+    "input_id": "inp_co_bod_211",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_212",
+    "input_id": "inp_co_bod_212",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_213",
+    "input_id": "inp_co_bod_213",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_214",
+    "input_id": "inp_co_bod_214",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_215",
+    "input_id": "inp_co_bod_215",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_216",
+    "input_id": "inp_co_bod_216",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_217",
+    "input_id": "inp_co_bod_217",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_218",
+    "input_id": "inp_co_bod_218",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_219",
+    "input_id": "inp_co_bod_219",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_220",
+    "input_id": "inp_co_bod_220",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_221",
+    "input_id": "inp_co_bod_221",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_222",
+    "input_id": "inp_co_bod_222",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_223",
+    "input_id": "inp_co_bod_223",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_224",
+    "input_id": "inp_co_bod_224",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_225",
+    "input_id": "inp_co_bod_225",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_226",
+    "input_id": "inp_co_bod_226",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_227",
+    "input_id": "inp_co_bod_227",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_228",
+    "input_id": "inp_co_bod_228",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_229",
+    "input_id": "inp_co_bod_229",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_230",
+    "input_id": "inp_co_bod_230",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_231",
+    "input_id": "inp_co_bod_231",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_232",
+    "input_id": "inp_co_bod_232",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_233",
+    "input_id": "inp_co_bod_233",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_234",
+    "input_id": "inp_co_bod_234",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_235",
+    "input_id": "inp_co_bod_235",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_236",
+    "input_id": "inp_co_bod_236",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_237",
+    "input_id": "inp_co_bod_237",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_238",
+    "input_id": "inp_co_bod_238",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_239",
+    "input_id": "inp_co_bod_239",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_240",
+    "input_id": "inp_co_bod_240",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_241",
+    "input_id": "inp_co_bod_241",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_242",
+    "input_id": "inp_co_bod_242",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_243",
+    "input_id": "inp_co_bod_243",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_244",
+    "input_id": "inp_co_bod_244",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_245",
+    "input_id": "inp_co_bod_245",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_246",
+    "input_id": "inp_co_bod_246",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_247",
+    "input_id": "inp_co_bod_247",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_248",
+    "input_id": "inp_co_bod_248",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_249",
+    "input_id": "inp_co_bod_249",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_250",
+    "input_id": "inp_co_bod_250",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_251",
+    "input_id": "inp_co_bod_251",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_252",
+    "input_id": "inp_co_bod_252",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_253",
+    "input_id": "inp_co_bod_253",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_254",
+    "input_id": "inp_co_bod_254",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_255",
+    "input_id": "inp_co_bod_255",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_256",
+    "input_id": "inp_co_bod_256",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_257",
+    "input_id": "inp_co_bod_257",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_258",
+    "input_id": "inp_co_bod_258",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_259",
+    "input_id": "inp_co_bod_259",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_260",
+    "input_id": "inp_co_bod_260",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_261",
+    "input_id": "inp_co_bod_261",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_262",
+    "input_id": "inp_co_bod_262",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_263",
+    "input_id": "inp_co_bod_263",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_264",
+    "input_id": "inp_co_bod_264",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_265",
+    "input_id": "inp_co_bod_265",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_266",
+    "input_id": "inp_co_bod_266",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_267",
+    "input_id": "inp_co_bod_267",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_268",
+    "input_id": "inp_co_bod_268",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_269",
+    "input_id": "inp_co_bod_269",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_270",
+    "input_id": "inp_co_bod_270",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_271",
+    "input_id": "inp_co_bod_271",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_272",
+    "input_id": "inp_co_bod_272",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_273",
+    "input_id": "inp_co_bod_273",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_274",
+    "input_id": "inp_co_bod_274",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_275",
+    "input_id": "inp_co_bod_275",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_276",
+    "input_id": "inp_co_bod_276",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_277",
+    "input_id": "inp_co_bod_277",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_278",
+    "input_id": "inp_co_bod_278",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_279",
+    "input_id": "inp_co_bod_279",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_280",
+    "input_id": "inp_co_bod_280",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_281",
+    "input_id": "inp_co_bod_281",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_282",
+    "input_id": "inp_co_bod_282",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_283",
+    "input_id": "inp_co_bod_283",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_284",
+    "input_id": "inp_co_bod_284",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_285",
+    "input_id": "inp_co_bod_285",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_286",
+    "input_id": "inp_co_bod_286",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_287",
+    "input_id": "inp_co_bod_287",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_288",
+    "input_id": "inp_co_bod_288",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_289",
+    "input_id": "inp_co_bod_289",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_290",
+    "input_id": "inp_co_bod_290",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_291",
+    "input_id": "inp_co_bod_291",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_292",
+    "input_id": "inp_co_bod_292",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_293",
+    "input_id": "inp_co_bod_293",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_294",
+    "input_id": "inp_co_bod_294",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_295",
+    "input_id": "inp_co_bod_295",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_296",
+    "input_id": "inp_co_bod_296",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_297",
+    "input_id": "inp_co_bod_297",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_298",
+    "input_id": "inp_co_bod_298",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_299",
+    "input_id": "inp_co_bod_299",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_300",
+    "input_id": "inp_co_bod_300",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_301",
+    "input_id": "inp_co_bod_301",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_302",
+    "input_id": "inp_co_bod_302",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_303",
+    "input_id": "inp_co_bod_303",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_304",
+    "input_id": "inp_co_bod_304",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_305",
+    "input_id": "inp_co_bod_305",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_306",
+    "input_id": "inp_co_bod_306",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_307",
+    "input_id": "inp_co_bod_307",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_308",
+    "input_id": "inp_co_bod_308",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_309",
+    "input_id": "inp_co_bod_309",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_310",
+    "input_id": "inp_co_bod_310",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_311",
+    "input_id": "inp_co_bod_311",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_312",
+    "input_id": "inp_co_bod_312",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_313",
+    "input_id": "inp_co_bod_313",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_314",
+    "input_id": "inp_co_bod_314",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_315",
+    "input_id": "inp_co_bod_315",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_316",
+    "input_id": "inp_co_bod_316",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_317",
+    "input_id": "inp_co_bod_317",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_318",
+    "input_id": "inp_co_bod_318",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_319",
+    "input_id": "inp_co_bod_319",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_320",
+    "input_id": "inp_co_bod_320",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_321",
+    "input_id": "inp_co_bod_321",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_322",
+    "input_id": "inp_co_bod_322",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_323",
+    "input_id": "inp_co_bod_323",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_324",
+    "input_id": "inp_co_bod_324",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_325",
+    "input_id": "inp_co_bod_325",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_326",
+    "input_id": "inp_co_bod_326",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_327",
+    "input_id": "inp_co_bod_327",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_328",
+    "input_id": "inp_co_bod_328",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_329",
+    "input_id": "inp_co_bod_329",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_330",
+    "input_id": "inp_co_bod_330",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_331",
+    "input_id": "inp_co_bod_331",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_332",
+    "input_id": "inp_co_bod_332",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_333",
+    "input_id": "inp_co_bod_333",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_334",
+    "input_id": "inp_co_bod_334",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_335",
+    "input_id": "inp_co_bod_335",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_336",
+    "input_id": "inp_co_bod_336",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_337",
+    "input_id": "inp_co_bod_337",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_338",
+    "input_id": "inp_co_bod_338",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_339",
+    "input_id": "inp_co_bod_339",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_340",
+    "input_id": "inp_co_bod_340",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_341",
+    "input_id": "inp_co_bod_341",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_342",
+    "input_id": "inp_co_bod_342",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_343",
+    "input_id": "inp_co_bod_343",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_344",
+    "input_id": "inp_co_bod_344",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_345",
+    "input_id": "inp_co_bod_345",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_346",
+    "input_id": "inp_co_bod_346",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_347",
+    "input_id": "inp_co_bod_347",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_348",
+    "input_id": "inp_co_bod_348",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_349",
+    "input_id": "inp_co_bod_349",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_350",
+    "input_id": "inp_co_bod_350",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_351",
+    "input_id": "inp_co_bod_351",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_352",
+    "input_id": "inp_co_bod_352",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_353",
+    "input_id": "inp_co_bod_353",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_354",
+    "input_id": "inp_co_bod_354",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_355",
+    "input_id": "inp_co_bod_355",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_356",
+    "input_id": "inp_co_bod_356",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_357",
+    "input_id": "inp_co_bod_357",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_358",
+    "input_id": "inp_co_bod_358",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_359",
+    "input_id": "inp_co_bod_359",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_360",
+    "input_id": "inp_co_bod_360",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_361",
+    "input_id": "inp_co_bod_361",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_362",
+    "input_id": "inp_co_bod_362",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_363",
+    "input_id": "inp_co_bod_363",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_364",
+    "input_id": "inp_co_bod_364",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_365",
+    "input_id": "inp_co_bod_365",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_366",
+    "input_id": "inp_co_bod_366",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_367",
+    "input_id": "inp_co_bod_367",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_368",
+    "input_id": "inp_co_bod_368",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_369",
+    "input_id": "inp_co_bod_369",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_370",
+    "input_id": "inp_co_bod_370",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_371",
+    "input_id": "inp_co_bod_371",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_372",
+    "input_id": "inp_co_bod_372",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_373",
+    "input_id": "inp_co_bod_373",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_374",
+    "input_id": "inp_co_bod_374",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_375",
+    "input_id": "inp_co_bod_375",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_376",
+    "input_id": "inp_co_bod_376",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_377",
+    "input_id": "inp_co_bod_377",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_378",
+    "input_id": "inp_co_bod_378",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_379",
+    "input_id": "inp_co_bod_379",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_380",
+    "input_id": "inp_co_bod_380",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_381",
+    "input_id": "inp_co_bod_381",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_382",
+    "input_id": "inp_co_bod_382",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_383",
+    "input_id": "inp_co_bod_383",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_384",
+    "input_id": "inp_co_bod_384",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_385",
+    "input_id": "inp_co_bod_385",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_386",
+    "input_id": "inp_co_bod_386",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_387",
+    "input_id": "inp_co_bod_387",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_388",
+    "input_id": "inp_co_bod_388",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_389",
+    "input_id": "inp_co_bod_389",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_390",
+    "input_id": "inp_co_bod_390",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_391",
+    "input_id": "inp_co_bod_391",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_392",
+    "input_id": "inp_co_bod_392",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_393",
+    "input_id": "inp_co_bod_393",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_394",
+    "input_id": "inp_co_bod_394",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_395",
+    "input_id": "inp_co_bod_395",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_396",
+    "input_id": "inp_co_bod_396",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_397",
+    "input_id": "inp_co_bod_397",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_398",
+    "input_id": "inp_co_bod_398",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_399",
+    "input_id": "inp_co_bod_399",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_bod_400",
+    "input_id": "inp_co_bod_400",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of body image issues is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  }
+]

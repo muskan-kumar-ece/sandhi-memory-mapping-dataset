@@ -1,0 +1,13 @@
+{
+  "subcategory_id": "SUB-FINA",
+  "subcategory_name": "financial_stress",
+  "category": "Job Search Depression",
+  "description": "Emotional state and behaviors relating to financial stress under Job Search Depression.",
+  "complexity_level": "medium",
+  "clinical_relevance": "high",
+  "tags": [
+    "job_search_depression",
+    "financial_stress",
+    "student_support"
+  ]
+}

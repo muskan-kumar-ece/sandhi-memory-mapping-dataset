@@ -1,0 +1,13 @@
+{
+  "subcategory_id": "SUB-LOAN",
+  "subcategory_name": "loan_repayment_anxiety",
+  "category": "Financial Stress",
+  "description": "Emotional state and behaviors relating to loan repayment anxiety under Financial Stress.",
+  "complexity_level": "medium",
+  "clinical_relevance": "high",
+  "tags": [
+    "financial_stress",
+    "loan_repayment_anxiety",
+    "student_support"
+  ]
+}

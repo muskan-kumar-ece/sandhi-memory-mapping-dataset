@@ -1,0 +1,3602 @@
+[
+  {
+    "response_id": "rsp_co_pee_001",
+    "input_id": "inp_co_pee_001",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is completely natural to feel that heavy, burning ache when it seems like everyone else is moving forward while you are left behind. Please know that this envy doesn't make you a bad friend; it's just a painful signal of how deeply you want to find your own footing right now.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_002",
+    "input_id": "inp_co_pee_002",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly exhausting to fight your own internal struggles while sitting right next to someone else's effortless progress. Your worth as a coder and a person isn't measured by how quickly you debug compared to him, especially when you have been carrying silent burdens of your own.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_003",
+    "input_id": "inp_co_pee_003",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply painful when the home that should be your safe space becomes a pressure cooker of comparison and unsaid disappointment. Your path and your timeline belong entirely to you, separate from the benchmarks your family is trying to measure you by.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_004",
+    "input_id": "inp_co_pee_004",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It feels incredibly unfair when you pour your entire sleep-deprived soul into studying, only to watch others achieve effortlessly. That bitter resentment is just a very human response to feeling like your hard work and sacrifice are being completely unseen by the system.",
+    "wisdom_theme": "valuing_raw_effort",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_005",
+    "input_id": "inp_co_pee_005",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The weight of a family loan combined with the fear of falling behind creates a level of pressure that no young mind should have to carry alone. It is okay to feel angry at the stark difference in your circumstances, but please try to breathe and remember that survival under this heavy load is itself a profound form of strength.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_006",
+    "input_id": "inp_co_pee_006",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to carry the weight of someone else's success when your own path feels so steep and uncertain right now. Please allow yourself to breathe; your worth as a human being is not measured by the speed of your journey or the size of an offer letter.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_007",
+    "input_id": "inp_co_pee_007",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Hearing those comparisons from your family cuts deeply, especially when you are already pushing against your own limits. It is completely natural to feel hurt when your struggle is compared to another's highlight reel, but please remember that your capacity to learn cannot be defined by someone else's timeline.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_008",
+    "input_id": "inp_co_pee_008",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is exhausting to sit in silence with your pain while those around you casually dismiss the very milestones you are struggling to reach. Your grief and anger are valid responses to feeling unseen, but please don't let this temporary gap isolate you from your own quiet resilience.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_009",
+    "input_id": "inp_co_pee_009",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Watching someone close to you soar while you feel grounded in repetitive work can make your own efforts feel completely invisible. Your worth is not stalled just because your current environment is quiet and demanding; the foundation you are building right now is still yours to own.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_010",
+    "input_id": "inp_co_pee_010",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The public exposure of your struggle on those rank lists is a deeply painful weight to carry Sunday after Sunday. It is okay to step away from the noise of the post-test discussions to protect your peace of mind and let your nervous system rest.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_011",
+    "input_id": "inp_co_pee_011",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to carry the weight of a friend's success when your own path feels so uncertain right now, and that knot in your stomach is a very real, human response to feeling left behind. Please take a slow breath and remember that your worth as a person isn't measured in packages or shortlists, even if the world around you is screaming otherwise.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_012",
+    "input_id": "inp_co_pee_012",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It hurts deeply when the identity of being 'the smart one' feels threatened by the loud achievements of others on your screen. It is completely okay to feel angry and exhausted; giving yourself permission to step away from the noise is a necessary act of survival, not a sign of weakness.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_013",
+    "input_id": "inp_co_pee_013",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The physical panic you feel is your body's way of trying to protect itself from the pain of being constantly compared and judged by those who should be supporting you. You deserve a safe space where you can breathe without having to prove your value through a LeetCode streak or a company's logo.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_014",
+    "input_id": "inp_co_pee_014",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to listen to others casually dismiss things that would bring immense relief to your life, and it is natural to feel a deep sense of injustice and exhaustion. Your struggle with backlogs and family worries is real, and it does not make you small—it just means you are carrying a much heavier pack on this uphill climb than they are.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_015",
+    "input_id": "inp_co_pee_015",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Wishing for someone else's code to fail is a very human, protective shield constructed by your mind when you feel completely exposed and terrified of your own perceived inadequacy. Please be gentle with yourself for having these thoughts, as they are simply a cry for relief from the exhaustion of comparing your messy behind-the-scenes with someone else's highlight reel.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_016",
+    "input_id": "inp_co_pee_016",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly heavy to carry the double burden of wanting to be happy for a friend while feeling your own throat tighten with the fear of being left behind. Your worth as a person and your capacity to learn are not measured by how fast you solve a recursion tree compared to someone else sharing your room.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_017",
+    "input_id": "inp_co_pee_017",
+    "response_style": "reflective",
+    "sandhi_response": "Seeing everyone's curated wins can make your own struggle feel like an unforgivable failure, especially when structural gates like CGPA cutoffs block your path. It is completely human to feel that sharp pang of resentment, but please remember that your professional journey is a slow build, not a race that ends this semester.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_018",
+    "input_id": "inp_co_pee_018",
+    "response_style": "calming",
+    "sandhi_response": "The weight of parental expectation can make another person's success feel like an indictment of your own efforts. It is okay that you felt overwhelmed and needed to step away; your pain comes from a deep desire to be valued, not from a lack of trying.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_019",
+    "input_id": "inp_co_pee_019",
+    "response_style": "grounding",
+    "sandhi_response": "Stepping back from group chats is a gentle way of protecting your heart when seeing another's leap forward makes your own stillness feel unbearable. Your path looks different right now, but taking time to clear your own hurdles doesn't make your destination any less worthy of reaching.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_020",
+    "input_id": "inp_co_pee_020",
+    "response_style": "reflective",
+    "sandhi_response": "It is deeply painful to have your labor swallowed up by someone else's spotlight, leaving you to nurse your exhaustion in silence. Please know that the invisibility of your work in that room does not diminish the hard-earned skills you built while writing those lines of code.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_021",
+    "input_id": "inp_co_pee_021",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to carry the weight of your own struggles while watching someone else fly, especially when your family’s expectations make that gap feel like a personal failure. Please know that this knot in your chest doesn't make you a bad friend; it just shows how deeply exhausted and scared you are of being left behind.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_022",
+    "input_id": "inp_co_pee_022",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing others glide through things that are currently breaking your spirit can make you feel entirely invisible and inadequate. It is completely valid to feel overwhelmed right now, but your worth as a programmer and a person isn't measured by how fast you solve a puzzle compared to the person next to you.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_023",
+    "input_id": "inp_co_pee_023",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The silence of a forwarded status can hurt more than loud words, especially when you poured your entire heart into this semester's work. I hear how painful it is to have your hard work overshadowed, and I want you to remember that your 7.2 represents genuine, grueling effort that is entirely your own to be proud of.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_024",
+    "input_id": "inp_co_pee_024",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful and exhausting to watch someone else reap the rewards of your labor while you are left standing outside the door. You are allowed to set a boundary and step back from helping him tonight to protect your own fragile peace.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_025",
+    "input_id": "inp_co_pee_025",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Hearing others call your high score a failure is a deeply isolating experience that invalidates the quiet, hard battles you are fighting just to keep up. It is completely understandable that you need to retreat to your room to find some quiet, but please remember that their exaggerated fears do not define the reality of your very real progress.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_026",
+    "input_id": "inp_co_pee_026",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to carry the weight of your friend's sudden leap forward while you feel anchored in the hard, silent work of your own starting line. Please know that this painful tightness in your chest doesn't mean you are a bad friend; it is just a very human heart grieving its own exhaustion and fear of being left behind.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_027",
+    "input_id": "inp_co_pee_027",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing those digital celebrations while you are quietly carrying the weight of a backlog can make you feel entirely invisible and small. Your worth as a son and as an individual isn't measured by a faster timeline, and it is completely okay to step away from the noise to protect your peace.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_028",
+    "input_id": "inp_co_pee_028",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply agonizing to see your hard work wear someone else’s name and reward while you are left holding the quiet ache of rejection. Please allow yourself to feel this anger, but remember that a hijacked spotlight cannot erase the genuine skill and resilience you hold inside.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_029",
+    "input_id": "inp_co_pee_029",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Holding a friend's high-spirited disappointment while drowning in your own quiet defeat is an incredibly lonely and exhausting tightrope to walk. It is entirely human to crave the comfort of shared struggle when you are hurting, and this doesn't diminish the genuine love you have for her.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_030",
+    "input_id": "inp_co_pee_030",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When everyone around you seems to be speaking a language you are still trying to translate, your mind’s natural response is to shut down to protect itself from the overwhelming noise. Let's step back from their rapid pace and focus gently on your own next small step, because your learning journey doesn't have to look like their race to be valid.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_031",
+    "input_id": "inp_co_pee_031",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly painful to watch someone close to you fly ahead while you feel stuck, especially when you started this journey side-by-side. Please know that your struggle with this code doesn't mean you are falling behind in life; your path is unfolding on its own necessary timeline, independent of his success.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_032",
+    "input_id": "inp_co_pee_032",
+    "response_style": "reflective",
+    "sandhi_response": "It makes complete sense that you'd feel that bitter resentment when his academic scores are being used as a weapon to diminish your own worth at home. Your desire for respect is entirely valid, and your value as a son is not measured by how your grades compare to your cousin's.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_033",
+    "input_id": "inp_co_pee_033",
+    "response_style": "calming",
+    "sandhi_response": "You are not a horrible person for feeling this sting; it is a very human response to feel left behind when others reach the milestones you are working so hard for. Let's gently separate your current frustration from your moral character—you are allowed to struggle without being defined by your envy.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_034",
+    "input_id": "inp_co_pee_034",
+    "response_style": "grounding",
+    "sandhi_response": "It is deeply unfair and exhausting to watch your shared labor result in recognition for only one of you, leaving your hard work invisible. Please allow yourself to feel this anger, but remember that your actual intelligence and contribution cannot be erased by a professor's oversight.",
+    "wisdom_theme": "valuing_raw_effort",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_035",
+    "input_id": "inp_co_pee_035",
+    "response_style": "calming",
+    "sandhi_response": "That hollow feeling is your mind's way of trying to protect you from the crushing pressure of being compared so publicly. Take a deep, slow breath right now, and let's focus on simply resting your mind before trying to build or prove anything to anyone.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_036",
+    "input_id": "inp_co_pee_036",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly heavy to carry the weight of your own struggles while trying to celebrate someone else's milestone. Your pain doesn't make you a bad person; it simply shows how deeply you are hurting and longing for your own path to unfold.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_037",
+    "input_id": "inp_co_pee_037",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely human to feel terrified of losing connection when a friend's path suddenly seems to pull away from yours. Please be gentle with yourself for having messy, fearful thoughts; they are just a shield for the deep fear of being left behind.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_038",
+    "input_id": "inp_co_pee_038",
+    "response_style": "reflective",
+    "sandhi_response": "It is deeply exhausting when your home ceases to be a safe haven and instead becomes a place of constant evaluation. Your value cannot be measured by a package size, even if the voices around you are currently struggling to see beyond the numbers.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_039",
+    "input_id": "inp_co_pee_039",
+    "response_style": "grounding",
+    "sandhi_response": "When someone else's confidence feels like a direct threat to your own belonging, it makes complete sense that your body wants to retreat and protect itself. Let's take a slow breath together and remember that your quiet, steady learning process is just as valid as his loud pace.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_040",
+    "input_id": "inp_co_pee_040",
+    "response_style": "calming",
+    "sandhi_response": "Seeing a curated gallery of everyone else's highlight reels can make your own quiet efforts feel entirely invisible. Your worth is not lagging behind just because your current chapter looks different from the stories on your screen.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_041",
+    "input_id": "inp_co_pee_041",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to carry that physical knot of resentment, especially when someone else's milestone highlights your own private struggles. Please know that feeling this sting doesn't make you a bad person; it just shows how deeply you care about your own future and how exhausted you are right now.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_042",
+    "input_id": "inp_co_pee_042",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Watching friends step ahead while a setback keeps you back can make you feel painfully left behind and isolated. It is completely natural to step back to protect your peace, but please remember your worth isn't defined by the speed of your recovery from a difficult academic hurdle.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_043",
+    "input_id": "inp_co_pee_043",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply exhausting to pour your entire soul into your work and watch someone else glide past with seeming ease. Your hard work and dedication are not wasted, even if the algorithm doesn't reflect your growth in this exact moment.",
+    "wisdom_theme": "valuing_raw_effort",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_044",
+    "input_id": "inp_co_pee_044",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is heartbreaking when your genuine progress is overshadowed by comparisons, turning what should be a proud recovery into a source of shame. Your journey out of academic struggle is incredibly resilient, and you deserve to have that effort honored on its own terms.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_045",
+    "input_id": "inp_co_pee_045",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It feels incredibly unjust and painful when integrity is rewarded with disappointment while shortcuts win the praise. Please don't let this broken system make you doubt the value of your own honest effort and character, which remain truly yours.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_046",
+    "input_id": "inp_co_pee_046",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly heavy to carry the weight of your father's disappointment while watching someone close to you reach the finish line you're fighting so hard for. Please take a slow, deep breath and remember that your worth as a person is not bound to a placement spreadsheet or the timeline of those around you.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_047",
+    "input_id": "inp_co_pee_047",
+    "response_style": "grounding",
+    "sandhi_response": "Seeing everyone's highlights can make your own struggles feel like a quiet failure, and it is completely natural to feel a sting of resentment when your own hard work hasn't been recognized yet. Give yourself permission to step away from the digital noise tonight; your journey is allowed to look different, and your quiet efforts still matter.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_048",
+    "input_id": "inp_co_pee_048",
+    "response_style": "calming",
+    "sandhi_response": "The silence of a parent's disappointment can feel far louder than any words, and it is exhausting to have your worth measured against someone else's yardstick. It is okay to feel angry and hurt right now, but please know that your struggles do not make you a failure, nor do they diminish the silent battles you fight every day.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_049",
+    "input_id": "inp_co_pee_049",
+    "response_style": "reflective",
+    "sandhi_response": "It is terrifying to feel like the odd one out in a group that seems to be speaking a different language, especially when your future feels like it's hanging in the balance. Your pace of learning is not a defect; it is simply your unique path, and you deserve patience from yourself as you bridge these gaps step by step.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_050",
+    "input_id": "inp_co_pee_050",
+    "response_style": "grounding",
+    "sandhi_response": "Holding a smile while your chest is tight with defeat is an incredibly lonely kind of exhaustion, and it makes complete sense that you needed to escape that space. Let your body rest from the pressure of competing just for tonight; you are more than a rank on a bulletin board, and your survival through this stress is what truly matters.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_051",
+    "input_id": "inp_co_pee_051",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to carry the weight of someone else’s success when you are working so hard just to keep your head above water. Your pain doesn't make you a toxic person; it just shows how deeply exhausted and terrified you are of being left behind.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_052",
+    "input_id": "inp_co_pee_052",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing others celebrate while your own security is at risk can make envy feel like a survival response rather than a character flaw. It is okay to step away and let yourself grieve the gap between your effort and your current outcome without punishing yourself for feeling hurt.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_053",
+    "input_id": "inp_co_pee_053",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When you pour your entire soul into preparation, watching someone else bypass the struggle feels deeply unjust and invalidating. Let yourself feel the anger of this unfairness without letting it convince you that your own hard work has no value.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_054",
+    "input_id": "inp_co_pee_054",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is heartbreaking when family members use someone else's achievements as a lens to measure your worth, especially when you are already carrying the weight of your backlogs. You are allowed to protect your peace by putting up boundaries, even if that means stepping away from their comparisons for a while.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_055",
+    "input_id": "inp_co_pee_055",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply exhausting to watch others receive credit for shortcuts while your genuine, exhausting labor goes unnoticed. Your anger is a very natural response to an unfair system, and it is safe to let yourself rest before you try to process the next step.",
+    "wisdom_theme": "valuing_raw_effort",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_056",
+    "input_id": "inp_co_pee_056",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly heavy to watch someone close to you fly ahead while you feel stuck, especially when that success highlights all your own deepest fears of falling behind. That physical tightness in your chest is a very real response to feeling exposed and overwhelmed; please take a slow, deep breath and let your body soften just for this moment.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_057",
+    "input_id": "inp_co_pee_057",
+    "response_style": "reflective",
+    "sandhi_response": "The pressure of having your worth measured against family milestones can make envy feel like the only shield protecting your bruised self-esteem. Hanging up that phone wasn't because you are a bad person, but because your spirit was simply too exhausted to carry the weight of everyone else's celebration right then.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_058",
+    "input_id": "inp_co_pee_058",
+    "response_style": "calming",
+    "sandhi_response": "Seeing others navigate complex skills effortlessly can make your own learning curve feel like a personal failure rather than just a natural, individual process. It makes sense that you want to retreat into sleep right now; your mind is trying to shield you from the constant, exhausting pain of comparison.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_059",
+    "input_id": "inp_co_pee_059",
+    "response_style": "grounding",
+    "sandhi_response": "It is deeply painful to watch someone else receive sole credit and opportunities for a path you also sweated over, leaving you to feel entirely unseen. Feeling resentment is a very human response to having your hard work overshadowed, and it does not mean you are a bad person—only that you are grieving the recognition you truly deserved.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_060",
+    "input_id": "inp_co_pee_060",
+    "response_style": "reflective",
+    "sandhi_response": "Stepping away from the constant flood of other people's milestones is a necessary act of self-preservation when your own spirit is feeling bruised and empty. Your value as a human being is not tied to a summer internship location, and it is completely okay to seek quiet and protect your peace right now.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_061",
+    "input_id": "inp_co_pee_061",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly heavy to carry the weight of a friend's giant leap forward when you feel anchored down by your own struggles and family pressures. Give yourself permission to feel this complicated mix of love and grief without labeling yourself as a bad person for hurting.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_062",
+    "input_id": "inp_co_pee_062",
+    "response_style": "reflective",
+    "sandhi_response": "Seeing others reach the milestones you are desperately working toward can make your own efforts feel completely invisible and quiet. It is completely natural to feel a sharp sting of unfairness; please let your heart rest tonight instead of forcing it to celebrate for them.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_063",
+    "input_id": "inp_co_pee_063",
+    "response_style": "calming",
+    "sandhi_response": "Watching someone else get rewarded so easily while you struggle honestly feels deeply unjust and exhausting. It makes complete sense that you are hurting, but please remember that your pace of learning is not a measure of your worth.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_064",
+    "input_id": "inp_co_pee_064",
+    "response_style": "grounding",
+    "sandhi_response": "It is deeply painful when the people who should protect you turn your loved ones into benchmarks of your worthiness. You are allowed to feel angry and hurt, and carrying this envy doesn't make you a monster—it just shows how tired you are of being compared.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_065",
+    "input_id": "inp_co_pee_065",
+    "response_style": "reflective",
+    "sandhi_response": "The quiet terror of feeling left behind by your peers can make a physical room feel claustrophobic and unsafe. Your path doesn't have to look like their fast-forwarded reels to still be deeply meaningful and worthy of patience.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_066",
+    "input_id": "inp_co_pee_066",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly painful to watch someone else breeze through the very things that are exhausting you, especially when that envy feels like it’s changing who you are. Your worth isn't measured by how fast you solve a sliding window problem, and it is completely human to feel hurt when your own quiet struggles aren't getting the same reward.",
+    "wisdom_theme": "valuing_raw_effort",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_067",
+    "input_id": "inp_co_pee_067",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing your father compare you to your roommate must sting deeply, especially when you are already working yourself to the bone. It is okay to need some physical distance right now to protect your own peace while you navigate this heavy pressure.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_068",
+    "input_id": "inp_co_pee_068",
+    "response_style": "reflective",
+    "sandhi_response": "It feels incredibly unfair to pour your entire soul into a project only to watch someone else take the credit because of a single anxious moment. That knot in your stomach is a valid reaction to an unjust outcome, and it doesn't mean your effort or your intelligence was any less real.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_069",
+    "input_id": "inp_co_pee_069",
+    "response_style": "calming",
+    "sandhi_response": "Sitting alone in the dark while others celebrate is a terribly heavy and isolating place to be, and lying was just your way of trying to protect a heart that is already bruised. Your timeline doesn't have to match theirs for your journey to be deeply meaningful and valid.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_070",
+    "input_id": "inp_co_pee_070",
+    "response_style": "grounding",
+    "sandhi_response": "It is so hard not to feel bitter when family group chats turn into a scoreboard that highlights your hardest struggles as failures. Please remember that a temporary backlog does not define your capacity, and you deserve gentleness while you figure things out at your own pace.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_071",
+    "input_id": "inp_co_pee_071",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is completely natural to feel a painful sting when someone close to you moves ahead, especially when you are working so hard just to keep your head above water. Please take a slow breath and let your body soften; his milestone does not diminish your worth or mean you won't find your own way forward.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_072",
+    "input_id": "inp_co_pee_072",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Hearing someone else celebrate their breakthrough while you are nursing the raw pain of a rejection is incredibly exhausting to carry. It is okay if you cannot feel happy for him right now; your grief and anxiety about your own future deserve their own quiet space to be felt.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_073",
+    "input_id": "inp_co_pee_073",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply painful when your internal struggles are laid bare next to someone else's seemingly effortless success. Let yourself step away from the phone for a while; protecting your energy right now is not selfish, it is a necessary act of healing.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_074",
+    "input_id": "inp_co_pee_074",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The weight of feeling like the only one falling behind can make you feel incredibly isolated and exposed in your own skin. Let us gently anchor your mind away from their highlight reels for tonight, reminding yourself that recovering from a backlog is its own quiet, courageous victory.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_075",
+    "input_id": "inp_co_pee_075",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Carrying your mother's quiet disappointment alongside the heavy pressure of your upcoming exams is a crushing burden for any young adult. Your value as a daughter or son does not depend on a placement figure, and you deserve to breathe through this moment without carrying the weight of familial comparisons.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_076",
+    "input_id": "inp_co_pee_076",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to sit with the sting of your friend’s success while carrying the weight of your own quiet struggles and your parents' expectations. Please remember that your value is not a variable linked to someone else’s timeline or a coding platform's feedback.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_077",
+    "input_id": "inp_co_pee_077",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply painful when your sense of self feels overshadowed by the loud, curated highlights of those around you. Muting those notifications was a kind boundary to set for yourself, and I hope you can give your mind some soft ground to rest on tonight.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_078",
+    "input_id": "inp_co_pee_078",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Feeling envy doesn't make you a toxic person; it is simply a human alarm system signaling your own deep, unmet longing for safety and validation. Be gentle with yourself for having these complex feelings, as they are born from your exhaustion, not a lack of goodness.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_079",
+    "input_id": "inp_co_pee_079",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is exhausting to have your immense effort measured against someone else's external milestones, especially by those whose approval you crave. Your hard work has real, deep value, even if it hasn't translated into the specific screen-ready achievements your family is looking for right now.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_080",
+    "input_id": "inp_co_pee_080",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly frustrating to watch your quiet dedication go unnoticed while others effortlessly claim the spotlight. Please know that your contribution was vital, and your worth is not diminished just because the room failed to look in your direction.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_081",
+    "input_id": "inp_co_pee_081",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly heavy to carry that physical ache of resentment, especially when it is mixed with the guilt of envying someone you actually like. Your worth as a programmer and a person is not being measured against your roommate’s keyboard clicks, and it is okay to let yourself breathe through this envy without judging yourself for feeling it.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_082",
+    "input_id": "inp_co_pee_082",
+    "response_style": "grounding",
+    "sandhi_response": "Seeing that spreadsheet can make you feel completely invisible, especially when your honest efforts seem to go unnoticed while others bypass the grind. Please take a moment to place a hand on your chest and let your breathing slow down; your integrity and hard work have a deeper value that a single hiring list can never define.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_083",
+    "input_id": "inp_co_pee_083",
+    "response_style": "reflective",
+    "sandhi_response": "It is deeply painful when a friendship that used to feel safe suddenly feels like a mirror reflecting your own struggles and fears. It does not make you a monster to need space to mourn your own setbacks while your closest friend is moving forward; your feelings deserve gentle holding, not harsh judgment.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_084",
+    "input_id": "inp_co_pee_084",
+    "response_style": "calming",
+    "sandhi_response": "Muting that group chat was a very wise boundary to set when your mind is already bruised from a tough interview rejection. You are not rotting, nor are you slow; you are simply resting in a hard valley right now, and it is okay to turn down the noise of other people's highlight reels while you recover.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_085",
+    "input_id": "inp_co_pee_085",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly exhausting to watch someone dismiss a grade that you would have fought for, especially when you gave your absolute all just to get through. Let your hands shake and take a deep, slow breath in this quiet space—your raw effort and endurance are incredibly real, regardless of how easily someone else seems to glide by.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_086",
+    "input_id": "inp_co_pee_086",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly heavy to carry the weight of your father's expectations while silently nursing the pain of your own rejection. That burning knot in your stomach isn't malice toward your friend; it is your own exhausted spirit grieving the recognition and security you worked so hard to earn.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_087",
+    "input_id": "inp_co_pee_087",
+    "response_style": "grounding",
+    "sandhi_response": "It is deeply exhausting to watch others harvest the rewards of seeds you also sweated over, especially when your own hard work feels unseen. Please give yourself permission to step away from the screens tonight; your worth is not a curve to be graded against someone else's timeline.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_088",
+    "input_id": "inp_co_pee_088",
+    "response_style": "calming",
+    "sandhi_response": "It makes complete sense that your hands were shaking; being mocked for struggling with something you care about is deeply painful. Learning is not a race to be won, and your quiet dedication holds far more depth than someone else's noisy milestones.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_089",
+    "input_id": "inp_co_pee_089",
+    "response_style": "reflective",
+    "sandhi_response": "Envy often shows up when we fear our struggles will cause us to lose our place among the people we love. It is okay to feel fragile right now, but please know that your quiet presence is just as valuable as their loud confidence.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_090",
+    "input_id": "inp_co_pee_090",
+    "response_style": "grounding",
+    "sandhi_response": "Your anger is not pettiness; it is a shield protecting you from the unbearable pain of feeling compared and found wanting. You deserve to be seen for the immense effort you are putting into your own path, independent of anyone else's spotlight.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_091",
+    "input_id": "inp_co_pee_091",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is so incredibly heavy to carry the weight of a family loan while watching someone close to you reach the finish line first. That hot, painful squeeze in your chest is just your own exhaustion and fear calling out for room to breathe, not a sign that you are a failure.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_092",
+    "input_id": "inp_co_pee_092",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing everyone's curated milestones all at once makes it feel like you are standing still while the world rushes past. It is completely natural to feel overwhelmed by this, but your path does not lose its value just because it is moving at its own quiet pace.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_093",
+    "input_id": "inp_co_pee_093",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply painful when a shared path suddenly feels like it is splitting, leaving you feeling isolated in your struggles. Please be gentle with yourself for grieving this gap; feeling left behind doesn't mean your own journey has run out of hope.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_094",
+    "input_id": "inp_co_pee_094",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When our security feels deeply threatened by the looming unknown of placements, our minds can grasp at desperate thoughts just to find some ground to stand on. Wishing for a level playing field doesn't make you toxic; it just shows how exhausted you are from carrying this terrifying pressure alone.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_095",
+    "input_id": "inp_co_pee_095",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly draining to feel like the people around you are wearing masks while you are left dealing with the very real, raw consequences of your struggle. Your trust was a beautiful, honest quality, and you deserve spaces where you don't have to perform or hide your fatigue.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_096",
+    "input_id": "inp_co_pee_096",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to watch someone else breeze past a finish line while you are fighting so hard for every single step. Your worth is not a variable relative to his success, and it is completely okay to let yourself feel the weight of this hurt without letting it define your capacity to grow.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_097",
+    "input_id": "inp_co_pee_097",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Your dad's silent message carries a heavy weight, but your cousin’s career path is not the blueprint for your survival or your worth. Healing from this begins with untangling your self-esteem from family chat groups and giving your mind the grace to navigate your backlogs at your own pace.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_098",
+    "input_id": "inp_co_pee_098",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply exhausting to put your whole heart into a dream only to watch it go to someone who didn't seem to sweat the same way. The bitterness you are feeling is just a raw, hurting sign of how deeply you care about your own growth; please don't let it eclipse the quiet integrity of your hard work.",
+    "wisdom_theme": "valuing_raw_effort",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_099",
+    "input_id": "inp_co_pee_099",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It hurts terribly when a friendship that used to feel like safe ground suddenly feels like a mirror highlighting your own struggles. Your journey has its own rhythm, and lagging behind in this moment does not mean you are permanently left behind or less capable.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_100",
+    "input_id": "inp_co_pee_100",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "That tight, suffocating feeling in your chest is your body bearing the weight of a painful comparison that isn't serving you right now. Let's gently pull your focus away from her screen and bring it back to your physical space, where you are safe, alive, and still fully capable of building your own path.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_101",
+    "input_id": "inp_co_pee_101",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_102",
+    "input_id": "inp_co_pee_102",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_103",
+    "input_id": "inp_co_pee_103",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_104",
+    "input_id": "inp_co_pee_104",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_105",
+    "input_id": "inp_co_pee_105",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_106",
+    "input_id": "inp_co_pee_106",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_107",
+    "input_id": "inp_co_pee_107",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_108",
+    "input_id": "inp_co_pee_108",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_109",
+    "input_id": "inp_co_pee_109",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_110",
+    "input_id": "inp_co_pee_110",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_111",
+    "input_id": "inp_co_pee_111",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_112",
+    "input_id": "inp_co_pee_112",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_113",
+    "input_id": "inp_co_pee_113",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_114",
+    "input_id": "inp_co_pee_114",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_115",
+    "input_id": "inp_co_pee_115",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_116",
+    "input_id": "inp_co_pee_116",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_117",
+    "input_id": "inp_co_pee_117",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_118",
+    "input_id": "inp_co_pee_118",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_119",
+    "input_id": "inp_co_pee_119",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_120",
+    "input_id": "inp_co_pee_120",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_121",
+    "input_id": "inp_co_pee_121",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_122",
+    "input_id": "inp_co_pee_122",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_123",
+    "input_id": "inp_co_pee_123",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_124",
+    "input_id": "inp_co_pee_124",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_125",
+    "input_id": "inp_co_pee_125",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_126",
+    "input_id": "inp_co_pee_126",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_127",
+    "input_id": "inp_co_pee_127",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_128",
+    "input_id": "inp_co_pee_128",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_129",
+    "input_id": "inp_co_pee_129",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_130",
+    "input_id": "inp_co_pee_130",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_131",
+    "input_id": "inp_co_pee_131",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_132",
+    "input_id": "inp_co_pee_132",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_133",
+    "input_id": "inp_co_pee_133",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_134",
+    "input_id": "inp_co_pee_134",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_135",
+    "input_id": "inp_co_pee_135",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_136",
+    "input_id": "inp_co_pee_136",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_137",
+    "input_id": "inp_co_pee_137",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_138",
+    "input_id": "inp_co_pee_138",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_139",
+    "input_id": "inp_co_pee_139",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_140",
+    "input_id": "inp_co_pee_140",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_141",
+    "input_id": "inp_co_pee_141",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_142",
+    "input_id": "inp_co_pee_142",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_143",
+    "input_id": "inp_co_pee_143",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_144",
+    "input_id": "inp_co_pee_144",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_145",
+    "input_id": "inp_co_pee_145",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_146",
+    "input_id": "inp_co_pee_146",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_147",
+    "input_id": "inp_co_pee_147",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_148",
+    "input_id": "inp_co_pee_148",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_149",
+    "input_id": "inp_co_pee_149",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_150",
+    "input_id": "inp_co_pee_150",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_151",
+    "input_id": "inp_co_pee_151",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_152",
+    "input_id": "inp_co_pee_152",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_153",
+    "input_id": "inp_co_pee_153",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_154",
+    "input_id": "inp_co_pee_154",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_155",
+    "input_id": "inp_co_pee_155",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_156",
+    "input_id": "inp_co_pee_156",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_157",
+    "input_id": "inp_co_pee_157",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_158",
+    "input_id": "inp_co_pee_158",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_159",
+    "input_id": "inp_co_pee_159",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_160",
+    "input_id": "inp_co_pee_160",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_161",
+    "input_id": "inp_co_pee_161",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_162",
+    "input_id": "inp_co_pee_162",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_163",
+    "input_id": "inp_co_pee_163",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_164",
+    "input_id": "inp_co_pee_164",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_165",
+    "input_id": "inp_co_pee_165",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_166",
+    "input_id": "inp_co_pee_166",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_167",
+    "input_id": "inp_co_pee_167",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_168",
+    "input_id": "inp_co_pee_168",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_169",
+    "input_id": "inp_co_pee_169",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_170",
+    "input_id": "inp_co_pee_170",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_171",
+    "input_id": "inp_co_pee_171",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_172",
+    "input_id": "inp_co_pee_172",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_173",
+    "input_id": "inp_co_pee_173",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_174",
+    "input_id": "inp_co_pee_174",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_175",
+    "input_id": "inp_co_pee_175",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_176",
+    "input_id": "inp_co_pee_176",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_177",
+    "input_id": "inp_co_pee_177",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_178",
+    "input_id": "inp_co_pee_178",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_179",
+    "input_id": "inp_co_pee_179",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_180",
+    "input_id": "inp_co_pee_180",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_181",
+    "input_id": "inp_co_pee_181",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_182",
+    "input_id": "inp_co_pee_182",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_183",
+    "input_id": "inp_co_pee_183",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_184",
+    "input_id": "inp_co_pee_184",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_185",
+    "input_id": "inp_co_pee_185",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_186",
+    "input_id": "inp_co_pee_186",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_187",
+    "input_id": "inp_co_pee_187",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_188",
+    "input_id": "inp_co_pee_188",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_189",
+    "input_id": "inp_co_pee_189",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_190",
+    "input_id": "inp_co_pee_190",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_191",
+    "input_id": "inp_co_pee_191",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_192",
+    "input_id": "inp_co_pee_192",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_193",
+    "input_id": "inp_co_pee_193",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_194",
+    "input_id": "inp_co_pee_194",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_195",
+    "input_id": "inp_co_pee_195",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_196",
+    "input_id": "inp_co_pee_196",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_197",
+    "input_id": "inp_co_pee_197",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_198",
+    "input_id": "inp_co_pee_198",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_199",
+    "input_id": "inp_co_pee_199",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_200",
+    "input_id": "inp_co_pee_200",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_201",
+    "input_id": "inp_co_pee_201",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_202",
+    "input_id": "inp_co_pee_202",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_203",
+    "input_id": "inp_co_pee_203",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_204",
+    "input_id": "inp_co_pee_204",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_205",
+    "input_id": "inp_co_pee_205",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_206",
+    "input_id": "inp_co_pee_206",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_207",
+    "input_id": "inp_co_pee_207",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_208",
+    "input_id": "inp_co_pee_208",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_209",
+    "input_id": "inp_co_pee_209",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_210",
+    "input_id": "inp_co_pee_210",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_211",
+    "input_id": "inp_co_pee_211",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_212",
+    "input_id": "inp_co_pee_212",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_213",
+    "input_id": "inp_co_pee_213",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_214",
+    "input_id": "inp_co_pee_214",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_215",
+    "input_id": "inp_co_pee_215",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_216",
+    "input_id": "inp_co_pee_216",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_217",
+    "input_id": "inp_co_pee_217",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_218",
+    "input_id": "inp_co_pee_218",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_219",
+    "input_id": "inp_co_pee_219",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_220",
+    "input_id": "inp_co_pee_220",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_221",
+    "input_id": "inp_co_pee_221",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_222",
+    "input_id": "inp_co_pee_222",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_223",
+    "input_id": "inp_co_pee_223",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_224",
+    "input_id": "inp_co_pee_224",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_225",
+    "input_id": "inp_co_pee_225",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_226",
+    "input_id": "inp_co_pee_226",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_227",
+    "input_id": "inp_co_pee_227",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_228",
+    "input_id": "inp_co_pee_228",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_229",
+    "input_id": "inp_co_pee_229",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_230",
+    "input_id": "inp_co_pee_230",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_231",
+    "input_id": "inp_co_pee_231",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_232",
+    "input_id": "inp_co_pee_232",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_233",
+    "input_id": "inp_co_pee_233",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_234",
+    "input_id": "inp_co_pee_234",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_235",
+    "input_id": "inp_co_pee_235",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_236",
+    "input_id": "inp_co_pee_236",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_237",
+    "input_id": "inp_co_pee_237",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_238",
+    "input_id": "inp_co_pee_238",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_239",
+    "input_id": "inp_co_pee_239",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_240",
+    "input_id": "inp_co_pee_240",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_241",
+    "input_id": "inp_co_pee_241",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_242",
+    "input_id": "inp_co_pee_242",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_243",
+    "input_id": "inp_co_pee_243",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_244",
+    "input_id": "inp_co_pee_244",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_245",
+    "input_id": "inp_co_pee_245",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_246",
+    "input_id": "inp_co_pee_246",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_247",
+    "input_id": "inp_co_pee_247",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_248",
+    "input_id": "inp_co_pee_248",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_249",
+    "input_id": "inp_co_pee_249",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_250",
+    "input_id": "inp_co_pee_250",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_251",
+    "input_id": "inp_co_pee_251",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_252",
+    "input_id": "inp_co_pee_252",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_253",
+    "input_id": "inp_co_pee_253",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_254",
+    "input_id": "inp_co_pee_254",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_255",
+    "input_id": "inp_co_pee_255",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_256",
+    "input_id": "inp_co_pee_256",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_257",
+    "input_id": "inp_co_pee_257",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_258",
+    "input_id": "inp_co_pee_258",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_259",
+    "input_id": "inp_co_pee_259",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_260",
+    "input_id": "inp_co_pee_260",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_261",
+    "input_id": "inp_co_pee_261",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_262",
+    "input_id": "inp_co_pee_262",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_263",
+    "input_id": "inp_co_pee_263",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_264",
+    "input_id": "inp_co_pee_264",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_265",
+    "input_id": "inp_co_pee_265",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_266",
+    "input_id": "inp_co_pee_266",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_267",
+    "input_id": "inp_co_pee_267",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_268",
+    "input_id": "inp_co_pee_268",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_269",
+    "input_id": "inp_co_pee_269",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_270",
+    "input_id": "inp_co_pee_270",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_271",
+    "input_id": "inp_co_pee_271",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_272",
+    "input_id": "inp_co_pee_272",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_273",
+    "input_id": "inp_co_pee_273",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_274",
+    "input_id": "inp_co_pee_274",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_275",
+    "input_id": "inp_co_pee_275",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_276",
+    "input_id": "inp_co_pee_276",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_277",
+    "input_id": "inp_co_pee_277",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_278",
+    "input_id": "inp_co_pee_278",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_279",
+    "input_id": "inp_co_pee_279",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_280",
+    "input_id": "inp_co_pee_280",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_281",
+    "input_id": "inp_co_pee_281",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_282",
+    "input_id": "inp_co_pee_282",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_283",
+    "input_id": "inp_co_pee_283",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_284",
+    "input_id": "inp_co_pee_284",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_285",
+    "input_id": "inp_co_pee_285",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_286",
+    "input_id": "inp_co_pee_286",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_287",
+    "input_id": "inp_co_pee_287",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_288",
+    "input_id": "inp_co_pee_288",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_289",
+    "input_id": "inp_co_pee_289",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_290",
+    "input_id": "inp_co_pee_290",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_291",
+    "input_id": "inp_co_pee_291",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_292",
+    "input_id": "inp_co_pee_292",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_293",
+    "input_id": "inp_co_pee_293",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_294",
+    "input_id": "inp_co_pee_294",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_295",
+    "input_id": "inp_co_pee_295",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_296",
+    "input_id": "inp_co_pee_296",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_297",
+    "input_id": "inp_co_pee_297",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_298",
+    "input_id": "inp_co_pee_298",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_299",
+    "input_id": "inp_co_pee_299",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_300",
+    "input_id": "inp_co_pee_300",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_301",
+    "input_id": "inp_co_pee_301",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_302",
+    "input_id": "inp_co_pee_302",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_303",
+    "input_id": "inp_co_pee_303",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_304",
+    "input_id": "inp_co_pee_304",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_305",
+    "input_id": "inp_co_pee_305",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_306",
+    "input_id": "inp_co_pee_306",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_307",
+    "input_id": "inp_co_pee_307",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_308",
+    "input_id": "inp_co_pee_308",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_309",
+    "input_id": "inp_co_pee_309",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_310",
+    "input_id": "inp_co_pee_310",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_311",
+    "input_id": "inp_co_pee_311",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_312",
+    "input_id": "inp_co_pee_312",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_313",
+    "input_id": "inp_co_pee_313",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_314",
+    "input_id": "inp_co_pee_314",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_315",
+    "input_id": "inp_co_pee_315",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_316",
+    "input_id": "inp_co_pee_316",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_317",
+    "input_id": "inp_co_pee_317",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_318",
+    "input_id": "inp_co_pee_318",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_319",
+    "input_id": "inp_co_pee_319",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_320",
+    "input_id": "inp_co_pee_320",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_321",
+    "input_id": "inp_co_pee_321",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_322",
+    "input_id": "inp_co_pee_322",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_323",
+    "input_id": "inp_co_pee_323",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_324",
+    "input_id": "inp_co_pee_324",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_325",
+    "input_id": "inp_co_pee_325",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_326",
+    "input_id": "inp_co_pee_326",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_327",
+    "input_id": "inp_co_pee_327",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_328",
+    "input_id": "inp_co_pee_328",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_329",
+    "input_id": "inp_co_pee_329",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_330",
+    "input_id": "inp_co_pee_330",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_331",
+    "input_id": "inp_co_pee_331",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_332",
+    "input_id": "inp_co_pee_332",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_333",
+    "input_id": "inp_co_pee_333",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_334",
+    "input_id": "inp_co_pee_334",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_335",
+    "input_id": "inp_co_pee_335",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_336",
+    "input_id": "inp_co_pee_336",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_337",
+    "input_id": "inp_co_pee_337",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_338",
+    "input_id": "inp_co_pee_338",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_339",
+    "input_id": "inp_co_pee_339",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_340",
+    "input_id": "inp_co_pee_340",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_341",
+    "input_id": "inp_co_pee_341",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_342",
+    "input_id": "inp_co_pee_342",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_343",
+    "input_id": "inp_co_pee_343",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_344",
+    "input_id": "inp_co_pee_344",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_345",
+    "input_id": "inp_co_pee_345",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_346",
+    "input_id": "inp_co_pee_346",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_347",
+    "input_id": "inp_co_pee_347",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_348",
+    "input_id": "inp_co_pee_348",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_349",
+    "input_id": "inp_co_pee_349",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_350",
+    "input_id": "inp_co_pee_350",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_351",
+    "input_id": "inp_co_pee_351",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_352",
+    "input_id": "inp_co_pee_352",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_353",
+    "input_id": "inp_co_pee_353",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_354",
+    "input_id": "inp_co_pee_354",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_355",
+    "input_id": "inp_co_pee_355",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_356",
+    "input_id": "inp_co_pee_356",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_357",
+    "input_id": "inp_co_pee_357",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_358",
+    "input_id": "inp_co_pee_358",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_359",
+    "input_id": "inp_co_pee_359",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_360",
+    "input_id": "inp_co_pee_360",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_361",
+    "input_id": "inp_co_pee_361",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_362",
+    "input_id": "inp_co_pee_362",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_363",
+    "input_id": "inp_co_pee_363",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_364",
+    "input_id": "inp_co_pee_364",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_365",
+    "input_id": "inp_co_pee_365",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_366",
+    "input_id": "inp_co_pee_366",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_367",
+    "input_id": "inp_co_pee_367",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_368",
+    "input_id": "inp_co_pee_368",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_369",
+    "input_id": "inp_co_pee_369",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_370",
+    "input_id": "inp_co_pee_370",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_371",
+    "input_id": "inp_co_pee_371",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_372",
+    "input_id": "inp_co_pee_372",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_373",
+    "input_id": "inp_co_pee_373",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_374",
+    "input_id": "inp_co_pee_374",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_375",
+    "input_id": "inp_co_pee_375",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_376",
+    "input_id": "inp_co_pee_376",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_377",
+    "input_id": "inp_co_pee_377",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_378",
+    "input_id": "inp_co_pee_378",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_379",
+    "input_id": "inp_co_pee_379",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_380",
+    "input_id": "inp_co_pee_380",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_381",
+    "input_id": "inp_co_pee_381",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_382",
+    "input_id": "inp_co_pee_382",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_383",
+    "input_id": "inp_co_pee_383",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_384",
+    "input_id": "inp_co_pee_384",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_385",
+    "input_id": "inp_co_pee_385",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_386",
+    "input_id": "inp_co_pee_386",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_387",
+    "input_id": "inp_co_pee_387",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_388",
+    "input_id": "inp_co_pee_388",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_389",
+    "input_id": "inp_co_pee_389",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_390",
+    "input_id": "inp_co_pee_390",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_391",
+    "input_id": "inp_co_pee_391",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_392",
+    "input_id": "inp_co_pee_392",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_393",
+    "input_id": "inp_co_pee_393",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_394",
+    "input_id": "inp_co_pee_394",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_395",
+    "input_id": "inp_co_pee_395",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_396",
+    "input_id": "inp_co_pee_396",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_397",
+    "input_id": "inp_co_pee_397",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of peer envy is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_398",
+    "input_id": "inp_co_pee_398",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_399",
+    "input_id": "inp_co_pee_399",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_co_pee_400",
+    "input_id": "inp_co_pee_400",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  }
+]

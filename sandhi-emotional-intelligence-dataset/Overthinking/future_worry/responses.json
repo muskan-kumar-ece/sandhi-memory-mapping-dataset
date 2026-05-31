@@ -1,0 +1,3602 @@
+[
+  {
+    "response_id": "rsp_ov_fut_001",
+    "input_id": "inp_ov_fut_001",
+    "response_style": "grounding",
+    "sandhi_response": "The heavy weight in your chest makes complete sense when you're carrying both your family's expectations and the loud noise of everyone else's success. Let's step away from the code and the group chats for just a moment; your worth isn't bound to an arbitrary hiring timeline or a package number.",
+    "wisdom_theme": "releasing_future",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_002",
+    "input_id": "inp_ov_fut_002",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly exhausting when your mind uses a single stressful moment to paint a dark picture of your entire career. That tense viva was a test of your nervous system under pressure, not a final verdict on your intelligence or your capability as an engineer.",
+    "wisdom_theme": "gentle_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_003",
+    "input_id": "inp_ov_fut_003",
+    "response_style": "calming",
+    "sandhi_response": "It is deeply unfair that you've poured so much of your life into this goal, only to be met with a shifting market that feels completely out of your control. Right now, your system is burnt out from fighting a future that hasn't happened yet, so let’s focus just on breathing through tonight.",
+    "wisdom_theme": "present_safety",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_004",
+    "input_id": "inp_ov_fut_004",
+    "response_style": "grounding",
+    "sandhi_response": "When you feel forced to choose between a path that drains you and a path that terrifies you, standing still feels like the only safe option. You don't have to rebuild your entire career roadmap today; just making one tiny sketch or attending one lecture is enough to break this heavy freeze.",
+    "wisdom_theme": "action_over_planning",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_005",
+    "input_id": "inp_ov_fut_005",
+    "response_style": "reflective",
+    "sandhi_response": "Seeing your friends move forward while you feel left behind in the dark is an incredibly painful, isolating experience. Please remember that a screening algorithm's rejection is not a reflection of your worth as a person, nor does it seal your fate for the rest of this season.",
+    "wisdom_theme": "unconditional_value",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_006",
+    "input_id": "inp_ov_fut_006",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to feel left behind while watching everyone else move forward, especially when you are already carrying the weight of your family's expectations. Right now, your mind is fast-forwarding to a future that hasn't happened yet; let's just take a breath together and focus only on getting through tonight.",
+    "wisdom_theme": "releasing_future",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_007",
+    "input_id": "inp_ov_fut_007",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The panic of feeling unprepared can make you forget how much hard work you have actually put in to get here. You don't have to conquer the whole semester tonight; let's just step back from the screen for five minutes to let your nervous system realize you are safe right now.",
+    "wisdom_theme": "gentle_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_008",
+    "input_id": "inp_ov_fut_008",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "That crushing weight in your chest is the burden of trying to solve the next five years of your life in a single sleepless night. You don't have to carry the whole weight of your loan and the job market tonight; let's just focus on softening your shoulders and taking one quiet breath at a time.",
+    "wisdom_theme": "present_safety",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_009",
+    "input_id": "inp_ov_fut_009",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It feels terrifying because you're treating this elective choice as a final verdict on your entire future, rather than just a single step in a long, winding journey. No single decision has the power to ruin your life, and you are allowed to choose the path that feels authentic to you without having to guarantee its destination today.",
+    "wisdom_theme": "releasing_control",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_010",
+    "input_id": "inp_ov_fut_010",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that your body is on high alert, trying to protect you from reliving that painful moment of being exposed and humiliated. But you are not that same frozen student from last semester, and tomorrow is a brand new day that doesn't have to copy the past.",
+    "wisdom_theme": "releasing_past",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_011",
+    "input_id": "inp_ov_fut_011",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of your family's financial survival is a heavy load. Your anxiety is valid, but your worth is not a financial transaction. We will take this step by step.",
+    "wisdom_theme": "one_step_today",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_012",
+    "input_id": "inp_ov_fut_012",
+    "response_style": "reflective",
+    "sandhi_response": "AI and changing markets are macro-forces, but your adaptability and personal growth are what will carry you through. Focus on the skills in your hands today.",
+    "wisdom_theme": "grounding_peace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_013",
+    "input_id": "inp_ov_fut_013",
+    "response_style": "grounding",
+    "sandhi_response": "Graduation transition friction is highly intimidating. You don't have to be a perfect adult tomorrow; you will learn how to navigate the real world as you go.",
+    "wisdom_theme": "inherent_value",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_014",
+    "input_id": "inp_ov_fut_014",
+    "response_style": "grounding",
+    "sandhi_response": "The future feels like a trap because you are viewing it through the lens of current exhaustion. Let's get some rest and address tomorrow's problems tomorrow.",
+    "wisdom_theme": "releasing_future",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_015",
+    "input_id": "inp_ov_fut_015",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel anxious about layoffs and student loans, but you do not have to solve the next five years tonight. Let's focus on today.",
+    "wisdom_theme": "grounding_peace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_016",
+    "input_id": "inp_ov_fut_016",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel suffocated when the weight of your family's future feels like it rests entirely on this one moment. Let's take a slow breath together and focus only on the very next line of code, leaving the heavy burden of tomorrow to rest for just a few minutes.",
+    "wisdom_theme": "releasing_future",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_017",
+    "input_id": "inp_ov_fut_017",
+    "response_style": "grounding",
+    "sandhi_response": "One frozen moment in a tense lab does not erase the immense effort and intelligence that brought you to this university. You are safe right now on this floor, and your worth as a person is completely intact regardless of how those registers mapped today.",
+    "wisdom_theme": "present_safety",
+    "tone": "gentle",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_018",
+    "input_id": "inp_ov_fut_018",
+    "response_style": "reflective",
+    "sandhi_response": "It's incredibly exhausting to try and map out your entire life in the quiet, vulnerable hours of the early morning. Right now, your only job is to let your mind rest; we can face the elective choices tomorrow, one single step at a time.",
+    "wisdom_theme": "one_step_today",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_019",
+    "input_id": "inp_ov_fut_019",
+    "response_style": "calming",
+    "sandhi_response": "The burden you are carrying for your family is monumentally heavy, and it makes complete sense that your chest feels tight under this immense pressure. Let's gently detach from those old emails for tonight, remembering that your survival and well-being are what truly matter most.",
+    "wisdom_theme": "releasing_pressure",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_020",
+    "input_id": "inp_ov_fut_020",
+    "response_style": "grounding",
+    "sandhi_response": "Needing to look up solutions is a normal part of learning, not a sign that you are a fraud or a disappointment. It is okay to not know everything right now; let's step away from the code for a moment and allow your mind to breathe before tomorrow.",
+    "wisdom_theme": "imperfection_grace",
+    "tone": "gentle",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_021",
+    "input_id": "inp_ov_fut_021",
+    "response_style": "grounding",
+    "sandhi_response": "The silence of a phone not buzzing can feel incredibly loud when it feels like your entire future is on the line. It is completely okay to pause the practice sheets right now and let your chest breathe; your worth isn't tied to the timeline of an algorithm.",
+    "wisdom_theme": "releasing_future",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_022",
+    "input_id": "inp_ov_fut_022",
+    "response_style": "calming",
+    "sandhi_response": "Seeing a number on a page lock you out of your plans feels incredibly suffocating, especially when you've poured so much energy into this path. Let's take a soft breath together and step away from the calculator for tonight; your life is too vast to be entirely determined by a single semester's math.",
+    "wisdom_theme": "gentle_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_023",
+    "input_id": "inp_ov_fut_023",
+    "response_style": "reflective",
+    "sandhi_response": "It makes complete sense that you want to avoid tomorrow when the memory of being laughed at still hurts so deeply. You don't have to face the entire exam panel right now; let's just focus on helping your body feel safe enough to get through tonight.",
+    "wisdom_theme": "present_safety",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_024",
+    "input_id": "inp_ov_fut_024",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of a family loan at your age is a massive emotional burden, and it is completely natural to feel crushed by the uncertainty of the job market. Please know you are not an anchor; you are a whole person navigating an incredibly difficult season, and you don't have to solve the next ten years tonight.",
+    "wisdom_theme": "releasing_pressure",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_025",
+    "input_id": "inp_ov_fut_025",
+    "response_style": "reflective",
+    "sandhi_response": "The pressure to optimize your entire life through a single elective choice is an exhausting weight to carry. You don't have to predict the entire future of the industry tonight; it is okay to choose the path where you can actually breathe and learn right now.",
+    "wisdom_theme": "trusting_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_026",
+    "input_id": "inp_ov_fut_026",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that your chest feels so tight when you are carrying the weight of that massive loan and everyone's expectations on your shoulders tonight. Right now, your body is exhausting itself trying to solve a future that hasn't happened yet; let’s just focus on taking a slow, deep breath and letting your mind rest for tonight.",
+    "wisdom_theme": "releasing_future",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_027",
+    "input_id": "inp_ov_fut_027",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly painful to feel like all the sacrifices you made over the last six months aren't showing up in a single score. But one low mock percentile doesn't seal your fate or erase your hard work; let's step back from the terrifying future scenarios and just look at what this mock actually shows you to adjust tomorrow.",
+    "wisdom_theme": "grounding_truth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_028",
+    "input_id": "inp_ov_fut_028",
+    "response_style": "calming",
+    "sandhi_response": "That freezing moment is so terrifying, and it's completely natural that your body is still shaking from the shock of blanking out under pressure. One bad interaction in a stressful lab does not mean you have lost your ability to code or that you are doomed to freeze forever.",
+    "wisdom_theme": "imperfection_grace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_029",
+    "input_id": "inp_ov_fut_029",
+    "response_style": "grounding",
+    "sandhi_response": "The pressure to map out your entire life through a single elective choice is an incredibly heavy burden to carry alone. No matter which option you choose tomorrow, you are intelligent and adaptive enough to pivot and learn along the way, so let's take a deep breath and quiet the noise of all those threads for a moment.",
+    "wisdom_theme": "present_safety",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_030",
+    "input_id": "inp_ov_fut_030",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing everyone else celebrate while you're hiding in the dark nursing a fresh rejection is a profoundly lonely and exhausting kind of pain. Your worth as a person and a programmer is not defined by how quickly you cross the finish line compared to your peers, and it is okay to just let yourself grieve this setback tonight without fixing everything.",
+    "wisdom_theme": "unconditional_value",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_031",
+    "input_id": "inp_ov_fut_031",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The weight of everyone else's progress can make your own path feel like a dead end right now, and it's completely natural to feel exhausted by that pressure. Let's step back from next year's placements for tonight; you don't have to figure out your entire career in the middle of the night.",
+    "wisdom_theme": "releasing_future",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_032",
+    "input_id": "inp_ov_fut_032",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly draining when your mind treats a mock interview like a threat to your entire future, erasing all the hard work you've put in. We can't control how your brain reacts to the screen share tomorrow, but we can remind ourselves that one shaky interview doesn't erase your actual coding capability.",
+    "wisdom_theme": "gentle_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_033",
+    "input_id": "inp_ov_fut_033",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Trying to bridge the gap between classroom learning and industry expectations can make you feel like you're drowning in tools you were never properly taught. You don't need to master system architecture tonight to prove you belong in this field; it's okay to just be someone who is currently figuring out a broken API.",
+    "wisdom_theme": "imperfection_grace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_034",
+    "input_id": "inp_ov_fut_034",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Carrying the weight of a family loan alongside your academic load is a massive, exhausting burden for any student to bear. Let's take a deep breath together and remember that this overwhelming debt anxiety is a systemic pressure, not a reflection of your worth or future capability.",
+    "wisdom_theme": "somatic_peace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_035",
+    "input_id": "inp_ov_fut_035",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "A single backlog can feel like a permanent stain that blocks out any possibility of a good career, freezing you in place when you try to move forward. You don't have to fix your entire academic trajectory today; let's just focus on understanding one circuit component without letting it define your whole future.",
+    "wisdom_theme": "present_safety",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_036",
+    "input_id": "inp_ov_fut_036",
+    "response_style": "grounding",
+    "sandhi_response": "The weight of that spreadsheet and the silence of the night can make the future feel incredibly small and terrifying. Right now, your chest is tight and you need to breathe; let's leave the placement tracker in tomorrow's hands and just focus on bringing some quiet safety back to your body for tonight.",
+    "wisdom_theme": "releasing_future",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_037",
+    "input_id": "inp_ov_fut_037",
+    "response_style": "calming",
+    "sandhi_response": "It feels like you are trying to solve your entire life's equation with a single form, but no elective has the power to permanently trap you. We can't predict the industry's future, but you can trust your ability to adapt and learn whichever path you step onto tomorrow.",
+    "wisdom_theme": "releasing_control",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_038",
+    "input_id": "inp_ov_fut_038",
+    "response_style": "reflective",
+    "sandhi_response": "That sigh from the examiner must have cut deep, making your mind freeze up out of pure survival mode. Let's step back from the terrifying mountain of 'what-ifs' and just focus on giving your exhausted brain some rest so you can show up tomorrow as you are, not as a perfect machine.",
+    "wisdom_theme": "gentle_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_039",
+    "input_id": "inp_ov_fut_039",
+    "response_style": "grounding",
+    "sandhi_response": "The weight of a financial loan combined with a turbulent job market is an incredibly heavy burden for anyone to carry alone. While those numbers are real, trying to solve them at midnight won't change them; for tonight, let your mind rest in the safety of the present moment.",
+    "wisdom_theme": "present_safety",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_040",
+    "input_id": "inp_ov_fut_040",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly painful to feel like you are standing in the shadows of everyone else's celebration, carrying the heavy fear of letting down those you love. Your worth as a person is not measured by an offer letter on graduation day, even when it feels like the entire world says otherwise.",
+    "wisdom_theme": "unconditional_value",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_041",
+    "input_id": "inp_ov_fut_041",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The weight of trying to secure your entire future in a single coding test is an incredibly heavy burden to carry alone. Right now, your safety isn't defined by next month's placement list; let's just focus on taking a slow breath and letting your body rest for tonight.",
+    "wisdom_theme": "releasing_future",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_042",
+    "input_id": "inp_ov_fut_042",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to feel like your worth and future are locked behind a single decimal point, especially when you see that disappointment in your mother's eyes. Your journey is not over or defined by a rigid company cutoff, and we can find alternative paths forward once you've allowed yourself space to breathe and process this heavy moment.",
+    "wisdom_theme": "unconditional_value",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_043",
+    "input_id": "inp_ov_fut_043",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Freezing under pressure is a natural neurological response, not a measure of your actual intelligence or preparation. It is completely okay that your system became overwhelmed today; let's gently bring you back to the safety of the present moment before worrying about next week's exams.",
+    "wisdom_theme": "gentle_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_044",
+    "input_id": "inp_ov_fut_044",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It feels like you are trying to solve the puzzle of your entire life with a single academic choice, which is an agonizing amount of pressure to put on yourself. No single elective has the power to permanently lock you out of a fulfilling career, as paths in tech are fluid and you will always have the agency to adapt and pivot along the way.",
+    "wisdom_theme": "experiment_mindset",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_045",
+    "input_id": "inp_ov_fut_045",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The heavy burden of financial responsibility combined with the silence of the job hunt is an exhausting and deeply isolating space to navigate. Please remember that the timing of your first job offer does not define your capabilities or your worth as a child, even when the pressure of the clock makes it feel that way.",
+    "wisdom_theme": "releasing_pressure",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_046",
+    "input_id": "inp_ov_fut_046",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that your chest feels tight when you are looking at all these numbers and comparing your timeline to everyone else's. Let's take a deep breath right now; your worth is not tied to a company's day-one schedule, and we can figure out your next small coding step together.",
+    "wisdom_theme": "releasing_future",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_047",
+    "input_id": "inp_ov_fut_047",
+    "response_style": "calming",
+    "sandhi_response": "That physical knot in your stomach is a very real response to the huge pressure you are putting on yourself to perform perfectly tomorrow. It is okay if you don't have every edge case memorized, so try to let your mind rest tonight and trust that one viva does not define your entire intelligence.",
+    "wisdom_theme": "present_safety",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_048",
+    "input_id": "inp_ov_fut_048",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of your parents' expectations alongside your own career fears is an incredibly heavy burden to bear. We can't control the job market or their comparisons today, but we can focus on protecting your peace of mind and taking things one small practice test at a time.",
+    "wisdom_theme": "releasing_pressure",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_049",
+    "input_id": "inp_ov_fut_049",
+    "response_style": "grounding",
+    "sandhi_response": "It feels like a single choice right now will lock you into your entire future, which is why your mind is spinning so fast. Remember that no single elective determines your whole career path, and you have the capacity to learn, pivot, and adapt no matter what you choose today.",
+    "wisdom_theme": "experiment_mindset",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_050",
+    "input_id": "inp_ov_fut_050",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly exhausting when a single quiz score feels like it has already written the story of your entire future. Let's gently pull your focus away from those distant screening filters and just focus on what you can actually control right now in this study session.",
+    "wisdom_theme": "one_step_today",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_051",
+    "input_id": "inp_ov_fut_051",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that carrying a heavy financial responsibility makes every code error feel like a threat to your entire future. Let's step away from the massive looming numbers for just a moment and focus on the line of code right in front of you—you do not have to solve your whole life tonight.",
+    "wisdom_theme": "releasing_future",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_052",
+    "input_id": "inp_ov_fut_052",
+    "response_style": "reflective",
+    "sandhi_response": "The weight of silent comparisons is incredibly heavy to carry, especially when you are already dealing with the sting of quiet rejections. Your worth as a person is not bound to the pace of someone else's timeline, or the package you secure at the end of this road.",
+    "wisdom_theme": "unconditional_value",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_053",
+    "input_id": "inp_ov_fut_053",
+    "response_style": "calming",
+    "sandhi_response": "When exhaustion takes over, your mind will naturally spin up the most terrifying scenarios to keep you on high alert. Right now, your body desperately needs rest more than it needs another system architecture review, so let's try to focus just on the soft weight of your blanket and the safety of this present moment.",
+    "wisdom_theme": "present_safety",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_054",
+    "input_id": "inp_ov_fut_054",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly stressful when a simple portal selection feels like it has the power to define the next ten years of your life. Remember that your career is a fluid series of pivots and continuous learning, not a single track that locks you in forever based on one college elective.",
+    "wisdom_theme": "experiment_mindset",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_055",
+    "input_id": "inp_ov_fut_055",
+    "response_style": "reflective",
+    "sandhi_response": "Freezing under pressure is a physiological reflex, not a reflection of your intelligence or your readiness to build a career. A mock interview is precisely the place designed to let these panics happen safely so you can gently learn how to breathe through them next time.",
+    "wisdom_theme": "imperfection_grace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_056",
+    "input_id": "inp_ov_fut_056",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The weight of everyone's expectations can make the future feel like a wall closing in on you right now. It is completely okay to pause tonight and breathe; your worth isn't bound to a placement spreadsheet, and you don't have to figure out next July in this very room.",
+    "wisdom_theme": "releasing_future",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_057",
+    "input_id": "inp_ov_fut_057",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When financial survival and academic setbacks collide, the panic can feel physically overwhelming. Let's step back from the massive mountain of debt for just a moment and focus solely on helping your nervous system feel safe right here where you are.",
+    "wisdom_theme": "presence",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_058",
+    "input_id": "inp_ov_fut_058",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes total sense that you are trembling after carrying this entire project on your own shoulders. No single 15-minute presentation can undo the reality of the work you built block by block, and your body deserves a soft breath to rest from this immense pressure.",
+    "wisdom_theme": "grounding_truth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_059",
+    "input_id": "inp_ov_fut_059",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Carrying the weight of a major decision when the path ahead looks this uncertain is an exhausting burden to hold. Your life isn't locked in at twenty, and we can look at your options gently, one small pivot at a time, whenever you are ready.",
+    "wisdom_theme": "pivoting_forward",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_060",
+    "input_id": "inp_ov_fut_060",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The constant noise of a tough job market can make even your best efforts feel completely futile right now. It is okay to set aside the job search for tonight and just protect your peace of mind from a future you cannot control.",
+    "wisdom_theme": "cognitive_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_061",
+    "input_id": "inp_ov_fut_061",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely exhausting to carry the weight of a future you haven't even stepped into yet. Let’s bring your breath back to this room tonight; you don't have to solve your entire career at four in the morning.",
+    "wisdom_theme": "releasing_future",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_062",
+    "input_id": "inp_ov_fut_062",
+    "response_style": "reflective",
+    "sandhi_response": "That 45-minute window feels like a giant, unfair lens on your entire worth, and it makes total sense why your chest feels tight thinking about it. Right now, your system is treating a future possibility as an active danger, so let's just focus on taking a deep, slow breath to remind your body you are safe in this moment.",
+    "wisdom_theme": "present_safety",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_063",
+    "input_id": "inp_ov_fut_063",
+    "response_style": "calming",
+    "sandhi_response": "It is incredibly painful to have your worth measured against someone else’s highlight reel, especially when it comes from family. Your timeline is allowed to look different, and your value as a person isn't tied to a corporate package.",
+    "wisdom_theme": "unconditional_value",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_064",
+    "input_id": "inp_ov_fut_064",
+    "response_style": "grounding",
+    "sandhi_response": "One freeze-up during a stressful viva doesn't mean you lack the capability to build a meaningful career. It simply means you are a human being whose nervous system got overwhelmed today, and that deserves kindness rather than condemnation.",
+    "wisdom_theme": "imperfection_grace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_065",
+    "input_id": "inp_ov_fut_065",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the financial survival of your family on your shoulders while trying to learn is an unimaginably heavy burden to bear. Let's step away from the IDE for just a few minutes right now to let your chest soften; you don't have to carry the entire weight of this debt in a single afternoon.",
+    "wisdom_theme": "releasing_pressure",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_066",
+    "input_id": "inp_ov_fut_066",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that your chest feels heavy when you're carrying the weight of everyone's expectations alongside your own. Right now, your mind is fast-forwarding to the worst possible outcome, but we don't have to solve your entire career tonight—let's just take a slow breath and bring you back to this quiet room where you are safe.",
+    "wisdom_theme": "releasing_future",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_067",
+    "input_id": "inp_ov_fut_067",
+    "response_style": "calming",
+    "sandhi_response": "The pressure of that loan must feel like an anchor holding you down while you're trying to swim through complex problems. Let's step away from the code editor for just a moment; you do not have to conquer the entire tech industry or pay back that loan in this single evening.",
+    "wisdom_theme": "one_step_today",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_068",
+    "input_id": "inp_ov_fut_068",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly painful to feel like one bad day in a lab has locked you out of your future, and it is natural to feel scared of letting down the people you love. But a single grade sheet can never define your intelligence or your capacity to build a meaningful life, even if it feels like everything is on the line right now.",
+    "wisdom_theme": "self_forgiveness",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_069",
+    "input_id": "inp_ov_fut_069",
+    "response_style": "grounding",
+    "sandhi_response": "You are putting so much pressure on this single choice, as if it is a trap door that will lock your future in place forever. Careers are fluid, winding paths, and whatever elective you choose this Friday, you will still have the capacity to learn, adapt, and redirect your course later on.",
+    "wisdom_theme": "releasing_control",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_070",
+    "input_id": "inp_ov_fut_070",
+    "response_style": "reflective",
+    "sandhi_response": "It is deeply exhausting to watch others cross the finish line while you are still navigating the dark, wondering when your turn will come. Your worth is not measured by how quickly you secure a transition into the next phase; you are allowed to move at your own pace and rest when the weight of waiting becomes too heavy.",
+    "wisdom_theme": "unconditional_value",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_071",
+    "input_id": "inp_ov_fut_071",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to carry the weight of everyone else's expectations while you are trying to heal your own academic setbacks. Right now, your worth isn't tied to a placement package, so let's just focus on taking a single deep breath and getting through tonight.",
+    "wisdom_theme": "releasing_future",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_072",
+    "input_id": "inp_ov_fut_072",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Staring at a blank screen while feeling like everyone else is miles ahead is exhausting, and it makes complete sense why you feel frozen. You don't have to master all of DSA tonight; let's just step away from the screen for ten minutes to let your nervous system settle.",
+    "wisdom_theme": "action_over_planning",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_073",
+    "input_id": "inp_ov_fut_073",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "That 3 AM fear of being exposed or failing can make the morning feel like an impossible mountain to climb. No matter how the professor reacts tomorrow, your intelligence and your dream of grad school are far too resilient to be broken by a single lab score.",
+    "wisdom_theme": "present_safety",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_074",
+    "input_id": "inp_ov_fut_074",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Choosing a path when the pressure to optimize your entire future is so intense can feel utterly suffocating. It is okay to breathe and remember that no single elective choice has the power to permanently lock you out of a fulfilling career.",
+    "wisdom_theme": "releasing_pressure",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_075",
+    "input_id": "inp_ov_fut_075",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Hearing 'no' repeatedly after pouring your entire soul and energy into preparing is a deeply exhausting, painful experience. You are dealing with real, structural pressures right now, so please give yourself permission to rest your mind tonight instead of trying to solve the rest of your life.",
+    "wisdom_theme": "gentle_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_076",
+    "input_id": "inp_ov_fut_076",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to carry the weight of that loan while feeling like your mind is locking doors on you when you need them open most. Let's just breathe through this 4 AM panic together; your worth as a human being is not bound to a dynamic programming solution.",
+    "wisdom_theme": "present_safety",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_077",
+    "input_id": "inp_ov_fut_077",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The pressure to choose perfectly right now feels like a trap, especially when your heart is pulling you away from what everyone else calls 'safety.' You don't have to figure out your entire thirty-year career tonight—just focus on what feels livable for you today.",
+    "wisdom_theme": "releasing_future",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_078",
+    "input_id": "inp_ov_fut_078",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "That cafeteria floor can feel like the loneliest place in the world when a bad grade makes you feel like you've disappointed the people you love. Your parents' love for you is far deeper than a single semester's GPA, even if the fear makes that hard to see right now.",
+    "wisdom_theme": "unconditional_value",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_079",
+    "input_id": "inp_ov_fut_079",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Graduating into an uncertain market is genuinely terrifying, and it makes total sense that you feel overwhelmed by the vast gap between your current learning and the industry's demands. You don't need to be a perfect full-stack expert tonight; taking things one small, messy step at a time is enough to survive this.",
+    "wisdom_theme": "one_step_today",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_080",
+    "input_id": "inp_ov_fut_080",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "That quiet disappointment in a parent’s voice is a heavy, quiet ache to carry back to your hostel room. Please remember that your value is not a number on an offer letter, and you are allowed to build your path at a pace that doesn't break you.",
+    "wisdom_theme": "imperfection_grace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_081",
+    "input_id": "inp_ov_fut_081",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The weight of your family's expectations combined with the noise of the job market must feel absolutely crushing right now. Let’s take a soft breath together and remember that your worth cannot be measured by a hiring algorithm or a temporary market phase.",
+    "wisdom_theme": "releasing_future",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_082",
+    "input_id": "inp_ov_fut_082",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The terrifying pressure of a financial loan can make the future feel like a trap closing in on you. Right now, in this exact moment, you are safe, and we only need to navigate the step right in front of us rather than carrying the weight of the next ten years tonight.",
+    "wisdom_theme": "present_safety",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_083",
+    "input_id": "inp_ov_fut_083",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that your mind is trying to protect you by replaying that painful memory, but tomorrow is a completely new day, not a rerun of your past. Let's gently release the weight of that examiner's unkindness and focus on how much you have survived since then.",
+    "wisdom_theme": "gentle_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_084",
+    "input_id": "inp_ov_fut_084",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The pressure to optimize your entire life with a single choice is an exhausting and impossible burden to carry. No elective choice has the power to permanently lock you in, because your capacity to adapt and learn will always outlive any market trend.",
+    "wisdom_theme": "experiment_mindset",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_085",
+    "input_id": "inp_ov_fut_085",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Watching those around you step ahead while you feel left in the dark is a deeply painful and isolating experience. Please be incredibly gentle with yourself tonight; this single list does not define your capabilities or dictate where your journey will ultimately lead.",
+    "wisdom_theme": "self_forgiveness",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_086",
+    "input_id": "inp_ov_fut_086",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The weight of that loan and the pressure to perform must feel incredibly heavy right now, making it hard to even breathe. It is completely understandable to feel overwhelmed, but please remember your worth is not defined by how fast you solve a graph traversal tonight.",
+    "wisdom_theme": "releasing_pressure",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_087",
+    "input_id": "inp_ov_fut_087",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Watching others celebrate while you sit with the sting of rejection is a deeply painful and isolating place to be. It is okay to feel exhausted by this climb, but these early rejections do not write the final chapter of your career.",
+    "wisdom_theme": "releasing_future",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_088",
+    "input_id": "inp_ov_fut_088",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "That physical panic is your body trying to protect you from the pain of last semester's freeze. Right now, you are safe in your room, and tomorrow's viva is a brand new moment that doesn't have to repeat the past.",
+    "wisdom_theme": "present_safety",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_089",
+    "input_id": "inp_ov_fut_089",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It feels like you are being asked to solve your entire life's equation with just one choice, which is an unfair amount of pressure to carry. Whichever path you pick on Friday, you will still have the agency and time to pivot, adapt, and build a career you love.",
+    "wisdom_theme": "pivoting_forward",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_090",
+    "input_id": "inp_ov_fut_090",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to have your worth compared to numbers at the dinner table, especially when you are already trying your hardest to navigate this brutal cycle. Please allow yourself to rest tonight; you are not a failure for needing time to find your footing.",
+    "wisdom_theme": "unconditional_value",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_091",
+    "input_id": "inp_ov_fut_091",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly heavy to carry the weight of an imagined future while trying to heal from past setbacks. Let's step back from those five-year projections for just a moment; your worth is not defined by their timeline, and you only need to navigate this single day.",
+    "wisdom_theme": "releasing_future",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_092",
+    "input_id": "inp_ov_fut_092",
+    "response_style": "calming",
+    "sandhi_response": "Failing a mock test under pressure feels like a terrifying preview of what's to come, but a single segmentation fault does not dictate your entire capability. Your nervous system is exhausted right now, so please let yourself rest tonight and we can tackle one small coding step tomorrow.",
+    "wisdom_theme": "gentle_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_093",
+    "input_id": "inp_ov_fut_093",
+    "response_style": "reflective",
+    "sandhi_response": "The weight of a family's financial sacrifice can make every academic dip feel like an absolute catastrophe. You are carrying a burden that is far too heavy for any student, but please remember that your value as a person is entirely separate from a GPA decimal.",
+    "wisdom_theme": "releasing_pressure",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_094",
+    "input_id": "inp_ov_fut_094",
+    "response_style": "grounding",
+    "sandhi_response": "When the industry feels volatile, trying to predict the 'perfect' career path can leave you completely frozen. There is no single decision that will make or break your entire life; let's breathe through the panic and focus on what feels manageable to learn right now.",
+    "wisdom_theme": "present_safety",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_095",
+    "input_id": "inp_ov_fut_095",
+    "response_style": "reflective",
+    "sandhi_response": "Freezing in front of an examiner is a natural response to extreme stress, not a reflection of your intelligence or your future career. This one difficult viva does not erase all your hard work, and you deserve a moment of gentleness after such a grueling day.",
+    "wisdom_theme": "imperfection_grace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_096",
+    "input_id": "inp_ov_fut_096",
+    "response_style": "grounding",
+    "sandhi_response": "The crushing weight of those comparison-filled phone calls and rejection emails is a lot to bear, and it makes complete sense that you're feeling so terrified right now. Let’s take a breath together and remember that this single, chaotic hiring season does not define your entire worth or lock your future in place.",
+    "wisdom_theme": "present_safety",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_097",
+    "input_id": "inp_ov_fut_097",
+    "response_style": "reflective",
+    "sandhi_response": "It feels incredibly terrifying when one bad exam feels like a domino effect that will collapse your entire future. Right now, your mind is trying to solve a lifetime of problems in the middle of the night, but for tonight, you are allowed to just put down the weight of tomorrow.",
+    "wisdom_theme": "releasing_future",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_098",
+    "input_id": "inp_ov_fut_098",
+    "response_style": "grounding",
+    "sandhi_response": "When every choice feels like a high-stakes trap, it is completely natural that your chest feels tight and your mind is spinning. There is no single 'perfect' path that dictates your entire career, so let's focus on what feels manageable for you to study this coming semester rather than trying to predict the global tech market.",
+    "wisdom_theme": "action_over_planning",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_099",
+    "input_id": "inp_ov_fut_099",
+    "response_style": "calming",
+    "sandhi_response": "Your mind is projecting a worst-case scenario to try and protect you from feeling vulnerable, but those imagined disasters are not your reality right now. You have built this codebase block by block, and tonight, your only task is to let your body rest so it can support you tomorrow.",
+    "wisdom_theme": "gentle_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_100",
+    "input_id": "inp_ov_fut_100",
+    "response_style": "reflective",
+    "sandhi_response": "Watching peers cross milestones while you are still waiting for your break can make you feel incredibly lonely and left behind. Your journey is unfolding on its own timeline, and staying back to find your footing doesn't erase your hard work or make you any less capable.",
+    "wisdom_theme": "unconditional_value",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_101",
+    "input_id": "inp_ov_fut_101",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_102",
+    "input_id": "inp_ov_fut_102",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_103",
+    "input_id": "inp_ov_fut_103",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_104",
+    "input_id": "inp_ov_fut_104",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_105",
+    "input_id": "inp_ov_fut_105",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_106",
+    "input_id": "inp_ov_fut_106",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_107",
+    "input_id": "inp_ov_fut_107",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_108",
+    "input_id": "inp_ov_fut_108",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_109",
+    "input_id": "inp_ov_fut_109",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_110",
+    "input_id": "inp_ov_fut_110",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_111",
+    "input_id": "inp_ov_fut_111",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_112",
+    "input_id": "inp_ov_fut_112",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_113",
+    "input_id": "inp_ov_fut_113",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_114",
+    "input_id": "inp_ov_fut_114",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_115",
+    "input_id": "inp_ov_fut_115",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_116",
+    "input_id": "inp_ov_fut_116",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_117",
+    "input_id": "inp_ov_fut_117",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_118",
+    "input_id": "inp_ov_fut_118",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_119",
+    "input_id": "inp_ov_fut_119",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_120",
+    "input_id": "inp_ov_fut_120",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_121",
+    "input_id": "inp_ov_fut_121",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_122",
+    "input_id": "inp_ov_fut_122",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_123",
+    "input_id": "inp_ov_fut_123",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_124",
+    "input_id": "inp_ov_fut_124",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_125",
+    "input_id": "inp_ov_fut_125",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_126",
+    "input_id": "inp_ov_fut_126",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_127",
+    "input_id": "inp_ov_fut_127",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_128",
+    "input_id": "inp_ov_fut_128",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_129",
+    "input_id": "inp_ov_fut_129",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_130",
+    "input_id": "inp_ov_fut_130",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_131",
+    "input_id": "inp_ov_fut_131",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_132",
+    "input_id": "inp_ov_fut_132",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_133",
+    "input_id": "inp_ov_fut_133",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_134",
+    "input_id": "inp_ov_fut_134",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_135",
+    "input_id": "inp_ov_fut_135",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_136",
+    "input_id": "inp_ov_fut_136",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_137",
+    "input_id": "inp_ov_fut_137",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_138",
+    "input_id": "inp_ov_fut_138",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_139",
+    "input_id": "inp_ov_fut_139",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_140",
+    "input_id": "inp_ov_fut_140",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_141",
+    "input_id": "inp_ov_fut_141",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_142",
+    "input_id": "inp_ov_fut_142",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_143",
+    "input_id": "inp_ov_fut_143",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_144",
+    "input_id": "inp_ov_fut_144",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_145",
+    "input_id": "inp_ov_fut_145",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_146",
+    "input_id": "inp_ov_fut_146",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_147",
+    "input_id": "inp_ov_fut_147",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_148",
+    "input_id": "inp_ov_fut_148",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_149",
+    "input_id": "inp_ov_fut_149",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_150",
+    "input_id": "inp_ov_fut_150",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_151",
+    "input_id": "inp_ov_fut_151",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_152",
+    "input_id": "inp_ov_fut_152",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_153",
+    "input_id": "inp_ov_fut_153",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_154",
+    "input_id": "inp_ov_fut_154",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_155",
+    "input_id": "inp_ov_fut_155",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_156",
+    "input_id": "inp_ov_fut_156",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_157",
+    "input_id": "inp_ov_fut_157",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_158",
+    "input_id": "inp_ov_fut_158",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_159",
+    "input_id": "inp_ov_fut_159",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_160",
+    "input_id": "inp_ov_fut_160",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_161",
+    "input_id": "inp_ov_fut_161",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_162",
+    "input_id": "inp_ov_fut_162",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_163",
+    "input_id": "inp_ov_fut_163",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_164",
+    "input_id": "inp_ov_fut_164",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_165",
+    "input_id": "inp_ov_fut_165",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_166",
+    "input_id": "inp_ov_fut_166",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_167",
+    "input_id": "inp_ov_fut_167",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_168",
+    "input_id": "inp_ov_fut_168",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_169",
+    "input_id": "inp_ov_fut_169",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_170",
+    "input_id": "inp_ov_fut_170",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_171",
+    "input_id": "inp_ov_fut_171",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_172",
+    "input_id": "inp_ov_fut_172",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_173",
+    "input_id": "inp_ov_fut_173",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_174",
+    "input_id": "inp_ov_fut_174",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_175",
+    "input_id": "inp_ov_fut_175",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_176",
+    "input_id": "inp_ov_fut_176",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_177",
+    "input_id": "inp_ov_fut_177",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_178",
+    "input_id": "inp_ov_fut_178",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_179",
+    "input_id": "inp_ov_fut_179",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_180",
+    "input_id": "inp_ov_fut_180",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_181",
+    "input_id": "inp_ov_fut_181",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_182",
+    "input_id": "inp_ov_fut_182",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_183",
+    "input_id": "inp_ov_fut_183",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_184",
+    "input_id": "inp_ov_fut_184",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_185",
+    "input_id": "inp_ov_fut_185",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_186",
+    "input_id": "inp_ov_fut_186",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_187",
+    "input_id": "inp_ov_fut_187",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_188",
+    "input_id": "inp_ov_fut_188",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_189",
+    "input_id": "inp_ov_fut_189",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_190",
+    "input_id": "inp_ov_fut_190",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_191",
+    "input_id": "inp_ov_fut_191",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_192",
+    "input_id": "inp_ov_fut_192",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_193",
+    "input_id": "inp_ov_fut_193",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_194",
+    "input_id": "inp_ov_fut_194",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_195",
+    "input_id": "inp_ov_fut_195",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_196",
+    "input_id": "inp_ov_fut_196",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_197",
+    "input_id": "inp_ov_fut_197",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_198",
+    "input_id": "inp_ov_fut_198",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_199",
+    "input_id": "inp_ov_fut_199",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_200",
+    "input_id": "inp_ov_fut_200",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_201",
+    "input_id": "inp_ov_fut_201",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_202",
+    "input_id": "inp_ov_fut_202",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_203",
+    "input_id": "inp_ov_fut_203",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_204",
+    "input_id": "inp_ov_fut_204",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_205",
+    "input_id": "inp_ov_fut_205",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_206",
+    "input_id": "inp_ov_fut_206",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_207",
+    "input_id": "inp_ov_fut_207",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_208",
+    "input_id": "inp_ov_fut_208",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_209",
+    "input_id": "inp_ov_fut_209",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_210",
+    "input_id": "inp_ov_fut_210",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_211",
+    "input_id": "inp_ov_fut_211",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_212",
+    "input_id": "inp_ov_fut_212",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_213",
+    "input_id": "inp_ov_fut_213",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_214",
+    "input_id": "inp_ov_fut_214",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_215",
+    "input_id": "inp_ov_fut_215",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_216",
+    "input_id": "inp_ov_fut_216",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_217",
+    "input_id": "inp_ov_fut_217",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_218",
+    "input_id": "inp_ov_fut_218",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_219",
+    "input_id": "inp_ov_fut_219",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_220",
+    "input_id": "inp_ov_fut_220",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_221",
+    "input_id": "inp_ov_fut_221",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_222",
+    "input_id": "inp_ov_fut_222",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_223",
+    "input_id": "inp_ov_fut_223",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_224",
+    "input_id": "inp_ov_fut_224",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_225",
+    "input_id": "inp_ov_fut_225",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_226",
+    "input_id": "inp_ov_fut_226",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_227",
+    "input_id": "inp_ov_fut_227",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_228",
+    "input_id": "inp_ov_fut_228",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_229",
+    "input_id": "inp_ov_fut_229",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_230",
+    "input_id": "inp_ov_fut_230",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_231",
+    "input_id": "inp_ov_fut_231",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_232",
+    "input_id": "inp_ov_fut_232",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_233",
+    "input_id": "inp_ov_fut_233",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_234",
+    "input_id": "inp_ov_fut_234",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_235",
+    "input_id": "inp_ov_fut_235",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_236",
+    "input_id": "inp_ov_fut_236",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_237",
+    "input_id": "inp_ov_fut_237",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_238",
+    "input_id": "inp_ov_fut_238",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_239",
+    "input_id": "inp_ov_fut_239",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_240",
+    "input_id": "inp_ov_fut_240",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_241",
+    "input_id": "inp_ov_fut_241",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_242",
+    "input_id": "inp_ov_fut_242",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_243",
+    "input_id": "inp_ov_fut_243",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_244",
+    "input_id": "inp_ov_fut_244",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_245",
+    "input_id": "inp_ov_fut_245",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_246",
+    "input_id": "inp_ov_fut_246",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_247",
+    "input_id": "inp_ov_fut_247",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_248",
+    "input_id": "inp_ov_fut_248",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_249",
+    "input_id": "inp_ov_fut_249",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_250",
+    "input_id": "inp_ov_fut_250",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_251",
+    "input_id": "inp_ov_fut_251",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_252",
+    "input_id": "inp_ov_fut_252",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_253",
+    "input_id": "inp_ov_fut_253",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_254",
+    "input_id": "inp_ov_fut_254",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_255",
+    "input_id": "inp_ov_fut_255",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_256",
+    "input_id": "inp_ov_fut_256",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_257",
+    "input_id": "inp_ov_fut_257",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_258",
+    "input_id": "inp_ov_fut_258",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_259",
+    "input_id": "inp_ov_fut_259",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_260",
+    "input_id": "inp_ov_fut_260",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_261",
+    "input_id": "inp_ov_fut_261",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_262",
+    "input_id": "inp_ov_fut_262",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_263",
+    "input_id": "inp_ov_fut_263",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_264",
+    "input_id": "inp_ov_fut_264",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_265",
+    "input_id": "inp_ov_fut_265",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_266",
+    "input_id": "inp_ov_fut_266",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_267",
+    "input_id": "inp_ov_fut_267",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_268",
+    "input_id": "inp_ov_fut_268",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_269",
+    "input_id": "inp_ov_fut_269",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_270",
+    "input_id": "inp_ov_fut_270",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_271",
+    "input_id": "inp_ov_fut_271",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_272",
+    "input_id": "inp_ov_fut_272",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_273",
+    "input_id": "inp_ov_fut_273",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_274",
+    "input_id": "inp_ov_fut_274",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_275",
+    "input_id": "inp_ov_fut_275",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_276",
+    "input_id": "inp_ov_fut_276",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_277",
+    "input_id": "inp_ov_fut_277",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_278",
+    "input_id": "inp_ov_fut_278",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_279",
+    "input_id": "inp_ov_fut_279",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_280",
+    "input_id": "inp_ov_fut_280",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_281",
+    "input_id": "inp_ov_fut_281",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_282",
+    "input_id": "inp_ov_fut_282",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_283",
+    "input_id": "inp_ov_fut_283",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_284",
+    "input_id": "inp_ov_fut_284",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_285",
+    "input_id": "inp_ov_fut_285",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_286",
+    "input_id": "inp_ov_fut_286",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_287",
+    "input_id": "inp_ov_fut_287",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_288",
+    "input_id": "inp_ov_fut_288",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_289",
+    "input_id": "inp_ov_fut_289",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_290",
+    "input_id": "inp_ov_fut_290",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_291",
+    "input_id": "inp_ov_fut_291",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_292",
+    "input_id": "inp_ov_fut_292",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_293",
+    "input_id": "inp_ov_fut_293",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_294",
+    "input_id": "inp_ov_fut_294",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_295",
+    "input_id": "inp_ov_fut_295",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_296",
+    "input_id": "inp_ov_fut_296",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_297",
+    "input_id": "inp_ov_fut_297",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_298",
+    "input_id": "inp_ov_fut_298",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_299",
+    "input_id": "inp_ov_fut_299",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_300",
+    "input_id": "inp_ov_fut_300",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_301",
+    "input_id": "inp_ov_fut_301",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_302",
+    "input_id": "inp_ov_fut_302",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_303",
+    "input_id": "inp_ov_fut_303",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_304",
+    "input_id": "inp_ov_fut_304",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_305",
+    "input_id": "inp_ov_fut_305",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_306",
+    "input_id": "inp_ov_fut_306",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_307",
+    "input_id": "inp_ov_fut_307",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_308",
+    "input_id": "inp_ov_fut_308",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_309",
+    "input_id": "inp_ov_fut_309",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_310",
+    "input_id": "inp_ov_fut_310",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_311",
+    "input_id": "inp_ov_fut_311",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_312",
+    "input_id": "inp_ov_fut_312",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_313",
+    "input_id": "inp_ov_fut_313",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_314",
+    "input_id": "inp_ov_fut_314",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_315",
+    "input_id": "inp_ov_fut_315",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_316",
+    "input_id": "inp_ov_fut_316",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_317",
+    "input_id": "inp_ov_fut_317",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_318",
+    "input_id": "inp_ov_fut_318",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_319",
+    "input_id": "inp_ov_fut_319",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_320",
+    "input_id": "inp_ov_fut_320",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_321",
+    "input_id": "inp_ov_fut_321",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_322",
+    "input_id": "inp_ov_fut_322",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_323",
+    "input_id": "inp_ov_fut_323",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_324",
+    "input_id": "inp_ov_fut_324",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_325",
+    "input_id": "inp_ov_fut_325",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_326",
+    "input_id": "inp_ov_fut_326",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_327",
+    "input_id": "inp_ov_fut_327",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_328",
+    "input_id": "inp_ov_fut_328",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_329",
+    "input_id": "inp_ov_fut_329",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_330",
+    "input_id": "inp_ov_fut_330",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_331",
+    "input_id": "inp_ov_fut_331",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_332",
+    "input_id": "inp_ov_fut_332",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_333",
+    "input_id": "inp_ov_fut_333",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_334",
+    "input_id": "inp_ov_fut_334",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_335",
+    "input_id": "inp_ov_fut_335",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_336",
+    "input_id": "inp_ov_fut_336",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_337",
+    "input_id": "inp_ov_fut_337",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_338",
+    "input_id": "inp_ov_fut_338",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_339",
+    "input_id": "inp_ov_fut_339",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_340",
+    "input_id": "inp_ov_fut_340",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_341",
+    "input_id": "inp_ov_fut_341",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_342",
+    "input_id": "inp_ov_fut_342",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_343",
+    "input_id": "inp_ov_fut_343",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_344",
+    "input_id": "inp_ov_fut_344",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_345",
+    "input_id": "inp_ov_fut_345",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_346",
+    "input_id": "inp_ov_fut_346",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_347",
+    "input_id": "inp_ov_fut_347",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_348",
+    "input_id": "inp_ov_fut_348",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_349",
+    "input_id": "inp_ov_fut_349",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_350",
+    "input_id": "inp_ov_fut_350",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_351",
+    "input_id": "inp_ov_fut_351",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_352",
+    "input_id": "inp_ov_fut_352",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_353",
+    "input_id": "inp_ov_fut_353",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_354",
+    "input_id": "inp_ov_fut_354",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_355",
+    "input_id": "inp_ov_fut_355",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_356",
+    "input_id": "inp_ov_fut_356",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_357",
+    "input_id": "inp_ov_fut_357",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_358",
+    "input_id": "inp_ov_fut_358",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_359",
+    "input_id": "inp_ov_fut_359",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_360",
+    "input_id": "inp_ov_fut_360",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_361",
+    "input_id": "inp_ov_fut_361",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_362",
+    "input_id": "inp_ov_fut_362",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_363",
+    "input_id": "inp_ov_fut_363",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_364",
+    "input_id": "inp_ov_fut_364",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_365",
+    "input_id": "inp_ov_fut_365",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_366",
+    "input_id": "inp_ov_fut_366",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_367",
+    "input_id": "inp_ov_fut_367",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_368",
+    "input_id": "inp_ov_fut_368",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_369",
+    "input_id": "inp_ov_fut_369",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_370",
+    "input_id": "inp_ov_fut_370",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_371",
+    "input_id": "inp_ov_fut_371",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_372",
+    "input_id": "inp_ov_fut_372",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_373",
+    "input_id": "inp_ov_fut_373",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_374",
+    "input_id": "inp_ov_fut_374",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_375",
+    "input_id": "inp_ov_fut_375",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_376",
+    "input_id": "inp_ov_fut_376",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_377",
+    "input_id": "inp_ov_fut_377",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_378",
+    "input_id": "inp_ov_fut_378",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_379",
+    "input_id": "inp_ov_fut_379",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_380",
+    "input_id": "inp_ov_fut_380",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_381",
+    "input_id": "inp_ov_fut_381",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_382",
+    "input_id": "inp_ov_fut_382",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_383",
+    "input_id": "inp_ov_fut_383",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_384",
+    "input_id": "inp_ov_fut_384",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_385",
+    "input_id": "inp_ov_fut_385",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_386",
+    "input_id": "inp_ov_fut_386",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_387",
+    "input_id": "inp_ov_fut_387",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_388",
+    "input_id": "inp_ov_fut_388",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_389",
+    "input_id": "inp_ov_fut_389",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_390",
+    "input_id": "inp_ov_fut_390",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_391",
+    "input_id": "inp_ov_fut_391",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_392",
+    "input_id": "inp_ov_fut_392",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_393",
+    "input_id": "inp_ov_fut_393",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_394",
+    "input_id": "inp_ov_fut_394",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_395",
+    "input_id": "inp_ov_fut_395",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_396",
+    "input_id": "inp_ov_fut_396",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_397",
+    "input_id": "inp_ov_fut_397",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_398",
+    "input_id": "inp_ov_fut_398",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of future worry is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_399",
+    "input_id": "inp_ov_fut_399",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_ov_fut_400",
+    "input_id": "inp_ov_fut_400",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  }
+]

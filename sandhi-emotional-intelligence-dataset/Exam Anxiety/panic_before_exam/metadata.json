@@ -1,0 +1,13 @@
+{
+  "subcategory_id": "SUB-PANI",
+  "subcategory_name": "panic_before_exam",
+  "category": "Exam Anxiety",
+  "description": "Acute somatic and cognitive anxiety immediately preceding a test or viva.",
+  "complexity_level": "high",
+  "clinical_relevance": "medium",
+  "tags": [
+    "exam_anxiety",
+    "panic_before_exam",
+    "student_support"
+  ]
+}

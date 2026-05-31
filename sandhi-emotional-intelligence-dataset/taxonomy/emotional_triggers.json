@@ -1,0 +1,37 @@
+[
+  {
+    "trigger": "comparison",
+    "surface_emotion": "fear",
+    "hidden_emotion": "shame"
+  },
+  {
+    "trigger": "academic_evaluation",
+    "surface_emotion": "anger",
+    "hidden_emotion": "fear_of_failure"
+  },
+  {
+    "trigger": "family_expectations",
+    "surface_emotion": "guilt",
+    "hidden_emotion": "inadequacy"
+  },
+  {
+    "trigger": "peer_socials",
+    "surface_emotion": "envy",
+    "hidden_emotion": "loneliness"
+  },
+  {
+    "trigger": "placement_rejection",
+    "surface_emotion": "numbness",
+    "hidden_emotion": "hopelessness"
+  },
+  {
+    "trigger": "viva_confrontation",
+    "surface_emotion": "panic",
+    "hidden_emotion": "self_doubt"
+  },
+  {
+    "trigger": "procrastination_delay",
+    "surface_emotion": "irritability",
+    "hidden_emotion": "self_hatred"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "pattern": "catastrophizing",
+    "definition": "Assuming the worst possible outcome will happen, even when there is little evidence to support it.",
+    "meaning": "my life is over / my future is ruined",
+    "examples": [
+      "My future is ruined.",
+      "Everything is over.",
+      "If I fail this one subject, I'll never get placed and my entire career is finished."
+    ]
+  },
+  {
+    "pattern": "comparison",
+    "definition": "Measuring one's worth, progress, or intelligence entirely against others, leading to feelings of inferiority.",
+    "meaning": "everyone is better than me",
+    "examples": [
+      "Everyone around me seems smarter than me honestly.",
+      "My cousin got a huge package and I'm still struggling with basics.",
+      "All my peers are doing high-tier internships and I have nothing."
+    ]
+  },
+  {
+    "pattern": "mind_reading",
+    "definition": "Arbitrarily concluding that someone is reacting negatively to you, without bothering to check it out.",
+    "meaning": "everyone judges me",
+    "examples": [
+      "Whenever I speak in class, I feel like everyone is laughing at me in secret.",
+      "If I ask the professor a question, they will think I'm completely incompetent.",
+      "Everyone is judging me because of my grades."
+    ]
+  },
+  {
+    "pattern": "hopelessness",
+    "definition": "Believing that current struggles are permanent and that nothing will ever improve or get better.",
+    "meaning": "nothing will improve",
+    "examples": [
+      "I've failed so many times that I don't see any hope of clearing this paper.",
+      "No matter how hard I study, my grades never improve. It's pointless.",
+      "I feel trapped in this cycle and I don't think it will ever get better."
+    ]
+  },
+  {
+    "pattern": "all_or_nothing_thinking",
+    "definition": "Seeing things in black-and-white categories. If a situation falls short of perfect, you see it as a total failure.",
+    "meaning": "I must be perfect or I am a failure",
+    "examples": [
+      "If I don't get an 8.5+ CGPA, this entire B.Tech is a total waste.",
+      "I made one minor syntax error in the code, I'm completely useless.",
+      "Since I couldn't finish my study target today, the whole day is ruined."
+    ]
+  },
+  {
+    "pattern": "emotional_reasoning",
+    "definition": "Assuming that your negative emotions reflect the way things really are: 'I feel it, therefore it must be true.'",
+    "meaning": "I feel like a failure, therefore I am one",
+    "examples": [
+      "I feel so stupid, so I must not be cut out for engineering.",
+      "I feel completely overwhelmed, which means this problem is totally impossible.",
+      "I feel so nervous about placements, I know I will never clear any interview."
+    ]
+  }
+]

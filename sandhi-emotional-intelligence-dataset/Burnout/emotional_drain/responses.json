@@ -1,0 +1,3602 @@
+[
+  {
+    "response_id": "rsp_bu_emo_001",
+    "input_id": "inp_bu_emo_001",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "accepting_imperfect_action",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_002",
+    "input_id": "inp_bu_emo_002",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "presence_peace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_003",
+    "input_id": "inp_bu_emo_003",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "accepting_imperfect_action",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_004",
+    "input_id": "inp_bu_emo_004",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "accepting_imperfect_action",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_005",
+    "input_id": "inp_bu_emo_005",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_006",
+    "input_id": "inp_bu_emo_006",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_007",
+    "input_id": "inp_bu_emo_007",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "separating_grades_from_life",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_008",
+    "input_id": "inp_bu_emo_008",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_009",
+    "input_id": "inp_bu_emo_009",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_010",
+    "input_id": "inp_bu_emo_010",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_011",
+    "input_id": "inp_bu_emo_011",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "presence_peace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_012",
+    "input_id": "inp_bu_emo_012",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_013",
+    "input_id": "inp_bu_emo_013",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_014",
+    "input_id": "inp_bu_emo_014",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_015",
+    "input_id": "inp_bu_emo_015",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_016",
+    "input_id": "inp_bu_emo_016",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_017",
+    "input_id": "inp_bu_emo_017",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "finding_your_micro_community",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_018",
+    "input_id": "inp_bu_emo_018",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_019",
+    "input_id": "inp_bu_emo_019",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "de-escalation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_020",
+    "input_id": "inp_bu_emo_020",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_021",
+    "input_id": "inp_bu_emo_021",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "gentle_inner_voice",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_022",
+    "input_id": "inp_bu_emo_022",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_023",
+    "input_id": "inp_bu_emo_023",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_024",
+    "input_id": "inp_bu_emo_024",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "valuing_raw_effort",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_025",
+    "input_id": "inp_bu_emo_025",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_026",
+    "input_id": "inp_bu_emo_026",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "valuing_raw_effort",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_027",
+    "input_id": "inp_bu_emo_027",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "separating_grades_from_life",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_028",
+    "input_id": "inp_bu_emo_028",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "accepting_imperfect_action",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_029",
+    "input_id": "inp_bu_emo_029",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_030",
+    "input_id": "inp_bu_emo_030",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "finding_your_micro_community",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_031",
+    "input_id": "inp_bu_emo_031",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_032",
+    "input_id": "inp_bu_emo_032",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "new_beginnings",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_033",
+    "input_id": "inp_bu_emo_033",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "finding_your_micro_community",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_034",
+    "input_id": "inp_bu_emo_034",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "de-escalation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_035",
+    "input_id": "inp_bu_emo_035",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_036",
+    "input_id": "inp_bu_emo_036",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_037",
+    "input_id": "inp_bu_emo_037",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "gentle_inner_voice",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_038",
+    "input_id": "inp_bu_emo_038",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_039",
+    "input_id": "inp_bu_emo_039",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_040",
+    "input_id": "inp_bu_emo_040",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_041",
+    "input_id": "inp_bu_emo_041",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "de-escalation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_042",
+    "input_id": "inp_bu_emo_042",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_043",
+    "input_id": "inp_bu_emo_043",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_044",
+    "input_id": "inp_bu_emo_044",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_045",
+    "input_id": "inp_bu_emo_045",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_046",
+    "input_id": "inp_bu_emo_046",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "self_nurturance",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_047",
+    "input_id": "inp_bu_emo_047",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "gentle_inner_voice",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_048",
+    "input_id": "inp_bu_emo_048",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_049",
+    "input_id": "inp_bu_emo_049",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "finding_your_micro_community",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_050",
+    "input_id": "inp_bu_emo_050",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "releasing_labels",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_051",
+    "input_id": "inp_bu_emo_051",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_052",
+    "input_id": "inp_bu_emo_052",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "valuing_raw_effort",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_053",
+    "input_id": "inp_bu_emo_053",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "valuing_raw_effort",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_054",
+    "input_id": "inp_bu_emo_054",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_055",
+    "input_id": "inp_bu_emo_055",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "accepting_imperfect_action",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_056",
+    "input_id": "inp_bu_emo_056",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_057",
+    "input_id": "inp_bu_emo_057",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_058",
+    "input_id": "inp_bu_emo_058",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "new_beginnings",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_059",
+    "input_id": "inp_bu_emo_059",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_060",
+    "input_id": "inp_bu_emo_060",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "digital_detox",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_061",
+    "input_id": "inp_bu_emo_061",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "self_nurturance",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_062",
+    "input_id": "inp_bu_emo_062",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_063",
+    "input_id": "inp_bu_emo_063",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "digital_detox",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_064",
+    "input_id": "inp_bu_emo_064",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_065",
+    "input_id": "inp_bu_emo_065",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "gentle_inner_voice",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_066",
+    "input_id": "inp_bu_emo_066",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "finding_your_micro_community",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_067",
+    "input_id": "inp_bu_emo_067",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_068",
+    "input_id": "inp_bu_emo_068",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "valuing_raw_effort",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_069",
+    "input_id": "inp_bu_emo_069",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_070",
+    "input_id": "inp_bu_emo_070",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "self_nurturance",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_071",
+    "input_id": "inp_bu_emo_071",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_072",
+    "input_id": "inp_bu_emo_072",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "digital_detox",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_073",
+    "input_id": "inp_bu_emo_073",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_074",
+    "input_id": "inp_bu_emo_074",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_075",
+    "input_id": "inp_bu_emo_075",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_076",
+    "input_id": "inp_bu_emo_076",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_077",
+    "input_id": "inp_bu_emo_077",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_078",
+    "input_id": "inp_bu_emo_078",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_079",
+    "input_id": "inp_bu_emo_079",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_080",
+    "input_id": "inp_bu_emo_080",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_081",
+    "input_id": "inp_bu_emo_081",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_082",
+    "input_id": "inp_bu_emo_082",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_083",
+    "input_id": "inp_bu_emo_083",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_084",
+    "input_id": "inp_bu_emo_084",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_085",
+    "input_id": "inp_bu_emo_085",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_086",
+    "input_id": "inp_bu_emo_086",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_087",
+    "input_id": "inp_bu_emo_087",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_088",
+    "input_id": "inp_bu_emo_088",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_089",
+    "input_id": "inp_bu_emo_089",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "accepting_imperfect_action",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_090",
+    "input_id": "inp_bu_emo_090",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_091",
+    "input_id": "inp_bu_emo_091",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "gentle_inner_voice",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_092",
+    "input_id": "inp_bu_emo_092",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_093",
+    "input_id": "inp_bu_emo_093",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_094",
+    "input_id": "inp_bu_emo_094",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "self_nurturance",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_095",
+    "input_id": "inp_bu_emo_095",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_096",
+    "input_id": "inp_bu_emo_096",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "new_beginnings",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_097",
+    "input_id": "inp_bu_emo_097",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "finding_your_micro_community",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_098",
+    "input_id": "inp_bu_emo_098",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_099",
+    "input_id": "inp_bu_emo_099",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "self_nurturance",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_100",
+    "input_id": "inp_bu_emo_100",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_101",
+    "input_id": "inp_bu_emo_101",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_102",
+    "input_id": "inp_bu_emo_102",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "digital_detox",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_103",
+    "input_id": "inp_bu_emo_103",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_104",
+    "input_id": "inp_bu_emo_104",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "new_beginnings",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_105",
+    "input_id": "inp_bu_emo_105",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_106",
+    "input_id": "inp_bu_emo_106",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_107",
+    "input_id": "inp_bu_emo_107",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_108",
+    "input_id": "inp_bu_emo_108",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "de-escalation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_109",
+    "input_id": "inp_bu_emo_109",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "separating_grades_from_life",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_110",
+    "input_id": "inp_bu_emo_110",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "new_beginnings",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_111",
+    "input_id": "inp_bu_emo_111",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_112",
+    "input_id": "inp_bu_emo_112",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_113",
+    "input_id": "inp_bu_emo_113",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_114",
+    "input_id": "inp_bu_emo_114",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_115",
+    "input_id": "inp_bu_emo_115",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_116",
+    "input_id": "inp_bu_emo_116",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_117",
+    "input_id": "inp_bu_emo_117",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_118",
+    "input_id": "inp_bu_emo_118",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_119",
+    "input_id": "inp_bu_emo_119",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "separating_grades_from_life",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_120",
+    "input_id": "inp_bu_emo_120",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "de-escalation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_121",
+    "input_id": "inp_bu_emo_121",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_122",
+    "input_id": "inp_bu_emo_122",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_123",
+    "input_id": "inp_bu_emo_123",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_124",
+    "input_id": "inp_bu_emo_124",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_125",
+    "input_id": "inp_bu_emo_125",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_126",
+    "input_id": "inp_bu_emo_126",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "releasing_labels",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_127",
+    "input_id": "inp_bu_emo_127",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_128",
+    "input_id": "inp_bu_emo_128",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "finding_your_micro_community",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_129",
+    "input_id": "inp_bu_emo_129",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "new_beginnings",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_130",
+    "input_id": "inp_bu_emo_130",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_131",
+    "input_id": "inp_bu_emo_131",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_132",
+    "input_id": "inp_bu_emo_132",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_133",
+    "input_id": "inp_bu_emo_133",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_134",
+    "input_id": "inp_bu_emo_134",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_135",
+    "input_id": "inp_bu_emo_135",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_136",
+    "input_id": "inp_bu_emo_136",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_137",
+    "input_id": "inp_bu_emo_137",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "accepting_imperfect_action",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_138",
+    "input_id": "inp_bu_emo_138",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_139",
+    "input_id": "inp_bu_emo_139",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_140",
+    "input_id": "inp_bu_emo_140",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_141",
+    "input_id": "inp_bu_emo_141",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "accepting_imperfect_action",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_142",
+    "input_id": "inp_bu_emo_142",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_143",
+    "input_id": "inp_bu_emo_143",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_144",
+    "input_id": "inp_bu_emo_144",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_145",
+    "input_id": "inp_bu_emo_145",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_146",
+    "input_id": "inp_bu_emo_146",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "digital_detox",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_147",
+    "input_id": "inp_bu_emo_147",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "presence_peace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_148",
+    "input_id": "inp_bu_emo_148",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_149",
+    "input_id": "inp_bu_emo_149",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_150",
+    "input_id": "inp_bu_emo_150",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "gentle_inner_voice",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_151",
+    "input_id": "inp_bu_emo_151",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "accepting_imperfect_action",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_152",
+    "input_id": "inp_bu_emo_152",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_153",
+    "input_id": "inp_bu_emo_153",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "self_nurturance",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_154",
+    "input_id": "inp_bu_emo_154",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_155",
+    "input_id": "inp_bu_emo_155",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "new_beginnings",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_156",
+    "input_id": "inp_bu_emo_156",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_157",
+    "input_id": "inp_bu_emo_157",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_158",
+    "input_id": "inp_bu_emo_158",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "finding_your_micro_community",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_159",
+    "input_id": "inp_bu_emo_159",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_160",
+    "input_id": "inp_bu_emo_160",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "de-escalation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_161",
+    "input_id": "inp_bu_emo_161",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_162",
+    "input_id": "inp_bu_emo_162",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_163",
+    "input_id": "inp_bu_emo_163",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "accepting_imperfect_action",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_164",
+    "input_id": "inp_bu_emo_164",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_165",
+    "input_id": "inp_bu_emo_165",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_166",
+    "input_id": "inp_bu_emo_166",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_167",
+    "input_id": "inp_bu_emo_167",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "digital_detox",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_168",
+    "input_id": "inp_bu_emo_168",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_169",
+    "input_id": "inp_bu_emo_169",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_170",
+    "input_id": "inp_bu_emo_170",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_171",
+    "input_id": "inp_bu_emo_171",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_172",
+    "input_id": "inp_bu_emo_172",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_173",
+    "input_id": "inp_bu_emo_173",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "digital_detox",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_174",
+    "input_id": "inp_bu_emo_174",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_175",
+    "input_id": "inp_bu_emo_175",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "releasing_labels",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_176",
+    "input_id": "inp_bu_emo_176",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "valuing_raw_effort",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_177",
+    "input_id": "inp_bu_emo_177",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_178",
+    "input_id": "inp_bu_emo_178",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_179",
+    "input_id": "inp_bu_emo_179",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_180",
+    "input_id": "inp_bu_emo_180",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "finding_your_micro_community",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_181",
+    "input_id": "inp_bu_emo_181",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_182",
+    "input_id": "inp_bu_emo_182",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "new_beginnings",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_183",
+    "input_id": "inp_bu_emo_183",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "digital_detox",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_184",
+    "input_id": "inp_bu_emo_184",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "accepting_imperfect_action",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_185",
+    "input_id": "inp_bu_emo_185",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_186",
+    "input_id": "inp_bu_emo_186",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_187",
+    "input_id": "inp_bu_emo_187",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_188",
+    "input_id": "inp_bu_emo_188",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "new_beginnings",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_189",
+    "input_id": "inp_bu_emo_189",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_190",
+    "input_id": "inp_bu_emo_190",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_191",
+    "input_id": "inp_bu_emo_191",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_192",
+    "input_id": "inp_bu_emo_192",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_193",
+    "input_id": "inp_bu_emo_193",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_194",
+    "input_id": "inp_bu_emo_194",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "new_beginnings",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_195",
+    "input_id": "inp_bu_emo_195",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_196",
+    "input_id": "inp_bu_emo_196",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_197",
+    "input_id": "inp_bu_emo_197",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_198",
+    "input_id": "inp_bu_emo_198",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "finding_your_micro_community",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_199",
+    "input_id": "inp_bu_emo_199",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "accepting_imperfect_action",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_200",
+    "input_id": "inp_bu_emo_200",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "valuing_raw_effort",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_201",
+    "input_id": "inp_bu_emo_201",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_202",
+    "input_id": "inp_bu_emo_202",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_203",
+    "input_id": "inp_bu_emo_203",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_204",
+    "input_id": "inp_bu_emo_204",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_205",
+    "input_id": "inp_bu_emo_205",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_206",
+    "input_id": "inp_bu_emo_206",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_207",
+    "input_id": "inp_bu_emo_207",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_208",
+    "input_id": "inp_bu_emo_208",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_209",
+    "input_id": "inp_bu_emo_209",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_210",
+    "input_id": "inp_bu_emo_210",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_211",
+    "input_id": "inp_bu_emo_211",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "new_beginnings",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_212",
+    "input_id": "inp_bu_emo_212",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_213",
+    "input_id": "inp_bu_emo_213",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_214",
+    "input_id": "inp_bu_emo_214",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_215",
+    "input_id": "inp_bu_emo_215",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_216",
+    "input_id": "inp_bu_emo_216",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_217",
+    "input_id": "inp_bu_emo_217",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_218",
+    "input_id": "inp_bu_emo_218",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "self_nurturance",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_219",
+    "input_id": "inp_bu_emo_219",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_220",
+    "input_id": "inp_bu_emo_220",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "valuing_raw_effort",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_221",
+    "input_id": "inp_bu_emo_221",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "de-escalation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_222",
+    "input_id": "inp_bu_emo_222",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_223",
+    "input_id": "inp_bu_emo_223",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_224",
+    "input_id": "inp_bu_emo_224",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "de-escalation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_225",
+    "input_id": "inp_bu_emo_225",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_226",
+    "input_id": "inp_bu_emo_226",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "finding_your_micro_community",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_227",
+    "input_id": "inp_bu_emo_227",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_228",
+    "input_id": "inp_bu_emo_228",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_229",
+    "input_id": "inp_bu_emo_229",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_230",
+    "input_id": "inp_bu_emo_230",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_231",
+    "input_id": "inp_bu_emo_231",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_232",
+    "input_id": "inp_bu_emo_232",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_233",
+    "input_id": "inp_bu_emo_233",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_234",
+    "input_id": "inp_bu_emo_234",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "self_nurturance",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_235",
+    "input_id": "inp_bu_emo_235",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_236",
+    "input_id": "inp_bu_emo_236",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_237",
+    "input_id": "inp_bu_emo_237",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_238",
+    "input_id": "inp_bu_emo_238",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_239",
+    "input_id": "inp_bu_emo_239",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_240",
+    "input_id": "inp_bu_emo_240",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_241",
+    "input_id": "inp_bu_emo_241",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "gentle_inner_voice",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_242",
+    "input_id": "inp_bu_emo_242",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_243",
+    "input_id": "inp_bu_emo_243",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_244",
+    "input_id": "inp_bu_emo_244",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_245",
+    "input_id": "inp_bu_emo_245",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_246",
+    "input_id": "inp_bu_emo_246",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_247",
+    "input_id": "inp_bu_emo_247",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "separating_grades_from_life",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_248",
+    "input_id": "inp_bu_emo_248",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_249",
+    "input_id": "inp_bu_emo_249",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_250",
+    "input_id": "inp_bu_emo_250",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_251",
+    "input_id": "inp_bu_emo_251",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_252",
+    "input_id": "inp_bu_emo_252",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_253",
+    "input_id": "inp_bu_emo_253",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_254",
+    "input_id": "inp_bu_emo_254",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "de-escalation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_255",
+    "input_id": "inp_bu_emo_255",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_256",
+    "input_id": "inp_bu_emo_256",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "accepting_imperfect_action",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_257",
+    "input_id": "inp_bu_emo_257",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_258",
+    "input_id": "inp_bu_emo_258",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_259",
+    "input_id": "inp_bu_emo_259",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_260",
+    "input_id": "inp_bu_emo_260",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_261",
+    "input_id": "inp_bu_emo_261",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_262",
+    "input_id": "inp_bu_emo_262",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "self_nurturance",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_263",
+    "input_id": "inp_bu_emo_263",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_264",
+    "input_id": "inp_bu_emo_264",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_265",
+    "input_id": "inp_bu_emo_265",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "new_beginnings",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_266",
+    "input_id": "inp_bu_emo_266",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_267",
+    "input_id": "inp_bu_emo_267",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "releasing_labels",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_268",
+    "input_id": "inp_bu_emo_268",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "self_nurturance",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_269",
+    "input_id": "inp_bu_emo_269",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "valuing_raw_effort",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_270",
+    "input_id": "inp_bu_emo_270",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_271",
+    "input_id": "inp_bu_emo_271",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_272",
+    "input_id": "inp_bu_emo_272",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "valuing_raw_effort",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_273",
+    "input_id": "inp_bu_emo_273",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "de-escalation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_274",
+    "input_id": "inp_bu_emo_274",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_275",
+    "input_id": "inp_bu_emo_275",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "self_nurturance",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_276",
+    "input_id": "inp_bu_emo_276",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_277",
+    "input_id": "inp_bu_emo_277",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_278",
+    "input_id": "inp_bu_emo_278",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_279",
+    "input_id": "inp_bu_emo_279",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "new_beginnings",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_280",
+    "input_id": "inp_bu_emo_280",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "digital_detox",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_281",
+    "input_id": "inp_bu_emo_281",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_282",
+    "input_id": "inp_bu_emo_282",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_283",
+    "input_id": "inp_bu_emo_283",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_284",
+    "input_id": "inp_bu_emo_284",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "new_beginnings",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_285",
+    "input_id": "inp_bu_emo_285",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "releasing_labels",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_286",
+    "input_id": "inp_bu_emo_286",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "digital_detox",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_287",
+    "input_id": "inp_bu_emo_287",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_288",
+    "input_id": "inp_bu_emo_288",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_289",
+    "input_id": "inp_bu_emo_289",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_290",
+    "input_id": "inp_bu_emo_290",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_291",
+    "input_id": "inp_bu_emo_291",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_292",
+    "input_id": "inp_bu_emo_292",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "releasing_labels",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_293",
+    "input_id": "inp_bu_emo_293",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_294",
+    "input_id": "inp_bu_emo_294",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_295",
+    "input_id": "inp_bu_emo_295",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "separating_grades_from_life",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_296",
+    "input_id": "inp_bu_emo_296",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "new_beginnings",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_297",
+    "input_id": "inp_bu_emo_297",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_298",
+    "input_id": "inp_bu_emo_298",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_299",
+    "input_id": "inp_bu_emo_299",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_300",
+    "input_id": "inp_bu_emo_300",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_301",
+    "input_id": "inp_bu_emo_301",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_302",
+    "input_id": "inp_bu_emo_302",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_303",
+    "input_id": "inp_bu_emo_303",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_304",
+    "input_id": "inp_bu_emo_304",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_305",
+    "input_id": "inp_bu_emo_305",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_306",
+    "input_id": "inp_bu_emo_306",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_307",
+    "input_id": "inp_bu_emo_307",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_308",
+    "input_id": "inp_bu_emo_308",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_309",
+    "input_id": "inp_bu_emo_309",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_310",
+    "input_id": "inp_bu_emo_310",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_311",
+    "input_id": "inp_bu_emo_311",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_312",
+    "input_id": "inp_bu_emo_312",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_313",
+    "input_id": "inp_bu_emo_313",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "valuing_raw_effort",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_314",
+    "input_id": "inp_bu_emo_314",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_315",
+    "input_id": "inp_bu_emo_315",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "digital_detox",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_316",
+    "input_id": "inp_bu_emo_316",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "new_beginnings",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_317",
+    "input_id": "inp_bu_emo_317",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_318",
+    "input_id": "inp_bu_emo_318",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_319",
+    "input_id": "inp_bu_emo_319",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "separating_grades_from_life",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_320",
+    "input_id": "inp_bu_emo_320",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_321",
+    "input_id": "inp_bu_emo_321",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_322",
+    "input_id": "inp_bu_emo_322",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "separating_grades_from_life",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_323",
+    "input_id": "inp_bu_emo_323",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_324",
+    "input_id": "inp_bu_emo_324",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_325",
+    "input_id": "inp_bu_emo_325",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "finding_your_micro_community",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_326",
+    "input_id": "inp_bu_emo_326",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_327",
+    "input_id": "inp_bu_emo_327",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_328",
+    "input_id": "inp_bu_emo_328",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_329",
+    "input_id": "inp_bu_emo_329",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "digital_detox",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_330",
+    "input_id": "inp_bu_emo_330",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "separating_grades_from_life",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_331",
+    "input_id": "inp_bu_emo_331",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_332",
+    "input_id": "inp_bu_emo_332",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_333",
+    "input_id": "inp_bu_emo_333",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "separating_grades_from_life",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_334",
+    "input_id": "inp_bu_emo_334",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "new_beginnings",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_335",
+    "input_id": "inp_bu_emo_335",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_336",
+    "input_id": "inp_bu_emo_336",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "gentle_inner_voice",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_337",
+    "input_id": "inp_bu_emo_337",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "presence_peace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_338",
+    "input_id": "inp_bu_emo_338",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_339",
+    "input_id": "inp_bu_emo_339",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_340",
+    "input_id": "inp_bu_emo_340",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_341",
+    "input_id": "inp_bu_emo_341",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_342",
+    "input_id": "inp_bu_emo_342",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "self_nurturance",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_343",
+    "input_id": "inp_bu_emo_343",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "digital_detox",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_344",
+    "input_id": "inp_bu_emo_344",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "new_beginnings",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_345",
+    "input_id": "inp_bu_emo_345",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_346",
+    "input_id": "inp_bu_emo_346",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "gentle_inner_voice",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_347",
+    "input_id": "inp_bu_emo_347",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_348",
+    "input_id": "inp_bu_emo_348",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_349",
+    "input_id": "inp_bu_emo_349",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "new_beginnings",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_350",
+    "input_id": "inp_bu_emo_350",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_351",
+    "input_id": "inp_bu_emo_351",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_352",
+    "input_id": "inp_bu_emo_352",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "finding_your_micro_community",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_353",
+    "input_id": "inp_bu_emo_353",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "de-escalation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_354",
+    "input_id": "inp_bu_emo_354",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "gentle_inner_voice",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_355",
+    "input_id": "inp_bu_emo_355",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_356",
+    "input_id": "inp_bu_emo_356",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "gentle_inner_voice",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_357",
+    "input_id": "inp_bu_emo_357",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_358",
+    "input_id": "inp_bu_emo_358",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "digital_detox",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_359",
+    "input_id": "inp_bu_emo_359",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_360",
+    "input_id": "inp_bu_emo_360",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_361",
+    "input_id": "inp_bu_emo_361",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_362",
+    "input_id": "inp_bu_emo_362",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_363",
+    "input_id": "inp_bu_emo_363",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_364",
+    "input_id": "inp_bu_emo_364",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_365",
+    "input_id": "inp_bu_emo_365",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_366",
+    "input_id": "inp_bu_emo_366",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "separating_grades_from_life",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_367",
+    "input_id": "inp_bu_emo_367",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_368",
+    "input_id": "inp_bu_emo_368",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_369",
+    "input_id": "inp_bu_emo_369",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_370",
+    "input_id": "inp_bu_emo_370",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "honoring_background",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_371",
+    "input_id": "inp_bu_emo_371",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "separating_grades_from_life",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_372",
+    "input_id": "inp_bu_emo_372",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_373",
+    "input_id": "inp_bu_emo_373",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_374",
+    "input_id": "inp_bu_emo_374",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_375",
+    "input_id": "inp_bu_emo_375",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_376",
+    "input_id": "inp_bu_emo_376",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_377",
+    "input_id": "inp_bu_emo_377",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_378",
+    "input_id": "inp_bu_emo_378",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "gentle_inner_voice",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_379",
+    "input_id": "inp_bu_emo_379",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_380",
+    "input_id": "inp_bu_emo_380",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_381",
+    "input_id": "inp_bu_emo_381",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_382",
+    "input_id": "inp_bu_emo_382",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_383",
+    "input_id": "inp_bu_emo_383",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_384",
+    "input_id": "inp_bu_emo_384",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_385",
+    "input_id": "inp_bu_emo_385",
+    "response_style": "calming",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "presence_peace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_386",
+    "input_id": "inp_bu_emo_386",
+    "response_style": "reflective",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "self_nurturance",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_387",
+    "input_id": "inp_bu_emo_387",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_388",
+    "input_id": "inp_bu_emo_388",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the weight of emotional drain is highly exhausting for your nervous system. Take a slow, deep breath—your worth as a human being is infinite and completely independent of this immediate challenge.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_389",
+    "input_id": "inp_bu_emo_389",
+    "response_style": "grounding",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "self_nurturance",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_390",
+    "input_id": "inp_bu_emo_390",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "releasing_labels",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_391",
+    "input_id": "inp_bu_emo_391",
+    "response_style": "reflective",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_392",
+    "input_id": "inp_bu_emo_392",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "body_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_393",
+    "input_id": "inp_bu_emo_393",
+    "response_style": "grounding",
+    "sandhi_response": "Avoidance and panic are your brain's protective freeze reactions to threat, not a sign of weakness. Be gentle with your tired mind; we can break this mountain down into manageable pieces.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_394",
+    "input_id": "inp_bu_emo_394",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_395",
+    "input_id": "inp_bu_emo_395",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "accepting_imperfect_action",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_396",
+    "input_id": "inp_bu_emo_396",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "finding_your_micro_community",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_397",
+    "input_id": "inp_bu_emo_397",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed under this level of academic and social pressure. Let's quiet the self-blame and take just one single, tiny step together right now.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_398",
+    "input_id": "inp_bu_emo_398",
+    "response_style": "calming",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "releasing_labels",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_399",
+    "input_id": "inp_bu_emo_399",
+    "response_style": "calming",
+    "sandhi_response": "That tightness in your chest is a real somatic response to stress. Let's practice a brief grounding exercise to bring you back to safety first, then focus on one tiny task.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_bu_emo_400",
+    "input_id": "inp_bu_emo_400",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing dry comparisons or facing setbacks can leave you feeling completely invisible and unlovable. I am here to stand with you in this heavy space—your timeline is separate and entirely valid.",
+    "wisdom_theme": "separating_grades_from_life",
+    "tone": "calm",
+    "length": "medium"
+  }
+]

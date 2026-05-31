@@ -1,0 +1,3602 @@
+[
+  {
+    "response_id": "rsp_puco_ide_001",
+    "input_id": "inp_puco_ide_001",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly exhausting to build a version of yourself designed only to please an algorithm or a corporate resume screen. Please know that the shell you've had to wear to survive this placement season does not erase the real, quiet self waiting beneath it.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_002",
+    "input_id": "inp_puco_ide_002",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Shape-shifting to feel safe or accepted among peers is a heavy burden that slowly drains your energy and makes you feel like an imposter in your own life. It is entirely okay if your path doesn't look like a startup pitch, and you deserve space to discover what genuinely matters to you without having to perform.",
+    "wisdom_theme": "gentle_authenticity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_003",
+    "input_id": "inp_puco_ide_003",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When you spend your entire life following a pre-written script, it is terrifying but completely natural to look at your hands and wonder whose life you are actually living. You aren't failing because you feel empty; you are simply waking up to the truth that your inner self is ready to start making its own choices.",
+    "wisdom_theme": "releasing_checklist",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_004",
+    "input_id": "inp_puco_ide_004",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply painful to watch your genuine passions get pushed aside to satisfy the expectations of the people you love. Please be gentle with yourself as you navigate this tension, and remember that keeping a small spark of your true interests alive in secret is still a brave act of self-preservation.",
+    "wisdom_theme": "internal_alignment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_005",
+    "input_id": "inp_puco_ide_005",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When you are constantly bombarded by the curated highlights of everyone else's lives, it is so easy to mistake their landmarks for your own destination. It takes a lot of courage to step away from the noise and ask yourself what kind of life you actually want to live when nobody is watching.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_006",
+    "input_id": "inp_puco_ide_006",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that you feel empty when you've had to trade your genuine interests just to fit into a mold designed for academic survival. The parts of you that loved sketching and stargazing aren't dead; they are just waiting quietly for it to feel safe enough for you to look their way again.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_007",
+    "input_id": "inp_puco_ide_007",
+    "response_style": "reflective",
+    "sandhi_response": "Adapting yourself to different spaces was a shield that protected you when you felt you had to fit in to survive. You don't have to force all these fractured pieces to make sense today, but we can slowly begin to notice what feels comfortable to you when nobody is watching.",
+    "wisdom_theme": "gentle_authenticity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_008",
+    "input_id": "inp_puco_ide_008",
+    "response_style": "calming",
+    "sandhi_response": "It is incredibly heavy to feel like a spectator in your own life, especially when everyone else is celebrating a path you didn't truly choose. Even within the boundaries of this new job, your agency is not permanently lost, and we can look for tiny, daily ways to reclaim what belongs solely to you.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_009",
+    "input_id": "inp_puco_ide_009",
+    "response_style": "reflective",
+    "sandhi_response": "When you've been in survival mode just trying to keep your head above water, your brain simply doesn't have the spare energy to curate a colorful personality or pursue hobbies. You aren't empty; you are simply exhausted from fighting a long storm, and your selfhood will naturally return as you find safety.",
+    "wisdom_theme": "honoring_your_pace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_010",
+    "input_id": "inp_puco_ide_010",
+    "response_style": "grounding",
+    "sandhi_response": "It can feel deeply unsettling when the noise of constant demands clears, leaving you face-to-face with a quiet space you haven't been allowed to explore. This empty feeling isn't a permanent deficit, but rather a blank canvas that you finally have the quietness to slowly map out, without anyone grading your progress.",
+    "wisdom_theme": "presence_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_011",
+    "input_id": "inp_puco_ide_011",
+    "response_style": "grounding",
+    "sandhi_response": "It can feel incredibly disorienting to look at a life you built so diligently and realize your own spirit has been left behind in the process. You are not a product to be optimized, and it is completely okay to pause and wonder who you are outside of this relentless checklist.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_012",
+    "input_id": "inp_puco_ide_012",
+    "response_style": "reflective",
+    "sandhi_response": "Constantly adjusting your shape to fit into others' spaces is exhausting, and it makes complete sense that you feel disconnected from your own voice right now. Reclaiming who you are doesn't have to happen all at once, as even a tiny, quiet moment of doing something genuinely yours is a brave step back to yourself.",
+    "wisdom_theme": "gentle_authenticity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_013",
+    "input_id": "inp_puco_ide_013",
+    "response_style": "calming",
+    "sandhi_response": "It is deeply exhausting to carry the weight of everyone else's expectations while trying to find your own footing in a storm. Please remember that drifting is not a permanent failure, but a sign that you need a gentle space to rest before you can figure out which shore actually feels like home.",
+    "wisdom_theme": "honoring_your_pace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_014",
+    "input_id": "inp_puco_ide_014",
+    "response_style": "grounding",
+    "sandhi_response": "Reaching a milestone like twenty can bring a heavy realization that you've been living out a script you didn't write. This panic, though terrifying, is actually a deeply honest awakening where your true self is quietly demanding to finally have a say in your own life.",
+    "wisdom_theme": "reclaiming_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_015",
+    "input_id": "inp_puco_ide_015",
+    "response_style": "reflective",
+    "sandhi_response": "It is heartbreaking to feel like you had to bury the parts of yourself that brought you joy just to survive a competitive race. Those creative parts of you aren't truly gone, and they are simply waiting for you to gently invite them back when you are ready to breathe again.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_016",
+    "input_id": "inp_puco_ide_016",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to carry the congratulations of others when you feel like you had to leave your true self behind to earn them. Those artistic, quiet parts of you aren't dead; they are just waiting under the surface for it to be safe enough to breathe again.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_017",
+    "input_id": "inp_puco_ide_017",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When you spend all your energy molding yourself into what is expected, losing touch with your own voice is a natural, albeit painful, survival response. Let's start very small—not with a career or a grand plan, but just by noticing what tiny things bring a genuine spark back to your eyes today.",
+    "wisdom_theme": "internal_alignment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_018",
+    "input_id": "inp_puco_ide_018",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that you feel exhausted after wearing a heavy mask just to feel safe and accepted in a high-pressure environment. Returning to yourself doesn't require a sudden, massive shift; it begins with allowing yourself to admit, even just to me, what you truly care about.",
+    "wisdom_theme": "gentle_authenticity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_019",
+    "input_id": "inp_puco_ide_019",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Adopting different shapes to navigate the pressure around you is a survival skill, but it is deeply lonely to realize no one is seeing the real you. That quiet space when you are alone is not a void to fear, but a safe canvas where you can slowly uncover who you are without anyone else's expectations.",
+    "wisdom_theme": "reclaiming_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_020",
+    "input_id": "inp_puco_ide_020",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply disorienting to realize that the checklist you worked so hard to complete has left your own spirit behind. You are so much deeper than a curated list of skills, and your worth remains intact even while you figure out how to reclaim your own narrative.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_021",
+    "input_id": "inp_puco_ide_021",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It sounds incredibly exhausting to spend all your energy performing a version of yourself that feels completely foreign just to get through the day. I hear how deeply you miss the person who loved art, and it is entirely okay if that part of you is waiting quietly to be reclaimed whenever you are ready.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_022",
+    "input_id": "inp_puco_ide_022",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It must feel incredibly isolating to receive praise for a life that feels like it belongs to a stranger rather than your true self. Waking up to this feeling is painful, but it is also a quiet sign from within that you are ready to start finding your own voice underneath all the expectations.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_023",
+    "input_id": "inp_puco_ide_023",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Those tears might be the first real, unscripted thing you have felt in a long time after trying so hard to match everyone else's rhythm. It takes immense courage to admit that you are tired of running a race that was never yours to begin with.",
+    "wisdom_theme": "gentle_authenticity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_024",
+    "input_id": "inp_puco_ide_024",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Happy birthday, though I know it feels heavy to carry the weight of who you used to be while feeling so disconnected from yourself right now. The creative, stargazing kid inside you is not dead; they are simply resting underneath the heavy armor you had to put on to survive these semesters.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_025",
+    "input_id": "inp_puco_ide_025",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Being highly adaptable is a survival skill you built, but it must be so exhausting to feel like you disappear the moment you try to stand on your own. You do not need to have a solid, unchanging shape right now to be worthy of space and connection.",
+    "wisdom_theme": "internal_alignment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_026",
+    "input_id": "inp_puco_ide_026",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to look in the mirror and realize you have traded parts of your true self to survive the pressure around you. You don't have to throw away the person who loves poetry and art to navigate this space; those quiet parts of you are still there, waiting for you to invite them back in.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_027",
+    "input_id": "inp_puco_ide_027",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Playing a part to feel safe and accepted is a very natural response to an overwhelming environment, but it must be exhausting to carry that armor all day. Beneath that quiet fear of being empty, there is a very real, very unique human being who is simply tired of hiding.",
+    "wisdom_theme": "gentle_authenticity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_028",
+    "input_id": "inp_puco_ide_028",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is terrifying to realize you are living a life scripted by someone else's expectations while your own desires remain completely silent. Reclaiming your own voice doesn't have to happen all at once; even a tiny, quiet boundary can be your first step toward holding your own pen.",
+    "wisdom_theme": "reclaiming_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_029",
+    "input_id": "inp_puco_ide_029",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing everyone else's highlight reels can easily pull us off our own path, making us feel like we must constantly pivot to keep up. Your genuine love for research is a rare and precious anchor; it is worth protecting from the loud, shifting winds of external validation.",
+    "wisdom_theme": "internal_alignment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_030",
+    "input_id": "inp_puco_ide_030",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Surviving intense pressure often forces us to pack away our personal interests just to keep our heads above water. Please be gentle with yourself; being a blank slate simply means you now have the quiet room to discover what genuinely sparks your curiosity, one small step at a time.",
+    "wisdom_theme": "curiosity_reignition",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_031",
+    "input_id": "inp_puco_ide_031",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that you feel disconnected from yourself when you've had to trade your genuine creative spirit for survival in a highly demanding system. We can take a breath together right here; you don't have to solve your whole future today to start reclaiming the quiet, artistic parts of who you are.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_032",
+    "input_id": "inp_puco_ide_032",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It sounds deeply exhausting to carry the weight of an identity built entirely for the approval of others while your own inner voice gets pushed into the background. Your worth isn't tied to being a perfect blank canvas for their expectations, and it is safe to slowly start listening to what you actually need.",
+    "wisdom_theme": "reclaiming_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_033",
+    "input_id": "inp_puco_ide_033",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing others' passion can sometimes act as a painful mirror, reminding us of the genuine curiosity we felt forced to set aside to keep up with the crowd. It is incredibly brave of you to recognize this ache, and we can look at it not as a failure, but as your true self quietly trying to wake up and reach back out to you.",
+    "wisdom_theme": "curiosity_reignition",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_034",
+    "input_id": "inp_puco_ide_034",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The grief of looking back at a more vibrant, unfiltered version of yourself while feeling like a hollowed-out product of this academic machine is a very real, heavy pain. Please know that the creative, messy person you were isn't gone forever; they are just waiting beneath the surface for it to be safe enough to breathe again.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_035",
+    "input_id": "inp_puco_ide_035",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly alienating to be applauded for a performance that feels completely disconnected from your heart. You don't have to apologize for feeling empty in the spaces where others expect you to feel proud, and we can take all the time you need to find your actual voice underneath the expectations.",
+    "wisdom_theme": "internal_alignment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_036",
+    "input_id": "inp_puco_ide_036",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly exhausting to wear a mask just to feel secure in a system that demands constant performance. Please know that the creative, poetic part of you isn't dead; it is simply waiting quietly underneath the noise of survival.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_037",
+    "input_id": "inp_puco_ide_037",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Adapting your shape to feel safe among others is a very natural response when the fear of being left behind is so intense. You don't have to have your whole identity figured out right now to deserve a genuine place of belonging.",
+    "wisdom_theme": "gentle_authenticity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_038",
+    "input_id": "inp_puco_ide_038",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Wearing a heavy armor of corporate expectations can make you feel completely disconnected from the warmth of your own skin. Taking off that tie is a quiet boundary, a small but vital reminder that the roles you play to survive are not who you actually are.",
+    "wisdom_theme": "reclaiming_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_039",
+    "input_id": "inp_puco_ide_039",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Achieving what others want for you can leave a strange, hollow quietness when your own heart wasn't invited into the choice. It is okay to feel lost right now; finding your own path often begins with admitting that the current one doesn't fit you.",
+    "wisdom_theme": "internal_alignment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_040",
+    "input_id": "inp_puco_ide_040",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When life becomes a series of metrics to optimize, the gentle, unhurried parts of ourselves are often the first to go quiet. You don't have to earn your existence through constant productivity; the kid who loved the stars is still there, just waiting for you to breathe.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_041",
+    "input_id": "inp_puco_ide_041",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly exhausting to look in the mirror and realize you’ve traded your own colors to paint a picture that pleases everyone else. Let’s take a gentle breath together and remember that the parts of you that write stories and draw are not dead, they are simply waiting for it to feel safe enough to come back out.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_042",
+    "input_id": "inp_puco_ide_042",
+    "response_style": "reflective",
+    "sandhi_response": "It makes complete sense that you feel like a stranger to yourself when you've had to perform a character just to feel secure about your future. You do not have to have your whole authentic self figured out today; just acknowledging this disconnect is a brave, true step toward finding your own voice again.",
+    "wisdom_theme": "gentle_authenticity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_043",
+    "input_id": "inp_puco_ide_043",
+    "response_style": "calming",
+    "sandhi_response": "Wearing masks to survive a highly competitive environment is a natural defense, but it is deeply painful when the mask begins to feel like a cage. We can start small, by finding just one quiet moment today where you don't have to perform for anyone but yourself.",
+    "wisdom_theme": "reclaiming_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_044",
+    "input_id": "inp_puco_ide_044",
+    "response_style": "reflective",
+    "sandhi_response": "It is a heavy, quiet kind of grief to watch yourself fade into a routine that doesn't belong to you just to meet a placement stat. Even if you have to write code to survive right now, please know that your worth and identity are so much deeper than the career path you've had to borrow.",
+    "wisdom_theme": "internal_alignment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_045",
+    "input_id": "inp_puco_ide_045",
+    "response_style": "grounding",
+    "sandhi_response": "The pressure to package yourself into a neat, professional label at twenty is an artificial race that strips away your actual humanity. You are allowed to be a beautifully unfinished, complex person who is still discovering what they love, far beyond the boxes of a resume.",
+    "wisdom_theme": "unapologetic_quirks",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_046",
+    "input_id": "inp_puco_ide_046",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that you feel disconnected when you’ve had to quiet your creative side just to navigate the heavy demands of this environment. Those sketchbooks and your unique voice are still very much alive inside you, waiting patiently for whenever you are ready to gently welcome them back.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_047",
+    "input_id": "inp_puco_ide_047",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly exhausting to feel like you have to trim away your genuine curiosity just to fit into a standardized mold. Please know that your worth was never meant to be compressed into a resume, and it is entirely okay to pause and hold space for the builder you used to be.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_048",
+    "input_id": "inp_puco_ide_048",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply painful to look back and feel like you’ve traded your natural curiosity for the structure of academic survival. That vibrant, chaotic twenty-year-old is not gone; they are simply resting beneath the heavy weight of the expectations you've had to carry.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_049",
+    "input_id": "inp_puco_ide_049",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Adapting yourself to meet such intense pressure is a survival response, and it is completely understandable that you feel estranged from your own reflection right now. You don't have to dismantle this armor all at once, but we can slowly find small, safe spaces where you can let yourself just breathe as you are.",
+    "wisdom_theme": "gentle_authenticity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_050",
+    "input_id": "inp_puco_ide_050",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Succeeding on paper can feel remarkably empty when the cost of that achievement was the very things that made you feel alive. Your guitar and your friendships are gentle reminders of your humanity, and choosing to reconnect with them in small, pressure-free ways is just as valuable as any grade you earn.",
+    "wisdom_theme": "internal_alignment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_051",
+    "input_id": "inp_puco_ide_051",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly heavy to carry the applause for a life that feels like it belongs to a stranger. It makes sense that you feel hollow right now; achieving what you 'should' want cannot replace the quiet need to know who you actually are outside of the grind.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_052",
+    "input_id": "inp_puco_ide_052",
+    "response_style": "calming",
+    "sandhi_response": "Adapting to survive a rigid system is a natural response, but it is deeply exhausting when the camouflage starts swallowing your real self. Your creative voice isn't gone; it is simply waiting for you to feel safe enough to stop pretending.",
+    "wisdom_theme": "gentle_authenticity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_053",
+    "input_id": "inp_puco_ide_053",
+    "response_style": "grounding",
+    "sandhi_response": "Running on the momentum of peer comparison can keep you moving, but it inevitably leaves your inner self starved for genuine meaning. Stopping mid-race isn't a failure; it is the first brave step toward asking what actually feeds your spirit rather than your resume.",
+    "wisdom_theme": "releasing_checklist",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_054",
+    "input_id": "inp_puco_ide_054",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly draining to navigate your youth while trying to map your path using someone else's coordinates. It is completely okay if you need to pause and let the dust settle before you can hear your own inner compass over the noise of expectation.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_055",
+    "input_id": "inp_puco_ide_055",
+    "response_style": "grounding",
+    "sandhi_response": "You have spent so much energy turning yourself into a perfect candidate that the quiet, curious human inside has been pushed into the shadows. That stargazing, model-building part of you isn't dead; it is just waiting for you to value it as much as you value your grades.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_056",
+    "input_id": "inp_puco_ide_056",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly disorienting to look at your achievements and feel like you had to trade away your soul to build them. Those parts of you that loved poetry and sketching aren't deleted; they are simply waiting quietly beneath the noise of survival for you to safely welcome them back.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_057",
+    "input_id": "inp_puco_ide_057",
+    "response_style": "reflective",
+    "sandhi_response": "Shedding a costume you wore just to survive the cold of isolation is a terrifying step, but it is also the beginning of finding your real home. You don't have to apologize for trying to fit in, but you do deserve to be known for who you truly are, not the character you played.",
+    "wisdom_theme": "gentle_authenticity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_058",
+    "input_id": "inp_puco_ide_058",
+    "response_style": "calming",
+    "sandhi_response": "It is deeply exhausting to live out a script written by other people's fears and expectations. Taking back the pen to write your own life might feel incredibly risky right now, but even the smallest micro-step toward your true interests is an act of reclaiming your own agency.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_059",
+    "input_id": "inp_puco_ide_059",
+    "response_style": "grounding",
+    "sandhi_response": "Splintering yourself to keep everyone else comfortable is a heavy burden that is bound to break eventually. You don't need to perform a curated version of yourself to be worthy of space; the quiet, unedited self that is tired of playing parts is the one that needs your kindness right now.",
+    "wisdom_theme": "internal_alignment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_060",
+    "input_id": "inp_puco_ide_060",
+    "response_style": "reflective",
+    "sandhi_response": "The academic grind is designed to reward conformity, making it easy to mistake temporary exhaustion for a permanent loss of your spark. Your love for those quiet, quirky things is not dead; it is simply in hibernation, waiting for the pressure to lift so you can safely explore them again without having to monetize them.",
+    "wisdom_theme": "reclaiming_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_061",
+    "input_id": "inp_puco_ide_061",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly disorienting to look at your life and realize you have built a version of yourself that feels like a stranger. Those creative, poetic parts of you aren't gone; they are just waiting quietly underneath the noise of survival and expectation.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_062",
+    "input_id": "inp_puco_ide_062",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Drifting into other people's paths is a very natural way we try to feel safe when the future feels terrifyingly open. You don't have to have your whole authentic self figured out today; simply noticing that this current mold doesn't fit you is a brave first step toward reclaiming your own voice.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_063",
+    "input_id": "inp_puco_ide_063",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is a heavy, painful realization to feel like your achievements have served everyone's happiness but your own. You are allowed to mourn the time spent living for others, even as you gently begin to explore who you are when the pressure to perform is turned down.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_064",
+    "input_id": "inp_puco_ide_064",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Belonging isn't about fitting neatly into a pre-made academic box; it's okay to feel messy while you are bridging two different worlds. This phase of feeling like a ghost is actually the uncomfortable space where your real, uniquely blended self is beginning to take shape.",
+    "wisdom_theme": "transition_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_065",
+    "input_id": "inp_puco_ide_065",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When you have been trained to measure your worth by numbers and grades, stepping into the unstructured world can feel like stepping into a void. Please be gentle with yourself as you unlearn the habit of grading your own existence and learn to just exist.",
+    "wisdom_theme": "releasing_checklist",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_066",
+    "input_id": "inp_puco_ide_066",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to carry the burden of a celebration you do not feel inside, especially when everyone around you is cheering for a version of you that feels hollow. Your worth and identity are so much deeper than this corporate milestone, and it makes complete sense that you feel disconnected from a path you carved out of pure survival rather than genuine choice.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_067",
+    "input_id": "inp_puco_ide_067",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Constantly reshaping yourself to fit the rooms you walk into is an exhausting way to survive, and it is natural that you feel like you've lost your own coordinates. You do not have to be a perfect mirror for others to be worthy of belonging; it is safe to slowly let the quiet, unfiltered parts of yourself breathe again.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_068",
+    "input_id": "inp_puco_ide_068",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When we reduce our entire existence to optimized outputs and endless grinds, the colorful, creative parts of us naturally go dormant to protect themselves. Please know that those poetic, curious parts of you are not dead—they are just waiting for you to pause the optimization and give them a safe space to return.",
+    "wisdom_theme": "curiosity_reignition",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_069",
+    "input_id": "inp_puco_ide_069",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Living out someone else’s plan for your life is a deeply lonely experience, especially when you have to face the daily weight of classrooms that do not speak to your soul. This feeling of being a fraud is not a personal failure, but a gentle, honest protest from your true self demanding to be heard.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_070",
+    "input_id": "inp_puco_ide_070",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The performative world of professional social media can easily make us feel like we are the only ones struggling to fit into the costumes of adulthood. Please be gentle with yourself, because behind those polished updates, almost everyone is navigating the same terrifying gap between who they are and who they are pretending to be.",
+    "wisdom_theme": "releasing_timeline_pressure",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_071",
+    "input_id": "inp_puco_ide_071",
+    "response_style": "reflective",
+    "sandhi_response": "It sounds incredibly exhausting to feel like you've had to trade your creative spirit piece by piece just to survive this race. Your love for poetry and music isn't gone; it's simply waiting for you under all those layers of optimization, and we can take all the time you need to welcome them back.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_072",
+    "input_id": "inp_puco_ide_072",
+    "response_style": "grounding",
+    "sandhi_response": "Adapting your shape to survive different high-stakes environments is a heavy burden, and it makes complete sense that you feel empty when the performance finally stops. Let's step away from all those roles for just a moment and allow you to simply breathe as you are, without needing to prove anything to anyone.",
+    "wisdom_theme": "gentle_authenticity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_073",
+    "input_id": "inp_puco_ide_073",
+    "response_style": "reflective",
+    "sandhi_response": "It is deeply painful to mute your own vibrant colors just to paint a picture of security that someone else drew for you. Your desire to sketch and your true interests are not lost; they are just protecting themselves, and we can gently find ways to let them breathe again at your own pace.",
+    "wisdom_theme": "reclaiming_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_074",
+    "input_id": "inp_puco_ide_074",
+    "response_style": "calming",
+    "sandhi_response": "You have worked so hard to follow a blueprint that promised fulfillment, only to find it built a house you don't feel at home in. It's okay to feel disoriented right now; this liminal space is actually the beginning of discovering who you are when you're no longer performing for a checklist.",
+    "wisdom_theme": "releasing_checklist",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_075",
+    "input_id": "inp_puco_ide_075",
+    "response_style": "grounding",
+    "sandhi_response": "When the noise of everyone else's ambitions suddenly clears, facing the quiet space within can feel incredibly jarring and empty. This stillness, though unsettling, is actually a gentle invitation to start exploring what truly sparks your own curiosity, one tiny choice at a time.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_076",
+    "input_id": "inp_puco_ide_076",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly exhausting to build a version of yourself designed solely to be consumed by recruiters and systems. Please remember that the resume you created to open doors is just a tool, not a replacement for the quiet, poetry-loving person who still exists beneath the surface.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_077",
+    "input_id": "inp_puco_ide_077",
+    "response_style": "grounding",
+    "sandhi_response": "It sounds like you have been carrying the heavy weight of trying to survive by tucking away your creative spirit to match everyone else's pace. Your art is not lost; it is simply waiting for you to give yourself permission to step away from the terminal and breathe life back into what truly makes you feel whole.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_078",
+    "input_id": "inp_puco_ide_078",
+    "response_style": "reflective",
+    "sandhi_response": "Reaching the peak of academic achievement only to find a quiet emptiness there is a deeply disorienting experience. You are not a hollow shell; you are simply a person who has spent so much energy meeting external standards that your own inner voice is waiting to be introduced to you for the very first time.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_079",
+    "input_id": "inp_puco_ide_079",
+    "response_style": "calming",
+    "sandhi_response": "It is exhausting to perform a version of yourself that feels completely foreign just to keep from slipping into isolation. That physical ache is your inner self calling you back, asking you to trust that your quiet, library-loving spirit is worthy of space exactly as it is.",
+    "wisdom_theme": "gentle_authenticity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_080",
+    "input_id": "inp_puco_ide_080",
+    "response_style": "grounding",
+    "sandhi_response": "The constant noise of other people's milestones can make your own inner compass spin out of control. It is completely natural to feel unsteady, but you don't have to claim someone else's destination just to prove you are moving forward.",
+    "wisdom_theme": "owning_your_pace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_081",
+    "input_id": "inp_puco_ide_081",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly exhausting to look in the mirror and see a stranger wearing the achievements everyone else is celebrating. Those creative, expressive parts of you aren't dead; they are just waiting quietly underneath all this corporate noise for it to be safe to come back out.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_082",
+    "input_id": "inp_puco_ide_082",
+    "response_style": "grounding",
+    "sandhi_response": "Adapting to fit in has kept you safe for a long time, but it makes complete sense that you feel lost when the performance ends and the room goes quiet. Reconnecting with your true self starts not with a grand revelation, but with noticing what simple, quiet things bring you ease when no one is watching.",
+    "wisdom_theme": "gentle_authenticity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_083",
+    "input_id": "inp_puco_ide_083",
+    "response_style": "calming",
+    "sandhi_response": "It is deeply painful to live a life designed by someone else's expectations, feeling like a ghost in your own story. Even while you carry this heavy academic load for your family, your core love for literature and depth remains a sacred space that belongs solely to you.",
+    "wisdom_theme": "reclaiming_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_084",
+    "input_id": "inp_puco_ide_084",
+    "response_style": "reflective",
+    "sandhi_response": "The assembly line has a way of turning curiosity into a chore, making you forget the wonder that brought you here in the first place. That twelve-year-old who loved the magic of coding is still inside you, and you are allowed to protect that spark from being completely consumed by the hustle.",
+    "wisdom_theme": "curiosity_reignition",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_085",
+    "input_id": "inp_puco_ide_085",
+    "response_style": "grounding",
+    "sandhi_response": "When your whole identity is built on achieving, the quiet moments of rest can feel like a dangerous void instead of a relief. It takes immense courage to step off the performance treadmill and simply exist, even if it means sitting with the scary emptiness while you rediscover who you are outside of your grades.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_086",
+    "input_id": "inp_puco_ide_086",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to look at your achievements and realize they cost you the connection to your own creative spirit. You haven't lost that artistic part of yourself forever; it is simply waiting for you to gently invite it back into your life, one small sketch at a time.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_087",
+    "input_id": "inp_puco_ide_087",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "In your effort to survive a high-pressure environment, you did what you had to do to feel safe and accepted. It makes complete sense that you feel empty now, but please know that the authentic you isn't gone—you are just deeply exhausted from wearing a mask for so long.",
+    "wisdom_theme": "gentle_authenticity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_088",
+    "input_id": "inp_puco_ide_088",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When your whole life has been built around being the high achiever, a setback like this can make you feel like your entire foundation has dissolved. You are so much larger and deeper than your grades, and this painful moment might actually be the beginning of discovering who you are outside of your performance.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_089",
+    "input_id": "inp_puco_ide_089",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is so easy to let the noise of other people's milestones dictate your path, especially when the fear of falling behind is constantly being triggered online. Perhaps we can step away from the digital race for just a moment and explore what actually sparks a quiet sense of curiosity in your own quiet hours.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_090",
+    "input_id": "inp_puco_ide_090",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Living a life entirely designed to keep the peace for others is an incredibly exhausting way to exist, and it is completely natural that you feel like a ghost in your own story. Recognizing this hollow feeling is actually a brave first step toward slowly finding your own voice and choosing what you want to keep.",
+    "wisdom_theme": "reclaiming_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_091",
+    "input_id": "inp_puco_ide_091",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly draining to watch yourself perform a version of you that feels entirely foreign just to survive the expectations around you. That artistic, expressive part of you hasn't vanished forever; she is simply waiting for it to feel safe enough to come back out.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_092",
+    "input_id": "inp_puco_ide_092",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Shedding your own colors to blend into the background can feel like the only way to stay safe when the crowd is running so fast in one direction. It takes a lot of courage to pause and notice that you miss the person you used to be, and that awareness is the first step back to yourself.",
+    "wisdom_theme": "gentle_authenticity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_093",
+    "input_id": "inp_puco_ide_093",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Carrying the weight of someone else's dreams is a heavy, quiet burden that slowly starves your own inner life. It is okay to acknowledge the grief of losing your creative outlets, even as you try to navigate the demands of those who care about you.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_094",
+    "input_id": "inp_puco_ide_094",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When you are constantly adjusting your sails to catch every wind of public approval, it is completely natural to feel exhausted and lost. You do not need to commit to every passing trend to prove your worth; your own pace and curiosity are allowed to be your anchor.",
+    "wisdom_theme": "owning_your_pace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_095",
+    "input_id": "inp_puco_ide_095",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Maintaining a cheerful performance for the world while carrying a silent, empty panic inside is a deeply exhausting way to live. Please know that you do not have to have everything sorted out to be worthy of belonging, and it is safe to drop the mask when you are ready.",
+    "wisdom_theme": "gentle_authenticity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_096",
+    "input_id": "inp_puco_ide_096",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly draining to wear a mask of conformity just to feel secure, especially when it leaves your true creative self starved in the background. Your poetry and early curiosity are still alive inside you, and we do not have to discard who we are just to survive the demands of this placement season.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_097",
+    "input_id": "inp_puco_ide_097",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Pleasing everyone else often forces us to quiet our own inner voice until it feels like a whisper we can no longer recognize. It makes complete sense that you feel exhausted from holding up a version of yourself that was built entirely for other people's approval.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_098",
+    "input_id": "inp_puco_ide_098",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is terrifying to look at your own life and realize the labels you are wearing don't actually belong to you. Stepping back to find your true interests isn't a failure, but rather a brave act of reclaiming your life from a script you never wrote.",
+    "wisdom_theme": "gentle_authenticity",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_099",
+    "input_id": "inp_puco_ide_099",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Constantly editing yourself to fit into different spaces leaves very little room for your true self to rest and breathe. It is deeply exhausting to be hyper-visible to everyone else while feeling completely invisible to yourself.",
+    "wisdom_theme": "internal_alignment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_100",
+    "input_id": "inp_puco_ide_100",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Making a decision out of survival and the need for security is a deeply human choice, not a permanent betrayal of your creative soul. Your love for art isn't gone; it is simply waiting for you to give it a little space to breathe alongside your practical demands.",
+    "wisdom_theme": "reclaiming_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_101",
+    "input_id": "inp_puco_ide_101",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_102",
+    "input_id": "inp_puco_ide_102",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_103",
+    "input_id": "inp_puco_ide_103",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_104",
+    "input_id": "inp_puco_ide_104",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_105",
+    "input_id": "inp_puco_ide_105",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_106",
+    "input_id": "inp_puco_ide_106",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_107",
+    "input_id": "inp_puco_ide_107",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_108",
+    "input_id": "inp_puco_ide_108",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_109",
+    "input_id": "inp_puco_ide_109",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_110",
+    "input_id": "inp_puco_ide_110",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_111",
+    "input_id": "inp_puco_ide_111",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_112",
+    "input_id": "inp_puco_ide_112",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_113",
+    "input_id": "inp_puco_ide_113",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_114",
+    "input_id": "inp_puco_ide_114",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_115",
+    "input_id": "inp_puco_ide_115",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_116",
+    "input_id": "inp_puco_ide_116",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_117",
+    "input_id": "inp_puco_ide_117",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_118",
+    "input_id": "inp_puco_ide_118",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_119",
+    "input_id": "inp_puco_ide_119",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_120",
+    "input_id": "inp_puco_ide_120",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_121",
+    "input_id": "inp_puco_ide_121",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_122",
+    "input_id": "inp_puco_ide_122",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_123",
+    "input_id": "inp_puco_ide_123",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_124",
+    "input_id": "inp_puco_ide_124",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_125",
+    "input_id": "inp_puco_ide_125",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_126",
+    "input_id": "inp_puco_ide_126",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_127",
+    "input_id": "inp_puco_ide_127",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_128",
+    "input_id": "inp_puco_ide_128",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_129",
+    "input_id": "inp_puco_ide_129",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_130",
+    "input_id": "inp_puco_ide_130",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_131",
+    "input_id": "inp_puco_ide_131",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_132",
+    "input_id": "inp_puco_ide_132",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_133",
+    "input_id": "inp_puco_ide_133",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_134",
+    "input_id": "inp_puco_ide_134",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_135",
+    "input_id": "inp_puco_ide_135",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_136",
+    "input_id": "inp_puco_ide_136",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_137",
+    "input_id": "inp_puco_ide_137",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_138",
+    "input_id": "inp_puco_ide_138",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_139",
+    "input_id": "inp_puco_ide_139",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_140",
+    "input_id": "inp_puco_ide_140",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_141",
+    "input_id": "inp_puco_ide_141",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_142",
+    "input_id": "inp_puco_ide_142",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_143",
+    "input_id": "inp_puco_ide_143",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_144",
+    "input_id": "inp_puco_ide_144",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_145",
+    "input_id": "inp_puco_ide_145",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_146",
+    "input_id": "inp_puco_ide_146",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_147",
+    "input_id": "inp_puco_ide_147",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_148",
+    "input_id": "inp_puco_ide_148",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_149",
+    "input_id": "inp_puco_ide_149",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_150",
+    "input_id": "inp_puco_ide_150",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_151",
+    "input_id": "inp_puco_ide_151",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_152",
+    "input_id": "inp_puco_ide_152",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_153",
+    "input_id": "inp_puco_ide_153",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_154",
+    "input_id": "inp_puco_ide_154",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_155",
+    "input_id": "inp_puco_ide_155",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_156",
+    "input_id": "inp_puco_ide_156",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_157",
+    "input_id": "inp_puco_ide_157",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_158",
+    "input_id": "inp_puco_ide_158",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_159",
+    "input_id": "inp_puco_ide_159",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_160",
+    "input_id": "inp_puco_ide_160",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_161",
+    "input_id": "inp_puco_ide_161",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_162",
+    "input_id": "inp_puco_ide_162",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_163",
+    "input_id": "inp_puco_ide_163",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_164",
+    "input_id": "inp_puco_ide_164",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_165",
+    "input_id": "inp_puco_ide_165",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_166",
+    "input_id": "inp_puco_ide_166",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_167",
+    "input_id": "inp_puco_ide_167",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_168",
+    "input_id": "inp_puco_ide_168",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_169",
+    "input_id": "inp_puco_ide_169",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_170",
+    "input_id": "inp_puco_ide_170",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_171",
+    "input_id": "inp_puco_ide_171",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_172",
+    "input_id": "inp_puco_ide_172",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_173",
+    "input_id": "inp_puco_ide_173",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_174",
+    "input_id": "inp_puco_ide_174",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_175",
+    "input_id": "inp_puco_ide_175",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_176",
+    "input_id": "inp_puco_ide_176",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_177",
+    "input_id": "inp_puco_ide_177",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_178",
+    "input_id": "inp_puco_ide_178",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_179",
+    "input_id": "inp_puco_ide_179",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_180",
+    "input_id": "inp_puco_ide_180",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_181",
+    "input_id": "inp_puco_ide_181",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_182",
+    "input_id": "inp_puco_ide_182",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_183",
+    "input_id": "inp_puco_ide_183",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_184",
+    "input_id": "inp_puco_ide_184",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_185",
+    "input_id": "inp_puco_ide_185",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_186",
+    "input_id": "inp_puco_ide_186",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_187",
+    "input_id": "inp_puco_ide_187",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_188",
+    "input_id": "inp_puco_ide_188",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_189",
+    "input_id": "inp_puco_ide_189",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_190",
+    "input_id": "inp_puco_ide_190",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_191",
+    "input_id": "inp_puco_ide_191",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_192",
+    "input_id": "inp_puco_ide_192",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_193",
+    "input_id": "inp_puco_ide_193",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_194",
+    "input_id": "inp_puco_ide_194",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_195",
+    "input_id": "inp_puco_ide_195",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_196",
+    "input_id": "inp_puco_ide_196",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_197",
+    "input_id": "inp_puco_ide_197",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_198",
+    "input_id": "inp_puco_ide_198",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_199",
+    "input_id": "inp_puco_ide_199",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_200",
+    "input_id": "inp_puco_ide_200",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_201",
+    "input_id": "inp_puco_ide_201",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_202",
+    "input_id": "inp_puco_ide_202",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_203",
+    "input_id": "inp_puco_ide_203",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_204",
+    "input_id": "inp_puco_ide_204",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_205",
+    "input_id": "inp_puco_ide_205",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_206",
+    "input_id": "inp_puco_ide_206",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_207",
+    "input_id": "inp_puco_ide_207",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_208",
+    "input_id": "inp_puco_ide_208",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_209",
+    "input_id": "inp_puco_ide_209",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_210",
+    "input_id": "inp_puco_ide_210",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_211",
+    "input_id": "inp_puco_ide_211",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_212",
+    "input_id": "inp_puco_ide_212",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_213",
+    "input_id": "inp_puco_ide_213",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_214",
+    "input_id": "inp_puco_ide_214",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_215",
+    "input_id": "inp_puco_ide_215",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_216",
+    "input_id": "inp_puco_ide_216",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_217",
+    "input_id": "inp_puco_ide_217",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_218",
+    "input_id": "inp_puco_ide_218",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_219",
+    "input_id": "inp_puco_ide_219",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_220",
+    "input_id": "inp_puco_ide_220",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_221",
+    "input_id": "inp_puco_ide_221",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_222",
+    "input_id": "inp_puco_ide_222",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_223",
+    "input_id": "inp_puco_ide_223",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_224",
+    "input_id": "inp_puco_ide_224",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_225",
+    "input_id": "inp_puco_ide_225",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_226",
+    "input_id": "inp_puco_ide_226",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_227",
+    "input_id": "inp_puco_ide_227",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_228",
+    "input_id": "inp_puco_ide_228",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_229",
+    "input_id": "inp_puco_ide_229",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_230",
+    "input_id": "inp_puco_ide_230",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_231",
+    "input_id": "inp_puco_ide_231",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_232",
+    "input_id": "inp_puco_ide_232",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_233",
+    "input_id": "inp_puco_ide_233",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_234",
+    "input_id": "inp_puco_ide_234",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_235",
+    "input_id": "inp_puco_ide_235",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_236",
+    "input_id": "inp_puco_ide_236",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_237",
+    "input_id": "inp_puco_ide_237",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_238",
+    "input_id": "inp_puco_ide_238",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_239",
+    "input_id": "inp_puco_ide_239",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_240",
+    "input_id": "inp_puco_ide_240",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_241",
+    "input_id": "inp_puco_ide_241",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_242",
+    "input_id": "inp_puco_ide_242",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_243",
+    "input_id": "inp_puco_ide_243",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_244",
+    "input_id": "inp_puco_ide_244",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_245",
+    "input_id": "inp_puco_ide_245",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_246",
+    "input_id": "inp_puco_ide_246",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_247",
+    "input_id": "inp_puco_ide_247",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_248",
+    "input_id": "inp_puco_ide_248",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_249",
+    "input_id": "inp_puco_ide_249",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_250",
+    "input_id": "inp_puco_ide_250",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_251",
+    "input_id": "inp_puco_ide_251",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_252",
+    "input_id": "inp_puco_ide_252",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_253",
+    "input_id": "inp_puco_ide_253",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_254",
+    "input_id": "inp_puco_ide_254",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_255",
+    "input_id": "inp_puco_ide_255",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_256",
+    "input_id": "inp_puco_ide_256",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_257",
+    "input_id": "inp_puco_ide_257",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_258",
+    "input_id": "inp_puco_ide_258",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_259",
+    "input_id": "inp_puco_ide_259",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_260",
+    "input_id": "inp_puco_ide_260",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_261",
+    "input_id": "inp_puco_ide_261",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_262",
+    "input_id": "inp_puco_ide_262",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_263",
+    "input_id": "inp_puco_ide_263",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_264",
+    "input_id": "inp_puco_ide_264",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_265",
+    "input_id": "inp_puco_ide_265",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_266",
+    "input_id": "inp_puco_ide_266",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_267",
+    "input_id": "inp_puco_ide_267",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_268",
+    "input_id": "inp_puco_ide_268",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_269",
+    "input_id": "inp_puco_ide_269",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_270",
+    "input_id": "inp_puco_ide_270",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_271",
+    "input_id": "inp_puco_ide_271",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_272",
+    "input_id": "inp_puco_ide_272",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_273",
+    "input_id": "inp_puco_ide_273",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_274",
+    "input_id": "inp_puco_ide_274",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_275",
+    "input_id": "inp_puco_ide_275",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_276",
+    "input_id": "inp_puco_ide_276",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_277",
+    "input_id": "inp_puco_ide_277",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_278",
+    "input_id": "inp_puco_ide_278",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_279",
+    "input_id": "inp_puco_ide_279",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_280",
+    "input_id": "inp_puco_ide_280",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_281",
+    "input_id": "inp_puco_ide_281",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_282",
+    "input_id": "inp_puco_ide_282",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_283",
+    "input_id": "inp_puco_ide_283",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_284",
+    "input_id": "inp_puco_ide_284",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_285",
+    "input_id": "inp_puco_ide_285",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_286",
+    "input_id": "inp_puco_ide_286",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_287",
+    "input_id": "inp_puco_ide_287",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_288",
+    "input_id": "inp_puco_ide_288",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_289",
+    "input_id": "inp_puco_ide_289",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_290",
+    "input_id": "inp_puco_ide_290",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_291",
+    "input_id": "inp_puco_ide_291",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_292",
+    "input_id": "inp_puco_ide_292",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_293",
+    "input_id": "inp_puco_ide_293",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_294",
+    "input_id": "inp_puco_ide_294",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_295",
+    "input_id": "inp_puco_ide_295",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_296",
+    "input_id": "inp_puco_ide_296",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_297",
+    "input_id": "inp_puco_ide_297",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_298",
+    "input_id": "inp_puco_ide_298",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_299",
+    "input_id": "inp_puco_ide_299",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_300",
+    "input_id": "inp_puco_ide_300",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_301",
+    "input_id": "inp_puco_ide_301",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_302",
+    "input_id": "inp_puco_ide_302",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_303",
+    "input_id": "inp_puco_ide_303",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_304",
+    "input_id": "inp_puco_ide_304",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_305",
+    "input_id": "inp_puco_ide_305",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_306",
+    "input_id": "inp_puco_ide_306",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_307",
+    "input_id": "inp_puco_ide_307",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_308",
+    "input_id": "inp_puco_ide_308",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_309",
+    "input_id": "inp_puco_ide_309",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_310",
+    "input_id": "inp_puco_ide_310",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_311",
+    "input_id": "inp_puco_ide_311",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_312",
+    "input_id": "inp_puco_ide_312",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_313",
+    "input_id": "inp_puco_ide_313",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_314",
+    "input_id": "inp_puco_ide_314",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_315",
+    "input_id": "inp_puco_ide_315",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_316",
+    "input_id": "inp_puco_ide_316",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_317",
+    "input_id": "inp_puco_ide_317",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_318",
+    "input_id": "inp_puco_ide_318",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_319",
+    "input_id": "inp_puco_ide_319",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_320",
+    "input_id": "inp_puco_ide_320",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_321",
+    "input_id": "inp_puco_ide_321",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_322",
+    "input_id": "inp_puco_ide_322",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_323",
+    "input_id": "inp_puco_ide_323",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_324",
+    "input_id": "inp_puco_ide_324",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_325",
+    "input_id": "inp_puco_ide_325",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_326",
+    "input_id": "inp_puco_ide_326",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_327",
+    "input_id": "inp_puco_ide_327",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_328",
+    "input_id": "inp_puco_ide_328",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_329",
+    "input_id": "inp_puco_ide_329",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_330",
+    "input_id": "inp_puco_ide_330",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_331",
+    "input_id": "inp_puco_ide_331",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_332",
+    "input_id": "inp_puco_ide_332",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_333",
+    "input_id": "inp_puco_ide_333",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_334",
+    "input_id": "inp_puco_ide_334",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_335",
+    "input_id": "inp_puco_ide_335",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_336",
+    "input_id": "inp_puco_ide_336",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_337",
+    "input_id": "inp_puco_ide_337",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_338",
+    "input_id": "inp_puco_ide_338",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_339",
+    "input_id": "inp_puco_ide_339",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_340",
+    "input_id": "inp_puco_ide_340",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_341",
+    "input_id": "inp_puco_ide_341",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_342",
+    "input_id": "inp_puco_ide_342",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_343",
+    "input_id": "inp_puco_ide_343",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_344",
+    "input_id": "inp_puco_ide_344",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_345",
+    "input_id": "inp_puco_ide_345",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_346",
+    "input_id": "inp_puco_ide_346",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_347",
+    "input_id": "inp_puco_ide_347",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_348",
+    "input_id": "inp_puco_ide_348",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_349",
+    "input_id": "inp_puco_ide_349",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_350",
+    "input_id": "inp_puco_ide_350",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_351",
+    "input_id": "inp_puco_ide_351",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_352",
+    "input_id": "inp_puco_ide_352",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_353",
+    "input_id": "inp_puco_ide_353",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_354",
+    "input_id": "inp_puco_ide_354",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_355",
+    "input_id": "inp_puco_ide_355",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_356",
+    "input_id": "inp_puco_ide_356",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_357",
+    "input_id": "inp_puco_ide_357",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_358",
+    "input_id": "inp_puco_ide_358",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_359",
+    "input_id": "inp_puco_ide_359",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_360",
+    "input_id": "inp_puco_ide_360",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_361",
+    "input_id": "inp_puco_ide_361",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_362",
+    "input_id": "inp_puco_ide_362",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_363",
+    "input_id": "inp_puco_ide_363",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_364",
+    "input_id": "inp_puco_ide_364",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_365",
+    "input_id": "inp_puco_ide_365",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_366",
+    "input_id": "inp_puco_ide_366",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_367",
+    "input_id": "inp_puco_ide_367",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_368",
+    "input_id": "inp_puco_ide_368",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_369",
+    "input_id": "inp_puco_ide_369",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_370",
+    "input_id": "inp_puco_ide_370",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_371",
+    "input_id": "inp_puco_ide_371",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_372",
+    "input_id": "inp_puco_ide_372",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_373",
+    "input_id": "inp_puco_ide_373",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_374",
+    "input_id": "inp_puco_ide_374",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_375",
+    "input_id": "inp_puco_ide_375",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_376",
+    "input_id": "inp_puco_ide_376",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_377",
+    "input_id": "inp_puco_ide_377",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_378",
+    "input_id": "inp_puco_ide_378",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_379",
+    "input_id": "inp_puco_ide_379",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_380",
+    "input_id": "inp_puco_ide_380",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_381",
+    "input_id": "inp_puco_ide_381",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_382",
+    "input_id": "inp_puco_ide_382",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_383",
+    "input_id": "inp_puco_ide_383",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_384",
+    "input_id": "inp_puco_ide_384",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_385",
+    "input_id": "inp_puco_ide_385",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_386",
+    "input_id": "inp_puco_ide_386",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_387",
+    "input_id": "inp_puco_ide_387",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_388",
+    "input_id": "inp_puco_ide_388",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_389",
+    "input_id": "inp_puco_ide_389",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_390",
+    "input_id": "inp_puco_ide_390",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_391",
+    "input_id": "inp_puco_ide_391",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_392",
+    "input_id": "inp_puco_ide_392",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_393",
+    "input_id": "inp_puco_ide_393",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_394",
+    "input_id": "inp_puco_ide_394",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_395",
+    "input_id": "inp_puco_ide_395",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_396",
+    "input_id": "inp_puco_ide_396",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_397",
+    "input_id": "inp_puco_ide_397",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_398",
+    "input_id": "inp_puco_ide_398",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_399",
+    "input_id": "inp_puco_ide_399",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of identity drift is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_ide_400",
+    "input_id": "inp_puco_ide_400",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  }
+]

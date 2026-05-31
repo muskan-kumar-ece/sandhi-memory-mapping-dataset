@@ -1,0 +1,13 @@
+{
+  "subcategory_id": "SUB-DEPR",
+  "subcategory_name": "depression",
+  "category": "Hopelessness",
+  "description": "Emotional state and behaviors relating to depression under Hopelessness.",
+  "complexity_level": "medium",
+  "clinical_relevance": "high",
+  "tags": [
+    "hopelessness",
+    "depression",
+    "student_support"
+  ]
+}

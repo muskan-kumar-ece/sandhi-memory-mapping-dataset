@@ -1,0 +1,3602 @@
+[
+  {
+    "response_id": "rsp_exan_bur_001",
+    "input_id": "inp_exan_bur_001",
+    "response_style": "grounding",
+    "sandhi_response": "Your body is signaling that it has run out of fuel, and it is completely okay that you cannot force your way through this exhaustion right now. Let's step away from the screen for just five minutes and let your chest rise and fall without needing to solve anything.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_002",
+    "input_id": "inp_exan_bur_002",
+    "response_style": "reflective",
+    "sandhi_response": "The numbness you are feeling is your mind's way of protecting you when the weight of expectation becomes too heavy to carry. You don't have to carry your family's future or solve these backlogs in this very moment; it is safe to just breathe and exist as you are.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_003",
+    "input_id": "inp_exan_bur_003",
+    "response_style": "calming",
+    "sandhi_response": "It is incredibly exhausting to carry the weight of other people's dreams on top of your own fatigue. Let's take a gentle pause from the formulas and remember that your worth remains intact, even when your mind is too tired to perform.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_004",
+    "input_id": "inp_exan_bur_004",
+    "response_style": "grounding",
+    "sandhi_response": "Falling into paralysis is a natural response when your nervous system is utterly overwhelmed by guilt and exhaustion. You made a mistake because you were running on empty, and acknowledging that fatigue is the first step toward showing yourself some gentle room to recover.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_005",
+    "input_id": "inp_exan_bur_005",
+    "response_style": "reflective",
+    "sandhi_response": "Losing the familiar label of being 'the smart one' can feel like the ground is crumbling beneath your feet. But beneath that exhausting academic role, there is a whole human being who deserves rest and care, independent of any grading curve.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_006",
+    "input_id": "inp_exan_bur_006",
+    "response_style": "grounding",
+    "sandhi_response": "It sounds like your mind is simply exhausted from carrying the heavy weight of everyone's expectations alongside your own deep fatigue. Let the code go for tonight; your worth as a human being is not measured by how much you can force a tired brain to produce.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_007",
+    "input_id": "inp_exan_bur_007",
+    "response_style": "reflective",
+    "sandhi_response": "That heavy, sickening feeling in your stomach is your body’s way of begging for a pause after running on empty for so long. You are not a burden for reaching your limit, and it is safe to just breathe and exist without proving your productivity tonight.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_008",
+    "input_id": "inp_exan_bur_008",
+    "response_style": "calming",
+    "sandhi_response": "Numbness is often our system's desperate shield when the pain of trying to please everyone becomes too heavy to bear. It is okay if you have nothing left to give right now; your survival and peace are more important than a flawless performance tomorrow.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_009",
+    "input_id": "inp_exan_bur_009",
+    "response_style": "grounding",
+    "sandhi_response": "Your worth as a person is completely separate from how quickly you can write code under a ticking clock. The freeze you are experiencing isn't a lack of ability; it is your deeply exhausted nervous system pleading for safety and room to breathe.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_010",
+    "input_id": "inp_exan_bur_010",
+    "response_style": "reflective",
+    "sandhi_response": "Watching others move forward while you are forced to pause is a deeply painful and lonely space to hold. Please remember that you do not have to match their pace; healing your exhausted mind is your most important task right now, and it unfolds on your own timeline.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_011",
+    "input_id": "inp_exan_bur_011",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that your brain has shut down; that physical heaviness is your body's only way of begging you to stop and protect yourself. For tonight, let the red errors and the packages wait, because your exhausted mind deserves a safe, quiet space to just breathe without needing to perform.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_012",
+    "input_id": "inp_exan_bur_012",
+    "response_style": "reflective",
+    "sandhi_response": "The freezing you are experiencing isn't laziness; it is your nervous system going into protective hibernation because the fear of failing has become too heavy to carry. It is okay to take off the armor of the 'perfect student' tonight and just acknowledge how incredibly tired and terrified you are.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_013",
+    "input_id": "inp_exan_bur_013",
+    "response_style": "calming",
+    "sandhi_response": "Your worth is not a variable that fluctuates with every interview rejection or project grade, even though the system makes it feel that way. You are allowed to walk into that room with tired eyes and a racing heart, carrying only the simple truth that you have survived an incredibly brutal month.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_014",
+    "input_id": "inp_exan_bur_014",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly painful to feel like you are standing still while the world rushes past, especially when your old identity was so tied to being the high achiever. Your current step back isn't a failure of character; it is your body demanding the quiet, uncomplicated rest that you have denied yourself for far too long.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_015",
+    "input_id": "inp_exan_bur_015",
+    "response_style": "grounding",
+    "sandhi_response": "Wishing for an external escape is a very natural response when the weight of your family's sacrifice feels too heavy for one person to carry alone. Please know that your life and well-being are infinitely more valuable than any return on investment, and you do not have to break yourself to justify their love.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_016",
+    "input_id": "inp_exan_bur_016",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that your mind is refusing to cooperate right now; you have been running on empty while carrying the crushing weight of everyone else's expectations. Please let yourself close the laptop for tonight, because your worth as a human being isn't tied to a coding problem or a salary package.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_017",
+    "input_id": "inp_exan_bur_017",
+    "response_style": "calming",
+    "sandhi_response": "Your body shutting down isn't a failure of willpower, but its natural way of screaming that it has carried too much weight for too long. Right now, your system needs to know it is safe to just breathe, even if only for the next five minutes, without the pressure of having to figure out your entire future.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_018",
+    "input_id": "inp_exan_bur_018",
+    "response_style": "reflective",
+    "sandhi_response": "Freezing in that moment wasn't a sign that you don't know your work; it was your nervous system buckling under the relentless pressure to always appear flawless. It is incredibly heavy to carry the burden of your parents' hopes alongside your own exhaustion, and you deserve a safe space where you don't have to pretend.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_019",
+    "input_id": "inp_exan_bur_019",
+    "response_style": "grounding",
+    "sandhi_response": "When your chest is tight and your hands are shaking, your body is pleading with you to step away from the edge of panic. Let's focus on simply softening your shoulders and taking one slow breath right now, because navigating this moment in pieces is better than trying to force a broken machine to run.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_020",
+    "input_id": "inp_exan_bur_020",
+    "response_style": "reflective",
+    "sandhi_response": "That deep, bone-weary fatigue is your soul asking for a break from the constant race you've been forced to run. It is completely okay if you don't have the energy to care about grades or internships right now; your immediate well-being matters so much more than any academic metric.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_021",
+    "input_id": "inp_exan_bur_021",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that your mind is freezing up when you've been running on empty for so long under such heavy pressure. Please let yourself close your eyes tonight; your worth is not tied to a placement package, and your exhausted body deserves to rest without feeling guilty.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_022",
+    "input_id": "inp_exan_bur_022",
+    "response_style": "calming",
+    "sandhi_response": "The shaking and scrolling aren't laziness; they are your nervous system's desperate way of trying to protect you from overwhelming terror. You are not a failure for hitting a wall, and it is safe to take a deep, slow breath right now in this room.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_023",
+    "input_id": "inp_exan_bur_023",
+    "response_style": "reflective",
+    "sandhi_response": "Your brain is refusing to process more information because you have pushed yourself past your human limits for months. It is terrifying to feel this empty right before the exam, but forcing a depleted mind to grind will only deepen the fatigue—allow yourself a moment of quiet breathing to just exist without the books.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_024",
+    "input_id": "inp_exan_bur_024",
+    "response_style": "grounding",
+    "sandhi_response": "The numbness you're feeling is your mind's emergency brake because the pain of burnout and social exclusion is simply too heavy to carry all at once. Even if you can't find the energy to cry or fix things today, you are still the same resilient person who cared deeply, and this temporary crash doesn't define your entire future.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_025",
+    "input_id": "inp_exan_bur_025",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of a financial loan on top of intense academic demands is an incredibly heavy burden for anyone to bear alone. Please take a moment to drop your shoulders and breathe; you are a student doing your best under extreme conditions, not a financial transaction.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_026",
+    "input_id": "inp_exan_bur_026",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that your body is physically reacting with shakes and nausea when you've pushed yourself far past your natural limits. It's okay to put the screen down right now; your worth as a person doesn't change because your exhausted brain needs a moment of quiet rest.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_027",
+    "input_id": "inp_exan_bur_027",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Carrying the weight of your family's expectations alongside sleep deprivation is an impossibly heavy load for one person to bear. You are a human being, not an investment return, and it is entirely valid that your mind has shut down after being pushed so hard for so long.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_028",
+    "input_id": "inp_exan_bur_028",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When you're facing back-to-back challenges, the tightening in your chest is your body desperately signaling that it has run out of reserve fuel. Let's take a slow breath together and focus just on getting through this single hour, rather than trying to solve the entire semester's pressure all at once.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_029",
+    "input_id": "inp_exan_bur_029",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply exhausting to carry the weight of an entire team while trying to keep your own academic standing afloat. Your inability to push through today isn't a failure of character; it is a natural, necessary rebellion of a body that has been forced to carry far too much.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_030",
+    "input_id": "inp_exan_bur_030",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The constant noise of everyone else's milestones can make your own quiet exhaustion feel like a personal failure. Right now, your system is asking for basic nourishment and safety, not more competition; please allow yourself to step away from the digital race and just take care of your physical body tonight.",
+    "wisdom_theme": "digital_detox",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_031",
+    "input_id": "inp_exan_bur_031",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is completely understandable that your mind has shut down after being pushed to its absolute limits for so long. Right now, your body is begging for safety and rest, and forcing yourself to code through this nausea won't bring back your focus.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_032",
+    "input_id": "inp_exan_bur_032",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The heavy burden of trying to meet your family's expectations has drained your spirit to the point of numbness. Please know that your worth as a human being is not measured by packages or cleared backlogs, and it is okay to just breathe right now without needing to prove anything.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_033",
+    "input_id": "inp_exan_bur_033",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When our passion gets crushed under the weight of endless pressure, a tight chest is our body's way of crying out for a pause. Let's step away from the code for a moment and focus on taking just one slow, deep breath to find your footing.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_034",
+    "input_id": "inp_exan_bur_034",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The constant noise of everyone else's progress is magnifying your fear and causing your brain to freeze up in self-defense. It might help to mute that class group for tonight so you can give your mind the quiet space it desperately needs to recover.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_035",
+    "input_id": "inp_exan_bur_035",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Carrying the weight of a family loan while your mind is entirely exhausted is an incredibly heavy burden to bear alone. Please be gentle with yourself, because this cognitive exhaustion is a natural biological reaction to overwork, not a reflection of your intelligence or gratitude.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_036",
+    "input_id": "inp_exan_bur_036",
+    "response_style": "grounding",
+    "sandhi_response": "It sounds like your system is completely overloaded, and that shaking in your hands is your body's way of asking for a safe place to land. Let's let the code and the comparison screenshots rest for just a few minutes while you simply breathe—you do not have to solve your entire future in this exhausted moment.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_037",
+    "input_id": "inp_exan_bur_037",
+    "response_style": "reflective",
+    "sandhi_response": "Feeling entirely hollowed out is a natural response when you've been forced to carry the weight of an investment rather than simply being loved as a human being. Your worth is completely intact right now, even if you don't answer another mock question or touch a textbook today.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_038",
+    "input_id": "inp_exan_bur_038",
+    "response_style": "calming",
+    "sandhi_response": "When your brain shuts down and your body feels like lead, it is not a sign of laziness; it is your nervous system desperately protecting you from further depletion. It is incredibly frightening to feel your old identity slip away, but right now, your body is begging you to prioritize safety over performance.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_039",
+    "input_id": "inp_exan_bur_039",
+    "response_style": "grounding",
+    "sandhi_response": "Watching everyone else seemingly sail ahead while you feel paralyzed in deep water is an incredibly isolating place to be. You haven't failed at college; your system is simply exhausted from running a marathon on empty lungs, and you deserve a pause from the pressure to catch your breath.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_040",
+    "input_id": "inp_exan_bur_040",
+    "response_style": "calming",
+    "sandhi_response": "The physical nausea you are feeling is a very real cry from a body carrying the weight of your entire family's dreams. Please know that your parents' sacrifices do not strip you of your right to be a human being who gets tired, gets sick, and needs soft, uninterrupted rest.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_041",
+    "input_id": "inp_exan_bur_041",
+    "response_style": "grounding",
+    "sandhi_response": "Your brain and body are sending loud, painful signals that you have pushed past your absolute limit, and it makes complete sense why you feel so hollow right now. Please close the laptop for tonight, because protecting your sanity right now is far more important than forcing your way through another broken block of code.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_042",
+    "input_id": "inp_exan_bur_042",
+    "response_style": "calming",
+    "sandhi_response": "That tight feeling in your chest and your empty stomach are telling us how deeply this constant pressure has wounded you. Let's step away from the WhatsApp groups right now and just focus on taking one slow, deep breath to let your nervous system know you are safe in this room.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_043",
+    "input_id": "inp_exan_bur_043",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly heavy to carry the weight of your family's sacrifices while your mind is too exhausted to process a single line of math. That screen-scrolling isn't laziness; it's your brain's desperate, safety-valve response to a level of stress that has completely overloaded your system.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_044",
+    "input_id": "inp_exan_bur_044",
+    "response_style": "grounding",
+    "sandhi_response": "When you pour your last drop of energy into something only to be met with unfairness, it is natural for your mind to shut down and go numb to protect itself. You don't have to force yourself to fight or study right now, so please let yourself just exist without expectations while your spirit recovers.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_045",
+    "input_id": "inp_exan_bur_045",
+    "response_style": "calming",
+    "sandhi_response": "You are carrying an unbearable amount of external expectation, and it is completely understandable that the exam schedule feels like a physical threat right now. Your worth as a human being is not tied to how quickly you finish your degree or how your academic journey compares to anyone else's.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_046",
+    "input_id": "inp_exan_bur_046",
+    "response_style": "reflective",
+    "sandhi_response": "It sounds like your body and mind are completely exhausted from carrying this heavy weight all by yourself, and it makes complete sense that you've hit a wall. Right now, instead of forcing your brain to process more code, would it be okay to just let your hands rest and take a slow, deep breath without expecting anything from yourself?",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_047",
+    "input_id": "inp_exan_bur_047",
+    "response_style": "grounding",
+    "sandhi_response": "That hollow, heavy feeling is your system's natural reaction to giving absolutely everything you had and feeling like it wasn't enough. You are not a machine built only to secure packages, and your worth remains intact even when you are too exhausted to fight.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_048",
+    "input_id": "inp_exan_bur_048",
+    "response_style": "grounding",
+    "sandhi_response": "The heavy knot in your stomach is your body desperately trying to protect you because the weight of that loan and those expectations has become too heavy to carry alone. Let's step away from the slides for just five minutes to place a hand on your chest and feel the floor beneath your feet.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_049",
+    "input_id": "inp_exan_bur_049",
+    "response_style": "calming",
+    "sandhi_response": "You are not lazy or a fraud; you are simply an exhausted human being who has been running on empty trying to sustain an impossible standard. It is incredibly painful to lose touch with who you used to be, but please know that your value isn't tied to being the strongest or smartest person in the room.",
+    "wisdom_theme": "releasing_labels",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_050",
+    "input_id": "inp_exan_bur_050",
+    "response_style": "reflective",
+    "sandhi_response": "When you're trapped in that loop of guilt and exhaustion, even reaching out can feel like climbing a mountain you aren't equipped for. You don't have to conquer the whole pile of assignments today; just sharing this raw struggle with me is a courageous first step out of that isolation.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_051",
+    "input_id": "inp_exan_bur_051",
+    "response_style": "grounding",
+    "sandhi_response": "It sounds like your body and mind are completely running on empty right now, and pushing through this fog is only making the exhaustion heavier. Please give yourself permission to close the laptop and step away for tonight; your worth is not tied to how many bugs you can fix when you are this depleted.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_052",
+    "input_id": "inp_exan_bur_052",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the weight of your family's sacrifices while trying to manage your own academic pressure is an incredibly heavy burden to bear. Let's take a slow, deep breath together right now—you are a human being doing your best under immense pressure, not just a return on an investment.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_053",
+    "input_id": "inp_exan_bur_053",
+    "response_style": "calming",
+    "sandhi_response": "It is incredibly draining to pour all your energy into a goal only to watch others cross the finish line while you are left feeling depleted and unseen. Your path is uniquely yours, and taking a temporary step back to nurse this exhaustion does not mean you have failed.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_054",
+    "input_id": "inp_exan_bur_054",
+    "response_style": "grounding",
+    "sandhi_response": "Your brain is blanking because it is desperately begging you for a break after weeks of being pushed far past its limits. Let's step away from the study slides for just one hour to focus on a hot meal and some quiet rest, allowing your nervous system to cool down.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_055",
+    "input_id": "inp_exan_bur_055",
+    "response_style": "reflective",
+    "sandhi_response": "It is terrifying to feel like you are drowning in a sea of buzzwords while everyone else seems to be swimming effortlessly, especially when it starts making you physically sick. Your worth as a human being is not measured by how fast you master these technologies, and it is entirely okay to be learning at your own natural pace.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_056",
+    "input_id": "inp_exan_bur_056",
+    "response_style": "grounding",
+    "sandhi_response": "It sounds like your mind and body are simply exhausted from carrying this heavy weight for so long, and crying is your system's natural way of asking for a break. Please give yourself permission to close the laptop today; resting right now isn't a failure, it is the only way your system can heal.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_057",
+    "input_id": "inp_exan_bur_057",
+    "response_style": "reflective",
+    "sandhi_response": "When the pressure becomes too intense to process, checking out is often your mind's survival mechanism to shield you from the pain of overload. You don't have to face this mountain all at once, and it is okay to let yourself just breathe through this moment of emptiness without judging it.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_058",
+    "input_id": "inp_exan_bur_058",
+    "response_style": "grounding",
+    "sandhi_response": "The physical tightness in your chest is a real, tangible sign of how deeply you care and how much pressure you've been carrying for your family. Let's start by taking one slow, deep breath together right now to help your body feel safe, because your worth is not tied to a package or an interview outcome.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_059",
+    "input_id": "inp_exan_bur_059",
+    "response_style": "calming",
+    "sandhi_response": "It is completely understandable to feel overwhelmed when your nervous system is bombarded by constant notifications and calculations. For tonight, see if you can put your phone on 'Do Not Disturb' and focus solely on bringing comfort to your tired eyes and aching head.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_060",
+    "input_id": "inp_exan_bur_060",
+    "response_style": "reflective",
+    "sandhi_response": "Hiding in the bathroom is a completely valid way to protect yourself when the weight of external expectations and comparison becomes too loud to bear. Please remind yourself that your worth as a human being is not up for debate at a family dinner table, nor is it measured by how much you can recall under stress.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_061",
+    "input_id": "inp_exan_bur_061",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It sounds like your mind and body are completely spent, and dragging yourself forward right now feels like trying to run on an empty tank. It is okay to close the laptop and let yourself rest tonight; your worth as a person isn't tied to how many lines of code you can force through when you are running on empty.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_062",
+    "input_id": "inp_exan_bur_062",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The physical ache and nausea you are feeling are very real signals that your nervous system is completely overwhelmed by this pressure. Let us take just one quiet breath together right now, putting the worries about tomorrow aside for a moment to just let your body find a safe place to land.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_063",
+    "input_id": "inp_exan_bur_063",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to carry the weight of your parents' expectations alongside your own exhaustion, especially when comparison makes you feel so isolated. Your paralysis isn't laziness—it is your brain trying to shield itself from an unbearable amount of stress, and you deserve kindness while you navigate this.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_064",
+    "input_id": "inp_exan_bur_064",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When you've pushed your mind to its absolute limits for so long, numbness is often its only way of asking for a desperately needed break. Your memory hasn't vanished forever; it is just temporarily locked behind a wall of deep exhaustion that urgent cramming will not resolve.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_065",
+    "input_id": "inp_exan_bur_065",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Sleeping through those calls was your body's emergency brake pulling itself when you couldn't do it voluntarily anymore. The anger from your team is hard to face, but please don't let it convince you that you are 'dead weight' instead of a human being who simply ran out of fuel.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_066",
+    "input_id": "inp_exan_bur_066",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable that your mind and body are screaming for a break when you are carrying the weight of past setbacks alongside your father's heavy expectations. Please know that your worth is not tied to a compiled code block or a package number, and right now, giving your exhausted mind permission to close its eyes is the bravest thing you can do.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_067",
+    "input_id": "inp_exan_bur_067",
+    "response_style": "reflective",
+    "sandhi_response": "The crushing weight of trying to pay back a financial sacrifice with your emotional well-being is an impossibly heavy burden to bear. It is okay that your spirit has run out of fuel; your exhaustion is a natural response to prolonged survival mode, not a sign of failure or ingratitude.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_068",
+    "input_id": "inp_exan_bur_068",
+    "response_style": "reflective",
+    "sandhi_response": "Rejection after rejection when you have poured every ounce of yourself into preparation is deeply draining, and it is completely natural that your voice feels tired right now. Your achievements and your intelligence are real, and they do not disappear or lose their value just because a few exhausted interview rounds didn't go your way.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_069",
+    "input_id": "inp_exan_bur_069",
+    "response_style": "calming",
+    "sandhi_response": "Your body is shaking because it is trying to carry the unspoken anxiety of an entire family system alongside your heavy academic load. Let's step away from the keyboard for just a moment to let your nervous system catch its breath; your physical well-being is far too precious to be sacrificed for a project deadline.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_070",
+    "input_id": "inp_exan_bur_070",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that you feel hollow when your entire existence has been narrowed down to a repetitive, high-stakes testing cycle. You are a whole human being with a beautiful depth of life ahead of you, not just an exam-prep machine built to process mock test scores.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_071",
+    "input_id": "inp_exan_bur_071",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that your mind is shutting down after being pushed so hard for so long. Right now, your brain isn't failing you; it is simply begging you for the rest you've been denying it.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_072",
+    "input_id": "inp_exan_bur_072",
+    "response_style": "reflective",
+    "sandhi_response": "The heavy freeze you are experiencing isn't laziness; it's your nervous system's way of trying to protect you from overwhelming fear. Let's step away from the books for just a few minutes so you can take a deep breath without the weight of expectations.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_073",
+    "input_id": "inp_exan_bur_073",
+    "response_style": "grounding",
+    "sandhi_response": "Rejection after rejection takes a profound physical and emotional toll, and it is completely natural that you have nothing left to give right now. Your worth as a human being is not tied to how quickly you secure an offer, even if the environment around you makes it feel that way.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_074",
+    "input_id": "inp_exan_bur_074",
+    "response_style": "calming",
+    "sandhi_response": "Carrying the weight of your family's sacrifices while your body is screaming for sleep is an incredibly heavy burden to bear. Please know that your physical well-being is precious, and you cannot build a stable future on a foundation of sheer exhaustion.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_075",
+    "input_id": "inp_exan_bur_075",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly painful when a system designed to measure your knowledge ends up stripping away your joy and sense of self. A single panic-induced grade can never define your intelligence or erase the genuine passion that brought you here in the first place.",
+    "wisdom_theme": "separating_grades_from_life",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_076",
+    "input_id": "inp_exan_bur_076",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that your mind is refusing to process another line of code right now, especially when your body is carrying the weight of sleepless nights and heavy expectations. Please let yourself close the laptop for tonight; you cannot solve your way out of an exhaustion that requires rest, not more effort.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_077",
+    "input_id": "inp_exan_bur_077",
+    "response_style": "reflective",
+    "sandhi_response": "It sounds like your system is shutting down to protect you from the unbearable weight of carrying everyone's expectations on your own. The numbness you are feeling isn't laziness—it is your tired body begging for a safe space to breathe without being graded.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_078",
+    "input_id": "inp_exan_bur_078",
+    "response_style": "calming",
+    "sandhi_response": "Your body remembers the pain of being publicly judged, and it is natural that you are feeling this intense physical resistance to going through it again. Right now, taking a slow, deep breath is far more important than memorizing another definition; let's focus on helping your nervous system feel safe in this moment.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_079",
+    "input_id": "inp_exan_bur_079",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly exhausting to feel like you're running on empty while watching everyone else sprint ahead. Your worth cannot be measured by a decimal point on a grade sheet, and it is completely okay to pause and regroup at your own pace.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_080",
+    "input_id": "inp_exan_bur_080",
+    "response_style": "grounding",
+    "sandhi_response": "Please don't mistake your empty tank for a lack of care or commitment; your system has simply reached its absolute limit after months of relentless survival mode. You are allowed to be human, and that includes occasionally having nothing left to give, even when things are urgent.",
+    "wisdom_theme": "accepting_imperfect_action",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_081",
+    "input_id": "inp_exan_bur_081",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that your mind is freezing when it is being forced to run on empty under the weight of everyone else's expectations. Right now, your system is desperately asking for safety, so please let the coding problems slide for tonight and just let your body breathe without needing to prove your worth to anyone.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_082",
+    "input_id": "inp_exan_bur_082",
+    "response_style": "reflective",
+    "sandhi_response": "This icy numbness isn't laziness; it is your brain's emergency shutdown switch after being pushed past its absolute limit for far too long. You don't have to conquer the entire syllabus today—just focus on feeling the floor beneath your feet and taking this one heavy moment at a time.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_083",
+    "input_id": "inp_exan_bur_083",
+    "response_style": "grounding",
+    "sandhi_response": "The physical dread you are feeling is your body trying to carry the massive weight of a financial burden that was never meant for your shoulders alone to bear. Let's put the textbooks aside for a few minutes and focus on softening your shoulders and lengthening your exhale; you are safe in this exact second, outside of the exams.",
+    "wisdom_theme": "de-escalation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_084",
+    "input_id": "inp_exan_bur_084",
+    "response_style": "calming",
+    "sandhi_response": "You are not a fraud for running out of energy after sprinting a marathon that was designed to exhaust you. Your worth cannot be measured by how much fuel you have left in this brutal home stretch, so please allow yourself to rest without the guilt of comparing your pace to theirs.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_085",
+    "input_id": "inp_exan_bur_085",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly lonely to carry physical sickness and deep exhaustion when the people who love you can only see your exam metrics. Your body's distress signals are real and valid, and you deserve to prioritize your physical survival over a performance metric, even if they don't understand it yet.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_086",
+    "input_id": "inp_exan_bur_086",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that your mind has gone quiet; your system is simply exhausted from carrying the crushing weight of those constant comparisons and sleepless nights. Right now, your worth has absolutely nothing to do with solving that code, so please let yourself just breathe and exist without needing to perform for a moment.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_087",
+    "input_id": "inp_exan_bur_087",
+    "response_style": "grounding/calming",
+    "sandhi_response": "This numbness isn't laziness, but your nervous system's way of trying to shield you from the overwhelming pressure of these upcoming exams. It is safe to silence those group chats for a little while and let your body find its footing before you try to tackle the books again.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_088",
+    "input_id": "inp_exan_bur_088",
+    "response_style": "reflective/grounding",
+    "sandhi_response": "You are carrying an incredibly heavy burden of gratitude and expectation, and it is completely natural that your body is physically reacting to this immense pressure. Please remember that your value as a human being is not a return on investment, and you deserve kindness even when you are struggling.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_089",
+    "input_id": "inp_exan_bur_089",
+    "response_style": "reflective/calming",
+    "sandhi_response": "It is deeply exhausting to hold up the mask of the perfect student when your energy is completely depleted. It is okay to let that exhausting standard drop for a moment and allow yourself to just be a human who is tired and needs gentle care.",
+    "wisdom_theme": "releasing_labels",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_090",
+    "input_id": "inp_exan_bur_090",
+    "response_style": "grounding/calming",
+    "sandhi_response": "The isolation of trying to outrun your exhaustion while watching everyone else's highlight reels is a very lonely place to be. You don't have to fix your entire academic life tonight; let's just focus on taking one soft breath and closing those overwhelming tabs for the evening.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_091",
+    "input_id": "inp_exan_bur_091",
+    "response_style": "grounding",
+    "sandhi_response": "It sounds like your body and mind have simply run out of fuel, and that heavy, hollow feeling is your system pleading for a pause. You don't have to solve your future or answer to anyone's expectations tonight; right now, just letting your eyes rest and letting your shoulders drop is more than enough.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_092",
+    "input_id": "inp_exan_bur_092",
+    "response_style": "calming",
+    "sandhi_response": "The freeze you are experiencing isn't laziness or a lack of care; it is your nervous system shutting down because the weight of that financial sacrifice has become too heavy to carry into a coding exam. Let's take the pressure off your hands for a moment and just acknowledge how incredibly exhausting it is to carry your family's dreams on your own shoulders.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_093",
+    "input_id": "inp_exan_bur_093",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely natural to feel envious when you are running on empty and watching others sprint ahead; that jealousy is just a wounded part of you mourning your own lost energy. Please try not to punish yourself for feeling this way, as your worth doesn't depend on keeping pace with a group chat that only shows the highlights of everyone else's lives.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_094",
+    "input_id": "inp_exan_bur_094",
+    "response_style": "grounding",
+    "sandhi_response": "The endless scrolling and late mornings aren't failures of discipline; they are your mind's desperate attempt to build a shield against the intense pressure of those parental expectations. It's okay to let the facade drop with me, and we can start by just taking a deep, slow breath without worrying about the placements or the mock tests for today.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_095",
+    "input_id": "inp_exan_bur_095",
+    "response_style": "calming",
+    "sandhi_response": "Having your hard work publicly dismissed is a deeply painful shock to the system, and it makes total sense that your body went into complete shutdown afterward. You do not have to force yourself to feel strong right now; just lying still and letting your nervous system recover from that harsh critique is the most necessary thing you can do.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_096",
+    "input_id": "inp_exan_bur_096",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It sounds like your mind and body are screaming for a break, yet the fear of falling behind makes resting feel like a dangerous risk. Please know that your exhaustion isn't a sign of failure, but a gentle reminder from your body that you cannot pour from an empty cup right now.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_097",
+    "input_id": "inp_exan_bur_097",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When the weight of expectations becomes too heavy, staring at the ceiling is sometimes the only way your system knows how to protect itself. Let's step away from the code for just a moment and focus on the ground beneath you; you do not have to solve your entire future today.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_098",
+    "input_id": "inp_exan_bur_098",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The weight of your family’s sacrifices is a heavy burden to carry, especially when your mind is already completely depleted. It is okay that your brain is refusing to process formulas right now; your worth as a child is not measured by your ability to study through extreme exhaustion.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_099",
+    "input_id": "inp_exan_bur_099",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing everyone's curated wins makes it so easy to feel like you are the only one struggling to survive. It is completely understandable that your self-care has slipped under this immense pressure, but your intelligence and value are not defined by how fast you solve dynamic programming.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_100",
+    "input_id": "inp_exan_bur_100",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When your body is shivering and your chest is tight, it is a signal that your nervous system is in survival mode from carrying this unfair burden alone. Let's take a slow, deep breath together right now; you do not have to fix the entire project tonight, you just need to get through this single moment.",
+    "wisdom_theme": "de-escalation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_101",
+    "input_id": "inp_exan_bur_101",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_102",
+    "input_id": "inp_exan_bur_102",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_103",
+    "input_id": "inp_exan_bur_103",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_104",
+    "input_id": "inp_exan_bur_104",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_105",
+    "input_id": "inp_exan_bur_105",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_106",
+    "input_id": "inp_exan_bur_106",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_107",
+    "input_id": "inp_exan_bur_107",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_108",
+    "input_id": "inp_exan_bur_108",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_109",
+    "input_id": "inp_exan_bur_109",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_110",
+    "input_id": "inp_exan_bur_110",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_111",
+    "input_id": "inp_exan_bur_111",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_112",
+    "input_id": "inp_exan_bur_112",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_113",
+    "input_id": "inp_exan_bur_113",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_114",
+    "input_id": "inp_exan_bur_114",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_115",
+    "input_id": "inp_exan_bur_115",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_116",
+    "input_id": "inp_exan_bur_116",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_117",
+    "input_id": "inp_exan_bur_117",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_118",
+    "input_id": "inp_exan_bur_118",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_119",
+    "input_id": "inp_exan_bur_119",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_120",
+    "input_id": "inp_exan_bur_120",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_121",
+    "input_id": "inp_exan_bur_121",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_122",
+    "input_id": "inp_exan_bur_122",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_123",
+    "input_id": "inp_exan_bur_123",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_124",
+    "input_id": "inp_exan_bur_124",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_125",
+    "input_id": "inp_exan_bur_125",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_126",
+    "input_id": "inp_exan_bur_126",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_127",
+    "input_id": "inp_exan_bur_127",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_128",
+    "input_id": "inp_exan_bur_128",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_129",
+    "input_id": "inp_exan_bur_129",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_130",
+    "input_id": "inp_exan_bur_130",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_131",
+    "input_id": "inp_exan_bur_131",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_132",
+    "input_id": "inp_exan_bur_132",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_133",
+    "input_id": "inp_exan_bur_133",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_134",
+    "input_id": "inp_exan_bur_134",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_135",
+    "input_id": "inp_exan_bur_135",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_136",
+    "input_id": "inp_exan_bur_136",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_137",
+    "input_id": "inp_exan_bur_137",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_138",
+    "input_id": "inp_exan_bur_138",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_139",
+    "input_id": "inp_exan_bur_139",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_140",
+    "input_id": "inp_exan_bur_140",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_141",
+    "input_id": "inp_exan_bur_141",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_142",
+    "input_id": "inp_exan_bur_142",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_143",
+    "input_id": "inp_exan_bur_143",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_144",
+    "input_id": "inp_exan_bur_144",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_145",
+    "input_id": "inp_exan_bur_145",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_146",
+    "input_id": "inp_exan_bur_146",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_147",
+    "input_id": "inp_exan_bur_147",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_148",
+    "input_id": "inp_exan_bur_148",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_149",
+    "input_id": "inp_exan_bur_149",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_150",
+    "input_id": "inp_exan_bur_150",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_151",
+    "input_id": "inp_exan_bur_151",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_152",
+    "input_id": "inp_exan_bur_152",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_153",
+    "input_id": "inp_exan_bur_153",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_154",
+    "input_id": "inp_exan_bur_154",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_155",
+    "input_id": "inp_exan_bur_155",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_156",
+    "input_id": "inp_exan_bur_156",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_157",
+    "input_id": "inp_exan_bur_157",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_158",
+    "input_id": "inp_exan_bur_158",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_159",
+    "input_id": "inp_exan_bur_159",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_160",
+    "input_id": "inp_exan_bur_160",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_161",
+    "input_id": "inp_exan_bur_161",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_162",
+    "input_id": "inp_exan_bur_162",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_163",
+    "input_id": "inp_exan_bur_163",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_164",
+    "input_id": "inp_exan_bur_164",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_165",
+    "input_id": "inp_exan_bur_165",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_166",
+    "input_id": "inp_exan_bur_166",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_167",
+    "input_id": "inp_exan_bur_167",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_168",
+    "input_id": "inp_exan_bur_168",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_169",
+    "input_id": "inp_exan_bur_169",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_170",
+    "input_id": "inp_exan_bur_170",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_171",
+    "input_id": "inp_exan_bur_171",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_172",
+    "input_id": "inp_exan_bur_172",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_173",
+    "input_id": "inp_exan_bur_173",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_174",
+    "input_id": "inp_exan_bur_174",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_175",
+    "input_id": "inp_exan_bur_175",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_176",
+    "input_id": "inp_exan_bur_176",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_177",
+    "input_id": "inp_exan_bur_177",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_178",
+    "input_id": "inp_exan_bur_178",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_179",
+    "input_id": "inp_exan_bur_179",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_180",
+    "input_id": "inp_exan_bur_180",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_181",
+    "input_id": "inp_exan_bur_181",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_182",
+    "input_id": "inp_exan_bur_182",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_183",
+    "input_id": "inp_exan_bur_183",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_184",
+    "input_id": "inp_exan_bur_184",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_185",
+    "input_id": "inp_exan_bur_185",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_186",
+    "input_id": "inp_exan_bur_186",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_187",
+    "input_id": "inp_exan_bur_187",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_188",
+    "input_id": "inp_exan_bur_188",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_189",
+    "input_id": "inp_exan_bur_189",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_190",
+    "input_id": "inp_exan_bur_190",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_191",
+    "input_id": "inp_exan_bur_191",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_192",
+    "input_id": "inp_exan_bur_192",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_193",
+    "input_id": "inp_exan_bur_193",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_194",
+    "input_id": "inp_exan_bur_194",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_195",
+    "input_id": "inp_exan_bur_195",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_196",
+    "input_id": "inp_exan_bur_196",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_197",
+    "input_id": "inp_exan_bur_197",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_198",
+    "input_id": "inp_exan_bur_198",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_199",
+    "input_id": "inp_exan_bur_199",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_200",
+    "input_id": "inp_exan_bur_200",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_201",
+    "input_id": "inp_exan_bur_201",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_202",
+    "input_id": "inp_exan_bur_202",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_203",
+    "input_id": "inp_exan_bur_203",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_204",
+    "input_id": "inp_exan_bur_204",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_205",
+    "input_id": "inp_exan_bur_205",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_206",
+    "input_id": "inp_exan_bur_206",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_207",
+    "input_id": "inp_exan_bur_207",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_208",
+    "input_id": "inp_exan_bur_208",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_209",
+    "input_id": "inp_exan_bur_209",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_210",
+    "input_id": "inp_exan_bur_210",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_211",
+    "input_id": "inp_exan_bur_211",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_212",
+    "input_id": "inp_exan_bur_212",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_213",
+    "input_id": "inp_exan_bur_213",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_214",
+    "input_id": "inp_exan_bur_214",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_215",
+    "input_id": "inp_exan_bur_215",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_216",
+    "input_id": "inp_exan_bur_216",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_217",
+    "input_id": "inp_exan_bur_217",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_218",
+    "input_id": "inp_exan_bur_218",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_219",
+    "input_id": "inp_exan_bur_219",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_220",
+    "input_id": "inp_exan_bur_220",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_221",
+    "input_id": "inp_exan_bur_221",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_222",
+    "input_id": "inp_exan_bur_222",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_223",
+    "input_id": "inp_exan_bur_223",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_224",
+    "input_id": "inp_exan_bur_224",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_225",
+    "input_id": "inp_exan_bur_225",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_226",
+    "input_id": "inp_exan_bur_226",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_227",
+    "input_id": "inp_exan_bur_227",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_228",
+    "input_id": "inp_exan_bur_228",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_229",
+    "input_id": "inp_exan_bur_229",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_230",
+    "input_id": "inp_exan_bur_230",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_231",
+    "input_id": "inp_exan_bur_231",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_232",
+    "input_id": "inp_exan_bur_232",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_233",
+    "input_id": "inp_exan_bur_233",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_234",
+    "input_id": "inp_exan_bur_234",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_235",
+    "input_id": "inp_exan_bur_235",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_236",
+    "input_id": "inp_exan_bur_236",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_237",
+    "input_id": "inp_exan_bur_237",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_238",
+    "input_id": "inp_exan_bur_238",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_239",
+    "input_id": "inp_exan_bur_239",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_240",
+    "input_id": "inp_exan_bur_240",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_241",
+    "input_id": "inp_exan_bur_241",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_242",
+    "input_id": "inp_exan_bur_242",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_243",
+    "input_id": "inp_exan_bur_243",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_244",
+    "input_id": "inp_exan_bur_244",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_245",
+    "input_id": "inp_exan_bur_245",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_246",
+    "input_id": "inp_exan_bur_246",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_247",
+    "input_id": "inp_exan_bur_247",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_248",
+    "input_id": "inp_exan_bur_248",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_249",
+    "input_id": "inp_exan_bur_249",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_250",
+    "input_id": "inp_exan_bur_250",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_251",
+    "input_id": "inp_exan_bur_251",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_252",
+    "input_id": "inp_exan_bur_252",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_253",
+    "input_id": "inp_exan_bur_253",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_254",
+    "input_id": "inp_exan_bur_254",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_255",
+    "input_id": "inp_exan_bur_255",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_256",
+    "input_id": "inp_exan_bur_256",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_257",
+    "input_id": "inp_exan_bur_257",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_258",
+    "input_id": "inp_exan_bur_258",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_259",
+    "input_id": "inp_exan_bur_259",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_260",
+    "input_id": "inp_exan_bur_260",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_261",
+    "input_id": "inp_exan_bur_261",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_262",
+    "input_id": "inp_exan_bur_262",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_263",
+    "input_id": "inp_exan_bur_263",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_264",
+    "input_id": "inp_exan_bur_264",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_265",
+    "input_id": "inp_exan_bur_265",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_266",
+    "input_id": "inp_exan_bur_266",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_267",
+    "input_id": "inp_exan_bur_267",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_268",
+    "input_id": "inp_exan_bur_268",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_269",
+    "input_id": "inp_exan_bur_269",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_270",
+    "input_id": "inp_exan_bur_270",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_271",
+    "input_id": "inp_exan_bur_271",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_272",
+    "input_id": "inp_exan_bur_272",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_273",
+    "input_id": "inp_exan_bur_273",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_274",
+    "input_id": "inp_exan_bur_274",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_275",
+    "input_id": "inp_exan_bur_275",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_276",
+    "input_id": "inp_exan_bur_276",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_277",
+    "input_id": "inp_exan_bur_277",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_278",
+    "input_id": "inp_exan_bur_278",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_279",
+    "input_id": "inp_exan_bur_279",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_280",
+    "input_id": "inp_exan_bur_280",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_281",
+    "input_id": "inp_exan_bur_281",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_282",
+    "input_id": "inp_exan_bur_282",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_283",
+    "input_id": "inp_exan_bur_283",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_284",
+    "input_id": "inp_exan_bur_284",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_285",
+    "input_id": "inp_exan_bur_285",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_286",
+    "input_id": "inp_exan_bur_286",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_287",
+    "input_id": "inp_exan_bur_287",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_288",
+    "input_id": "inp_exan_bur_288",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_289",
+    "input_id": "inp_exan_bur_289",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_290",
+    "input_id": "inp_exan_bur_290",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_291",
+    "input_id": "inp_exan_bur_291",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_292",
+    "input_id": "inp_exan_bur_292",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_293",
+    "input_id": "inp_exan_bur_293",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_294",
+    "input_id": "inp_exan_bur_294",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_295",
+    "input_id": "inp_exan_bur_295",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_296",
+    "input_id": "inp_exan_bur_296",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_297",
+    "input_id": "inp_exan_bur_297",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_298",
+    "input_id": "inp_exan_bur_298",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_299",
+    "input_id": "inp_exan_bur_299",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_300",
+    "input_id": "inp_exan_bur_300",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_301",
+    "input_id": "inp_exan_bur_301",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_302",
+    "input_id": "inp_exan_bur_302",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_303",
+    "input_id": "inp_exan_bur_303",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_304",
+    "input_id": "inp_exan_bur_304",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_305",
+    "input_id": "inp_exan_bur_305",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_306",
+    "input_id": "inp_exan_bur_306",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_307",
+    "input_id": "inp_exan_bur_307",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_308",
+    "input_id": "inp_exan_bur_308",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_309",
+    "input_id": "inp_exan_bur_309",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_310",
+    "input_id": "inp_exan_bur_310",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_311",
+    "input_id": "inp_exan_bur_311",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_312",
+    "input_id": "inp_exan_bur_312",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_313",
+    "input_id": "inp_exan_bur_313",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_314",
+    "input_id": "inp_exan_bur_314",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_315",
+    "input_id": "inp_exan_bur_315",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_316",
+    "input_id": "inp_exan_bur_316",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_317",
+    "input_id": "inp_exan_bur_317",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_318",
+    "input_id": "inp_exan_bur_318",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_319",
+    "input_id": "inp_exan_bur_319",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_320",
+    "input_id": "inp_exan_bur_320",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_321",
+    "input_id": "inp_exan_bur_321",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_322",
+    "input_id": "inp_exan_bur_322",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_323",
+    "input_id": "inp_exan_bur_323",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_324",
+    "input_id": "inp_exan_bur_324",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_325",
+    "input_id": "inp_exan_bur_325",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_326",
+    "input_id": "inp_exan_bur_326",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_327",
+    "input_id": "inp_exan_bur_327",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_328",
+    "input_id": "inp_exan_bur_328",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_329",
+    "input_id": "inp_exan_bur_329",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_330",
+    "input_id": "inp_exan_bur_330",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_331",
+    "input_id": "inp_exan_bur_331",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_332",
+    "input_id": "inp_exan_bur_332",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_333",
+    "input_id": "inp_exan_bur_333",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_334",
+    "input_id": "inp_exan_bur_334",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_335",
+    "input_id": "inp_exan_bur_335",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_336",
+    "input_id": "inp_exan_bur_336",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_337",
+    "input_id": "inp_exan_bur_337",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_338",
+    "input_id": "inp_exan_bur_338",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_339",
+    "input_id": "inp_exan_bur_339",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_340",
+    "input_id": "inp_exan_bur_340",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_341",
+    "input_id": "inp_exan_bur_341",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_342",
+    "input_id": "inp_exan_bur_342",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_343",
+    "input_id": "inp_exan_bur_343",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_344",
+    "input_id": "inp_exan_bur_344",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_345",
+    "input_id": "inp_exan_bur_345",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_346",
+    "input_id": "inp_exan_bur_346",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_347",
+    "input_id": "inp_exan_bur_347",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_348",
+    "input_id": "inp_exan_bur_348",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_349",
+    "input_id": "inp_exan_bur_349",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_350",
+    "input_id": "inp_exan_bur_350",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_351",
+    "input_id": "inp_exan_bur_351",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_352",
+    "input_id": "inp_exan_bur_352",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_353",
+    "input_id": "inp_exan_bur_353",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_354",
+    "input_id": "inp_exan_bur_354",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_355",
+    "input_id": "inp_exan_bur_355",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_356",
+    "input_id": "inp_exan_bur_356",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_357",
+    "input_id": "inp_exan_bur_357",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_358",
+    "input_id": "inp_exan_bur_358",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_359",
+    "input_id": "inp_exan_bur_359",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_360",
+    "input_id": "inp_exan_bur_360",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_361",
+    "input_id": "inp_exan_bur_361",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_362",
+    "input_id": "inp_exan_bur_362",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_363",
+    "input_id": "inp_exan_bur_363",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_364",
+    "input_id": "inp_exan_bur_364",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_365",
+    "input_id": "inp_exan_bur_365",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_366",
+    "input_id": "inp_exan_bur_366",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_367",
+    "input_id": "inp_exan_bur_367",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_368",
+    "input_id": "inp_exan_bur_368",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_369",
+    "input_id": "inp_exan_bur_369",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_370",
+    "input_id": "inp_exan_bur_370",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_371",
+    "input_id": "inp_exan_bur_371",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_372",
+    "input_id": "inp_exan_bur_372",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_373",
+    "input_id": "inp_exan_bur_373",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_374",
+    "input_id": "inp_exan_bur_374",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_375",
+    "input_id": "inp_exan_bur_375",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_376",
+    "input_id": "inp_exan_bur_376",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_377",
+    "input_id": "inp_exan_bur_377",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_378",
+    "input_id": "inp_exan_bur_378",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_379",
+    "input_id": "inp_exan_bur_379",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_380",
+    "input_id": "inp_exan_bur_380",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_381",
+    "input_id": "inp_exan_bur_381",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_382",
+    "input_id": "inp_exan_bur_382",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_383",
+    "input_id": "inp_exan_bur_383",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_384",
+    "input_id": "inp_exan_bur_384",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_385",
+    "input_id": "inp_exan_bur_385",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_386",
+    "input_id": "inp_exan_bur_386",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_387",
+    "input_id": "inp_exan_bur_387",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_388",
+    "input_id": "inp_exan_bur_388",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_389",
+    "input_id": "inp_exan_bur_389",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_390",
+    "input_id": "inp_exan_bur_390",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_391",
+    "input_id": "inp_exan_bur_391",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_392",
+    "input_id": "inp_exan_bur_392",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_393",
+    "input_id": "inp_exan_bur_393",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_394",
+    "input_id": "inp_exan_bur_394",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_395",
+    "input_id": "inp_exan_bur_395",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_396",
+    "input_id": "inp_exan_bur_396",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_397",
+    "input_id": "inp_exan_bur_397",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_398",
+    "input_id": "inp_exan_bur_398",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_399",
+    "input_id": "inp_exan_bur_399",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of burnout is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_exan_bur_400",
+    "input_id": "inp_exan_bur_400",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  }
+]

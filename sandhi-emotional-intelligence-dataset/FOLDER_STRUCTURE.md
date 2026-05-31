@@ -1,0 +1,150 @@
+# Folder and File Structure for sandhidataset
+
+This document lists the top-level files and directories currently present in the repository c:\workflow\sandhidataset.
+
+## Overview
+- Repository root: c:/workflow/sandhidataset
+- Many category folders contain dataset items grouped by emotional/mental-health topics.
+
+## Top-level files
+- categories.csv
+- README.md
+
+## Top-level directories (sample)
+- Abandonment Issues/
+- Academic Apathy/
+- Academic Pressure/
+- Academic Validation Seeking/
+- Anger Management/
+- Anticipatory Anxiety/
+- Anxiety about Public Speaking/
+- Apathy Towards Future/
+- Attachment Issues/
+- Body Dysmorphia/
+- Body Image Issues/
+- Burnout/
+- Career Indecision/
+- Chronic Boredom/
+- Chronic Fatigue/
+- Chronic Indecision/
+- Climate Anxiety/
+- Codependency/
+- Comparison/
+- Conflict Avoidance/
+- Creative Block/
+- Creative Burnout/
+- Cultural Disconnect/
+- Cyberbullying Trauma/
+- Decision Fatigue/
+- Diet Culture Anxiety/
+- Difficulty Communicating/
+- Difficulty Making Friends/
+- Difficulty Setting Boundaries/
+- Discipline Problems/
+- Disconnection from Reality/
+- Disillusionment/
+- Emotional Exhaustion/
+- Emotional Numbness/
+- Emotional Vulnerability/
+- Empathy Overload/
+- Exam Anxiety/
+- Existential Dread/
+- Existential Loneliness/
+- Fear of Abandonment/
+- Fear of Commitment/
+- Fear of Disappointing Others/
+- Fear of Failure/
+- Fear of Intimacy/
+- Fear of Judgment/
+- Fear of the Unknown/
+- Feeling Empty/
+- Feeling Inadequate/
+- Feeling Left Behind/
+- Feeling Misunderstood/
+- Feeling Out of Place/
+- Feeling Overwhelmed/
+- Feeling Unappreciated/
+- Feeling Unattractive/
+- Feeling Unlovable/
+- Feeling Unseen/
+- Financial Insecurity/
+- Financial Stress/
+- First-Generation Student Pressure/
+- FOMO (Fear of Missing Out)/
+- Frustration with Lack of Progress/
+- Future Uncertainty/
+- Grief and Loss/
+- Guilt over Past Mistakes/
+- Heartbreak/
+- Homesickness/
+- Hopelessness/
+- Hyper-independence/
+- Identity Crisis/
+- Impatience/
+- Imposter Syndrome/
+- Inability to Focus/
+- Inferiority Complex/
+- Intrusive Thoughts/
+- Jealousy/
+- Job Search Depression/
+- Lack of Motivation/
+- Lack of Self-Esteem/
+- Loneliness/
+- Long-distance Relationship Strain/
+- Loss of a Pet/
+- Loss of Control/
+- Loss of Identity in a Relationship/
+- Loss of Passion/
+- Mood Swings/
+- Nostalgia - Stuck in the Past/
+- Nostalgic Sadness/
+- Overcommitment Stress/
+- Overthinking/
+- Pandemic-related Social Regression/
+- Paranoia (Social - Relational)/
+- Parental Pressure/
+- Peer Pressure/
+- People-Pleasing/
+- Perfectionism/
+- Performance Anxiety/
+- Post-project Empty Feeling/
+- Post-vacation Blues/
+- Procrastination Guilt/
+- Purpose Confusion/
+- Quarter-Life Crisis/
+- Quarter-system Burnout (Academic)/
+- Regret/
+- Regret over Wasted Time/
+- Rejection Sensitivity/
+- Relationship Conflicts/
+- Religious Trauma/
+- Resentment/
+- Romantic Obsession/
+- sandhi_dataset_pipeline/
+- scripts/
+- Self-Doubt/
+- Self-Sabotage/
+- Sensory Overload/
+- Separation Anxiety/
+- Shame/
+- Sleep Deprivation Brain Fog/
+- Social Anxiety/
+- Social Battery Depletion/
+- Social Isolation/
+- Spiritual Crisis/
+- Success Anxiety/
+- taxonomy/
+- Technology Addiction/
+- Toxic Friendship Dynamics/
+- Toxic Positivity Exhaustion/
+- Transitioning to Adulthood/
+- Trust Betrayal Trauma/
+- Trust Issues/
+- Unrealistic Expectations/
+- Unrequited Love/
+- Work-Life Imbalance/
+- Workplace Bullying Stress/
+
+## Notes & next steps
+- If you want a recursive tree with file counts per category, I can generate that next.
+- I can also create a script to validate category contents or add README files inside categories.

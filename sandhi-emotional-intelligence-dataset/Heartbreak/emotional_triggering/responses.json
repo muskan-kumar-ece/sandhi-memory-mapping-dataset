@@ -1,0 +1,3602 @@
+[
+  {
+    "response_id": "rsp_he_emo_001",
+    "input_id": "inp_he_emo_001",
+    "response_style": "reflective",
+    "sandhi_response": "",
+    "wisdom_theme": "self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_002",
+    "input_id": "inp_he_emo_002",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly painful to watch someone move forward into success while you feel anchored by your own heavy academic struggles. Please take a slow, deep breath and let yourself grieve this shift without forcing yourself to solve your entire future right this second.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_003",
+    "input_id": "inp_he_emo_003",
+    "response_style": "reflective",
+    "sandhi_response": "Seeing him look so unaffected can make your own healing feel like a deeply lonely, uphill battle while you are already carrying academic weight. Your pain is a natural reflection of how deeply you cared, and you do not have to rush your heart through this exhaustion.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_004",
+    "input_id": "inp_he_emo_004",
+    "response_style": "calming",
+    "sandhi_response": "An unexpected digital echo of the past can instantly pull the air right out of your chest when you least expect it. Let the coding task rest for just a few moments; your nervous system deserves a gentle pause to simply breathe and settle.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_005",
+    "input_id": "inp_he_emo_005",
+    "response_style": "reflective",
+    "sandhi_response": "Navigating a forced academic space with someone who holds your shared history is an exhausting and highly vulnerable tightrope to walk. It is entirely valid to feel shaken by that silence, but please remember that your core capabilities remain untouched by this tense moment.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_006",
+    "input_id": "inp_he_emo_006",
+    "response_style": "grounding",
+    "sandhi_response": "When personal heartbreak is magnified by family comparisons, it is completely natural to feel overwhelmed and entirely unseen. Your life path is not a race against his achievements, and your worth is not defined by how quickly others seem to move forward.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_007",
+    "input_id": "inp_he_emo_007",
+    "response_style": "reflective",
+    "sandhi_response": "It makes complete sense that your chest tightens when spaces that once held shared dreams now feel so empty and painful. Let's take a slow breath together right here; your worth and your ability to clear this exam are still entirely yours, even while carrying this heavy grief.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_008",
+    "input_id": "inp_he_emo_008",
+    "response_style": "grounding",
+    "sandhi_response": "Seeing her move on so publicly while you are struggling with your own academic load is an incredibly painful weight to bear. Your current struggle with your classes doesn't mean you are falling behind in life, nor does it define your value as someone worthy of love.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_009",
+    "input_id": "inp_he_emo_009",
+    "response_style": "calming",
+    "sandhi_response": "It is deeply exhausting to face both your father's heavy expectations and the raw ache of her absence all at once. It is okay that your mind needed to pause and cry today; please allow yourself to rest without judging your productivity right now.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_010",
+    "input_id": "inp_he_emo_010",
+    "response_style": "reflective",
+    "sandhi_response": "Your nervous system reacted to a sudden emotional echo, and that is a natural human response, not a personal failure. Please try not to punish yourself for having a heart that is still tender and healing.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_011",
+    "input_id": "inp_he_emo_011",
+    "response_style": "grounding",
+    "sandhi_response": "When the future you built in your mind suddenly vanishes, it is incredibly natural to feel entirely disconnected from the milestones around you. You don't have to force yourself to care about assignments right now; just focus on getting through tonight, one gentle breath at a time.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_012",
+    "input_id": "inp_he_emo_012",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply painful to see the life you once envisioned sharing with someone else now unfolding alongside another person, especially when you are carrying the weight of your own academic survival. Please take a slow breath and remember that your current struggle with exams does not define your future path or diminish the immense effort you are putting in today.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_013",
+    "input_id": "inp_he_emo_013",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Triggers like an unexpected digital memory can catch you completely off guard, instantly pulling you back to a warmth that no longer exists. It is entirely okay to close the laptop right now and let your chest breathe, honoring the grief of this loss without demanding immediate productivity from yourself.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_014",
+    "input_id": "inp_he_emo_014",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Watching someone else move through campus so easily while you are left holding the heavy fragments of a broken promise is incredibly isolating. Your pain is valid, but his presence or absence does not dictate your worth, nor does it seal your academic destiny.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_015",
+    "input_id": "inp_he_emo_015",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is exhausting to carry the invisible weight of a broken heart while trying to meet the rigid expectations of your parents and academics. Let us focus first on bringing your breathing back to a steady rhythm; your nervous system is simply trying to process a profound emotional wound.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_016",
+    "input_id": "inp_he_emo_016",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing a sacred personal memory repeated with someone else is a painful shock that naturally derails your focus and energy. You are allowed to feel this deep ache, but please do not let this moment convince you that your past love was meaningless or that your future is compromised.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_017",
+    "input_id": "inp_he_emo_017",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that your system went into shock seeing her so close while you were already under pressure. Let the code go for just a moment, place both feet flat on the floor, and take one slow breath with me to let your body know you are safe right here.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_018",
+    "input_id": "inp_he_emo_018",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply painful to watch someone else seem to move forward effortlessly while you are left carrying the heavy weight of a broken heart. Your academic setback is a reflection of your human pain, not your permanent capability or your worth as a person.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_019",
+    "input_id": "inp_he_emo_019",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Hearing a voice that once meant safety suddenly trigger so much pain is a deeply disorienting experience. It is okay that your mind paused to protect itself; let's gently soften your shoulders right now and release the need to perform perfectly.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_020",
+    "input_id": "inp_he_emo_020",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Muting that group was a very wise boundary to protect your heart while it is still so tender and raw. You are allowed to mourn the future you built together even as the world around you keeps rushing forward.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_021",
+    "input_id": "inp_he_emo_021",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Old shared spaces hold a physical echo of love that can catch us entirely off guard and drain our energy. Let's close the books for just five minutes, wrap a warm blanket around yourself, and let your body simply rest without any expectations.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_022",
+    "input_id": "inp_he_emo_022",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful when a shared dream suddenly belongs only to one person, especially while you are trying to survive the pressure of placements. Please take a slow, deep breath and let your body remember that your worth as a person is entirely whole, completely separate from her achievements or this interview.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_023",
+    "input_id": "inp_he_emo_023",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing someone move on so quickly in a space where you once shared warmth can make your own grief feel entirely invisible. Your inability to focus today isn't a failure of your intelligence, but a natural response of a heart trying to protect itself from immense pain.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_024",
+    "input_id": "inp_he_emo_024",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "A number on a spreadsheet or the painful words of an ex do not define your capability or your drive. Let yourself rest from the heavy burden of trying to prove your worth to someone who couldn't see it to begin with.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_025",
+    "input_id": "inp_he_emo_025",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply disorienting when a major victory feels hollow because the person you wanted to share it with is no longer there. Even in this quiet room, your achievement is incredibly real, and it belongs entirely to the strength you found to survive this hard year.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_026",
+    "input_id": "inp_he_emo_026",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Carrying the heavy weight of a broken heart while trying to maintain a perfect facade for your family is an exhausting double life to lead. You are not a fraud for having a human heart that needs time to grieve, even when the academic world demands that you keep moving.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_027",
+    "input_id": "inp_he_emo_027",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to watch someone move forward while you feel anchored to the weight of what was lost. Let the code go for just a moment, place a hand on your chest, and breathe through this wave—your worth is not tied to how quickly you heal or how fast you compile tonight.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_028",
+    "input_id": "inp_he_emo_028",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing her success alongside your pain makes the distance between your past and present feel almost unbearable. Your academic standing right now is a reflection of a heavy heart, not a lack of capability, so please give yourself permission to grieve rather than judge your progress.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_029",
+    "input_id": "inp_he_emo_029",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Stumbling upon those digital echoes can make the loss feel as sudden and sharp as the day it happened. It is completely natural to freeze when grief catches you off guard, so please take a few minutes to step away from the screen and let your nervous system settle.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_030",
+    "input_id": "inp_he_emo_030",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Carrying the silent weight of a broken relationship while pretending to meet everyone's expectations is a quiet, exhausting battle. You do not have to have your life or your healing figured out today, and it is okay to let yourself be tired without needing to justify it.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_031",
+    "input_id": "inp_he_emo_031",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The physical pain of heartbreak can make everyday spaces feel like minefields, and it is deeply human to retreat when your system feels unsafe. Instead of forcing yourself into those triggering environments right now, offer yourself some tenderness and seek out a small, quiet space where you can slowly find your footing again.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_032",
+    "input_id": "inp_he_emo_032",
+    "response_style": "grounding",
+    "sandhi_response": "It is deeply painful to see someone you built dreams with step into the future you envisioned together, leaving you to carry the weight of the past alone. Your grief right now is a reflection of how deeply you cared, and it is completely okay to pause your prep and just let yourself weep for what was lost.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_033",
+    "input_id": "inp_he_emo_033",
+    "response_style": "calming",
+    "sandhi_response": "The sudden coldness of someone who once held your warmest memories can feel like a physical shock to your system. Let your feet press firmly into the floor right now, and remember that your worth is not dictated by their silence.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_034",
+    "input_id": "inp_he_emo_034",
+    "response_style": "reflective",
+    "sandhi_response": "Familiar spaces can hold the heavy ghosts of old comfort, making simple routines feel like emotional landmines during an already stressful exam season. It is okay to find a new, quiet corner to study, giving yourself permission to rebuild your focus away from the echoes of what used to be.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_035",
+    "input_id": "inp_he_emo_035",
+    "response_style": "grounding",
+    "sandhi_response": "It is excruciating to feel measured and discarded against someone else's highlight reel, especially when you are already struggling with your own academic weight. Your capacity to love and your value as a person cannot be quantified by a placement package or a resume.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_036",
+    "input_id": "inp_he_emo_036",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the silent weight of a broken heart while trying to shield your parents from your pain is an incredibly heavy burden to bear alone. You do not have to perform strength right now; it is okay to acknowledge that you are hurting deeply and need space to simply breathe.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_037",
+    "input_id": "inp_he_emo_037",
+    "response_style": "grounding",
+    "sandhi_response": "It is deeply painful when spaces that once felt safe and collaborative suddenly become reminders of loss. Please let yourself step away from the screen for just five minutes; your worth is not tied to how perfectly you navigate this heavy moment.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_038",
+    "input_id": "inp_he_emo_038",
+    "response_style": "reflective",
+    "sandhi_response": "Seeing someone who hurt you succeed while you are struggling feels like an incredibly unfair weight to carry. It is completely okay to mute those notifications right now to protect your own fragile peace.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_039",
+    "input_id": "inp_he_emo_039",
+    "response_style": "calming",
+    "sandhi_response": "Your body is reacting to the memory of emotional safety that was suddenly lost in that space. Let's take a slow breath together right now to help your nervous system realize you are safe, even in this painful transition.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_040",
+    "input_id": "inp_he_emo_040",
+    "response_style": "grounding",
+    "sandhi_response": "Freezing when confronted with the source of your grief is a natural defense mechanism, not a personal failure. This single group discussion does not define your capabilities or dictate where your journey will lead next.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_041",
+    "input_id": "inp_he_emo_041",
+    "response_style": "reflective",
+    "sandhi_response": "Studying late at night is isolating enough without the added weight of seeing life move on without you. It is entirely valid to feel hurt right now, so please try to offer yourself the same gentleness you would show a friend in this dark hour.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_042",
+    "input_id": "inp_he_emo_042",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is completely understandable that returning to a space filled with shared memories has triggered such a painful, physical reaction in your body today. Please allow yourself to step away from the career hub for a moment and just breathe; missing one briefing does not define your future, but honoring your raw grief right now is essential for your healing.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_043",
+    "input_id": "inp_he_emo_043",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Hearing her voice so suddenly in a high-stakes academic setting must have felt like a sudden, painful shock to your system. It is okay that your brain is frozen right now; please stop forcing the code for tonight and let yourself rest, because your worth is not tied to how quickly you process this heartbreak.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_044",
+    "input_id": "inp_he_emo_044",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "That sudden jolt of hope followed by immediate disappointment is incredibly draining when you are already carrying the weight of placement season. Let the coding tests go for this evening and wrap yourself in some comfort; you are navigating a deep loss, and you deserve gentleness rather than pressure to perform perfectly right now.",
+    "wisdom_theme": "compassionate_rest",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_045",
+    "input_id": "inp_he_emo_045",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing someone who once held a significant place in your life move on so publicly while you are struggling with academic stress is a profoundly isolating experience. It is entirely okay to hide under the covers and shield yourself from the noise of everyone else's highlight reels for as long as you need to recover your strength.",
+    "wisdom_theme": "digital_detox",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_046",
+    "input_id": "inp_he_emo_046",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Stumbling upon those digital footprints of a shared past right before a major academic hurdle is an incredibly intense emotional shock. Please take a slow, deep breath and remind yourself that you are allowed to present this work simply as a professional milestone, carrying your own strength into that seminar hall one step at a time.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_047",
+    "input_id": "inp_he_emo_047",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly painful to sit in a space filled with memories of what you lost while trying to force yourself to perform. Please give yourself permission to step away from the screen for just a moment; your grief deserves space to breathe before you try to debug anything else.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_048",
+    "input_id": "inp_he_emo_048",
+    "response_style": "calming",
+    "sandhi_response": "That sudden wave of memory can feel like a physical blow, especially when your mind is already exhausted from studying. Let's take a slow breath together right now to bring your focus back to the safety of this present room.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_049",
+    "input_id": "inp_he_emo_049",
+    "response_style": "reflective",
+    "sandhi_response": "A simple name on a spreadsheet can carry the crushing weight of old wounds and unfair labels. Your struggle with heartbreak does not make you a failure, nor does it define your worth as a student or a person.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_050",
+    "input_id": "inp_he_emo_050",
+    "response_style": "grounding",
+    "sandhi_response": "Seeing someone carry on while you are still carrying the weight of the fracture is incredibly jarring and painful. Before your interview, let's focus on grounding your feet on the floor and remembering that your journey is entirely your own, separate from her timeline.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_051",
+    "input_id": "inp_he_emo_051",
+    "response_style": "calming",
+    "sandhi_response": "It is completely natural to feel overwhelmed and need to escape when a deeply painful boundary is suddenly crossed in public. Take all the time you need in that quiet space to let the shaking subside, knowing you don't have to face the group until you feel steady again.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_052",
+    "input_id": "inp_he_emo_052",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing a reminder of her woven into the very work you're trying to focus on can feel like a sudden, physical blow to your chest. It is completely understandable that your system reacted this way, so please allow yourself to step away from the code for tonight and just let your hands rest.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_053",
+    "input_id": "inp_he_emo_053",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Witnessing him thrive academically while you are silently carrying the heavy, quiet ache of your separation is an incredibly painful contrast to hold. You do not have to perform strength or force yourself into spaces that feel emotionally unsafe for you right now.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_054",
+    "input_id": "inp_he_emo_054",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "A simple melody can act as a sudden portal back to a future you expected to build together, making your present isolation feel incredibly heavy. Please take a slow, deep breath and let the weight of these expectations ease for just a moment; you do not have to figure everything out today.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_055",
+    "input_id": "inp_he_emo_055",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing her smile in a new context while you are struggling under the weight of your studies is a deeply painful shock to your emotional safety. Your mind is trying to process a severe loss, so please be incredibly gentle with yourself as you navigate tomorrow's review.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_056",
+    "input_id": "inp_he_emo_056",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When a painful memory is unexpectedly triggered during a high-stakes moment, it is incredibly natural for your mind to protect itself by freezing. Please forgive your body for shutting down today; you are navigating a profound loss, and one difficult exam does not define your capability or your future.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_057",
+    "input_id": "inp_he_emo_057",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable that seeing her suddenly brought all that pain rushing back, especially when you are already carrying the heavy weight of your lab assignments. Please let yourself take a slow breath right now; your worth as a person is not tied to how fast you code while your heart is trying to heal.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_058",
+    "input_id": "inp_he_emo_058",
+    "response_style": "reflective",
+    "sandhi_response": "Losing a shared future while trying to navigate massive career expectations is an incredibly heavy burden to carry alone. You are allowed to grieve this deep loss, and your current academic struggle does not mean you are a failure or that your future is ruined.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_059",
+    "input_id": "inp_he_emo_059",
+    "response_style": "grounding",
+    "sandhi_response": "It is deeply painful to see life moving on around you when you are still holding the raw, unhealed weight of this heartbreak. Your pace of healing is entirely your own, and sitting with this pain right now is a testament to how deeply you cared.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_060",
+    "input_id": "inp_he_emo_060",
+    "response_style": "calming",
+    "sandhi_response": "Your body is remembering the warmth of that old routine, and it makes complete sense that 8 PM brings a sudden, painful wave of emptiness. Please allow yourself to feel that ache without judgment; you do not have to force productivity when your spirit is still mourning.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_061",
+    "input_id": "inp_he_emo_061",
+    "response_style": "reflective",
+    "sandhi_response": "Being put in a position where your personal grief is forced directly into your academic space is incredibly unfair and overwhelming. Please be gentle with yourself for having a human reaction to an agonizing situation; one difficult presentation does not define your academic capability.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_062",
+    "input_id": "inp_he_emo_062",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is completely understandable that seeing him there pulled the air right out of your lungs, especially with the weight of tomorrow's exam pressing down on you. Let the books rest for just a moment, and focus only on the physical sensation of your feet on the floor; you do not have to figure out your entire future or your grief tonight.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_063",
+    "input_id": "inp_he_emo_063",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Her career milestone does not mean your pain is deserved, nor does it define your capacity to rebuild your own path. It is deeply unfair to have to carry the heavy grief of a broken promise while navigating your own academic hurdles, so please give yourself permission to breathe through this moment without judging your progress.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_064",
+    "input_id": "inp_he_emo_064",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Hiding your broken heart behind a mask of academic exhaustion is an incredibly heavy burden to carry alone. You do not have to have it all together right now, and it is okay to let yourself weep for the comfort you so deeply deserve.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_065",
+    "input_id": "inp_he_emo_065",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The physical emptiness of that seat can make a tough evaluation feel like an unbearable emotional storm. Your body is holding onto the safety his presence used to provide, and it is completely natural to mourn that comfort while you face these challenges solo.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_066",
+    "input_id": "inp_he_emo_066",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to see your hard-earned effort benefit someone who caused you so much hurt. Please remind yourself that your resilience and dedication belong entirely to you, even if the system shared the grade with him.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_067",
+    "input_id": "inp_he_emo_067",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that this library corner feels incredibly heavy right now, as your body is remembering the warmth of her presence alongside the cold reality of her absence. Please give yourself permission to pack up and find a completely different study spot today—you do not have to force yourself to heal while trying to pass an exam.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_068",
+    "input_id": "inp_he_emo_068",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing his name on that sheet can feel like a physical blow, reopening the wound of what you built together while facing the pressure of your own future. Let the placement process be just about your own survival and growth right now; you deserve to take this one tiny step at a time without carrying the weight of his progress.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_069",
+    "input_id": "inp_he_emo_069",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "You are carrying an immense, invisible grief all by yourself while trying to meet expectations that do not account for your broken heart. It is completely okay to let your dad's words wash over you today without accepting them as the final truth of your worth or your future.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_070",
+    "input_id": "inp_he_emo_070",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing her laugh with someone else is a sudden, painful shock to your nervous system, and your panic attack is a very real physical response to that heartbreak. Please don't call yourself pathetic for hurting; your heart is simply grieving a deep connection, and it is okay to rest and let the academic pressure go for today.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_071",
+    "input_id": "inp_he_emo_071",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Stumbling upon those memories is like stepping on an emotional landmine, and it is completely natural that your mind chose to pause and grieve instead of coding. Right now, forget the perfect submission; just focus on eating something small and typing whatever raw code you can manage without judging your pace.",
+    "wisdom_theme": "accepting_imperfect_action",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_072",
+    "input_id": "inp_he_emo_072",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply painful to watch someone walk away and instantly succeed while you are left carrying both the weight of heartbreak and academic struggle. Your worth is not defined by her achievements or a coding lab, and it is completely okay to step away from the screens to let your heart breathe right now.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_073",
+    "input_id": "inp_he_emo_073",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "That sudden, physical rush of grief is incredibly exhausting, especially when you are trying so hard to keep your head above water with your exams. Let's take a slow breath together right now and gently remind your body that you are safe in this moment, even if the memories still hurt.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_074",
+    "input_id": "inp_he_emo_074",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing him move on so publicly feels like a physical blow, making it completely understandable why your body reacted with such intense shock. Please don't force yourself to perform perfectly in mock interviews today; your pain is real, and you deserve a moment of quiet kindness to process this betrayal.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_075",
+    "input_id": "inp_he_emo_075",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is agonizing to have to maintain a professional mask when your heart has just been shattered hours before. It makes perfect sense that you couldn't find your voice today, so please try to forgive yourself for not being able to perform through such raw grief.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_076",
+    "input_id": "inp_he_emo_076",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Stumbling upon those memories right when you are under the clock for a deadline is an incredibly cruel emotional ambush. Let's take the pressure off writing perfect code for just five minutes, close your eyes, and allow yourself to simply feel this wave without judging your speed.",
+    "wisdom_theme": "accepting_imperfect_action",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_077",
+    "input_id": "inp_he_emo_077",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that seeing that picture shattered your focus; your nervous system is trying to process a deep loss while under immense pressure to perform. Please let yourself breathe and step away from the code for just five minutes—your worth is not tied to how quickly you recover from a broken heart.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_078",
+    "input_id": "inp_he_emo_078",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to carry the weight of academic expectations while your heart is actively grieving a shared history. You do not have to have your career or your healing figured out tonight; it is okay to just rest and let today be enough.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_079",
+    "input_id": "inp_he_emo_079",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "A sudden emotional trigger can bypass all our rational preparation in an instant, and it is completely natural that your mind paused to protect a tender memory. Your performance in this single interview does not define your capability as an engineer or your value as a person.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_080",
+    "input_id": "inp_he_emo_080",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing someone move on so visibly can make your own slow healing feel like a quiet isolation, but please remember that their pace has nothing to do with your worth. It is deeply brave of you to protect your peace by stepping away, and your feelings deserve all the room they need right now.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_081",
+    "input_id": "inp_he_emo_081",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Navigating professional boundaries with someone who holds so much emotional history is an incredibly exhausting task to ask of yourself. Give yourself permission to communicate purely on a functional level, and remember that protecting your emotional energy is a necessary part of getting through this project.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_082",
+    "input_id": "inp_he_emo_082",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to be physically close to someone who now feels worlds away, especially when everyday spaces force you to confront that distance. Let yourself breathe through the heaviness of these shared spaces; your worth and your peace of mind belong to you alone, regardless of his presence.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_083",
+    "input_id": "inp_he_emo_083",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing those images can make your healing feel completely undone, triggering a deep sense of being left behind while you are already carrying so much. Your timeline of healing and your value are not dictated by how quickly others seem to move on.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_084",
+    "input_id": "inp_he_emo_084",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "An unexpected encounter with a gentle memory can feel like a sudden wave crashing over you when you are already trying so hard to stay afloat. Allow yourself a moment to just feel that sadness without judging your progress; it is a natural part of letting go.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_085",
+    "input_id": "inp_he_emo_085",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is exhausting to watch someone else thrive in the very areas where you feel shattered and left behind. Your current struggle does not mean you are failing; it simply means you are carrying a heavy heart while trying to climb a steep hill.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_086",
+    "input_id": "inp_he_emo_086",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Carrying the weight of a broken heart while trying to protect your parents from your pain is an incredibly heavy and lonely burden to bear. Please be gentle with yourself for not having all the answers or the strength to carry everything perfectly right now.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_087",
+    "input_id": "inp_he_emo_087",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is completely understandable that your body reacted so intensely to seeing her; that sudden rush of pain can feel like a physical blow. Let's take a slow breath together right now, allowing your hands to rest, because your worth is not tied to how quickly you recover or compile your code today.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_088",
+    "input_id": "inp_he_emo_088",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Watching others step into their futures while you carry the heavy weight of a broken heart makes the silence feel incredibly loud. You do not have to keep up with anyone else's timeline while you are actively healing a wound that requires your gentle attention.",
+    "wisdom_theme": "mindful_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_089",
+    "input_id": "inp_he_emo_089",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Carrying the dual burden of academic expectations and a silent, grieving heart is an incredibly heavy load to bear alone. It is okay that you do not have everything under control right now, and you deserve a safe space to grieve without being judged for your pain.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_090",
+    "input_id": "inp_he_emo_090",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The sudden ambush of a shared memory can completely hijack your nervous system, making academic concepts feel impossible to grasp. Let's step away from the study guide for just five minutes to let your mind settle, acknowledging that your pain is real and deserves this brief moment of pause.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_091",
+    "input_id": "inp_he_emo_091",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to watch someone disconnect, and it makes complete sense that your mind is seeking answers instead of focusing on code right now. Please try to speak to yourself with kindness; seeking closure is a natural human response, not a failure of your character or intelligence.",
+    "wisdom_theme": "gentle_inner_voice",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_092",
+    "input_id": "inp_he_emo_092",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that seeing their success right now feels like a heavy physical weight on your chest, especially when you are already working so hard to clear your backlogs. Your worth as a person and your career timeline are entirely your own, and this painful moment does not define where your path will lead.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_093",
+    "input_id": "inp_he_emo_093",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Your body is reacting to a deep emotional shock, and it is completely natural that your nervous system went into survival mode instead of focusing on midterms. Please be gentle with yourself for stepping away; protecting your peace in that moment was an act of survival, not a failure of discipline.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_094",
+    "input_id": "inp_he_emo_094",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Grief doesn't check our academic calendars before it visits, and it is okay that a simple song opened up all that stored pain tonight. Let's take a slow breath together right now, letting go of the guilt so we can focus on taking just one small, imperfect step to finish your slides.",
+    "wisdom_theme": "accepting_imperfect_action",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_095",
+    "input_id": "inp_he_emo_095",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to realize we have been tying our hard-earned victories to the gaze of someone who is no longer there to witness them. Your academic recovery is a profound achievement for *your* future, and the quiet strength it took to pass that class belongs solely to you.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_096",
+    "input_id": "inp_he_emo_096",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Sitting so close to the physical space of your heartbreak while trying to perform academically is an incredibly difficult cognitive and emotional challenge. It is completely understandable that your mind dissociated to protect itself, and you deserve grace as you navigate working through these painful everyday environments.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_097",
+    "input_id": "inp_he_emo_097",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly painful to be trapped in a space where shared memories now feel like sharp edges, especially when you are expected to just perform and code through the panic. Let us take a slow breath together right now, knowing you do not have to force yourself to be okay with her indifference to simply survive this hour.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_098",
+    "input_id": "inp_he_emo_098",
+    "response_style": "reflective",
+    "sandhi_response": "Watching the future you both built together become his reality alone, while you carry the heavy weight of backlogs, is a devastating kind of grief. Your worth is not defined by his placement or the speed of your recovery, and it is completely valid to feel left behind right now.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_099",
+    "input_id": "inp_he_emo_099",
+    "response_style": "grounding",
+    "sandhi_response": "Your body is reacting to the intense shock of sudden loss, and the physical nausea is its way of saying the emotional load is simply too heavy to carry right now. Please put the syllabus aside for just thirty minutes and let your heart rate settle, putting your raw safety before any mock test.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_100",
+    "input_id": "inp_he_emo_100",
+    "response_style": "calming",
+    "sandhi_response": "Seeing someone you love appear completely unaffected while you are still carrying the raw pain of the breakup feels like a quiet, cruel betrayal. It is entirely okay that you cannot focus on your thesis tonight, so please allow yourself to close the screen and simply grieve.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_101",
+    "input_id": "inp_he_emo_101",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_102",
+    "input_id": "inp_he_emo_102",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_103",
+    "input_id": "inp_he_emo_103",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_104",
+    "input_id": "inp_he_emo_104",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_105",
+    "input_id": "inp_he_emo_105",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_106",
+    "input_id": "inp_he_emo_106",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_107",
+    "input_id": "inp_he_emo_107",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_108",
+    "input_id": "inp_he_emo_108",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_109",
+    "input_id": "inp_he_emo_109",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_110",
+    "input_id": "inp_he_emo_110",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_111",
+    "input_id": "inp_he_emo_111",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_112",
+    "input_id": "inp_he_emo_112",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_113",
+    "input_id": "inp_he_emo_113",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_114",
+    "input_id": "inp_he_emo_114",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_115",
+    "input_id": "inp_he_emo_115",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_116",
+    "input_id": "inp_he_emo_116",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_117",
+    "input_id": "inp_he_emo_117",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_118",
+    "input_id": "inp_he_emo_118",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_119",
+    "input_id": "inp_he_emo_119",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_120",
+    "input_id": "inp_he_emo_120",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_121",
+    "input_id": "inp_he_emo_121",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_122",
+    "input_id": "inp_he_emo_122",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_123",
+    "input_id": "inp_he_emo_123",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_124",
+    "input_id": "inp_he_emo_124",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_125",
+    "input_id": "inp_he_emo_125",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_126",
+    "input_id": "inp_he_emo_126",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_127",
+    "input_id": "inp_he_emo_127",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_128",
+    "input_id": "inp_he_emo_128",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_129",
+    "input_id": "inp_he_emo_129",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_130",
+    "input_id": "inp_he_emo_130",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_131",
+    "input_id": "inp_he_emo_131",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_132",
+    "input_id": "inp_he_emo_132",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_133",
+    "input_id": "inp_he_emo_133",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_134",
+    "input_id": "inp_he_emo_134",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_135",
+    "input_id": "inp_he_emo_135",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_136",
+    "input_id": "inp_he_emo_136",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_137",
+    "input_id": "inp_he_emo_137",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_138",
+    "input_id": "inp_he_emo_138",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_139",
+    "input_id": "inp_he_emo_139",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_140",
+    "input_id": "inp_he_emo_140",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_141",
+    "input_id": "inp_he_emo_141",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_142",
+    "input_id": "inp_he_emo_142",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_143",
+    "input_id": "inp_he_emo_143",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_144",
+    "input_id": "inp_he_emo_144",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_145",
+    "input_id": "inp_he_emo_145",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_146",
+    "input_id": "inp_he_emo_146",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_147",
+    "input_id": "inp_he_emo_147",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_148",
+    "input_id": "inp_he_emo_148",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_149",
+    "input_id": "inp_he_emo_149",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_150",
+    "input_id": "inp_he_emo_150",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_151",
+    "input_id": "inp_he_emo_151",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_152",
+    "input_id": "inp_he_emo_152",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_153",
+    "input_id": "inp_he_emo_153",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_154",
+    "input_id": "inp_he_emo_154",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_155",
+    "input_id": "inp_he_emo_155",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_156",
+    "input_id": "inp_he_emo_156",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_157",
+    "input_id": "inp_he_emo_157",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_158",
+    "input_id": "inp_he_emo_158",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_159",
+    "input_id": "inp_he_emo_159",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_160",
+    "input_id": "inp_he_emo_160",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_161",
+    "input_id": "inp_he_emo_161",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_162",
+    "input_id": "inp_he_emo_162",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_163",
+    "input_id": "inp_he_emo_163",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_164",
+    "input_id": "inp_he_emo_164",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_165",
+    "input_id": "inp_he_emo_165",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_166",
+    "input_id": "inp_he_emo_166",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_167",
+    "input_id": "inp_he_emo_167",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_168",
+    "input_id": "inp_he_emo_168",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_169",
+    "input_id": "inp_he_emo_169",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_170",
+    "input_id": "inp_he_emo_170",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_171",
+    "input_id": "inp_he_emo_171",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_172",
+    "input_id": "inp_he_emo_172",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_173",
+    "input_id": "inp_he_emo_173",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_174",
+    "input_id": "inp_he_emo_174",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_175",
+    "input_id": "inp_he_emo_175",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_176",
+    "input_id": "inp_he_emo_176",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_177",
+    "input_id": "inp_he_emo_177",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_178",
+    "input_id": "inp_he_emo_178",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_179",
+    "input_id": "inp_he_emo_179",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_180",
+    "input_id": "inp_he_emo_180",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_181",
+    "input_id": "inp_he_emo_181",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_182",
+    "input_id": "inp_he_emo_182",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_183",
+    "input_id": "inp_he_emo_183",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_184",
+    "input_id": "inp_he_emo_184",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_185",
+    "input_id": "inp_he_emo_185",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_186",
+    "input_id": "inp_he_emo_186",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_187",
+    "input_id": "inp_he_emo_187",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_188",
+    "input_id": "inp_he_emo_188",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_189",
+    "input_id": "inp_he_emo_189",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_190",
+    "input_id": "inp_he_emo_190",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_191",
+    "input_id": "inp_he_emo_191",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_192",
+    "input_id": "inp_he_emo_192",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_193",
+    "input_id": "inp_he_emo_193",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_194",
+    "input_id": "inp_he_emo_194",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_195",
+    "input_id": "inp_he_emo_195",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_196",
+    "input_id": "inp_he_emo_196",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_197",
+    "input_id": "inp_he_emo_197",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_198",
+    "input_id": "inp_he_emo_198",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_199",
+    "input_id": "inp_he_emo_199",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_200",
+    "input_id": "inp_he_emo_200",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_201",
+    "input_id": "inp_he_emo_201",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_202",
+    "input_id": "inp_he_emo_202",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_203",
+    "input_id": "inp_he_emo_203",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_204",
+    "input_id": "inp_he_emo_204",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_205",
+    "input_id": "inp_he_emo_205",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_206",
+    "input_id": "inp_he_emo_206",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_207",
+    "input_id": "inp_he_emo_207",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_208",
+    "input_id": "inp_he_emo_208",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_209",
+    "input_id": "inp_he_emo_209",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_210",
+    "input_id": "inp_he_emo_210",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_211",
+    "input_id": "inp_he_emo_211",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_212",
+    "input_id": "inp_he_emo_212",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_213",
+    "input_id": "inp_he_emo_213",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_214",
+    "input_id": "inp_he_emo_214",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_215",
+    "input_id": "inp_he_emo_215",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_216",
+    "input_id": "inp_he_emo_216",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_217",
+    "input_id": "inp_he_emo_217",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_218",
+    "input_id": "inp_he_emo_218",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_219",
+    "input_id": "inp_he_emo_219",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_220",
+    "input_id": "inp_he_emo_220",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_221",
+    "input_id": "inp_he_emo_221",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_222",
+    "input_id": "inp_he_emo_222",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_223",
+    "input_id": "inp_he_emo_223",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_224",
+    "input_id": "inp_he_emo_224",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_225",
+    "input_id": "inp_he_emo_225",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_226",
+    "input_id": "inp_he_emo_226",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_227",
+    "input_id": "inp_he_emo_227",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_228",
+    "input_id": "inp_he_emo_228",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_229",
+    "input_id": "inp_he_emo_229",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_230",
+    "input_id": "inp_he_emo_230",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_231",
+    "input_id": "inp_he_emo_231",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_232",
+    "input_id": "inp_he_emo_232",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_233",
+    "input_id": "inp_he_emo_233",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_234",
+    "input_id": "inp_he_emo_234",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_235",
+    "input_id": "inp_he_emo_235",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_236",
+    "input_id": "inp_he_emo_236",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_237",
+    "input_id": "inp_he_emo_237",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_238",
+    "input_id": "inp_he_emo_238",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_239",
+    "input_id": "inp_he_emo_239",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_240",
+    "input_id": "inp_he_emo_240",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_241",
+    "input_id": "inp_he_emo_241",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_242",
+    "input_id": "inp_he_emo_242",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_243",
+    "input_id": "inp_he_emo_243",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_244",
+    "input_id": "inp_he_emo_244",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_245",
+    "input_id": "inp_he_emo_245",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_246",
+    "input_id": "inp_he_emo_246",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_247",
+    "input_id": "inp_he_emo_247",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_248",
+    "input_id": "inp_he_emo_248",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_249",
+    "input_id": "inp_he_emo_249",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_250",
+    "input_id": "inp_he_emo_250",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_251",
+    "input_id": "inp_he_emo_251",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_252",
+    "input_id": "inp_he_emo_252",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_253",
+    "input_id": "inp_he_emo_253",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_254",
+    "input_id": "inp_he_emo_254",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_255",
+    "input_id": "inp_he_emo_255",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_256",
+    "input_id": "inp_he_emo_256",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_257",
+    "input_id": "inp_he_emo_257",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_258",
+    "input_id": "inp_he_emo_258",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_259",
+    "input_id": "inp_he_emo_259",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_260",
+    "input_id": "inp_he_emo_260",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_261",
+    "input_id": "inp_he_emo_261",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_262",
+    "input_id": "inp_he_emo_262",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_263",
+    "input_id": "inp_he_emo_263",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_264",
+    "input_id": "inp_he_emo_264",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_265",
+    "input_id": "inp_he_emo_265",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_266",
+    "input_id": "inp_he_emo_266",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_267",
+    "input_id": "inp_he_emo_267",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_268",
+    "input_id": "inp_he_emo_268",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_269",
+    "input_id": "inp_he_emo_269",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_270",
+    "input_id": "inp_he_emo_270",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_271",
+    "input_id": "inp_he_emo_271",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_272",
+    "input_id": "inp_he_emo_272",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_273",
+    "input_id": "inp_he_emo_273",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_274",
+    "input_id": "inp_he_emo_274",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_275",
+    "input_id": "inp_he_emo_275",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_276",
+    "input_id": "inp_he_emo_276",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_277",
+    "input_id": "inp_he_emo_277",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_278",
+    "input_id": "inp_he_emo_278",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_279",
+    "input_id": "inp_he_emo_279",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_280",
+    "input_id": "inp_he_emo_280",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_281",
+    "input_id": "inp_he_emo_281",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_282",
+    "input_id": "inp_he_emo_282",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_283",
+    "input_id": "inp_he_emo_283",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_284",
+    "input_id": "inp_he_emo_284",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_285",
+    "input_id": "inp_he_emo_285",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_286",
+    "input_id": "inp_he_emo_286",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_287",
+    "input_id": "inp_he_emo_287",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_288",
+    "input_id": "inp_he_emo_288",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_289",
+    "input_id": "inp_he_emo_289",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_290",
+    "input_id": "inp_he_emo_290",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_291",
+    "input_id": "inp_he_emo_291",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_292",
+    "input_id": "inp_he_emo_292",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_293",
+    "input_id": "inp_he_emo_293",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_294",
+    "input_id": "inp_he_emo_294",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_295",
+    "input_id": "inp_he_emo_295",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_296",
+    "input_id": "inp_he_emo_296",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_297",
+    "input_id": "inp_he_emo_297",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_298",
+    "input_id": "inp_he_emo_298",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_299",
+    "input_id": "inp_he_emo_299",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_300",
+    "input_id": "inp_he_emo_300",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_301",
+    "input_id": "inp_he_emo_301",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_302",
+    "input_id": "inp_he_emo_302",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_303",
+    "input_id": "inp_he_emo_303",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_304",
+    "input_id": "inp_he_emo_304",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_305",
+    "input_id": "inp_he_emo_305",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_306",
+    "input_id": "inp_he_emo_306",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_307",
+    "input_id": "inp_he_emo_307",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_308",
+    "input_id": "inp_he_emo_308",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_309",
+    "input_id": "inp_he_emo_309",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_310",
+    "input_id": "inp_he_emo_310",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_311",
+    "input_id": "inp_he_emo_311",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_312",
+    "input_id": "inp_he_emo_312",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_313",
+    "input_id": "inp_he_emo_313",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_314",
+    "input_id": "inp_he_emo_314",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_315",
+    "input_id": "inp_he_emo_315",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_316",
+    "input_id": "inp_he_emo_316",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_317",
+    "input_id": "inp_he_emo_317",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_318",
+    "input_id": "inp_he_emo_318",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_319",
+    "input_id": "inp_he_emo_319",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_320",
+    "input_id": "inp_he_emo_320",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_321",
+    "input_id": "inp_he_emo_321",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_322",
+    "input_id": "inp_he_emo_322",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_323",
+    "input_id": "inp_he_emo_323",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_324",
+    "input_id": "inp_he_emo_324",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_325",
+    "input_id": "inp_he_emo_325",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_326",
+    "input_id": "inp_he_emo_326",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_327",
+    "input_id": "inp_he_emo_327",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_328",
+    "input_id": "inp_he_emo_328",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_329",
+    "input_id": "inp_he_emo_329",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_330",
+    "input_id": "inp_he_emo_330",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_331",
+    "input_id": "inp_he_emo_331",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_332",
+    "input_id": "inp_he_emo_332",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_333",
+    "input_id": "inp_he_emo_333",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_334",
+    "input_id": "inp_he_emo_334",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_335",
+    "input_id": "inp_he_emo_335",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_336",
+    "input_id": "inp_he_emo_336",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_337",
+    "input_id": "inp_he_emo_337",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_338",
+    "input_id": "inp_he_emo_338",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_339",
+    "input_id": "inp_he_emo_339",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_340",
+    "input_id": "inp_he_emo_340",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_341",
+    "input_id": "inp_he_emo_341",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_342",
+    "input_id": "inp_he_emo_342",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_343",
+    "input_id": "inp_he_emo_343",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_344",
+    "input_id": "inp_he_emo_344",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_345",
+    "input_id": "inp_he_emo_345",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_346",
+    "input_id": "inp_he_emo_346",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_347",
+    "input_id": "inp_he_emo_347",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_348",
+    "input_id": "inp_he_emo_348",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_349",
+    "input_id": "inp_he_emo_349",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_350",
+    "input_id": "inp_he_emo_350",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_351",
+    "input_id": "inp_he_emo_351",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_352",
+    "input_id": "inp_he_emo_352",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_353",
+    "input_id": "inp_he_emo_353",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_354",
+    "input_id": "inp_he_emo_354",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_355",
+    "input_id": "inp_he_emo_355",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_356",
+    "input_id": "inp_he_emo_356",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_357",
+    "input_id": "inp_he_emo_357",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_358",
+    "input_id": "inp_he_emo_358",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_359",
+    "input_id": "inp_he_emo_359",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_360",
+    "input_id": "inp_he_emo_360",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_361",
+    "input_id": "inp_he_emo_361",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_362",
+    "input_id": "inp_he_emo_362",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_363",
+    "input_id": "inp_he_emo_363",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_364",
+    "input_id": "inp_he_emo_364",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_365",
+    "input_id": "inp_he_emo_365",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_366",
+    "input_id": "inp_he_emo_366",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_367",
+    "input_id": "inp_he_emo_367",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_368",
+    "input_id": "inp_he_emo_368",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_369",
+    "input_id": "inp_he_emo_369",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_370",
+    "input_id": "inp_he_emo_370",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_371",
+    "input_id": "inp_he_emo_371",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_372",
+    "input_id": "inp_he_emo_372",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_373",
+    "input_id": "inp_he_emo_373",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_374",
+    "input_id": "inp_he_emo_374",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_375",
+    "input_id": "inp_he_emo_375",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_376",
+    "input_id": "inp_he_emo_376",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_377",
+    "input_id": "inp_he_emo_377",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_378",
+    "input_id": "inp_he_emo_378",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_379",
+    "input_id": "inp_he_emo_379",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_380",
+    "input_id": "inp_he_emo_380",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_381",
+    "input_id": "inp_he_emo_381",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_382",
+    "input_id": "inp_he_emo_382",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_383",
+    "input_id": "inp_he_emo_383",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_384",
+    "input_id": "inp_he_emo_384",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_385",
+    "input_id": "inp_he_emo_385",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_386",
+    "input_id": "inp_he_emo_386",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_387",
+    "input_id": "inp_he_emo_387",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_388",
+    "input_id": "inp_he_emo_388",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_389",
+    "input_id": "inp_he_emo_389",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_390",
+    "input_id": "inp_he_emo_390",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_391",
+    "input_id": "inp_he_emo_391",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_392",
+    "input_id": "inp_he_emo_392",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_393",
+    "input_id": "inp_he_emo_393",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_394",
+    "input_id": "inp_he_emo_394",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_395",
+    "input_id": "inp_he_emo_395",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_396",
+    "input_id": "inp_he_emo_396",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_397",
+    "input_id": "inp_he_emo_397",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_398",
+    "input_id": "inp_he_emo_398",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_399",
+    "input_id": "inp_he_emo_399",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_emo_400",
+    "input_id": "inp_he_emo_400",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of emotional triggering is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  }
+]

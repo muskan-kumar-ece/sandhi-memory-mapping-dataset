@@ -1,0 +1,13 @@
+{
+  "subcategory_id": "SUB-REGR",
+  "subcategory_name": "regret",
+  "category": "Anger Management",
+  "description": "Emotional state and behaviors relating to regret under Anger Management.",
+  "complexity_level": "medium",
+  "clinical_relevance": "medium",
+  "tags": [
+    "anger_management",
+    "regret",
+    "student_support"
+  ]
+}

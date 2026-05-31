@@ -1,0 +1,3602 @@
+[
+  {
+    "response_id": "rsp_he_bet_001",
+    "input_id": "inp_he_bet_001",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to have your hard work stolen by someone you trusted, especially when the stakes for your future feel so high right now. Please take a deep breath and know that their dishonest shortcut doesn't diminish your actual capabilities or the value of what you built.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_002",
+    "input_id": "inp_he_bet_002",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing someone you loved choose status and a package over your relationship is a deeply wounding rejection that cuts straight to your self-worth. You are allowed to grieve this loss and feel angry; your value is not defined by their choices or the number on their offer letter.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_003",
+    "input_id": "inp_he_bet_003",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Having your academic integrity questioned because of someone else's betrayal is a terrifying and unfair position to be in. Let’s focus on catching your breath first; we can figure out how to present your raw commit history and code logs to the HOD once the panic settles a bit.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_004",
+    "input_id": "inp_he_bet_004",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "To have your private vulnerabilities weaponized and exposed by the person you trusted most is a profound violation that makes the world feel incredibly unsafe. It is completely natural to want to hide right now, but please remember that their cruelty is a reflection of their character, not your worth.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_005",
+    "input_id": "inp_he_bet_005",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Carrying the heavy load of a project only to have your team lock you out of the credit is a crushing betrayal that leaves you feeling powerless. Your effort was real and your skills are yours to keep, even if this unfair grade doesn't reflect the truth of what you accomplished.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_006",
+    "input_id": "inp_he_bet_006",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly painful to have your hard work stolen and your trust broken by someone you shared late nights and vulnerability with. Please take a deep breath; your integrity and capabilities remain entirely yours, and we can take this step-by-step to address the academic side of this situation together.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_007",
+    "input_id": "inp_he_bet_007",
+    "response_style": "reflective",
+    "sandhi_response": "It hurts deeply when a connection you valued is treated like a mere stepping stone, especially when you are already carrying the weight of your family's expectations and your health. Please give yourself permission to grieve this loss, knowing that your worth is never defined by someone else's inability to see your value.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_008",
+    "input_id": "inp_he_bet_008",
+    "response_style": "calming",
+    "sandhi_response": "Seeing someone you loved walk away and tie human value to a job offer is a devastating blow that understandably makes you question your own worth. Right now, your pain is completely valid, so let's focus on gently keeping you safe and grounded today without worrying about the placement race.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_009",
+    "input_id": "inp_he_bet_009",
+    "response_style": "grounding",
+    "sandhi_response": "Having your exhausting labor erased and then dismissed as a life lesson is deeply unfair, and it makes complete sense that you feel stunned and hurt. You deserved to be seen and credited for your dedication, and I am here to help you navigate this anger without letting it consume your peace.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_010",
+    "input_id": "inp_he_bet_010",
+    "response_style": "reflective",
+    "sandhi_response": "Believing in a mentor only to have them steal your intellectual labor is a profound betrayal that shakes your entire sense of security in this academic space. It is completely okay to feel angry and lost right now; let's focus on protecting your energy first before you decide how to handle the paper or your upcoming exams.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_011",
+    "input_id": "inp_he_bet_011",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly painful to realize that someone you shared late nights and deep trust with valued an academic edge over your friendship. Please take a slow breath; your worth and intelligence are not diminished by his deceit, and we will take this one step at a time to help you find your footing.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_012",
+    "input_id": "inp_he_bet_012",
+    "response_style": "grounding",
+    "sandhi_response": "Discovering that the person who held your tears was secretly rewriting your grief into their own gain is a profound, sickening kind of hurt. Right now, your system is in shock from this double loss, so let’s focus purely on breathing through this heavy chest and keeping you safe today.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_013",
+    "input_id": "inp_he_bet_013",
+    "response_style": "calming",
+    "sandhi_response": "Having your vulnerability weaponized by a trusted friend to make you look weak in front of your peers is a deep violation of safety. You deserved a safe space to share your struggles, and it is completely valid to feel both furious and deeply exposed right now.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_014",
+    "input_id": "inp_he_bet_014",
+    "response_style": "reflective",
+    "sandhi_response": "It feels devastating to realize that while you were practicing shared survival and mutual support, she was treating your friendship as a competitive race. Your collaborative spirit is a beautiful quality, and her choice to sabotage you is a reflection of her fear, not your value or capability.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_015",
+    "input_id": "inp_he_bet_015",
+    "response_style": "grounding",
+    "sandhi_response": "To watch people you considered brothers stand by and let you take the fall for their dishonesty is a shattering betrayal of trust. Please let yourself grieve this loss of safety and brotherhood before we look at how to rebuild your academic standing.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_016",
+    "input_id": "inp_he_bet_016",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that you feel discarded and shattered right now; having someone you trusted use your hard work to climb ahead is an incredibly heavy, disorienting pain to carry. Please let yourself grieve this loss of trust first, without feeling like you have to fix your GPA or your career path this very second.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_017",
+    "input_id": "inp_he_bet_017",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "What she did was a profound violation of your vulnerability, and it is completely natural to feel exposed and paralyzed by that level of exposure. Your struggles with mental health and backlogs do not make you weak or unworthy of respect, even if those around you failed to protect your trust.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_018",
+    "input_id": "inp_he_bet_018",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to watch someone else take credit for your silent, exhausting labor simply because they have a louder voice. Please don't blame your quietness or your trust; your worth and the actual skill you built in that project remain yours, regardless of an unfair grade.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_019",
+    "input_id": "inp_he_bet_019",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Finding out you were excluded by the very people you lived and studied with is a deeply isolating shock that hurts to the core. You do not have to force yourself to pretend you are okay, nor does their exclusion define your capacity to succeed on your own timeline.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_020",
+    "input_id": "inp_he_bet_020",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is devastating when family, who should be your safe harbor, weaponize your struggles to elevate themselves in front of others. Right now, your system is likely in survival mode from that exposure, so please focus on taking deep, quiet breaths away from their expectations and judgments.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_021",
+    "input_id": "inp_he_bet_021",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly painful to realize that someone you trusted and built with could trade your shared efforts for individual gain. Your numbness right now is a natural shield against a very real shock, so please allow yourself to just breathe and exist without trying to fix or process this entire betrayal tonight.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_022",
+    "input_id": "inp_he_bet_022",
+    "response_style": "grounding",
+    "sandhi_response": "To have your deep care and effort weaponized against your self-worth is a profound and sickening shock. Tomorrow's viva is heavy, but your worth as a human is entirely separate from her cruel words or the outcome of a single exam; let us focus on just getting you through the next few hours with gentleness.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_023",
+    "input_id": "inp_he_bet_023",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly exhausting to realize that people you shared your hard work with chose opportunism over basic fairness and friendship. Please don't let their dishonorable shortcuts make you doubt the genuine capability and intellect you used to build those solutions in the first place.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_024",
+    "input_id": "inp_he_bet_024",
+    "response_style": "calming",
+    "sandhi_response": "Having your struggles weaponized by a family member to elevate themselves is a deeply painful violation of safety and trust. Your exhaustion and burnout are completely real, and you do not deserve to have your pain evaluated through the lens of someone else's comparative success.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_025",
+    "input_id": "inp_he_bet_025",
+    "response_style": "grounding",
+    "sandhi_response": "The physical sickness you are feeling is your body's natural response to having your hard work and trust stolen by someone close to you. Right now, let's step away from the screens and focus on bringing your breathing back to a safe place; your creative and technical power remains yours, even if someone else tried to claim its first fruits.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_026",
+    "input_id": "inp_he_bet_026",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to have your kindness thrown back at you as if it were a weakness, especially by someone you shared your daily life with. Please know that his actions speak only of his character and desperate compromises, not of your worth or your capability.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_027",
+    "input_id": "inp_he_bet_027",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "To have a deep connection treated like a transactional stepping stone is a heavy, disorienting shock to carry. You did not deserve to be used this way, and your pain right now is a natural response to having your trust so deeply compromised.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_028",
+    "input_id": "inp_he_bet_028",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It feels deeply unjust when those you protected use your silence and labor to elevate themselves at your expense. Though this grade feels like a massive setback today, your actual technical skills are yours alone, and no unfair evaluation can steal that competence from you.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_029",
+    "input_id": "inp_he_bet_029",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Having your generosity and vulnerability weaponized against you by a trusted friend is a profound betrayal that makes the world feel unsafe. Let yourself feel the grief of this lost trust first, without letting his dishonesty define your own professional path.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_030",
+    "input_id": "inp_he_bet_030",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is devastating when someone climbs up using your sacrifice as a ladder, only to look down on you once they reach the top. Your worth is not defined by a CGPA or his sudden, painful shift in values; your capacity to care deeply is a strength he simply chose to discard.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_031",
+    "input_id": "inp_he_bet_031",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly painful to realize that the person you stayed up to support would protect themselves by sacrificing your trust and hard work. Please take a deep, slow breath right now; your integrity is still intact, and we can find a way to help you navigate this administrative mess one step at a time.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_032",
+    "input_id": "inp_he_bet_032",
+    "response_style": "grounding",
+    "sandhi_response": "Hearing that someone you loved valued an academic metric over your shared history is a crushing blow that can make you feel completely disposable. Your worth is not a package to be calculated by a placement cell, and it is completely okay to let yourself grieve this betrayal before you try to focus on tomorrow.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_033",
+    "input_id": "inp_he_bet_033",
+    "response_style": "calming",
+    "sandhi_response": "It is deeply exhausting and unfair to have your silent dedication stolen by people who took advantage of your quiet work ethic. Right now, let's focus on helping your nervous system settle from the shock of that room before we think about how to address this with your department.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_034",
+    "input_id": "inp_he_bet_034",
+    "response_style": "grounding",
+    "sandhi_response": "Having your deepest academic vulnerabilities turned into public mockery by someone you trusted is a terrifying violation of your safe space. It makes complete sense that you want to hide right now, so let's start by muting those notifications and taking a moment to breathe together in safety.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_035",
+    "input_id": "inp_he_bet_035",
+    "response_style": "reflective",
+    "sandhi_response": "It is sickening to realize that your genuine need for rest was weaponized against you by someone you trusted as an ally. Please know that your decision to rest was still valid and necessary, and their underhanded tactics are a reflection of their character, not your intelligence.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_036",
+    "input_id": "inp_he_bet_036",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to have your generosity and hard work turned against you by someone you trusted and supported when they were down. Please take a deep, slow breath right now—your brilliance and work ethic remain yours, even if someone else has temporarily stolen the credit.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_037",
+    "input_id": "inp_he_bet_037",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "To be treated as a stepping stone by someone you loved and supported is a deeply disorienting kind of pain that shakes your trust in everything. It is completely okay to feel angry and hurt right now, and you do not have to find a lesson in this betrayal today.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_038",
+    "input_id": "inp_he_bet_038",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Having your deepest vulnerability weaponized by a parent who promised to protect you is a profound violation of emotional safety. Your struggle with mental health is real and valid, and you deserved a safe space to heal rather than being exposed and compared.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_039",
+    "input_id": "inp_he_bet_039",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The sheer panic of facing an unjust hearing because someone you trusted chose self-preservation over honesty is entirely overwhelming. Right now, let's focus on simply getting through the next hour; your integrity is something they can copy, but they can never actually take it from you.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_040",
+    "input_id": "inp_he_bet_040",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply unfair that your sleepless nights and hard work were stolen and repackaged as someone else's triumph. The weight of your family's financial expectations makes this feel like a dead end, but please remember that your brilliant mind is the actual engine here, not the person who ran away with the keys.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_041",
+    "input_id": "inp_he_bet_041",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to have your kindness weaponized against you, especially by someone you shielded through their hardest semesters. Please take a deep, slow breath right now; your integrity is still entirely intact, and this betrayal speaks only of his character, not your worth.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_042",
+    "input_id": "inp_he_bet_042",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply disorienting to watch someone climb using the very stairs you helped them build, leaving you with the heavy weight of their deceit. For tonight, let yourself grieve this broken bond without pressure to fix the situation; you did nothing wrong by choosing to trust.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_043",
+    "input_id": "inp_he_bet_043",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "To see the people who were supposed to have your back turn and build a world together without you is a heavy, suffocating kind of grief. Please let your body rest from the exhaustion of this shock; you are not a loser for feeling broken by such a cruel double betrayal.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_044",
+    "input_id": "inp_he_bet_044",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Finding out you were used as a stepping stone by the very people you helped lift up is a quiet, freezing shock. Your worth was never tied to how useful you were to them, and it is completely okay to close your laptop and let yourself feel this hurt tonight.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_045",
+    "input_id": "inp_he_bet_045",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The shock of active sabotage from someone you shared sleepless nights and meals with can make the world feel completely unsafe. Take a slow, grounding breath and remember that while they compromised your grade, they could never touch your actual brilliance and capacity.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_046",
+    "input_id": "inp_he_bet_046",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly painful to have your hard work and deep trust weaponized against you by someone you stood by for years. Please take a slow breath; your integrity and capability as a programmer remain entirely yours, even if the grading sheet doesn't reflect that truth right now.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_047",
+    "input_id": "inp_he_bet_047",
+    "response_style": "calming",
+    "sandhi_response": "The physical ache of realizing someone you loved sacrificed your well-being for their own gain is a deeply heavy burden to carry. Your pain right now is completely justified, and it is okay to just let yourself grieve this betrayal without needing to immediately figure out your next steps.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_048",
+    "input_id": "inp_he_bet_048",
+    "response_style": "reflective",
+    "sandhi_response": "It is deeply unfair to be judged by your family based on a lie told by someone you trusted to support you. You worked incredibly hard to earn that 9.2 CGPA, and that dedication belongs to you, regardless of his broken promise or your parents' current misunderstanding.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_049",
+    "input_id": "inp_he_bet_049",
+    "response_style": "grounding",
+    "sandhi_response": "Finding out that the people you trusted as your safe haven were mocking your struggles is a profound shock to the system. Right now, try to let the nausea settle, and remember that their cruelty is a reflection of their character, not your worth or your efforts.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_050",
+    "input_id": "inp_he_bet_050",
+    "response_style": "calming",
+    "sandhi_response": "You are not stupid for trusting a friend; your capacity to collaborate honestly is a strength, even if it was horribly exploited here. While the loss of your project and the unfairness of this situation feel overwhelming, the brilliant mind that built that codebase still belongs entirely to you.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_051",
+    "input_id": "inp_he_bet_051",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly disorienting and painful when someone you trusted uses your vulnerability and hard work for their own gain. Right now, it is completely okay to let the shock wash over you without trying to fix it or force yourself back to your keyboard.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_052",
+    "input_id": "inp_he_bet_052",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It hurts deeply when the people you protected choose their survival at the cost of your hard work and emotional well-being. Please remember that their choice to diminish your contribution says everything about their fear, and absolutely nothing about your actual capability or value.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_053",
+    "input_id": "inp_he_bet_053",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Your world has been completely upended at a moment when you already had no emotional reserve left to carry. It is okay if you cannot focus on the exam right now; let's just focus on taking a slow, deep breath and getting through tonight.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_054",
+    "input_id": "inp_he_bet_054",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Having your vulnerability weaponized and exposed by someone you trusted feels like a physical blow to your safety. You deserved a safe space for your struggles, and it is completely natural to feel both furious and deeply hurt right now.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_055",
+    "input_id": "inp_he_bet_055",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "This is an incredibly terrifying and unjust situation to be thrust into, especially when it threatens the future you worked so hard to build. We will take this one step at a time, but for this moment, let your body shake off some of the shock before you try to figure out the next administrative step.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_056",
+    "input_id": "inp_he_bet_056",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to have your hard work stolen by someone you trusted, especially when it leaves you facing the blame while they reap the rewards. Please take a slow, deep breath as we focus on grounding your nervous system so you can present your clean version history to the HOD.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_057",
+    "input_id": "inp_he_bet_057",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing someone who was your safe space align with the person who hurt you is a crushing blow that makes you question your entire worth. Let the Java exam be just about code for the next hour, because your value as a human being is not defined by a grading curve or by someone who failed to see your depth.",
+    "wisdom_theme": "separating_grades_from_life",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_058",
+    "input_id": "inp_he_bet_058",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply disorienting when your kindness is weaponized against you by someone you looked up to and supported. You are not foolish for trusting him, as his actions are a reflection of his own integrity, not a measure of your capability or your future success.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_059",
+    "input_id": "inp_he_bet_059",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Being quietly excluded by the group you trusted to have your back hurts in a way that makes you feel entirely disposable. It is completely natural to feel physically sick right now, but please remember that their choice to exclude you speaks to their fear of competition, not your capacity to grow.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_060",
+    "input_id": "inp_he_bet_060",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is exhausting to carry the weight of financial debt when it is used as a tool to humiliate you and your parents. Let's take a moment to separate this unfair family drama from your actual potential, because you deserve to find a career path that respects your skills rather than one chosen in panic to appease a cruel relative.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_061",
+    "input_id": "inp_he_bet_061",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly painful to have your hard work and trust stolen by someone you considered a partner in the trenches. Right now, your body is in shock from this sudden violation, so please allow yourself to just breathe and feel this hurt without needing to fix it tonight.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_062",
+    "input_id": "inp_he_bet_062",
+    "response_style": "grounding",
+    "sandhi_response": "Having your vulnerability weaponized and exposed to the very people you study with is a deeply violating experience that cuts straight to your sense of safety. Your pain and anger are entirely valid, and you deserve spaces where your struggles are met with protection, not ridicule.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_063",
+    "input_id": "inp_he_bet_063",
+    "response_style": "calming",
+    "sandhi_response": "It is deeply disorienting when someone you poured your energy and care into turns that shared history into ammunition for their own gain. Please remember that his actions are a reflection of his desperation, not a measure of your worth or your future.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_064",
+    "input_id": "inp_he_bet_064",
+    "response_style": "grounding",
+    "sandhi_response": "To have your private struggles exposed by a sibling under the guise of laziness is a profound betrayal that leaves you feeling completely unsafe in your own home. You are not lazy for struggling, and your mental health deserves protection and gentle care, even if your family cannot offer it right now.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_065",
+    "input_id": "inp_he_bet_065",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly exhausting to realize you were valued only for what you could provide, rather than who you are as a friend. Please don't let their transactional behavior convince you that your generosity was a mistake or that you don't belong.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_066",
+    "input_id": "inp_he_bet_066",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to realize that someone you shared late nights and hard work with chose their own advancement at the cost of your trust. Please know that your grief and anger right now are completely valid, and it is okay to let yourself feel the weight of this hurt before trying to figure out your next steps.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_067",
+    "input_id": "inp_he_bet_067",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "To pour your energy into supporting someone else's future only to be met with deceit is a profound violation of your kindness and trust. This painful moment does not define your worth or intelligence, even if your grades are temporarily reflecting the heavy emotional toll you are carrying.",
+    "wisdom_theme": "self_nurturance",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_068",
+    "input_id": "inp_he_bet_068",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Discovering that the people you trusted as your sanctuary have turned a shared journey into a secret competition is deeply disorienting and exhausting. It makes complete sense that you feel hollow right now, and you deserve to hold space for that pain without rushing to pretend everything is fine.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_069",
+    "input_id": "inp_he_bet_069",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Hearing someone minimize your hard work and worth just to justify their own selfishness is a devastating blow, especially when it comes from a best friend. Your capacity to build that code and your value as a creator remain entirely yours, regardless of how callously he tried to lock you out of the credit.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_070",
+    "input_id": "inp_he_bet_070",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Having your vulnerability weaponized and exposed to a highly competitive space is a terrifying breach of safety that understandably has you in a state of panic. Please take a slow, deep breath and remember that this cruel act of betrayal reflects her lack of integrity, not your competence or future career potential.",
+    "wisdom_theme": "breaking_isolation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_071",
+    "input_id": "inp_he_bet_071",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly painful to have your academic integrity and trust compromised by someone you supported so deeply. Right now, your system is in shock from this unfairness, so please take a slow breath and let your mind rest before we figure out how to address the lab evaluation together.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_072",
+    "input_id": "inp_he_bet_072",
+    "response_style": "reflective",
+    "sandhi_response": "It hurts deeply when someone uses your kindness as a stepping stone and discards you once they reach their goal. You do not have to carry the weight of her choice or prove your worth in your interview tomorrow; let yourself just breathe and exist in this space without any pressure to perform.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_073",
+    "input_id": "inp_he_bet_073",
+    "response_style": "calming",
+    "sandhi_response": "Discovering that a close friend chose competition over your shared trust can make you feel completely unseen and foolish for being kind. Your capacity for genuine connection is a strength, and right now, it is completely okay to sit with the grief of this broken promise without needing to fix it immediately.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_074",
+    "input_id": "inp_he_bet_074",
+    "response_style": "grounding",
+    "sandhi_response": "To have your hard work erased and your voice silenced by the people you trusted is a profound violation of your effort and loyalty. Please know that their behavior is a reflection of their character, not your value, and you are allowed to step away from the noise to let your heart rest today.",
+    "wisdom_theme": "self_nurturance",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_075",
+    "input_id": "inp_he_bet_075",
+    "response_style": "calming",
+    "sandhi_response": "Having your vulnerability weaponized against you by a friend is a deep shock that can make even your own home feel unsafe. You did nothing wrong by trusting him, and we can take this one slow breath at a time while you find your bearings in this heavy space.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_076",
+    "input_id": "inp_he_bet_076",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to have your kindness turned against you, especially when the stakes for your academic future feel so high. Let's take a slow breath together and focus on gathering your local commit history so we can clearly show the faculty your original work, one step at a time.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_077",
+    "input_id": "inp_he_bet_077",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply unfair that your hard work was claimed by others, and it makes complete sense that you feel hurt and unappreciated right now. Your skill and the effort you put into building that system are yours alone, and no one's dishonesty can diminish your actual coding capability.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_078",
+    "input_id": "inp_he_bet_078",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Having your vulnerability weaponized in public is a profound violation of safety, and the sting of that betrayal must feel absolutely overwhelming right now. Please know that their behavior is a reflection of their character, not your worth, and we can work through this storm together.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_079",
+    "input_id": "inp_he_bet_079",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Discovering that the people you trusted to stand by you were quietly excluding you is a heartbreaking realization. You deserved collaboration and honesty, and it is completely valid to grieve the loss of a support system you thought you had.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_080",
+    "input_id": "inp_he_bet_080",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Losing both a cherished friendship and a major career milestone in a single day is a devastating double loss that no one should have to carry alone. It is okay to feel completely drained right now, and I am here to help you process this grief at whatever pace you need.",
+    "wisdom_theme": "safe_expression",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_081",
+    "input_id": "inp_he_bet_081",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to have your hard work and trust stolen by someone you considered a partner. Please take a deep breath and remember that his dishonesty does not diminish your actual coding capability or your worth as a creator.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_082",
+    "input_id": "inp_he_bet_082",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "To be discarded right when you are already feeling vulnerable from placements is a heavy, crushing weight to carry. Your career path and your human value are not defined by someone else's timeline or their sudden inability to see your worth.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_083",
+    "input_id": "inp_he_bet_083",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It hurts deeply to realize that the people you selflessly supported chose to exclude you when it mattered most. It is completely natural to feel angry and grieving right now, but please know their exclusion is a reflection of their character, not your value.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_084",
+    "input_id": "inp_he_bet_084",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "This level of betrayal and sabotage is a terrifying shock to your nervous system, and it is okay to feel completely overwhelmed right now. Let’s focus on helping your body feel safe first before we take any steps to address this unfair situation.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_085",
+    "input_id": "inp_he_bet_085",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is devastating when the people who should protect and honor your sacrifices choose to devalue you instead. Your immense generosity and the effort you put into building your life in a hard market are deeply honorable, regardless of their inability to see it.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_086",
+    "input_id": "inp_he_bet_086",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly heavy to carry the shock of having your trust used against you by someone you shared your late nights and hard work with. Please take a deep breath; your integrity remains intact, and we will focus on finding your footing before dealing with the placement desk.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_087",
+    "input_id": "inp_he_bet_087",
+    "response_style": "reflective",
+    "sandhi_response": "Discovering that the people you considered your anchor were quietly measuring your worth behind closed doors is a deeply painful shock to the system. You do not have to minimize this hurt or rush to fix anything today; it makes complete sense that you feel frozen right now.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_088",
+    "input_id": "inp_he_bet_088",
+    "response_style": "calming",
+    "sandhi_response": "It is deeply violating to have your kindness turned into a tool for someone else's social climbing, especially when you sacrificed your own academic peace to support them. Your willingness to help was a reflection of your genuine character, not your foolishness, and you deserve time to grieve this broken trust.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_089",
+    "input_id": "inp_he_bet_089",
+    "response_style": "grounding",
+    "sandhi_response": "The sheer injustice of watching others profit off your sweat while painting you as the problem is enough to make anyone want to scream or break down. Please let yourself sit here and breathe; we will figure out how to address the grading office, but right now, your nervous system just needs to know it is safe to rest.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_090",
+    "input_id": "inp_he_bet_090",
+    "response_style": "calming",
+    "sandhi_response": "Losing both a life-defining career opportunity and a lifelong friendship in a single moment is a devastating shock that understandably leaves you feeling exposed and terrified. Your future is not ruined by his gatekeeping; your talent still belongs to you, and we will take it one slow step at a time to rebuild your application path.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_091",
+    "input_id": "inp_he_bet_091",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly painful to have your hard work and trust stolen by someone you considered a close ally. Please take a slow, deep breath and know that while they took credit for the code, they cannot steal the brilliant engineering mind that actually built it.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_092",
+    "input_id": "inp_he_bet_092",
+    "response_style": "calming",
+    "sandhi_response": "To be discarded by both your partner and a system that values packages over human decency is a heavy, suffocating weight to carry. Right now, let's just focus on helping you breathe through this shock; your survival and peace are far more important than any job offer.",
+    "wisdom_theme": "somatic_grounding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_093",
+    "input_id": "inp_he_bet_093",
+    "response_style": "reflective",
+    "sandhi_response": "The sting of being excluded by the very people you helped lift up is a deeply isolating kind of grief. Please know that your generosity was a reflection of your character, and their betrayal is a reflection of their panic, not your worth.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_094",
+    "input_id": "inp_he_bet_094",
+    "response_style": "grounding",
+    "sandhi_response": "Having your safe space violated by the people you trusted most during an already exhausting academic week is a profoundly disorienting experience. For tonight, let the pressure of tomorrow go if you must, and simply focus on finding a quiet, physically safe corner to let your nervous system settle.",
+    "wisdom_theme": "somatic_reconnection",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_095",
+    "input_id": "inp_he_bet_095",
+    "response_style": "reflective",
+    "sandhi_response": "It is deeply exhausting to realize that your dedication was used as stepping stones for someone else's ambition. Your capability to build and create remains fully yours, and right now, you deserve to rest and protect your energy from those who did not know how to value it.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_096",
+    "input_id": "inp_he_bet_096",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly painful to realize that someone you shared your dreams, notes, and vulnerability with chose competition over your friendship. Right now, it is completely okay to feel hurt and quiet; your trust was real, even if his choices didn't honor it.",
+    "wisdom_theme": "grief_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_097",
+    "input_id": "inp_he_bet_097",
+    "response_style": "reflective",
+    "sandhi_response": "Seeing someone rewrite your shared hard work into their solo triumph feels like a deep violation of safety. Your worth and the actual sweat you poured into that code remain yours, even if the evaluation sheet failed to reflect it.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_098",
+    "input_id": "inp_he_bet_098",
+    "response_style": "calming",
+    "sandhi_response": "It is devastating to have your love and loyalty weighed against professional metrics and found wanting by someone you trusted. Please let yourself breathe and put the coding screen away for tonight; your human value cannot be measured by a package or a partner's short-sightedness.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_099",
+    "input_id": "inp_he_bet_099",
+    "response_style": "grounding",
+    "sandhi_response": "To be exploited by someone who was supposed to guide and protect your intellect is a profound betrayal that shakes your basic sense of safety. Your creativity and brilliant mind built that tool, and no academic theft can strip away the raw capability that lives inside you.",
+    "wisdom_theme": "identity_rebuilding",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_100",
+    "input_id": "inp_he_bet_100",
+    "response_style": "calming",
+    "sandhi_response": "Having your private struggles exposed by the one person who promised to hold them safe is a terrifying, heartbreaking breach of trust. Right now, your only job is to protect your peace, breathe through this wave, and remember that their cruelty is a reflection of their character, not your worth.",
+    "wisdom_theme": "cognitive_boundaries",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_101",
+    "input_id": "inp_he_bet_101",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_102",
+    "input_id": "inp_he_bet_102",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_103",
+    "input_id": "inp_he_bet_103",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_104",
+    "input_id": "inp_he_bet_104",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_105",
+    "input_id": "inp_he_bet_105",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_106",
+    "input_id": "inp_he_bet_106",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_107",
+    "input_id": "inp_he_bet_107",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_108",
+    "input_id": "inp_he_bet_108",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_109",
+    "input_id": "inp_he_bet_109",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_110",
+    "input_id": "inp_he_bet_110",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_111",
+    "input_id": "inp_he_bet_111",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_112",
+    "input_id": "inp_he_bet_112",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_113",
+    "input_id": "inp_he_bet_113",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_114",
+    "input_id": "inp_he_bet_114",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_115",
+    "input_id": "inp_he_bet_115",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_116",
+    "input_id": "inp_he_bet_116",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_117",
+    "input_id": "inp_he_bet_117",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_118",
+    "input_id": "inp_he_bet_118",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_119",
+    "input_id": "inp_he_bet_119",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_120",
+    "input_id": "inp_he_bet_120",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_121",
+    "input_id": "inp_he_bet_121",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_122",
+    "input_id": "inp_he_bet_122",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_123",
+    "input_id": "inp_he_bet_123",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_124",
+    "input_id": "inp_he_bet_124",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_125",
+    "input_id": "inp_he_bet_125",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_126",
+    "input_id": "inp_he_bet_126",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_127",
+    "input_id": "inp_he_bet_127",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_128",
+    "input_id": "inp_he_bet_128",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_129",
+    "input_id": "inp_he_bet_129",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_130",
+    "input_id": "inp_he_bet_130",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_131",
+    "input_id": "inp_he_bet_131",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_132",
+    "input_id": "inp_he_bet_132",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_133",
+    "input_id": "inp_he_bet_133",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_134",
+    "input_id": "inp_he_bet_134",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_135",
+    "input_id": "inp_he_bet_135",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_136",
+    "input_id": "inp_he_bet_136",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_137",
+    "input_id": "inp_he_bet_137",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_138",
+    "input_id": "inp_he_bet_138",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_139",
+    "input_id": "inp_he_bet_139",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_140",
+    "input_id": "inp_he_bet_140",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_141",
+    "input_id": "inp_he_bet_141",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_142",
+    "input_id": "inp_he_bet_142",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_143",
+    "input_id": "inp_he_bet_143",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_144",
+    "input_id": "inp_he_bet_144",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_145",
+    "input_id": "inp_he_bet_145",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_146",
+    "input_id": "inp_he_bet_146",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_147",
+    "input_id": "inp_he_bet_147",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_148",
+    "input_id": "inp_he_bet_148",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_149",
+    "input_id": "inp_he_bet_149",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_150",
+    "input_id": "inp_he_bet_150",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_151",
+    "input_id": "inp_he_bet_151",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_152",
+    "input_id": "inp_he_bet_152",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_153",
+    "input_id": "inp_he_bet_153",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_154",
+    "input_id": "inp_he_bet_154",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_155",
+    "input_id": "inp_he_bet_155",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_156",
+    "input_id": "inp_he_bet_156",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_157",
+    "input_id": "inp_he_bet_157",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_158",
+    "input_id": "inp_he_bet_158",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_159",
+    "input_id": "inp_he_bet_159",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_160",
+    "input_id": "inp_he_bet_160",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_161",
+    "input_id": "inp_he_bet_161",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_162",
+    "input_id": "inp_he_bet_162",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_163",
+    "input_id": "inp_he_bet_163",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_164",
+    "input_id": "inp_he_bet_164",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_165",
+    "input_id": "inp_he_bet_165",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_166",
+    "input_id": "inp_he_bet_166",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_167",
+    "input_id": "inp_he_bet_167",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_168",
+    "input_id": "inp_he_bet_168",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_169",
+    "input_id": "inp_he_bet_169",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_170",
+    "input_id": "inp_he_bet_170",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_171",
+    "input_id": "inp_he_bet_171",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_172",
+    "input_id": "inp_he_bet_172",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_173",
+    "input_id": "inp_he_bet_173",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_174",
+    "input_id": "inp_he_bet_174",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_175",
+    "input_id": "inp_he_bet_175",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_176",
+    "input_id": "inp_he_bet_176",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_177",
+    "input_id": "inp_he_bet_177",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_178",
+    "input_id": "inp_he_bet_178",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_179",
+    "input_id": "inp_he_bet_179",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_180",
+    "input_id": "inp_he_bet_180",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_181",
+    "input_id": "inp_he_bet_181",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_182",
+    "input_id": "inp_he_bet_182",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_183",
+    "input_id": "inp_he_bet_183",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_184",
+    "input_id": "inp_he_bet_184",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_185",
+    "input_id": "inp_he_bet_185",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_186",
+    "input_id": "inp_he_bet_186",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_187",
+    "input_id": "inp_he_bet_187",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_188",
+    "input_id": "inp_he_bet_188",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_189",
+    "input_id": "inp_he_bet_189",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_190",
+    "input_id": "inp_he_bet_190",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_191",
+    "input_id": "inp_he_bet_191",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_192",
+    "input_id": "inp_he_bet_192",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_193",
+    "input_id": "inp_he_bet_193",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_194",
+    "input_id": "inp_he_bet_194",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_195",
+    "input_id": "inp_he_bet_195",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_196",
+    "input_id": "inp_he_bet_196",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_197",
+    "input_id": "inp_he_bet_197",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_198",
+    "input_id": "inp_he_bet_198",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_199",
+    "input_id": "inp_he_bet_199",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_200",
+    "input_id": "inp_he_bet_200",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_201",
+    "input_id": "inp_he_bet_201",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_202",
+    "input_id": "inp_he_bet_202",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_203",
+    "input_id": "inp_he_bet_203",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_204",
+    "input_id": "inp_he_bet_204",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_205",
+    "input_id": "inp_he_bet_205",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_206",
+    "input_id": "inp_he_bet_206",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_207",
+    "input_id": "inp_he_bet_207",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_208",
+    "input_id": "inp_he_bet_208",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_209",
+    "input_id": "inp_he_bet_209",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_210",
+    "input_id": "inp_he_bet_210",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_211",
+    "input_id": "inp_he_bet_211",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_212",
+    "input_id": "inp_he_bet_212",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_213",
+    "input_id": "inp_he_bet_213",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_214",
+    "input_id": "inp_he_bet_214",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_215",
+    "input_id": "inp_he_bet_215",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_216",
+    "input_id": "inp_he_bet_216",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_217",
+    "input_id": "inp_he_bet_217",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_218",
+    "input_id": "inp_he_bet_218",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_219",
+    "input_id": "inp_he_bet_219",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_220",
+    "input_id": "inp_he_bet_220",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_221",
+    "input_id": "inp_he_bet_221",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_222",
+    "input_id": "inp_he_bet_222",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_223",
+    "input_id": "inp_he_bet_223",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_224",
+    "input_id": "inp_he_bet_224",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_225",
+    "input_id": "inp_he_bet_225",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_226",
+    "input_id": "inp_he_bet_226",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_227",
+    "input_id": "inp_he_bet_227",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_228",
+    "input_id": "inp_he_bet_228",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_229",
+    "input_id": "inp_he_bet_229",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_230",
+    "input_id": "inp_he_bet_230",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_231",
+    "input_id": "inp_he_bet_231",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_232",
+    "input_id": "inp_he_bet_232",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_233",
+    "input_id": "inp_he_bet_233",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_234",
+    "input_id": "inp_he_bet_234",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_235",
+    "input_id": "inp_he_bet_235",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_236",
+    "input_id": "inp_he_bet_236",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_237",
+    "input_id": "inp_he_bet_237",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_238",
+    "input_id": "inp_he_bet_238",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_239",
+    "input_id": "inp_he_bet_239",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_240",
+    "input_id": "inp_he_bet_240",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_241",
+    "input_id": "inp_he_bet_241",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_242",
+    "input_id": "inp_he_bet_242",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_243",
+    "input_id": "inp_he_bet_243",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_244",
+    "input_id": "inp_he_bet_244",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_245",
+    "input_id": "inp_he_bet_245",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_246",
+    "input_id": "inp_he_bet_246",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_247",
+    "input_id": "inp_he_bet_247",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_248",
+    "input_id": "inp_he_bet_248",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_249",
+    "input_id": "inp_he_bet_249",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_250",
+    "input_id": "inp_he_bet_250",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_251",
+    "input_id": "inp_he_bet_251",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_252",
+    "input_id": "inp_he_bet_252",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_253",
+    "input_id": "inp_he_bet_253",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_254",
+    "input_id": "inp_he_bet_254",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_255",
+    "input_id": "inp_he_bet_255",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_256",
+    "input_id": "inp_he_bet_256",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_257",
+    "input_id": "inp_he_bet_257",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_258",
+    "input_id": "inp_he_bet_258",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_259",
+    "input_id": "inp_he_bet_259",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_260",
+    "input_id": "inp_he_bet_260",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_261",
+    "input_id": "inp_he_bet_261",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_262",
+    "input_id": "inp_he_bet_262",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_263",
+    "input_id": "inp_he_bet_263",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_264",
+    "input_id": "inp_he_bet_264",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_265",
+    "input_id": "inp_he_bet_265",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_266",
+    "input_id": "inp_he_bet_266",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_267",
+    "input_id": "inp_he_bet_267",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_268",
+    "input_id": "inp_he_bet_268",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_269",
+    "input_id": "inp_he_bet_269",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_270",
+    "input_id": "inp_he_bet_270",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_271",
+    "input_id": "inp_he_bet_271",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_272",
+    "input_id": "inp_he_bet_272",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_273",
+    "input_id": "inp_he_bet_273",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_274",
+    "input_id": "inp_he_bet_274",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_275",
+    "input_id": "inp_he_bet_275",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_276",
+    "input_id": "inp_he_bet_276",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_277",
+    "input_id": "inp_he_bet_277",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_278",
+    "input_id": "inp_he_bet_278",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_279",
+    "input_id": "inp_he_bet_279",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_280",
+    "input_id": "inp_he_bet_280",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_281",
+    "input_id": "inp_he_bet_281",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_282",
+    "input_id": "inp_he_bet_282",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_283",
+    "input_id": "inp_he_bet_283",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_284",
+    "input_id": "inp_he_bet_284",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_285",
+    "input_id": "inp_he_bet_285",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_286",
+    "input_id": "inp_he_bet_286",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_287",
+    "input_id": "inp_he_bet_287",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_288",
+    "input_id": "inp_he_bet_288",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_289",
+    "input_id": "inp_he_bet_289",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_290",
+    "input_id": "inp_he_bet_290",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_291",
+    "input_id": "inp_he_bet_291",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_292",
+    "input_id": "inp_he_bet_292",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_293",
+    "input_id": "inp_he_bet_293",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_294",
+    "input_id": "inp_he_bet_294",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_295",
+    "input_id": "inp_he_bet_295",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_296",
+    "input_id": "inp_he_bet_296",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_297",
+    "input_id": "inp_he_bet_297",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_298",
+    "input_id": "inp_he_bet_298",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_299",
+    "input_id": "inp_he_bet_299",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_300",
+    "input_id": "inp_he_bet_300",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_301",
+    "input_id": "inp_he_bet_301",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_302",
+    "input_id": "inp_he_bet_302",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_303",
+    "input_id": "inp_he_bet_303",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_304",
+    "input_id": "inp_he_bet_304",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_305",
+    "input_id": "inp_he_bet_305",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_306",
+    "input_id": "inp_he_bet_306",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_307",
+    "input_id": "inp_he_bet_307",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_308",
+    "input_id": "inp_he_bet_308",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_309",
+    "input_id": "inp_he_bet_309",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_310",
+    "input_id": "inp_he_bet_310",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_311",
+    "input_id": "inp_he_bet_311",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_312",
+    "input_id": "inp_he_bet_312",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_313",
+    "input_id": "inp_he_bet_313",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_314",
+    "input_id": "inp_he_bet_314",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_315",
+    "input_id": "inp_he_bet_315",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_316",
+    "input_id": "inp_he_bet_316",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_317",
+    "input_id": "inp_he_bet_317",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_318",
+    "input_id": "inp_he_bet_318",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_319",
+    "input_id": "inp_he_bet_319",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_320",
+    "input_id": "inp_he_bet_320",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_321",
+    "input_id": "inp_he_bet_321",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_322",
+    "input_id": "inp_he_bet_322",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_323",
+    "input_id": "inp_he_bet_323",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_324",
+    "input_id": "inp_he_bet_324",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_325",
+    "input_id": "inp_he_bet_325",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_326",
+    "input_id": "inp_he_bet_326",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_327",
+    "input_id": "inp_he_bet_327",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_328",
+    "input_id": "inp_he_bet_328",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_329",
+    "input_id": "inp_he_bet_329",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_330",
+    "input_id": "inp_he_bet_330",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_331",
+    "input_id": "inp_he_bet_331",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_332",
+    "input_id": "inp_he_bet_332",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_333",
+    "input_id": "inp_he_bet_333",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_334",
+    "input_id": "inp_he_bet_334",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_335",
+    "input_id": "inp_he_bet_335",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_336",
+    "input_id": "inp_he_bet_336",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_337",
+    "input_id": "inp_he_bet_337",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_338",
+    "input_id": "inp_he_bet_338",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_339",
+    "input_id": "inp_he_bet_339",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_340",
+    "input_id": "inp_he_bet_340",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_341",
+    "input_id": "inp_he_bet_341",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_342",
+    "input_id": "inp_he_bet_342",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_343",
+    "input_id": "inp_he_bet_343",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_344",
+    "input_id": "inp_he_bet_344",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_345",
+    "input_id": "inp_he_bet_345",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_346",
+    "input_id": "inp_he_bet_346",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_347",
+    "input_id": "inp_he_bet_347",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_348",
+    "input_id": "inp_he_bet_348",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_349",
+    "input_id": "inp_he_bet_349",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_350",
+    "input_id": "inp_he_bet_350",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_351",
+    "input_id": "inp_he_bet_351",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_352",
+    "input_id": "inp_he_bet_352",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_353",
+    "input_id": "inp_he_bet_353",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_354",
+    "input_id": "inp_he_bet_354",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_355",
+    "input_id": "inp_he_bet_355",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_356",
+    "input_id": "inp_he_bet_356",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_357",
+    "input_id": "inp_he_bet_357",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_358",
+    "input_id": "inp_he_bet_358",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_359",
+    "input_id": "inp_he_bet_359",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_360",
+    "input_id": "inp_he_bet_360",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_361",
+    "input_id": "inp_he_bet_361",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_362",
+    "input_id": "inp_he_bet_362",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_363",
+    "input_id": "inp_he_bet_363",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_364",
+    "input_id": "inp_he_bet_364",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_365",
+    "input_id": "inp_he_bet_365",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_366",
+    "input_id": "inp_he_bet_366",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_367",
+    "input_id": "inp_he_bet_367",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_368",
+    "input_id": "inp_he_bet_368",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_369",
+    "input_id": "inp_he_bet_369",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_370",
+    "input_id": "inp_he_bet_370",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_371",
+    "input_id": "inp_he_bet_371",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_372",
+    "input_id": "inp_he_bet_372",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_373",
+    "input_id": "inp_he_bet_373",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_374",
+    "input_id": "inp_he_bet_374",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_375",
+    "input_id": "inp_he_bet_375",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_376",
+    "input_id": "inp_he_bet_376",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_377",
+    "input_id": "inp_he_bet_377",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_378",
+    "input_id": "inp_he_bet_378",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_379",
+    "input_id": "inp_he_bet_379",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_380",
+    "input_id": "inp_he_bet_380",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_381",
+    "input_id": "inp_he_bet_381",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_382",
+    "input_id": "inp_he_bet_382",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_383",
+    "input_id": "inp_he_bet_383",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_384",
+    "input_id": "inp_he_bet_384",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_385",
+    "input_id": "inp_he_bet_385",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_386",
+    "input_id": "inp_he_bet_386",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_387",
+    "input_id": "inp_he_bet_387",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_388",
+    "input_id": "inp_he_bet_388",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_389",
+    "input_id": "inp_he_bet_389",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_390",
+    "input_id": "inp_he_bet_390",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_391",
+    "input_id": "inp_he_bet_391",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_392",
+    "input_id": "inp_he_bet_392",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_393",
+    "input_id": "inp_he_bet_393",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_394",
+    "input_id": "inp_he_bet_394",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_395",
+    "input_id": "inp_he_bet_395",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_396",
+    "input_id": "inp_he_bet_396",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_397",
+    "input_id": "inp_he_bet_397",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_398",
+    "input_id": "inp_he_bet_398",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_399",
+    "input_id": "inp_he_bet_399",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_he_bet_400",
+    "input_id": "inp_he_bet_400",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of betrayal is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  }
+]

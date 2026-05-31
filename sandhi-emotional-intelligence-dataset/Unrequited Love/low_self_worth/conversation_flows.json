@@ -1,0 +1,20 @@
+{
+  "flow_name": "Cognitive Validation to Active Coping for Unrequited Love",
+  "stages": [
+    {
+      "stage": 1,
+      "name": "Emotional Validation",
+      "description": "Validate the patient's immediate distress regarding low self worth."
+    },
+    {
+      "stage": 2,
+      "name": "Cognitive Reframing",
+      "description": "Gently challenge negative cognitive distortions surrounding low self worth."
+    },
+    {
+      "stage": 3,
+      "name": "Micro-Actionable Stepping",
+      "description": "Establish a tiny, immediate, and completely achievable task to break paralysis."
+    }
+  ]
+}

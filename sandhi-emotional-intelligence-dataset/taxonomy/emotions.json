@@ -1,0 +1,975 @@
+{
+  "Exam Anxiety": [
+    "fear_of_failing",
+    "parental_pressure",
+    "low_confidence",
+    "panic_before_exam",
+    "burnout",
+    "concentration_problem",
+    "physical_panic_symptoms",
+    "time_pressure"
+  ],
+  "Overthinking": [
+    "rumination",
+    "worst_case_scenarios",
+    "decision_paralysis",
+    "insomnia",
+    "past_regrets",
+    "catastrophizing",
+    "future_worry"
+  ],
+  "Loneliness": [
+    "no_friends",
+    "emotional_disconnection",
+    "breakup_loneliness",
+    "social_anxiety",
+    "isolation",
+    "social_media_isolation",
+    "lack_of_belonging"
+  ],
+  "Fear of Failure": [
+    "perfectionism",
+    "avoidance",
+    "imposter_syndrome",
+    "fear_of_judgment",
+    "low_self_worth",
+    "shame_avoidance",
+    "perceived_incompetence"
+  ],
+  "Lack of Motivation": [
+    "procrastination",
+    "apathy",
+    "burnout",
+    "overwhelmed",
+    "no_clear_goals",
+    "executive_dysfunction",
+    "mental_fatigue"
+  ],
+  "Comparison": [
+    "social_media_envy",
+    "inferiority_complex",
+    "body_image_issues",
+    "academic_comparison",
+    "jealousy",
+    "peer_envy",
+    "relative_deprivation"
+  ],
+  "Heartbreak": [
+    "unrequited_love",
+    "betrayal",
+    "loss_of_identity",
+    "grief",
+    "trust_issues",
+    "denial_and_bargaining",
+    "emotional_triggering"
+  ],
+  "Purpose Confusion": [
+    "existential_dread",
+    "career_indecision",
+    "feeling_lost",
+    "meaninglessness",
+    "quarter_life_crisis",
+    "identity_drift",
+    "expectation_mismatch"
+  ],
+  "Self-Doubt": [
+    "imposter_syndrome",
+    "second_guessing",
+    "need_for_validation",
+    "insecurity",
+    "fear_of_success",
+    "imposter_triggers",
+    "self_deprecating_talk",
+    "repeated_failure",
+    "fear_of_failing"
+  ],
+  "Discipline Problems": [
+    "procrastination",
+    "distraction",
+    "lack_of_routine",
+    "instant_gratification",
+    "poor_time_management",
+    "attention_drift",
+    "instant_gratification_habit"
+  ],
+  "Procrastination Guilt": [
+    "shame",
+    "avoidance_cycle",
+    "last_minute_panic",
+    "self_criticism",
+    "overwhelm",
+    "task_aversion",
+    "guilt_cycle"
+  ],
+  "Imposter Syndrome": [
+    "fraud_feeling",
+    "discounting_success",
+    "overworking",
+    "fear_of_exposure",
+    "perfectionism",
+    "externalizing_success",
+    "perfectionism_trap"
+  ],
+  "Social Anxiety": [
+    "fear_of_judgment",
+    "awkwardness",
+    "public_speaking_fear",
+    "avoidance",
+    "overthinking_interactions",
+    "negative_evaluation_fear",
+    "post_event_rumination"
+  ],
+  "Burnout": [
+    "exhaustion",
+    "cynicism",
+    "reduced_efficacy",
+    "emotional_drain",
+    "detachment",
+    "physical_exhaustion",
+    "depersonalization"
+  ],
+  "Academic Pressure": [
+    "grade_anxiety",
+    "parental_expectations",
+    "competition",
+    "scholarship_stress",
+    "fear_of_failing",
+    "grade_obsession",
+    "family_academic_expectations"
+  ],
+  "Perfectionism": [
+    "unrealistic_standards",
+    "fear_of_mistakes",
+    "all_or_nothing_thinking",
+    "procrastination",
+    "burnout",
+    "unforgiving_standards",
+    "fear_of_making_mistakes"
+  ],
+  "Body Image Issues": [
+    "dysmorphia",
+    "eating_disorders",
+    "comparison",
+    "low_self_esteem",
+    "obsessive_checking",
+    "body_checking_habit",
+    "avoidance_of_socials"
+  ],
+  "Rejection Sensitivity": [
+    "fear_of_abandonment",
+    "overreacting",
+    "people_pleasing",
+    "hypervigilance",
+    "social_withdrawal",
+    "hypervigilance_for_rejection",
+    "emotional_flashbacks"
+  ],
+  "Future Uncertainty": [
+    "career_anxiety",
+    "financial_fears",
+    "decision_paralysis",
+    "fear_of_unknown",
+    "existential_dread",
+    "existential_paralysis",
+    "financial_survival_anxiety"
+  ],
+  "FOMO": [
+    "social_media_anxiety",
+    "overcommitment",
+    "jealousy",
+    "restlessness",
+    "dissatisfaction",
+    "compulsive_checking",
+    "exclusion_sadness"
+  ],
+  "Homesickness": [
+    "nostalgia",
+    "isolation",
+    "cultural_disconnect",
+    "family_attachment",
+    "loneliness",
+    "grief_for_familiarity",
+    "adjustment_fatigue"
+  ],
+  "Financial Stress": [
+    "debt_anxiety",
+    "job_insecurity",
+    "budgeting_fear",
+    "comparison",
+    "survival_mode",
+    "scarcity_mindset",
+    "loan_repayment_anxiety"
+  ],
+  "Relationship Conflicts": [
+    "communication_issues",
+    "trust_issues",
+    "boundary_crossing",
+    "resentment",
+    "fear_of_abandonment",
+    "stonewalling",
+    "trust_erosion"
+  ],
+  "Trust Issues": [
+    "fear_of_betrayal",
+    "hypervigilance",
+    "jealousy",
+    "avoidance",
+    "testing_partners",
+    "suspicion_habit",
+    "fear_of_dependence"
+  ],
+  "Emotional Numbness": [
+    "apathy",
+    "dissociation",
+    "burnout",
+    "trauma_response",
+    "anhedonia",
+    "dissociative_states",
+    "anhedonia_symptoms"
+  ],
+  "Grief and Loss": [
+    "denial",
+    "anger",
+    "sadness",
+    "empty_feeling",
+    "nostalgia",
+    "acute_grief",
+    "complicated_bereavement"
+  ],
+  "Feeling Misunderstood": [
+    "alienation",
+    "frustration",
+    "loneliness",
+    "communication_gap",
+    "isolation",
+    "lack_of_empathetic_support",
+    "expressive_block"
+  ],
+  "Sleep Deprivation Brain Fog": [
+    "poor_focus",
+    "irritability",
+    "memory_issues",
+    "fatigue",
+    "mood_swings",
+    "circadian_disruption",
+    "cognitive_slowing"
+  ],
+  "Performance Anxiety": [
+    "stage_fright",
+    "fear_of_judgment",
+    "shaking",
+    "blanking_out",
+    "perfectionism",
+    "somatic_hyperarousal",
+    "negative_self_talk"
+  ],
+  "Identity Crisis": [
+    "role_confusion",
+    "value_conflict",
+    "existential_dread",
+    "chameleon_behavior",
+    "lost_sense_of_self",
+    "value_disorientation",
+    "existential_vacuum"
+  ],
+  "Anger Management": [
+    "explosive_outbursts",
+    "resentment",
+    "irritability",
+    "passive_aggression",
+    "regret"
+  ],
+  "Career Indecision": [
+    "fear_of_wrong_choice",
+    "overwhelm",
+    "passion_vs_money",
+    "parental_pressure",
+    "analysis_paralysis"
+  ],
+  "Guilt over Past Mistakes": [
+    "rumination",
+    "shame",
+    "self_sabotage",
+    "apology_overload",
+    "inability_to_move_on"
+  ],
+  "Existential Dread": [
+    "meaninglessness",
+    "fear_of_death",
+    "insignificance",
+    "isolation",
+    "overthinking"
+  ],
+  "Jealousy": [
+    "insecurity",
+    "comparison",
+    "possessiveness",
+    "fear_of_loss",
+    "resentment"
+  ],
+  "Difficulty Communicating": [
+    "fear_of_conflict",
+    "stuttering",
+    "misunderstanding",
+    "suppression",
+    "anxiety"
+  ],
+  "Chronic Fatigue": [
+    "exhaustion",
+    "low_motivation",
+    "brain_fog",
+    "physical_weakness",
+    "apathy"
+  ],
+  "Abandonment Issues": [
+    "clinginess",
+    "pushing_people_away",
+    "fear_of_rejection",
+    "jealousy",
+    "hypervigilance"
+  ],
+  "Resentment": [
+    "grudges",
+    "passive_aggression",
+    "bitterness",
+    "feeling_unfairly_treated",
+    "anger"
+  ],
+  "Fear of Judgment": [
+    "social_anxiety",
+    "people_pleasing",
+    "perfectionism",
+    "hiding_true_self",
+    "overthinking"
+  ],
+  "Technology Addiction": [
+    "doomscrolling",
+    "screen_time_guilt",
+    "distraction",
+    "fomo",
+    "sleep_disruption"
+  ],
+  "Emotional Exhaustion": [
+    "compassion_fatigue",
+    "burnout",
+    "numbness",
+    "irritability",
+    "withdrawal"
+  ],
+  "Peer Pressure": [
+    "conformity",
+    "fear_of_missing_out",
+    "compromising_values",
+    "anxiety",
+    "resentment"
+  ],
+  "Feeling Inadequate": [
+    "imposter_syndrome",
+    "comparison",
+    "low_self_esteem",
+    "perfectionism",
+    "fear_of_failure"
+  ],
+  "Attachment Issues": [
+    "anxious_attachment",
+    "avoidant_attachment",
+    "fear_of_intimacy",
+    "clinginess",
+    "trust_issues"
+  ],
+  "Inability to Focus": [
+    "brain_fog",
+    "distraction",
+    "adhd_symptoms",
+    "burnout",
+    "procrastination"
+  ],
+  "Intrusive Thoughts": [
+    "obsessions",
+    "anxiety",
+    "fear_of_losing_control",
+    "guilt",
+    "compulsions"
+  ],
+  "Regret": [
+    "rumination",
+    "what_ifs",
+    "self_blame",
+    "sadness",
+    "stuck_in_past"
+  ],
+  "People-Pleasing": [
+    "boundary_issues",
+    "fear_of_conflict",
+    "loss_of_identity",
+    "burnout",
+    "resentment"
+  ],
+  "Fear of Commitment": [
+    "avoidance",
+    "feeling_trapped",
+    "trust_issues",
+    "self_sabotage",
+    "anxiety"
+  ],
+  "Emotional Vulnerability": [
+    "fear_of_rejection",
+    "oversharing",
+    "shame",
+    "defensiveness",
+    "intimacy_issues"
+  ],
+  "Feeling Unlovable": [
+    "low_self_worth",
+    "rejection_sensitivity",
+    "self_isolation",
+    "settling",
+    "depression"
+  ],
+  "Quarter-Life Crisis": [
+    "career_doubt",
+    "relationship_pressure",
+    "financial_fear",
+    "identity_confusion",
+    "comparison"
+  ],
+  "Creative Block": [
+    "perfectionism",
+    "burnout",
+    "fear_of_judgment",
+    "imposter_syndrome",
+    "lack_of_inspiration"
+  ],
+  "Difficulty Setting Boundaries": [
+    "people_pleasing",
+    "resentment",
+    "burnout",
+    "fear_of_conflict",
+    "guilt"
+  ],
+  "Impatience": [
+    "frustration",
+    "irritability",
+    "restlessness",
+    "rushing",
+    "anxiety"
+  ],
+  "Unrealistic Expectations": [
+    "perfectionism",
+    "disappointment",
+    "pressure",
+    "burnout",
+    "comparison"
+  ],
+  "Academic Apathy": [
+    "burnout",
+    "lack_of_purpose",
+    "procrastination",
+    "boredom",
+    "disillusionment"
+  ],
+  "Conflict Avoidance": [
+    "suppression",
+    "passive_aggression",
+    "fear_of_anger",
+    "people_pleasing",
+    "resentment"
+  ],
+  "Trust Betrayal Trauma": [
+    "hypervigilance",
+    "fear_of_intimacy",
+    "jealousy",
+    "paranoia",
+    "emotional_walls"
+  ],
+  "Feeling Left Behind": [
+    "comparison",
+    "fomo",
+    "timeline_anxiety",
+    "inferiority",
+    "loneliness"
+  ],
+  "Decision Fatigue": [
+    "overwhelm",
+    "avoidance",
+    "impulsivity",
+    "brain_fog",
+    "procrastination"
+  ],
+  "Nostalgia / Stuck in the Past": [
+    "rumination",
+    "idealization",
+    "sadness",
+    "resistance_to_change",
+    "regret"
+  ],
+  "Inferiority Complex": [
+    "comparison",
+    "low_self_esteem",
+    "overcompensating",
+    "social_withdrawal",
+    "jealousy"
+  ],
+  "Success Anxiety": [
+    "imposter_syndrome",
+    "fear_of_expectations",
+    "self_sabotage",
+    "pressure",
+    "burnout"
+  ],
+  "Chronic Boredom": [
+    "apathy",
+    "restlessness",
+    "dissatisfaction",
+    "lack_of_purpose",
+    "dopamine_seeking"
+  ],
+  "Feeling Empty": [
+    "anhedonia",
+    "numbness",
+    "loneliness",
+    "depression",
+    "loss_of_identity"
+  ],
+  "Loss of Passion": [
+    "burnout",
+    "apathy",
+    "grief",
+    "disillusionment",
+    "identity_crisis"
+  ],
+  "Lack of Self-Esteem": [
+    "negative_self_talk",
+    "comparison",
+    "people_pleasing",
+    "insecurity",
+    "fear_of_rejection"
+  ],
+  "Body Dysmorphia": [
+    "obsessive_checking",
+    "avoidance",
+    "shame",
+    "comparison",
+    "perfectionism"
+  ],
+  "Mood Swings": [
+    "emotional_instability",
+    "irritability",
+    "unpredictability",
+    "exhaustion",
+    "confusion"
+  ],
+  "Hyper-independence": [
+    "fear_of_vulnerability",
+    "trust_issues",
+    "burnout",
+    "isolation",
+    "difficulty_asking_for_help"
+  ],
+  "Codependency": [
+    "loss_of_identity",
+    "fear_of_abandonment",
+    "enmeshment",
+    "people_pleasing",
+    "resentment"
+  ],
+  "Separation Anxiety": [
+    "clinginess",
+    "panic",
+    "fear_of_loss",
+    "hypervigilance",
+    "sleeplessness"
+  ],
+  "Anticipatory Anxiety": [
+    "worst_case_scenarios",
+    "restlessness",
+    "overplanning",
+    "physical_tension",
+    "dread"
+  ],
+  "Paranoia (Social/Relational)": [
+    "suspicion",
+    "hypervigilance",
+    "trust_issues",
+    "fear_of_betrayal",
+    "isolation"
+  ],
+  "Shame": [
+    "hiding",
+    "self_hatred",
+    "fear_of_exposure",
+    "withdrawal",
+    "perfectionism"
+  ],
+  "Fear of the Unknown": [
+    "control_issues",
+    "anxiety",
+    "resistance_to_change",
+    "overthinking",
+    "paralysis"
+  ],
+  "Feeling Unseen": [
+    "loneliness",
+    "invalidation",
+    "frustration",
+    "alienation",
+    "low_self_worth"
+  ],
+  "Creative Burnout": [
+    "exhaustion",
+    "lack_of_ideas",
+    "frustration",
+    "apathy",
+    "imposter_syndrome"
+  ],
+  "Work-Life Imbalance": [
+    "burnout",
+    "guilt",
+    "relationship_strain",
+    "exhaustion",
+    "loss_of_identity"
+  ],
+  "Romantic Obsession": [
+    "limerence",
+    "jealousy",
+    "loss_of_focus",
+    "anxiety",
+    "fear_of_rejection"
+  ],
+  "Fear of Intimacy": [
+    "avoidance",
+    "emotional_walls",
+    "fear_of_vulnerability",
+    "sabotaging_relationships",
+    "trust_issues"
+  ],
+  "Existential Loneliness": [
+    "alienation",
+    "meaninglessness",
+    "isolation",
+    "disconnect",
+    "despair"
+  ],
+  "Spiritual Crisis": [
+    "loss_of_faith",
+    "confusion",
+    "existential_dread",
+    "alienation",
+    "guilt"
+  ],
+  "Feeling Overwhelmed": [
+    "paralysis",
+    "burnout",
+    "anxiety",
+    "brain_fog",
+    "procrastination"
+  ],
+  "Disconnection from Reality": [
+    "dissociation",
+    "depersonalization",
+    "derealization",
+    "numbness",
+    "brain_fog"
+  ],
+  "Frustration with Lack of Progress": [
+    "impatience",
+    "comparison",
+    "burnout",
+    "self_doubt",
+    "hopelessness"
+  ],
+  "Loss of Control": [
+    "panic",
+    "micromanaging",
+    "anxiety",
+    "helplessness",
+    "anger"
+  ],
+  "Social Isolation": [
+    "loneliness",
+    "withdrawal",
+    "depression",
+    "fear_of_rejection",
+    "apathy"
+  ],
+  "Toxic Positivity Exhaustion": [
+    "invalidation",
+    "suppression",
+    "guilt",
+    "burnout",
+    "alienation"
+  ],
+  "Parental Pressure": [
+    "fear_of_disappointing",
+    "perfectionism",
+    "rebellion",
+    "resentment",
+    "anxiety"
+  ],
+  "Academic Validation Seeking": [
+    "burnout",
+    "self_worth_tied_to_grades",
+    "competition",
+    "fear_of_failure",
+    "perfectionism"
+  ],
+  "Sensory Overload": [
+    "irritability",
+    "panic",
+    "exhaustion",
+    "withdrawal",
+    "brain_fog"
+  ],
+  "Apathy Towards Future": [
+    "hopelessness",
+    "burnout",
+    "depression",
+    "lack_of_motivation",
+    "cynicism"
+  ],
+  "Disillusionment": [
+    "cynicism",
+    "loss_of_trust",
+    "apathy",
+    "sadness",
+    "resentment"
+  ],
+  "Fear of Abandonment": [
+    "clinginess",
+    "jealousy",
+    "people_pleasing",
+    "hypervigilance",
+    "panic"
+  ],
+  "Regret over Wasted Time": [
+    "shame",
+    "panic_about_future",
+    "comparison",
+    "self_loathing",
+    "depression"
+  ],
+  "Difficulty Making Friends": [
+    "social_anxiety",
+    "awkwardness",
+    "loneliness",
+    "fear_of_rejection",
+    "isolation"
+  ],
+  "Feeling Unappreciated": [
+    "resentment",
+    "burnout",
+    "low_self_worth",
+    "withdrawal",
+    "passive_aggression"
+  ],
+  "Anxiety about Public Speaking": [
+    "stage_fright",
+    "physical_symptoms",
+    "avoidance",
+    "perfectionism",
+    "fear_of_judgment"
+  ],
+  "Fear of Disappointing Others": [
+    "people_pleasing",
+    "guilt",
+    "perfectionism",
+    "burnout",
+    "anxiety"
+  ],
+  "Overcommitment Stress": [
+    "burnout",
+    "inability_to_say_no",
+    "exhaustion",
+    "resentment",
+    "drop_in_quality"
+  ],
+  "Nostalgic Sadness": [
+    "longing",
+    "grief",
+    "stuck_in_past",
+    "dissatisfaction_with_present",
+    "loneliness"
+  ],
+  "Cyberbullying Trauma": [
+    "trust_issues",
+    "social_withdrawal",
+    "paranoia",
+    "low_self_esteem",
+    "anxiety"
+  ],
+  "Unrequited Love": [
+    "grief",
+    "obsession",
+    "low_self_worth",
+    "jealousy",
+    "idealization"
+  ],
+  "Feeling Out of Place": [
+    "alienation",
+    "imposter_syndrome",
+    "awkwardness",
+    "loneliness",
+    "cultural_disconnect"
+  ],
+  "Chronic Indecision": [
+    "fear_of_regret",
+    "overthinking",
+    "analysis_paralysis",
+    "dependence_on_others",
+    "anxiety"
+  ],
+  "Social Battery Depletion": [
+    "exhaustion",
+    "irritability",
+    "withdrawal",
+    "introvert_burnout",
+    "brain_fog"
+  ],
+  "Hopelessness": [
+    "despair",
+    "depression",
+    "apathy",
+    "giving_up",
+    "numbness"
+  ],
+  "Workplace Bullying Stress": [
+    "anxiety",
+    "dread",
+    "low_self_esteem",
+    "burnout",
+    "paranoia"
+  ],
+  "Cultural Disconnect": [
+    "alienation",
+    "identity_crisis",
+    "loneliness",
+    "code_switching_fatigue",
+    "misunderstanding"
+  ],
+  "Religious Trauma": [
+    "guilt",
+    "fear_of_punishment",
+    "loss_of_community",
+    "anger",
+    "identity_crisis"
+  ],
+  "Diet Culture Anxiety": [
+    "food_guilt",
+    "body_checking",
+    "obsessive_tracking",
+    "fear_of_weight_gain",
+    "comparison"
+  ],
+  "Pandemic-related Social Regression": [
+    "social_anxiety",
+    "awkwardness",
+    "isolation",
+    "loss_of_skills",
+    "fear_of_crowds"
+  ],
+  "Climate Anxiety": [
+    "existential_dread",
+    "helplessness",
+    "anger",
+    "grief",
+    "hopelessness"
+  ],
+  "Quarter-system Burnout": [
+    "academic_pressure",
+    "exhaustion",
+    "no_breaks",
+    "constant_stress",
+    "cramming"
+  ],
+  "Long-distance Relationship Strain": [
+    "loneliness",
+    "jealousy",
+    "communication_fatigue",
+    "insecurity",
+    "frustration"
+  ],
+  "Financial Insecurity": [
+    "survival_mode",
+    "panic",
+    "shame",
+    "comparison",
+    "sleep_deprivation"
+  ],
+  "Job Search Depression": [
+    "rejection_fatigue",
+    "imposter_syndrome",
+    "hopelessness",
+    "loss_of_identity",
+    "financial_stress"
+  ],
+  "First-Generation Student Pressure": [
+    "imposter_syndrome",
+    "family_expectations",
+    "financial_guilt",
+    "isolation",
+    "fear_of_failure"
+  ],
+  "Transitioning to Adulthood": [
+    "overwhelm",
+    "imposter_syndrome",
+    "nostalgia",
+    "fear_of_responsibility",
+    "loneliness"
+  ],
+  "Loss of Identity in a Relationship": [
+    "enmeshment",
+    "codependency",
+    "people_pleasing",
+    "loss_of_hobbies",
+    "resentment"
+  ],
+  "Toxic Friendship Dynamics": [
+    "manipulation",
+    "drain",
+    "walking_on_eggshells",
+    "gossip",
+    "competition"
+  ],
+  "Empathy Overload": [
+    "compassion_fatigue",
+    "burnout",
+    "absorbing_emotions",
+    "boundaries_issues",
+    "exhaustion"
+  ],
+  "Self-Sabotage": [
+    "fear_of_success",
+    "procrastination",
+    "imposter_syndrome",
+    "destructive_habits",
+    "unworthiness"
+  ],
+  "Loss of a Pet": [
+    "grief",
+    "loneliness",
+    "guilt",
+    "empty_house_syndrome",
+    "heartbreak"
+  ],
+  "Feeling Unattractive": [
+    "body_dysmorphia",
+    "comparison",
+    "low_self_esteem",
+    "rejection_sensitivity",
+    "social_withdrawal"
+  ],
+  "Post-vacation Blues": [
+    "sadness",
+    "lack_of_motivation",
+    "dread",
+    "nostalgia",
+    "exhaustion"
+  ],
+  "Post-project Empty Feeling": [
+    "loss_of_purpose",
+    "anhedonia",
+    "burnout",
+    "anticlimax",
+    "boredom"
+  ]
+}

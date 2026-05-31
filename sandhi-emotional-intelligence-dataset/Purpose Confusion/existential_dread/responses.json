@@ -1,0 +1,3602 @@
+[
+  {
+    "response_id": "rsp_puco_exi_001",
+    "input_id": "inp_puco_exi_001",
+    "response_style": "reflective",
+    "sandhi_response": "It can feel incredibly disorienting when the milestones you sacrificed everything for leave you feeling completely untouched inside. You aren't broken for sensing the emptiness of this race; you are simply realizing that your worth and depth cannot be contained by a corporate checklist.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_002",
+    "input_id": "inp_puco_exi_002",
+    "response_style": "grounding",
+    "sandhi_response": "Staring into that vastness can make our everyday struggles feel like a cruel joke, stripping away the urgency we're told to feel about everything. But perhaps there is a quiet freedom in realizing the scale of the universe; it means the heavy expectations placed on you are also small, leaving you free to just exist without having to conquer it all.",
+    "wisdom_theme": "creating_meaning",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_003",
+    "input_id": "inp_puco_exi_003",
+    "response_style": "reflective",
+    "sandhi_response": "The cookie-cutter path displayed online can feel suffocating, making you feel like your future is a pre-written script you never consented to. You do not have to let your entire existence be consumed by a job description; there are quiet, rebellious ways to keep your inner life alive and uniquely your own.",
+    "wisdom_theme": "reclaiming_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_004",
+    "input_id": "inp_puco_exi_004",
+    "response_style": "calming",
+    "sandhi_response": "When routine strips away your color, life can feel less like living and more like just surviving the hours. It is okay if you cannot find a grand purpose right now; perhaps we can start by just finding one tiny, quiet moment today that feels real to you, separate from all the demands.",
+    "wisdom_theme": "micro_exploration",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_005",
+    "input_id": "inp_puco_exi_005",
+    "response_style": "grounding",
+    "sandhi_response": "When you are exhausted, every path forward looks like a dead end, making any choice feel utterly futile before you even make it. Right now, you don't need to solve the rest of your life; you just need to give yourself permission to rest and breathe without the weight of having to figure it all out today.",
+    "wisdom_theme": "transition_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_006",
+    "input_id": "inp_puco_exi_006",
+    "response_style": "grounding",
+    "sandhi_response": "It is completely understandable to feel hollow when you're running on a treadmill of endless milestones that don't actually speak to your soul. Let's take a deep breath together right now and remember that your worth isn't tied to a package size or a resolved test case.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_007",
+    "input_id": "inp_puco_exi_007",
+    "response_style": "reflective",
+    "sandhi_response": "Peering into that vast emptiness can feel incredibly isolating, especially when everyone around you seems to be moving with absolute, unquestioning certainty. You don't have to figure out the entire universe tonight, so let's just gently anchor ourselves to the safety of this present moment.",
+    "wisdom_theme": "creating_meaning",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_008",
+    "input_id": "inp_puco_exi_008",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that your mind is rebelling against this rigid routine when your spirit is craving something deeper than just memorization. It's okay to let the weight of tomorrow go for tonight, recognizing that your life's true depth exists far beyond any exam room.",
+    "wisdom_theme": "internal_alignment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_009",
+    "input_id": "inp_puco_exi_009",
+    "response_style": "calming",
+    "sandhi_response": "Performing a version of yourself that feels alien is deeply exhausting, and it's completely natural to feel disconnected right now. Your core self is still intact under that corporate armor, and you don't have to lose your authenticity just to navigate this temporary transition.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_010",
+    "input_id": "inp_puco_exi_010",
+    "response_style": "calming",
+    "sandhi_response": "Entering adulthood can feel like watching a slow eclipse of the creative, free spirit you've always known. Please remember that you hold the power to write your own rules of adulthood, and your inner spark doesn't have to be sacrificed to the mundane.",
+    "wisdom_theme": "gradual_adulting",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_011",
+    "input_id": "inp_puco_exi_011",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly exhausting to run a race when your heart is whispering that the finish line doesn't actually hold what you are looking for. You don't have to find the answers to the whole journey tonight; just let yourself breathe and exist outside of the metrics for a moment.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_012",
+    "input_id": "inp_puco_exi_012",
+    "response_style": "reflective",
+    "sandhi_response": "It makes complete sense that you feel disconnected when the path laid out before you feels more like a conveyor belt than a life. You are not a ghost for questioning this; you are simply a human being searching for a version of future that actually has room for your soul.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_013",
+    "input_id": "inp_puco_exi_013",
+    "response_style": "calming",
+    "sandhi_response": "Standing before the vastness of the universe and feeling your own smallness can feel incredibly lonely and terrifying. But your life doesn't need to shake the cosmos to be deeply precious, and we can start by just finding a safe, quiet footing right here in this present moment.",
+    "wisdom_theme": "presence_peace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_014",
+    "input_id": "inp_puco_exi_014",
+    "response_style": "grounding",
+    "sandhi_response": "The weight of trying to choose the 'perfect' life can feel entirely paralyzing when you feel like every step is permanent. Remember that no single path has the power to lock you in forever, and choosing one door now doesn't mean you can never change your mind later.",
+    "wisdom_theme": "career_experimentation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_015",
+    "input_id": "inp_puco_exi_015",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly heavy to carry the weight of disappointment when your own spirit is already deeply exhausted by a system that doesn't fit you. You don't have to justify your existence with grades or achievements; your worth is already whole, even when the path ahead feels completely dark.",
+    "wisdom_theme": "honoring_your_pace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_016",
+    "input_id": "inp_puco_exi_016",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that achieving these massive milestones feels empty when the path itself feels like a conveyor belt you never chose to get on. Let's step off the pressure of the future for just a moment and breathe, allowing yourself to exist simply as you are right now, without any metrics to meet.",
+    "wisdom_theme": "creating_meaning",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_017",
+    "input_id": "inp_puco_exi_017",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly heavy to carry the weight of the universe's scale when you are just trying to navigate the immediate demands of your young life. Your exhaustion is a deeply human response to a culture that tries to reduce your entire existence down to a salary package.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_018",
+    "input_id": "inp_puco_exi_018",
+    "response_style": "calming",
+    "sandhi_response": "Stepping into adulthood can feel terrifyingly cold when it is presented only as a checklist of survival demands and endless productivity. Please know that you do not have to have your entire lifetime of stamina figured out today; you only need enough for this single, gentle step forward.",
+    "wisdom_theme": "gradual_adulting",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_019",
+    "input_id": "inp_puco_exi_019",
+    "response_style": "reflective",
+    "sandhi_response": "Seeing everyone sprint so confidently can make your own quiet search for genuine meaning feel like a terrifying isolation. It takes immense courage to look past the shiny achievements of your peers and ask what truly feeds your soul rather than what merely feeds the machine.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_020",
+    "input_id": "inp_puco_exi_020",
+    "response_style": "grounding",
+    "sandhi_response": "That sudden sense of detachment is your mind’s way of protesting a routine that has starved your inner self of real warmth and presence for far too long. Let us gently anchor you back to the ground beneath you, remembering that you are a living, breathing human being first, and a student second.",
+    "wisdom_theme": "presence_peace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_021",
+    "input_id": "inp_puco_exi_021",
+    "response_style": "reflective",
+    "sandhi_response": "It makes complete sense that you feel empty right now; when we spend years chasing a single finish line, reaching it often forces us to face the terrifying question of who we are without the chase. It is okay if this milestone doesn't define your purpose, and you are allowed to gently breathe and explore what actually brings you quiet peace outside of productivity.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_022",
+    "input_id": "inp_puco_exi_022",
+    "response_style": "grounding",
+    "sandhi_response": "That sudden, heavy realization of our insignificance in the vastness of the universe can feel incredibly lonely and terrifying to carry by yourself. In this vast space, though, you do not have to solve the meaning of everything tonight; it is enough to just let the code go for a moment and feel the simple, quiet reality of your own breath.",
+    "wisdom_theme": "creating_meaning",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_023",
+    "input_id": "inp_puco_exi_023",
+    "response_style": "reflective",
+    "sandhi_response": "It is deeply exhausting to look back and realize you have been living out someone else's script for your life. Recognizing this emptiness is not a failure, but rather the very first, courageous step toward discovering your own voice at your own pace.",
+    "wisdom_theme": "reclaiming_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_024",
+    "input_id": "inp_puco_exi_024",
+    "response_style": "calming",
+    "sandhi_response": "When you are bone-tired from jumping through endless hoops, the entire journey ahead can easily look like an exhausting, meaningless treadmill. Right now, you don't need to justify your existence or figure out the rest of your life; you just need to allow yourself to rest without guilt or expectation.",
+    "wisdom_theme": "honoring_your_pace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_025",
+    "input_id": "inp_puco_exi_025",
+    "response_style": "grounding",
+    "sandhi_response": "Feeling like a quiet observer in a race that everyone else seems to run without question can be deeply isolating. Your exhaustion with this performance is not a sign that you are broken, but a gentle wake-up call from your soul seeking a connection that goes deeper than a corporate status update.",
+    "wisdom_theme": "internal_alignment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_026",
+    "input_id": "inp_puco_exi_026",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that you're feeling empty after pushing yourself so hard, especially when the finish line you're being shown feels like a cage rather than a reward. We don't have to figure out the next forty years today; for now, let’s just focus on taking a deep breath and letting your mind rest from the race.",
+    "wisdom_theme": "creating_meaning",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_027",
+    "input_id": "inp_puco_exi_027",
+    "response_style": "reflective",
+    "sandhi_response": "When you're staring out at the vastness of the world at 3 AM, the pressure to conform to campus hustle can feel incredibly small and meaningless. It is okay if you can't find meaning in microprocessors or corporate ladders right now; your worth isn't tied to how fast you run a race that doesn't feel yours.",
+    "wisdom_theme": "presence_peace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_028",
+    "input_id": "inp_puco_exi_028",
+    "response_style": "calming",
+    "sandhi_response": "Reaching a major goal only to feel an empty silence afterward is a deeply disorienting experience, but it’s actually a very honest signal from your heart. It’s telling you that your life is meant for more than just checking boxes, and it is completely safe to slow down and listen to what actually brings you a sense of vitality.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_029",
+    "input_id": "inp_puco_exi_029",
+    "response_style": "grounding",
+    "sandhi_response": "Seeing the weariness of the world around you can make the future look like an inevitable trap, especially when you are already running on empty. But please remember that your life does not have to copy-paste anyone else's path, and you have the power to write a quieter, more authentic story for yourself.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_030",
+    "input_id": "inp_puco_exi_030",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly lonely to feel like the only one who sees through the shiny illusions of success that everyone else seems to be chasing so blindly. You aren't broken for feeling this alienation; your mind is simply refusing to settle for a surface-level existence, which is the first step to building a truly authentic life.",
+    "wisdom_theme": "releasing_illusions",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_031",
+    "input_id": "inp_puco_exi_031",
+    "response_style": "grounding",
+    "sandhi_response": "It is deeply disorienting when the milestones we've worked so hard for suddenly feel paper-thin and meaningless against the vastness of existence. Let's step away from the future for just a moment and focus on the simple, quiet breath you are taking right now.",
+    "wisdom_theme": "creating_meaning",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_032",
+    "input_id": "inp_puco_exi_032",
+    "response_style": "reflective",
+    "sandhi_response": "Reaching a major milestone only to find a hollow space inside can feel incredibly frightening, especially when the world expects you to be celebrating. Your worth and your life are so much larger than the corporate slot you fill, and it is completely okay to seek depth beyond your resume.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_033",
+    "input_id": "inp_puco_exi_033",
+    "response_style": "calming",
+    "sandhi_response": "When the ultimate insignificance of our daily struggles hits all at once, it can make even the smallest tasks feel completely paralyzing. While those red marks don't define your existence, we can work on finding gentle, quiet reasons to move through today without needing to solve the whole universe.",
+    "wisdom_theme": "building_realistic_peace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_034",
+    "input_id": "inp_puco_exi_034",
+    "response_style": "reflective",
+    "sandhi_response": "Bearing the weight of your parents' sacrifices while feeling disconnected from your own path is an incredibly heavy and lonely burden to carry. Your fear is a sign that your inner self is begging for authenticity, and it is safe to slowly explore who you are outside of these expectations.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_035",
+    "input_id": "inp_puco_exi_035",
+    "response_style": "grounding",
+    "sandhi_response": "It is exhausting to feel like you are standing completely frozen while the rest of the world rushes past on a pre-programmed track. You do not need to have your entire future mapped out by twenty-one; just focus on being kind to yourself in this hostel room today.",
+    "wisdom_theme": "releasing_timeline_pressure",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_036",
+    "input_id": "inp_puco_exi_036",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply disorienting to look at a path of success and realize it feels completely empty to you right now. It is completely okay to pause and question the direction of this race instead of just forcing yourself to run it faster.",
+    "wisdom_theme": "creating_meaning",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_037",
+    "input_id": "inp_puco_exi_037",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Feeling like an outsider in a system that measures human worth solely by salary packages is actually a sign of your own deep authenticity. Let's take a deep breath together and remember that your survival and your sanity are worth infinitely more than any corporate metric.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_038",
+    "input_id": "inp_puco_exi_038",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When the sheer scale of the universe makes your immediate academic struggles feel pointless, it can feel incredibly lonely and heavy. You don't have to solve the meaning of existence tonight; let's just focus on keeping you safe and gentle with yourself in this very moment.",
+    "wisdom_theme": "presence_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_039",
+    "input_id": "inp_puco_exi_039",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Stepping into adulthood can feel like watching a door close behind you, and it is completely natural to mourn the simplicity of youth. You are allowed to build an adult life that still holds room for play, rest, and the things that make you feel truly alive.",
+    "wisdom_theme": "gradual_adulting",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_040",
+    "input_id": "inp_puco_exi_040",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is exhausting to carry the weight of a perfect performance when your inner self is feeling so disconnected and lost. Please know that you do not have to have your entire identity figured out tonight just to deserve peace and rest right now.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_041",
+    "input_id": "inp_puco_exi_041",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly disorienting to achieve everything you are supposed to and still find yourself standing in an empty space, wondering what it was all for. Your frustration is not a failure of drive, but a quiet, honest signal from your soul that you are worth so much more than a collection of optimized metrics.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_042",
+    "input_id": "inp_puco_exi_042",
+    "response_style": "grounding",
+    "sandhi_response": "Seeing everyone march down a pre-written path can make your own detours feel like a quiet tragedy, especially when family expectations weigh heavily on you. Please know that your value is not bound to a corporate package, and it is entirely okay to be still while you find a rhythm that actually feels real to you.",
+    "wisdom_theme": "releasing_timeline_pressure",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_043",
+    "input_id": "inp_puco_exi_043",
+    "response_style": "calming",
+    "sandhi_response": "Staring into a future where no path calls to you can make you feel entirely untethered, especially with the weight of your parents' expectations pressing down. You do not have to solve the mystery of your entire life tonight; choosing simply what feels slightly more livable right now is enough to start.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_044",
+    "input_id": "inp_puco_exi_044",
+    "response_style": "reflective",
+    "sandhi_response": "Milestones have a way of throwing our deepest unexpressed exhaustion into sharp relief, making us feel like spectators in our own lives. It is okay to feel tired of the machinery; let yourself rest tonight without needing to prove your productivity or find immediate answers.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_045",
+    "input_id": "inp_puco_exi_045",
+    "response_style": "grounding",
+    "sandhi_response": "When the vastness of the universe makes our daily struggles feel microscopic, it can paralyze our willingness to try at all. But if our struggles are small to the universe, it also means your mistakes are beautifully small, freeing you to live and explore without the crushing weight of cosmic perfection.",
+    "wisdom_theme": "creating_meaning",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_046",
+    "input_id": "inp_puco_exi_046",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly heavy to feel the weight of a lifetime's expectations while just trying to get through a single day's lab. You don't have to figure out the meaning of your entire future right now; let's just take a breath and bring your awareness back to this quiet, present moment.",
+    "wisdom_theme": "creating_meaning",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_047",
+    "input_id": "inp_puco_exi_047",
+    "response_style": "reflective",
+    "sandhi_response": "Seeing everyone chase the same narrow path can make you feel like your unique human experience is being flattened into a resume. Please remember that your existence is vast and meaningful, far beyond the artificial metrics this placement season tries to force on you.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_048",
+    "input_id": "inp_puco_exi_048",
+    "response_style": "calming",
+    "sandhi_response": "It is exhausting to perform perfectly for a script you never chose to write. Your tears are a deeply human protest against losing yourself, and it is completely okay to pause and listen to what your own heart actually wants.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_049",
+    "input_id": "inp_puco_exi_049",
+    "response_style": "grounding",
+    "sandhi_response": "The realization of how quickly life changes can feel like a sudden, terrifying mourning for the present. While we cannot freeze time, we can deeply inhabit this very moment with your friends, honoring the beauty of what is here right now.",
+    "wisdom_theme": "presence_peace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_050",
+    "input_id": "inp_puco_exi_050",
+    "response_style": "calming",
+    "sandhi_response": "When life becomes a relentless checklist of survival, it is so easy to feel detached from your own living, breathing self. It takes immense courage to sit with that empty feeling, and I am here with you in the quiet of this night, without any expectations for you to perform.",
+    "wisdom_theme": "internal_richness",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_051",
+    "input_id": "inp_puco_exi_051",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly disorienting when the goals we've been told to chase suddenly feel empty under the weight of such a vast, silent universe. You are so much more than a resume or an optimization algorithm, and it is completely okay to pause right here and let yourself feel the weight of that questioning.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_052",
+    "input_id": "inp_puco_exi_052",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Seeing everyone else's highlight reels can make your own path feel terrifyingly dark and formless. It is natural to feel paralyzed when the standard roadmaps don't fit you, but please remember that you do not have to have the entire map figured out to take your next breath.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_053",
+    "input_id": "inp_puco_exi_053",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Turning twenty brings a heavy realization that the checklist we've been handed doesn't automatically guarantee a sense of inner peace. It takes immense courage to look at the machine and ask 'why,' and your exhaustion is a very human response to a world that forgets to value your being over your doing.",
+    "wisdom_theme": "creating_meaning",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_054",
+    "input_id": "inp_puco_exi_054",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When the noise of constant demands suddenly stops, the silence can feel like a vast, terrifying emptiness rather than a relief. It is incredibly heavy to realize your identity has been built on survival, but this quiet space, as uncomfortable as it is, is also where you can slowly begin to discover who you are outside of the panic.",
+    "wisdom_theme": "presence_peace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_055",
+    "input_id": "inp_puco_exi_055",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Waking up to the sheer weight of our mortality can make the everyday world look like a strange, superficial play. Feeling like a ghost among your peers is deeply isolating, but please know that this profound sensitivity to life's mystery is a sign of your depth, not your brokenness.",
+    "wisdom_theme": "internal_richness",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_056",
+    "input_id": "inp_puco_exi_056",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to carry the weight of an entire lifetime's expectations while staring at a screen that feels entirely devoid of life. It makes complete sense that your mind is questioning this relentless momentum; your worth is not tied to the speed of this race, and it is okay to pause and just breathe in the quiet space of your own existence right now.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_057",
+    "input_id": "inp_puco_exi_057",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Holding the vastness of the cosmos alongside the intense pressure of a college grading system can make your current struggles feel both tiny and impossibly crushing. Let yourself step away from the digital noise tonight; your existence has value far beyond any metrics of progress or achievement.",
+    "wisdom_theme": "releasing_timeline_pressure",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_058",
+    "input_id": "inp_puco_exi_058",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is terrifying to realize you have checked every box on a list you didn't write, only to find the prize feels empty. You do not have to live out a predetermined script; even within structured paths, there is room for you to gently discover what actually brings color to your days.",
+    "wisdom_theme": "reclaiming_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_059",
+    "input_id": "inp_puco_exi_059",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The weight of trying to optimize your entire lifetime with a single form is an agonizing burden to place on your shoulders. Remember that no single decision can lock you out of your own humanity, and you are allowed to make choices for who you are today rather than trying to protect a future you cannot see.",
+    "wisdom_theme": "career_experimentation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_060",
+    "input_id": "inp_puco_exi_060",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When the noise of daily survival stops, the silence can bring an overwhelming wave of questions that feel too heavy to answer. You do not have to find grand meaning in PowerPoint slides or corporate routines; it is completely okay to let your only purpose today be resting and simply existing in this moment.",
+    "wisdom_theme": "creating_meaning",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_061",
+    "input_id": "inp_puco_exi_061",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that checking off these massive milestones has left you feeling empty rather than fulfilled. It is incredibly heavy to realize that external achievements cannot anchor us, and you are allowed to stop running and just breathe in this quiet space without needing to figure out the whole loop right now.",
+    "wisdom_theme": "creating_meaning",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_062",
+    "input_id": "inp_puco_exi_062",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When the corporate race is framed as life or death, looking at the sheer scale of the universe can actually be a desperate way your mind is trying to find perspective and escape the pressure. Let’s set aside the massive cosmic scale for a moment and just focus on what brings a tiny bit of warmth to your day today, completely separate from your career.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_063",
+    "input_id": "inp_puco_exi_063",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It sounds deeply exhausting to have your worth measured constantly by numbers and comparisons, especially when you are already carrying the weight of those backlogs. You don't have to earn your right to exist or be happy by winning a race you never chose to run.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_064",
+    "input_id": "inp_puco_exi_064",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Turning twenty can feel like standing on a ledge looking into an unknown fog, especially when your whole life has been structured around grades and schedules. It is completely okay to feel like a work-in-progress, because discovering who you are is a slow, quiet unfolding rather than a milestone you were supposed to have solved by now.",
+    "wisdom_theme": "transition_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_065",
+    "input_id": "inp_puco_exi_065",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to reach a summit you sacrificed so much for, only to find it doesn't bring the peace or purpose you were promised. Please remember that choosing this path wasn't a waste of your youth, but a valuable discovery of what doesn't serve you, and you still have the power to look in new directions.",
+    "wisdom_theme": "pivot_courage",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_066",
+    "input_id": "inp_puco_exi_066",
+    "response_style": "grounding",
+    "sandhi_response": "It can feel deeply unsettling to reach the peak of what you've been striving for, only to find the view from the top feels completely hollow. It makes sense that you are tired of running a race where your humanity feels left behind; your value is so much greater than just your output.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_067",
+    "input_id": "inp_puco_exi_067",
+    "response_style": "reflective",
+    "sandhi_response": "Seeing everyone march down a pre-written path can make you feel incredibly isolated when you're questioning the very point of the journey. It's completely natural to freeze when the weight of eternity makes these immediate, high-pressure demands feel small and insignificant.",
+    "wisdom_theme": "creating_meaning",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_068",
+    "input_id": "inp_puco_exi_068",
+    "response_style": "calming",
+    "sandhi_response": "When you look at the vastness of everything, the heavy demands of college can feel absurdly small yet painfully heavy all at once. Let's step away from the cosmic scale for a moment and just breathe right here where you are safe, in this tiny, quiet corner of the world.",
+    "wisdom_theme": "daily_mindfulness",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_069",
+    "input_id": "inp_puco_exi_069",
+    "response_style": "grounding",
+    "sandhi_response": "The transition from the predictable rhythm of school to the vast, open-ended routine of adulthood can feel like stepping off a cliff into the unknown. It is okay to grieve the loss of your structured youth even while holding an achievement that others are celebrating.",
+    "wisdom_theme": "transition_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_070",
+    "input_id": "inp_puco_exi_070",
+    "response_style": "reflective",
+    "sandhi_response": "It is terrifying when a single portal click feels like it has the power to define your entire future self. Please remember that no single elective choice can lock you away; your life will always have room for pivots, growth, and unexpected detours.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_071",
+    "input_id": "inp_puco_exi_071",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly disorienting to reach the very peak of what you were told to climb, only to find that the view feels entirely empty. It makes complete sense that you're questioning the point of this relentless sprint when your inner self is calling for something real, not just another milestone.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_072",
+    "input_id": "inp_puco_exi_072",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When your entire identity has been defined by the next grade or achievement, facing the open space beyond that checklist can feel less like freedom and more like falling. We can take a breath here together; you don't have to figure out the rest of your life tonight while you are still mourning the self you had to set aside to get here.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_073",
+    "input_id": "inp_puco_exi_073",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply exhausting to sit in a room full of noise about packages and timelines when your soul is quietly asking far bigger questions about what actually matters. That feeling of disconnect isn't a failure on your part—it is a vital, honest sign that you are resisting a mold that was never designed to hold your humanity.",
+    "wisdom_theme": "internal_alignment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_074",
+    "input_id": "inp_puco_exi_074",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When you're already carrying the heavy weight of academic struggles, watching everyone chase an illusion can make the whole system feel incredibly absurd and suffocating. You don't have to find a grand cosmic purpose right now; let's just focus on finding a small, quiet pocket of safety for you to exist in tonight.",
+    "wisdom_theme": "presence_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_075",
+    "input_id": "inp_puco_exi_075",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Sitting in front of a screen and feeling your life slip away in lines of code you never wanted to write is a very heavy, suffocating kind of grief. It is completely valid to feel numb when you are being forced to live out a script that doesn't belong to you, and your exhaustion is a healthy protest against that pressure.",
+    "wisdom_theme": "reclaiming_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_076",
+    "input_id": "inp_puco_exi_076",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly disorienting to reach the mountaintop everyone pointed you toward, only to find the air there feels cold and empty. We can let go of the pressure to figure out the next forty years tonight, and just sit quietly with the exhaustion of a race you never actually wanted to run.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_077",
+    "input_id": "inp_puco_exi_077",
+    "response_style": "calming",
+    "sandhi_response": "When the sheer scale of the universe makes our daily struggles feel absurdly small, it can feel like nothing we do carries any real weight. Perhaps the relief in that vastness is that you don't have to carry the weight of the world—just the gentle, immediate reality of breathing through this one night.",
+    "wisdom_theme": "creating_meaning",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_078",
+    "input_id": "inp_puco_exi_078",
+    "response_style": "reflective",
+    "sandhi_response": "Watching everyone else seemingly sprint into the future can make you feel frozen in place, terrified of losing yourself to a path you didn't choose. It is entirely okay to step into adulthood slowly, holding onto your own quiet pace rather than rushing into the mold of a corporate machine.",
+    "wisdom_theme": "transition_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_079",
+    "input_id": "inp_puco_exi_079",
+    "response_style": "grounding",
+    "sandhi_response": "It is deeply painful to feel like a passenger in your own body, watching yourself live out a script written by someone else's expectations. Even if you have to write their code to survive right now, your internal world and the quiet truths of who you are still belong entirely to you.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_080",
+    "input_id": "inp_puco_exi_080",
+    "response_style": "reflective",
+    "sandhi_response": "The transition out of childhood often feels less like growing up and more like mourning the open, boundless skies we used to have. You haven't run out of doors to open; you are simply pausing to grieve the ease of the past before you decide which handle to turn next.",
+    "wisdom_theme": "releasing_timeline_pressure",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_081",
+    "input_id": "inp_puco_exi_081",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to carry the weight of everyone else's celebration when you are secretly standing at the edge of a deep, silent void. We don't have to figure out the meaning of your entire life tonight; let's just sit here in the quiet for a moment, and let your breath find its natural pace.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_082",
+    "input_id": "inp_puco_exi_082",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When you look at the vastness of the universe, it is so easy to feel like our daily struggles are completely meaningless. But your worth doesn't have to be cosmic to matter; the small space you occupy and the simple peace you feel right now is enough.",
+    "wisdom_theme": "creating_meaning",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_083",
+    "input_id": "inp_puco_exi_083",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The corporate conveyor belt can make life feel like a pre-programmed machine rather than a human experience. You don't have to find the ultimate answer to life's futility today; it is okay to just step off the track for a moment and just be a human who is tired.",
+    "wisdom_theme": "reclaiming_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_084",
+    "input_id": "inp_puco_exi_084",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Stepping into adulthood can feel like being handed a script written in a language you don't even speak yet. It is completely natural to grieve the simplicity of the past while fearing a future that hasn't proven its warmth to you yet.",
+    "wisdom_theme": "transition_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_085",
+    "input_id": "inp_puco_exi_085",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When other people’s dreams are mapped onto your life, it is easy to feel like an actor on a stage you never wanted to stand on. You don't need to have your alternative path figured out right now; simply acknowledging that this current template doesn't fit you is a deeply brave first step.",
+    "wisdom_theme": "releasing_timeline_pressure",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_086",
+    "input_id": "inp_puco_exi_086",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly heavy to feel so disconnected from the very milestones you've worked so hard to reach. We can pause the race right here; your worth isn't bound to a corporate pipeline, and it's okay to just breathe without needing to have the next forty years figured out tonight.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_087",
+    "input_id": "inp_puco_exi_087",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When the sheer scale of the universe hits all at once, the tiny boxes we are asked to fit into can feel absurdly small and suffocating. It makes complete sense that you're shivering; let's step back from the massive sky and just focus on the warmth of the room you are in right now.",
+    "wisdom_theme": "creating_meaning",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_088",
+    "input_id": "inp_puco_exi_088",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Following a pre-written script for so long can leave you feeling like an observer in your own life when the script suddenly stops. It is okay if the space inside feels quiet right now; you don't have to invent a whole self today, just allowing yourself to exist is enough.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_089",
+    "input_id": "inp_puco_exi_089",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The transition into the structured world of adulthood can feel less like a milestone and more like a loss of freedom and self. It is completely natural to mourn the open-endedness of your youth, and you are allowed to build a life that leaves room for play, even within the system.",
+    "wisdom_theme": "transition_compassion",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_090",
+    "input_id": "inp_puco_exi_090",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to feel like the people closest to you are measuring your life by a scale you find empty and exhausting. Your longing for a deeper, gentler way of living is valid, and you don't have to adopt their metrics of success to belong to yourself.",
+    "wisdom_theme": "internal_alignment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_091",
+    "input_id": "inp_puco_exi_091",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly disorienting to reach the mountaintop everyone pointed you toward, only to find the air there feels completely unbreathable. You aren't broken for feeling empty right now; your soul is simply protesting a life designed solely around checklists instead of what truly makes you feel alive.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_092",
+    "input_id": "inp_puco_exi_092",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that you feel small and exhausted when your entire humanity is being measured by a CGPA and a coding screen. Please know that your existence has a quiet, inherent value that no grading scale or algorithm can ever define or take away.",
+    "wisdom_theme": "honoring_your_pace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_093",
+    "input_id": "inp_puco_exi_093",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The weight of trying to decide your entire future right now must feel suffocating, especially when you've been in survival mode for so long. You don't have to commit to a lifelong cage; you are allowed to make a choice just for now, knowing that no single decision can ever lock away your capacity to change direction later.",
+    "wisdom_theme": "career_experimentation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_094",
+    "input_id": "inp_puco_exi_094",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Stepping into adulthood can feel incredibly hollow when the blueprint you've been handed values productivity far above your peace. It is okay to pause the race and ask these heavy questions, because finding meaning isn't about running faster, but about learning to breathe in the quiet spaces between the demands.",
+    "wisdom_theme": "presence_peace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_095",
+    "input_id": "inp_puco_exi_095",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is deeply painful to feel like you have left the most vibrant parts of yourself behind in the name of survival. Please hear me: that creative soul isn't dead, it is only resting, waiting under the surface until you feel safe enough to invite it back out, even one tiny brushstroke at a time.",
+    "wisdom_theme": "recovering_self",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_096",
+    "input_id": "inp_puco_exi_096",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly exhausting to run a race when the finish line feels more like a cage than a reward. Your numbness isn't a defect; it's your mind's honest response to a system that asks you to trade your vitality for a checklist.",
+    "wisdom_theme": "beyond_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_097",
+    "input_id": "inp_puco_exi_097",
+    "response_style": "reflective",
+    "sandhi_response": "When you look at the stars, the heavy pressure of a letter grade can feel absurdly small, yet the pain of falling short feels painfully close. It is okay to let go of the pressure to be monumental and instead focus on just existing softly tonight.",
+    "wisdom_theme": "presence_peace",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_098",
+    "input_id": "inp_puco_exi_098",
+    "response_style": "grounding",
+    "sandhi_response": "It takes immense courage to look at a crowded path and admit that it feels suffocating rather than inviting. You are not broken for wanting your life to mean more than a corporate title, and your dread is a sign that your true self is fighting to stay alive.",
+    "wisdom_theme": "authentic_autonomy",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_099",
+    "input_id": "inp_puco_exi_099",
+    "response_style": "calming",
+    "sandhi_response": "When the weight of expectations becomes too heavy, detachment is often our mind's way of keeping us safe from breaking. Your worth is not tied to your backlogs or your ability to solve equations, and it is safe to just breathe through this heavy fog right now.",
+    "wisdom_theme": "unconditional_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_100",
+    "input_id": "inp_puco_exi_100",
+    "response_style": "reflective",
+    "sandhi_response": "Grieving the loss of childhood while being pushed into a rigid mold of productivity is a deeply painful transition. You do not have to have your whole existence figured out or optimized; it is enough to just learn who you are, one quiet day at a time.",
+    "wisdom_theme": "gradual_adulting",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_101",
+    "input_id": "inp_puco_exi_101",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_102",
+    "input_id": "inp_puco_exi_102",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_103",
+    "input_id": "inp_puco_exi_103",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_104",
+    "input_id": "inp_puco_exi_104",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_105",
+    "input_id": "inp_puco_exi_105",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_106",
+    "input_id": "inp_puco_exi_106",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_107",
+    "input_id": "inp_puco_exi_107",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_108",
+    "input_id": "inp_puco_exi_108",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_109",
+    "input_id": "inp_puco_exi_109",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_110",
+    "input_id": "inp_puco_exi_110",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_111",
+    "input_id": "inp_puco_exi_111",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_112",
+    "input_id": "inp_puco_exi_112",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_113",
+    "input_id": "inp_puco_exi_113",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_114",
+    "input_id": "inp_puco_exi_114",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_115",
+    "input_id": "inp_puco_exi_115",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_116",
+    "input_id": "inp_puco_exi_116",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_117",
+    "input_id": "inp_puco_exi_117",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_118",
+    "input_id": "inp_puco_exi_118",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_119",
+    "input_id": "inp_puco_exi_119",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_120",
+    "input_id": "inp_puco_exi_120",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_121",
+    "input_id": "inp_puco_exi_121",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_122",
+    "input_id": "inp_puco_exi_122",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_123",
+    "input_id": "inp_puco_exi_123",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_124",
+    "input_id": "inp_puco_exi_124",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_125",
+    "input_id": "inp_puco_exi_125",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_126",
+    "input_id": "inp_puco_exi_126",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_127",
+    "input_id": "inp_puco_exi_127",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_128",
+    "input_id": "inp_puco_exi_128",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_129",
+    "input_id": "inp_puco_exi_129",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_130",
+    "input_id": "inp_puco_exi_130",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_131",
+    "input_id": "inp_puco_exi_131",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_132",
+    "input_id": "inp_puco_exi_132",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_133",
+    "input_id": "inp_puco_exi_133",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_134",
+    "input_id": "inp_puco_exi_134",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_135",
+    "input_id": "inp_puco_exi_135",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_136",
+    "input_id": "inp_puco_exi_136",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_137",
+    "input_id": "inp_puco_exi_137",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_138",
+    "input_id": "inp_puco_exi_138",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_139",
+    "input_id": "inp_puco_exi_139",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_140",
+    "input_id": "inp_puco_exi_140",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_141",
+    "input_id": "inp_puco_exi_141",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_142",
+    "input_id": "inp_puco_exi_142",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_143",
+    "input_id": "inp_puco_exi_143",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_144",
+    "input_id": "inp_puco_exi_144",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_145",
+    "input_id": "inp_puco_exi_145",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_146",
+    "input_id": "inp_puco_exi_146",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_147",
+    "input_id": "inp_puco_exi_147",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_148",
+    "input_id": "inp_puco_exi_148",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_149",
+    "input_id": "inp_puco_exi_149",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_150",
+    "input_id": "inp_puco_exi_150",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_151",
+    "input_id": "inp_puco_exi_151",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_152",
+    "input_id": "inp_puco_exi_152",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_153",
+    "input_id": "inp_puco_exi_153",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_154",
+    "input_id": "inp_puco_exi_154",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_155",
+    "input_id": "inp_puco_exi_155",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_156",
+    "input_id": "inp_puco_exi_156",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_157",
+    "input_id": "inp_puco_exi_157",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_158",
+    "input_id": "inp_puco_exi_158",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_159",
+    "input_id": "inp_puco_exi_159",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_160",
+    "input_id": "inp_puco_exi_160",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_161",
+    "input_id": "inp_puco_exi_161",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_162",
+    "input_id": "inp_puco_exi_162",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_163",
+    "input_id": "inp_puco_exi_163",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_164",
+    "input_id": "inp_puco_exi_164",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_165",
+    "input_id": "inp_puco_exi_165",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_166",
+    "input_id": "inp_puco_exi_166",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_167",
+    "input_id": "inp_puco_exi_167",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_168",
+    "input_id": "inp_puco_exi_168",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_169",
+    "input_id": "inp_puco_exi_169",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_170",
+    "input_id": "inp_puco_exi_170",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_171",
+    "input_id": "inp_puco_exi_171",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_172",
+    "input_id": "inp_puco_exi_172",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_173",
+    "input_id": "inp_puco_exi_173",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_174",
+    "input_id": "inp_puco_exi_174",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_175",
+    "input_id": "inp_puco_exi_175",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_176",
+    "input_id": "inp_puco_exi_176",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_177",
+    "input_id": "inp_puco_exi_177",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_178",
+    "input_id": "inp_puco_exi_178",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_179",
+    "input_id": "inp_puco_exi_179",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_180",
+    "input_id": "inp_puco_exi_180",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_181",
+    "input_id": "inp_puco_exi_181",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_182",
+    "input_id": "inp_puco_exi_182",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_183",
+    "input_id": "inp_puco_exi_183",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_184",
+    "input_id": "inp_puco_exi_184",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_185",
+    "input_id": "inp_puco_exi_185",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_186",
+    "input_id": "inp_puco_exi_186",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_187",
+    "input_id": "inp_puco_exi_187",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_188",
+    "input_id": "inp_puco_exi_188",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_189",
+    "input_id": "inp_puco_exi_189",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_190",
+    "input_id": "inp_puco_exi_190",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_191",
+    "input_id": "inp_puco_exi_191",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_192",
+    "input_id": "inp_puco_exi_192",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_193",
+    "input_id": "inp_puco_exi_193",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_194",
+    "input_id": "inp_puco_exi_194",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_195",
+    "input_id": "inp_puco_exi_195",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_196",
+    "input_id": "inp_puco_exi_196",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_197",
+    "input_id": "inp_puco_exi_197",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_198",
+    "input_id": "inp_puco_exi_198",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_199",
+    "input_id": "inp_puco_exi_199",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_200",
+    "input_id": "inp_puco_exi_200",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_201",
+    "input_id": "inp_puco_exi_201",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_202",
+    "input_id": "inp_puco_exi_202",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_203",
+    "input_id": "inp_puco_exi_203",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_204",
+    "input_id": "inp_puco_exi_204",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_205",
+    "input_id": "inp_puco_exi_205",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_206",
+    "input_id": "inp_puco_exi_206",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_207",
+    "input_id": "inp_puco_exi_207",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_208",
+    "input_id": "inp_puco_exi_208",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_209",
+    "input_id": "inp_puco_exi_209",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_210",
+    "input_id": "inp_puco_exi_210",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_211",
+    "input_id": "inp_puco_exi_211",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_212",
+    "input_id": "inp_puco_exi_212",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_213",
+    "input_id": "inp_puco_exi_213",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_214",
+    "input_id": "inp_puco_exi_214",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_215",
+    "input_id": "inp_puco_exi_215",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_216",
+    "input_id": "inp_puco_exi_216",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_217",
+    "input_id": "inp_puco_exi_217",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_218",
+    "input_id": "inp_puco_exi_218",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_219",
+    "input_id": "inp_puco_exi_219",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_220",
+    "input_id": "inp_puco_exi_220",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_221",
+    "input_id": "inp_puco_exi_221",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_222",
+    "input_id": "inp_puco_exi_222",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_223",
+    "input_id": "inp_puco_exi_223",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_224",
+    "input_id": "inp_puco_exi_224",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_225",
+    "input_id": "inp_puco_exi_225",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_226",
+    "input_id": "inp_puco_exi_226",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_227",
+    "input_id": "inp_puco_exi_227",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_228",
+    "input_id": "inp_puco_exi_228",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_229",
+    "input_id": "inp_puco_exi_229",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_230",
+    "input_id": "inp_puco_exi_230",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_231",
+    "input_id": "inp_puco_exi_231",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_232",
+    "input_id": "inp_puco_exi_232",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_233",
+    "input_id": "inp_puco_exi_233",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_234",
+    "input_id": "inp_puco_exi_234",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_235",
+    "input_id": "inp_puco_exi_235",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_236",
+    "input_id": "inp_puco_exi_236",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_237",
+    "input_id": "inp_puco_exi_237",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_238",
+    "input_id": "inp_puco_exi_238",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_239",
+    "input_id": "inp_puco_exi_239",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_240",
+    "input_id": "inp_puco_exi_240",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_241",
+    "input_id": "inp_puco_exi_241",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_242",
+    "input_id": "inp_puco_exi_242",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_243",
+    "input_id": "inp_puco_exi_243",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_244",
+    "input_id": "inp_puco_exi_244",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_245",
+    "input_id": "inp_puco_exi_245",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_246",
+    "input_id": "inp_puco_exi_246",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_247",
+    "input_id": "inp_puco_exi_247",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_248",
+    "input_id": "inp_puco_exi_248",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_249",
+    "input_id": "inp_puco_exi_249",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_250",
+    "input_id": "inp_puco_exi_250",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_251",
+    "input_id": "inp_puco_exi_251",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_252",
+    "input_id": "inp_puco_exi_252",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_253",
+    "input_id": "inp_puco_exi_253",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_254",
+    "input_id": "inp_puco_exi_254",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_255",
+    "input_id": "inp_puco_exi_255",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_256",
+    "input_id": "inp_puco_exi_256",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_257",
+    "input_id": "inp_puco_exi_257",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_258",
+    "input_id": "inp_puco_exi_258",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_259",
+    "input_id": "inp_puco_exi_259",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_260",
+    "input_id": "inp_puco_exi_260",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_261",
+    "input_id": "inp_puco_exi_261",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_262",
+    "input_id": "inp_puco_exi_262",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_263",
+    "input_id": "inp_puco_exi_263",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_264",
+    "input_id": "inp_puco_exi_264",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_265",
+    "input_id": "inp_puco_exi_265",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_266",
+    "input_id": "inp_puco_exi_266",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_267",
+    "input_id": "inp_puco_exi_267",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_268",
+    "input_id": "inp_puco_exi_268",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_269",
+    "input_id": "inp_puco_exi_269",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_270",
+    "input_id": "inp_puco_exi_270",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_271",
+    "input_id": "inp_puco_exi_271",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_272",
+    "input_id": "inp_puco_exi_272",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_273",
+    "input_id": "inp_puco_exi_273",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_274",
+    "input_id": "inp_puco_exi_274",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_275",
+    "input_id": "inp_puco_exi_275",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_276",
+    "input_id": "inp_puco_exi_276",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_277",
+    "input_id": "inp_puco_exi_277",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_278",
+    "input_id": "inp_puco_exi_278",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_279",
+    "input_id": "inp_puco_exi_279",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_280",
+    "input_id": "inp_puco_exi_280",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_281",
+    "input_id": "inp_puco_exi_281",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_282",
+    "input_id": "inp_puco_exi_282",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_283",
+    "input_id": "inp_puco_exi_283",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_284",
+    "input_id": "inp_puco_exi_284",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_285",
+    "input_id": "inp_puco_exi_285",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_286",
+    "input_id": "inp_puco_exi_286",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_287",
+    "input_id": "inp_puco_exi_287",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_288",
+    "input_id": "inp_puco_exi_288",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_289",
+    "input_id": "inp_puco_exi_289",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_290",
+    "input_id": "inp_puco_exi_290",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_291",
+    "input_id": "inp_puco_exi_291",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_292",
+    "input_id": "inp_puco_exi_292",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_293",
+    "input_id": "inp_puco_exi_293",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_294",
+    "input_id": "inp_puco_exi_294",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_295",
+    "input_id": "inp_puco_exi_295",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_296",
+    "input_id": "inp_puco_exi_296",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_297",
+    "input_id": "inp_puco_exi_297",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_298",
+    "input_id": "inp_puco_exi_298",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_299",
+    "input_id": "inp_puco_exi_299",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_300",
+    "input_id": "inp_puco_exi_300",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_301",
+    "input_id": "inp_puco_exi_301",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_302",
+    "input_id": "inp_puco_exi_302",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_303",
+    "input_id": "inp_puco_exi_303",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_304",
+    "input_id": "inp_puco_exi_304",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_305",
+    "input_id": "inp_puco_exi_305",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_306",
+    "input_id": "inp_puco_exi_306",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_307",
+    "input_id": "inp_puco_exi_307",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_308",
+    "input_id": "inp_puco_exi_308",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_309",
+    "input_id": "inp_puco_exi_309",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_310",
+    "input_id": "inp_puco_exi_310",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_311",
+    "input_id": "inp_puco_exi_311",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_312",
+    "input_id": "inp_puco_exi_312",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_313",
+    "input_id": "inp_puco_exi_313",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_314",
+    "input_id": "inp_puco_exi_314",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_315",
+    "input_id": "inp_puco_exi_315",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_316",
+    "input_id": "inp_puco_exi_316",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_317",
+    "input_id": "inp_puco_exi_317",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_318",
+    "input_id": "inp_puco_exi_318",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_319",
+    "input_id": "inp_puco_exi_319",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_320",
+    "input_id": "inp_puco_exi_320",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_321",
+    "input_id": "inp_puco_exi_321",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_322",
+    "input_id": "inp_puco_exi_322",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_323",
+    "input_id": "inp_puco_exi_323",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_324",
+    "input_id": "inp_puco_exi_324",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_325",
+    "input_id": "inp_puco_exi_325",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_326",
+    "input_id": "inp_puco_exi_326",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_327",
+    "input_id": "inp_puco_exi_327",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_328",
+    "input_id": "inp_puco_exi_328",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_329",
+    "input_id": "inp_puco_exi_329",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_330",
+    "input_id": "inp_puco_exi_330",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_331",
+    "input_id": "inp_puco_exi_331",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_332",
+    "input_id": "inp_puco_exi_332",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_333",
+    "input_id": "inp_puco_exi_333",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_334",
+    "input_id": "inp_puco_exi_334",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_335",
+    "input_id": "inp_puco_exi_335",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_336",
+    "input_id": "inp_puco_exi_336",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_337",
+    "input_id": "inp_puco_exi_337",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_338",
+    "input_id": "inp_puco_exi_338",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_339",
+    "input_id": "inp_puco_exi_339",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_340",
+    "input_id": "inp_puco_exi_340",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_341",
+    "input_id": "inp_puco_exi_341",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_342",
+    "input_id": "inp_puco_exi_342",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_343",
+    "input_id": "inp_puco_exi_343",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_344",
+    "input_id": "inp_puco_exi_344",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_345",
+    "input_id": "inp_puco_exi_345",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_346",
+    "input_id": "inp_puco_exi_346",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_347",
+    "input_id": "inp_puco_exi_347",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_348",
+    "input_id": "inp_puco_exi_348",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_349",
+    "input_id": "inp_puco_exi_349",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_350",
+    "input_id": "inp_puco_exi_350",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_351",
+    "input_id": "inp_puco_exi_351",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_352",
+    "input_id": "inp_puco_exi_352",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_353",
+    "input_id": "inp_puco_exi_353",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_354",
+    "input_id": "inp_puco_exi_354",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_355",
+    "input_id": "inp_puco_exi_355",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_356",
+    "input_id": "inp_puco_exi_356",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_357",
+    "input_id": "inp_puco_exi_357",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_358",
+    "input_id": "inp_puco_exi_358",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_359",
+    "input_id": "inp_puco_exi_359",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_360",
+    "input_id": "inp_puco_exi_360",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_361",
+    "input_id": "inp_puco_exi_361",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_362",
+    "input_id": "inp_puco_exi_362",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_363",
+    "input_id": "inp_puco_exi_363",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_364",
+    "input_id": "inp_puco_exi_364",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_365",
+    "input_id": "inp_puco_exi_365",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_366",
+    "input_id": "inp_puco_exi_366",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_367",
+    "input_id": "inp_puco_exi_367",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_368",
+    "input_id": "inp_puco_exi_368",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_369",
+    "input_id": "inp_puco_exi_369",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_370",
+    "input_id": "inp_puco_exi_370",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_371",
+    "input_id": "inp_puco_exi_371",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_372",
+    "input_id": "inp_puco_exi_372",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_373",
+    "input_id": "inp_puco_exi_373",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_374",
+    "input_id": "inp_puco_exi_374",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_375",
+    "input_id": "inp_puco_exi_375",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_376",
+    "input_id": "inp_puco_exi_376",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_377",
+    "input_id": "inp_puco_exi_377",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_378",
+    "input_id": "inp_puco_exi_378",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_379",
+    "input_id": "inp_puco_exi_379",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_380",
+    "input_id": "inp_puco_exi_380",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_381",
+    "input_id": "inp_puco_exi_381",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_382",
+    "input_id": "inp_puco_exi_382",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_383",
+    "input_id": "inp_puco_exi_383",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_384",
+    "input_id": "inp_puco_exi_384",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_385",
+    "input_id": "inp_puco_exi_385",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_386",
+    "input_id": "inp_puco_exi_386",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_387",
+    "input_id": "inp_puco_exi_387",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_388",
+    "input_id": "inp_puco_exi_388",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_389",
+    "input_id": "inp_puco_exi_389",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_390",
+    "input_id": "inp_puco_exi_390",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_391",
+    "input_id": "inp_puco_exi_391",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_392",
+    "input_id": "inp_puco_exi_392",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_393",
+    "input_id": "inp_puco_exi_393",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_394",
+    "input_id": "inp_puco_exi_394",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_395",
+    "input_id": "inp_puco_exi_395",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of existential dread is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_396",
+    "input_id": "inp_puco_exi_396",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_397",
+    "input_id": "inp_puco_exi_397",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_398",
+    "input_id": "inp_puco_exi_398",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_399",
+    "input_id": "inp_puco_exi_399",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_puco_exi_400",
+    "input_id": "inp_puco_exi_400",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  }
+]

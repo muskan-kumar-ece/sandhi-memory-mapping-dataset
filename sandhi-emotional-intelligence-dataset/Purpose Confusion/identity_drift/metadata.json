@@ -1,0 +1,13 @@
+{
+  "subcategory_id": "SUB-IDEN",
+  "subcategory_name": "identity_drift",
+  "category": "Purpose Confusion",
+  "description": "Emotional state and behaviors relating to identity drift under Purpose Confusion.",
+  "complexity_level": "medium",
+  "clinical_relevance": "medium",
+  "tags": [
+    "purpose_confusion",
+    "identity_drift",
+    "student_support"
+  ]
+}

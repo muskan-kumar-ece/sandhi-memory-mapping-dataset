@@ -1,0 +1,3602 @@
+[
+  {
+    "response_id": "rsp_genr_imp_001",
+    "input_id": "inp_genr_imp_001",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly heavy to carry the feeling that your success belongs to luck rather than your own hard work and capability. You don't have to prove everything on day one; it's okay to let yourself breathe and take this one step at a time as a learner, not an expert.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_002",
+    "input_id": "inp_genr_imp_002",
+    "response_style": "reflective",
+    "sandhi_response": "Standing in a spotlight you didn't feel ready for can make you feel incredibly exposed and waiting for the other shoe to drop. Your preparation, even if it felt rushed, was yours, and it is completely normal to still be figuring out the practical side of things.",
+    "wisdom_theme": "trusting_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_003",
+    "input_id": "inp_genr_imp_003",
+    "response_style": "calming",
+    "sandhi_response": "Watching others reach milestones while you are still climbing can make your own immense efforts feel completely invisible. Your worth is not defined by a timeline or a package, and it is okay to feel exhausted by the noise of everyone else's highlight reels.",
+    "wisdom_theme": "releasing_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_004",
+    "input_id": "inp_genr_imp_004",
+    "response_style": "grounding",
+    "sandhi_response": "When you hold yourself to an impossible standard of perfection, a single human mistake can feel like a total exposure of your flaws. Your team sees your value beyond a single line of code, and it is safe for you to be a learner who makes mistakes too.",
+    "wisdom_theme": "permission_to_be_imperfect",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_005",
+    "input_id": "inp_genr_imp_005",
+    "response_style": "reflective",
+    "sandhi_response": "Stepping into leadership doesn't mean you must have all the answers mapped out beforehand; it is okay to figure it out collaboratively with your team. This tight feeling is just your nervous system reacting to a big step, not proof that you don't belong there.",
+    "wisdom_theme": "courage_to_occupy_space",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_006",
+    "input_id": "inp_genr_imp_006",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly heavy to carry the weight of everyone’s expectations when you are already doubting your own hard work. Please know that surviving that interview and securing this spot wasn't a fluke; you stepped up when the opportunity arose, and you belong in that space.",
+    "wisdom_theme": "claiming_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_007",
+    "input_id": "inp_genr_imp_007",
+    "response_style": "calming",
+    "sandhi_response": "It makes complete sense that you're feeling panicked under this sudden spotlight, especially when you feel like you haven't fully mastered everything yet. You don't have to be a flawless expert to lead; it is entirely okay to learn alongside your peers as you go.",
+    "wisdom_theme": "permission_to_be_imperfect",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_008",
+    "input_id": "inp_genr_imp_008",
+    "response_style": "reflective",
+    "sandhi_response": "It is so exhausting to bear the sole blame for a team effort, especially when coding is naturally a trial-and-error process. One broken demo does not erase your capability or your right to be a part of that team.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_009",
+    "input_id": "inp_genr_imp_009",
+    "response_style": "grounding",
+    "sandhi_response": "Clearing that backlog took genuine persistence, even if your inner voice is trying to diminish that effort right now. Your journey does not have to match theirs to be deeply meaningful and worthy of respect.",
+    "wisdom_theme": "valuing_your_timeline",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_010",
+    "input_id": "inp_genr_imp_010",
+    "response_style": "calming",
+    "sandhi_response": "It is completely natural to feel intimidated when standing alongside highly accomplished peers, but the recruiters chose your resume deliberately because they saw genuine potential in you. You do not need to have a flawless background to deserve a seat at that table.",
+    "wisdom_theme": "trusting_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_011",
+    "input_id": "inp_genr_imp_011",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly exhausting to carry the weight of believing your success was just a fluke, especially when you are comparing your path to everyone else's. Your panic is telling you that you've stepped into something big, but please remember that you don't have to know everything on day one just to deserve your seat at the table.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_012",
+    "input_id": "inp_genr_imp_012",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The pressure to match your actual, deep understanding with a single letter grade can make you feel like you are constantly walking on a tightrope of deception. It is completely okay if your learning is still in progress; scoring well doesn't make you a liar, it just means you navigated this step with the tools you had.",
+    "wisdom_theme": "permission_to_be_imperfect",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_013",
+    "input_id": "inp_genr_imp_013",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When you value others' massive contributions, it can be so easy to erase the vital, tedious work that you actually put into the project to bring it to life. Your contribution—even the formatting and scripting that feels small to you—was a necessary piece of the puzzle, and you are allowed to occupy space in this achievement.",
+    "wisdom_theme": "claiming_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_014",
+    "input_id": "inp_genr_imp_014",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Leading doesn't mean you have to be the most flawless expert in the room; it often just means you are the one willing to create a space for others to gather and learn. It is completely natural to feel exposed when stepping up, but you can teach what you know while openly learning alongside them.",
+    "wisdom_theme": "permission_to_learn",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_015",
+    "input_id": "inp_genr_imp_015",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly painful to have your hard-earned achievements minimized by whispers that reduce your worth to a single check-box. You cleared the coding assessments and interviews because of your own capabilities, and you do not owe anyone an apology for walking through a door you worked hard to reach.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_016",
+    "input_id": "inp_genr_imp_016",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that you feel terrified when so much pressure is suddenly resting on a single moment, but getting that shortlist wasn't a mistake—you had the focus to prepare the right material at the right time. Let’s take a deep breath together and remember that not knowing every complex algorithm doesn't erase the effort and skill that got you to this room.",
+    "wisdom_theme": "claiming_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_017",
+    "input_id": "inp_genr_imp_017",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly heavy to carry the feeling that your hard work doesn't count just because the system's evaluation felt imperfect. Your high GPA is a real reflection of your diligence and adaptability, and you don't have to shrink yourself or apologize for succeeding.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_018",
+    "input_id": "inp_genr_imp_018",
+    "response_style": "calming",
+    "sandhi_response": "Stepping into a leadership role when you still feel like a learner is incredibly intimidating, but leadership is about guidance and empathy, not possessing absolute, perfect knowledge. Even seasoned developers look up basic syntax daily, and your willingness to learn alongside your peers is exactly what will make you a great mentor.",
+    "wisdom_theme": "permission_to_be_imperfect",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_019",
+    "input_id": "inp_genr_imp_019",
+    "response_style": "grounding",
+    "sandhi_response": "It is deeply painful when the people who should protect your peace measure your worth against someone else's timeline. Your 12 LPA offer is a massive, hard-earned achievement that belongs solely to your dedication, and no comparison can diminish the reality of your capability.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_020",
+    "input_id": "inp_genr_imp_020",
+    "response_style": "reflective",
+    "sandhi_response": "That examiner's unkind words were a reflection of his lack of empathy, not a true measure of your intelligence or your right to be in this field. Freezing under high pressure is a natural human response, and one painful moment in a viva does not erase the countless hours of effort you have poured into your studies.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_021",
+    "input_id": "inp_genr_imp_021",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly exhausting to carry the fear that your hard work was just a series of lucky breaks. You didn't just stumble into that room; your preparation met the moment, and you are fully allowed to occupy the space you earned.",
+    "wisdom_theme": "claiming_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_022",
+    "input_id": "inp_genr_imp_022",
+    "response_style": "reflective",
+    "sandhi_response": "Brute-forcing your way through a difficult problem is actually a form of deep persistence, not deceit. It makes complete sense that you're tired and anxious, but solving a puzzle through grit still counts as solving it.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_023",
+    "input_id": "inp_genr_imp_023",
+    "response_style": "calming",
+    "sandhi_response": "That sudden spotlight can feel terrifying when you're already carrying the weight of high expectations. Finding resource patterns at 3 AM is part of how developers learn, and you don't have to be a flawless genius to deserve your place on the team.",
+    "wisdom_theme": "permission_to_be_imperfect",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_024",
+    "input_id": "inp_genr_imp_024",
+    "response_style": "reflective",
+    "sandhi_response": "It's incredibly heavy to carry the expectations of your family while feeling like you're stumbling behind your peers. Your worth isn't defined by how quickly you find the perfect words in a high-stress room.",
+    "wisdom_theme": "releasing_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_025",
+    "input_id": "inp_genr_imp_025",
+    "response_style": "grounding",
+    "sandhi_response": "It is deeply stressful when your brain reframes your success as a fluke rather than a result of your knowledge and intuition. Trusting your educated guesses is part of learning, and one exam cannot measure your entire intellectual capacity.",
+    "wisdom_theme": "trusting_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_026",
+    "input_id": "inp_genr_imp_026",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly exhausting to feel like you have to defend an achievement you haven't fully let yourself accept yet. Preparing the night before isn't a fluke—it is exactly how readiness meets opportunity, and you deserve to take a breath and occupy this space.",
+    "wisdom_theme": "claiming_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_027",
+    "input_id": "inp_genr_imp_027",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that you're feeling anxious when your grades don't match your internal sense of competence right now. You don't need to have everything mastered today to deserve your progress; learning is a gradual building process, not a test of instant perfection.",
+    "wisdom_theme": "trusting_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_028",
+    "input_id": "inp_genr_imp_028",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "LinkedIn has a way of making us feel like we're the only ones struggling behind the scenes while everyone else has it figured out. Even experienced developers rely on searching for answers daily, and struggling with setup errors doesn't mean you aren't a real programmer.",
+    "wisdom_theme": "releasing_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_029",
+    "input_id": "inp_genr_imp_029",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Stumbling under the pressure of a live review is a deeply human moment, not proof of your uselessness. One difficult question doesn't erase your contributions to the team or your right to graduate alongside them.",
+    "wisdom_theme": "permission_to_be_imperfect",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_030",
+    "input_id": "inp_genr_imp_030",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Stepping into leadership often amplifies our deepest insecurities because we suddenly feel responsible for having all the answers. You don't need to be a flawless expert to lead; your willingness to guide others and learn as you go is more than enough.",
+    "wisdom_theme": "courage_to_occupy_space",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_031",
+    "input_id": "inp_genr_imp_031",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly exhausting to feel like your success is a mistake waiting to be uncovered, especially when you worked hard to find a solution that actually worked. Let’s take a slow breath together right now—your code passed because you found a way through, not because you tricked the system.",
+    "wisdom_theme": "claiming_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_032",
+    "input_id": "inp_genr_imp_032",
+    "response_style": "calming",
+    "sandhi_response": "Seeing everyone else reach these milestones can make you feel painfully visible and out of place, but their timeline does not write your worth. Your path through this branch is allowed to look different, and you deserve grace while you navigate your own learning curve.",
+    "wisdom_theme": "releasing_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_033",
+    "input_id": "inp_genr_imp_033",
+    "response_style": "reflective",
+    "sandhi_response": "When someone praises us for something we felt shaky doing, it can feel like a trap rather than an honor. But your professor saw value in your synthesis and intuition, which are real skills—you do not have to know everything today to be worthy of learning tomorrow.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_034",
+    "input_id": "inp_genr_imp_034",
+    "response_style": "grounding",
+    "sandhi_response": "It’s heavy carrying an inner voice that treats a tiny, human mistake as proof that your achievements are a lie. A single missed syntax error is just a momentary slip in focus, not a verdict on your intelligence or your right to be here.",
+    "wisdom_theme": "permission_to_be_imperfect",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_035",
+    "input_id": "inp_genr_imp_035",
+    "response_style": "calming",
+    "sandhi_response": "Silence in a room full of loud voices doesn't mean you don't belong there; it just means you are still finding your footing in this specific space. Your willingness to learn and contribute is valuable, and you do not have to know every advanced tool right now to be a worthy partner.",
+    "wisdom_theme": "courage_to_occupy_space",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_036",
+    "input_id": "inp_genr_imp_036",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly exhausting to carry the weight of believing your hard work was just a series of happy accidents. You didn't trick your way through those interview rounds, and it is completely okay to learn and look things up as you go.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_037",
+    "input_id": "inp_genr_imp_037",
+    "response_style": "reflective",
+    "sandhi_response": "That 9.2 is a reflection of your persistent effort, not a trap waiting to spring shut on you. Let's take a deep breath together and remember you don't have to be perfect tomorrow to deserve credit for what you did today.",
+    "wisdom_theme": "releasing_pressure",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_038",
+    "input_id": "inp_genr_imp_038",
+    "response_style": "calming",
+    "sandhi_response": "Freezing under the watchful eye of an evaluator is a natural stress response, not a measure of your coding intelligence. One difficult moment in a high-pressure lab doesn't erase the years of dedication and learning you've built up.",
+    "wisdom_theme": "permission_to_be_imperfect",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_039",
+    "input_id": "inp_genr_imp_039",
+    "response_style": "grounding",
+    "sandhi_response": "It is deeply painful to feel like your worth is being measured against someone else's timeline and package numbers. Your journey and your struggle are uniquely yours, and your value as a person remains unchanged regardless of where you land your first job.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_040",
+    "input_id": "inp_genr_imp_040",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely normal not to know every advanced technology yet, especially when you are still in the process of learning. You don't have to perform expertise to deserve your seat in that room; learning is a quiet, step-by-step path, not a race to prove you know it all.",
+    "wisdom_theme": "permission_to_learn",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_041",
+    "input_id": "inp_genr_imp_041",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that your mind froze under that sudden pressure, but freeze responses are about stress, not your actual capability. Your achievement is the result of real hours you poured into preparing, even if your mind is currently trying to convince you it was all a fluke.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_042",
+    "input_id": "inp_genr_imp_042",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It sounds incredibly exhausting to carry the weight of a high rank while constantly waiting for the other shoe to drop. Let's take a slow breath together, remembering that you don't have to know every single answer perfectly to deserve your place in that room.",
+    "wisdom_theme": "trusting_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_043",
+    "input_id": "inp_genr_imp_043",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It hurts deeply when an achievement you worked hard for gets diminished by comparative feeds and heavy expectations at home. Your offer is a tangible reflection of your stamina and skill, and no one else's timeline or package can take away the validity of your first step.",
+    "wisdom_theme": "releasing_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_044",
+    "input_id": "inp_genr_imp_044",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Being placed in a leadership position doesn't mean you are expected to hold all the answers instantly from day one. It is completely okay to tell your team that you want to research the options together before deciding on a direction.",
+    "wisdom_theme": "permission_to_be_imperfect",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_045",
+    "input_id": "inp_genr_imp_045",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "I hear how incredibly painful it is when your mind weaponizes a single, normal human slip-up to erase years of genuine dedication. You are allowed to make mistakes under pressure without it defining your entire intelligence or worth as an engineer.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_046",
+    "input_id": "inp_genr_imp_046",
+    "response_style": "grounding",
+    "sandhi_response": "It sounds incredibly exhausting to carry the weight of everyone's high expectations when you feel like you've just been lucky. Please take a deep breath and remember that receiving hints is a standard part of how interviewers assess collaboration, not a sign that you tricked your way here.",
+    "wisdom_theme": "claiming_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_047",
+    "input_id": "inp_genr_imp_047",
+    "response_style": "reflective",
+    "sandhi_response": "It makes complete sense that you feel terrified of being exposed when your mind is convincing you that your hard work was just clever copying. Your professor's high praise is based on their expert assessment of your actual output, not an illusion you created.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_048",
+    "input_id": "inp_genr_imp_048",
+    "response_style": "calming",
+    "sandhi_response": "Hearing about everyone else's wins while your mom compares you to your cousin must feel like a heavy, suffocating weight. Your worth as a person is not tied to the speed of your coding runs or how your timeline compares to those on a curated feed.",
+    "wisdom_theme": "releasing_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_049",
+    "input_id": "inp_genr_imp_049",
+    "response_style": "grounding",
+    "sandhi_response": "Stepping into a leadership role when you feel unprepared is incredibly daunting, especially when you attribute your win to luck rather than your capacity. You don't need to have all the technical answers right now; being a leader is about guiding the team to find them together.",
+    "wisdom_theme": "permission_to_learn",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_050",
+    "input_id": "inp_genr_imp_050",
+    "response_style": "reflective",
+    "sandhi_response": "It must feel quite lonely to be praised for a high CGPA while secretly believing you've cheated the system through cramming. Please try to gentle your mind; synthesizing information quickly to perform well is a genuine skill, not a sign of emptiness.",
+    "wisdom_theme": "trusting_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_051",
+    "input_id": "inp_genr_imp_051",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly exhausting to carry the weight of believing your success is just a fluke, especially when everyone around you is celebrating. Let’s take a gentle breath together and remember that passing that assessment was the result of your own preparation, not just luck.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_052",
+    "input_id": "inp_genr_imp_052",
+    "response_style": "reflective",
+    "sandhi_response": "Seeing your name up there feels like a trap rather than a victory because you are anticipating the pain of a fall that hasn't happened. It is okay to step off the treadmill of proving your worth and simply exist as a student who is learning day by day.",
+    "wisdom_theme": "releasing_pressure",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_053",
+    "input_id": "inp_genr_imp_053",
+    "response_style": "calming",
+    "sandhi_response": "Silence in a room full of loud voices doesn't mean you have nothing of value to say; it often just means your nervous system is working overtime to protect you. Your place in that final round was earned through your actual skills, not by a mistake of the recruiters.",
+    "wisdom_theme": "courage_to_occupy_space",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_054",
+    "input_id": "inp_genr_imp_054",
+    "response_style": "grounding",
+    "sandhi_response": "Struggling with a difficult bug is a normal part of the learning process, not a definitive verdict on your intelligence or your right to be here. Your worth as a person is entirely separate from how quickly you write code compared to your peers.",
+    "wisdom_theme": "permission_to_be_imperfect",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_055",
+    "input_id": "inp_genr_imp_055",
+    "response_style": "reflective",
+    "sandhi_response": "It hurts deeply when your hard-won milestones are minimized by the people who should be celebrating them with you. Your job offer is a real testament to your dedication, and no relative's comparison can erase the effort you poured into getting here.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_056",
+    "input_id": "inp_genr_imp_056",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly exhausting to carry the weight of feeling like you don't belong, especially when you are trying so hard to keep your head above water in a new environment. You don't have to know everything today; it is entirely okay to be a learner who is still figuring out the ropes.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_057",
+    "input_id": "inp_genr_imp_057",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Getting a high score can feel terrifying when it sets a bar you are not sure you can constantly leap over. Let's take a deep breath and remind ourselves that preparing strategically is a valid skill, not a trick or a lie.",
+    "wisdom_theme": "trusting_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_058",
+    "input_id": "inp_genr_imp_058",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is so hard to build your own confidence when you are constantly bombarded by everyone else's highlight reels and your family's expectations. Your worth as a human being is not tied to a curated digital post or the speed at which you resolve your academic backlogs.",
+    "wisdom_theme": "releasing_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_059",
+    "input_id": "inp_genr_imp_059",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Being put in charge can feel like a trap when you expect yourself to have all the answers instead of just managing the process. You are allowed to rely on your team's specialized strengths without it meaning you are failing as their leader.",
+    "wisdom_theme": "permission_to_be_imperfect",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_060",
+    "input_id": "inp_genr_imp_060",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When you prepare for the worst, passing can feel more like a narrow escape than a true achievement. Please remember that answering the questions you were given is exactly what was required of you, and you did not cheat your way through that door.",
+    "wisdom_theme": "claiming_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_061",
+    "input_id": "inp_genr_imp_061",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that you're feeling terrified right now, but your success so far isn't an accident—you solved that problem because you had the skills to do so. Let's take a deep breath together and focus on what you actually know, rather than the fear of being found out.",
+    "wisdom_theme": "claiming_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_062",
+    "input_id": "inp_genr_imp_062",
+    "response_style": "reflective",
+    "sandhi_response": "Writing documentation and running tests are vital engineering skills, not signs of a parasite, even if your mind is telling you otherwise right now. Your contribution was a real part of that grade, and it is safe to let yourself occupy this space without feeling like you stole it.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_063",
+    "input_id": "inp_genr_imp_063",
+    "response_style": "grounding",
+    "sandhi_response": "Experiencing a bug and needing assistance is the actual process of engineering, not proof that you are a failure who snuck in by mistake. It's okay to let your brain slow down right now; you don't have to prove your right to be here with every single line of code.",
+    "wisdom_theme": "permission_to_be_imperfect",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_064",
+    "input_id": "inp_genr_imp_064",
+    "response_style": "calming",
+    "sandhi_response": "Synthesizing complex research ideas into a cohesive abstract is a highly skilled form of learning, not a trick or a deception. You don't need to know everything to have a right to speak, and we can take this preparation one small step at a time.",
+    "wisdom_theme": "trusting_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_065",
+    "input_id": "inp_genr_imp_065",
+    "response_style": "reflective",
+    "sandhi_response": "It is deeply exhausting when a genuine milestone is overshadowed by external comparisons that make you feel like your effort isn't enough. Your three cleared rounds are a massive testament to your hard work, and your worth is not defined by someone else's package.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_066",
+    "input_id": "inp_genr_imp_066",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that you're feeling terrified of being 'found out,' especially when you're comparing your interview experience to your friend's. But please remember that the company chose you because of how you communicated and handled their questions, not because of a fluke.",
+    "wisdom_theme": "claiming_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_067",
+    "input_id": "inp_genr_imp_067",
+    "response_style": "reflective",
+    "sandhi_response": "It is incredibly exhausting when a high mark feels like a trap rather than a victory. You don't have to carry the weight of being a 'genius' for anyone; it is okay to just be a student who worked hard and did well on this exam.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_068",
+    "input_id": "inp_genr_imp_068",
+    "response_style": "grounding",
+    "sandhi_response": "Nodding along when you feel lost is a very human way to protect yourself when you're feeling out of your depth. Learning on the fly is a normal part of engineering, and not knowing these tools yet doesn't mean you don't belong in the room.",
+    "wisdom_theme": "permission_to_learn",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_069",
+    "input_id": "inp_genr_imp_069",
+    "response_style": "calming",
+    "sandhi_response": "It is a heavy, painful burden to carry your family's high expectations when you're already struggling with the sting of recent rejections. Your worth as a person and a programmer is not tied to your father's bragging rights or the speed of your job search.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_070",
+    "input_id": "inp_genr_imp_070",
+    "response_style": "reflective",
+    "sandhi_response": "Adjusting the visual layout and making a project presentable is a crucial part of development, not 'stolen credit.' It is okay to let yourself share in the victory of a team effort, even if your contribution looked different from your partner's.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_071",
+    "input_id": "inp_genr_imp_071",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly exhausting to carry the weight of believing your hard work is just a series of lucky accidents. You don't have to prove you are perfect today; let's take a deep breath together and recognize that preparing and finding the right solution is a skill, not a trick.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_072",
+    "input_id": "inp_genr_imp_072",
+    "response_style": "reflective",
+    "sandhi_response": "The pressure of feeling like an intruder in your own achievement is incredibly heavy, especially when you are carrying your family's hopes into that room. You belong in this space simply because your journey brought you here, and it is completely okay to let your genuine, imperfect effort be enough today.",
+    "wisdom_theme": "courage_to_occupy_space",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_073",
+    "input_id": "inp_genr_imp_073",
+    "response_style": "calming",
+    "sandhi_response": "That silence can feel so punishing when your mind is screaming with ideas that you feel too unsafe to share. Your instinct was accurate and valuable; let's work on gently allowing your voice to be heard, even if it feels shaky at first.",
+    "wisdom_theme": "trusting_instinct",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_074",
+    "input_id": "inp_genr_imp_074",
+    "response_style": "reflective",
+    "sandhi_response": "Comparing your quiet, foundational steps to the polished highlights of others is a very painful trap to fall into. Your skills in solving immediate, real-world problems are real and meaningful, and they don't lose value just because someone else is on a different path.",
+    "wisdom_theme": "releasing_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_075",
+    "input_id": "inp_genr_imp_075",
+    "response_style": "grounding",
+    "sandhi_response": "A single compiler error is just code that needs adjusting, not a final verdict on your intelligence or your future. Let's step back from the heavy burden of that loan for just a moment and allow this one problem to be a simple puzzle, rather than a measure of your worth.",
+    "wisdom_theme": "separating_effort_from_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_076",
+    "input_id": "inp_genr_imp_076",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly exhausting to carry the weight of believing your success was just a fluke, especially when you worked so hard to get here. You don't have to prove everything on day one; it is completely safe to be a beginner who is still figuring things out.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_077",
+    "input_id": "inp_genr_imp_077",
+    "response_style": "calming",
+    "sandhi_response": "Watching everyone highlight their best moments online makes it so easy to feel like you are the only one struggling behind the scenes. Your worth as a person is not tied to how fast you navigate this academic journey compared to others.",
+    "wisdom_theme": "releasing_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_078",
+    "input_id": "inp_genr_imp_078",
+    "response_style": "reflective",
+    "sandhi_response": "It's so painful when your mind minimizes your genuine contributions and labels you a fraud before you've even had a chance to speak. The work you put into making the project functional and readable matters, and you have every right to take up your space in that room tomorrow.",
+    "wisdom_theme": "claiming_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_079",
+    "input_id": "inp_genr_imp_079",
+    "response_style": "grounding",
+    "sandhi_response": "Carrying the heavy burden of expected success can make you feel like your value as a child depends entirely on a number or a package. I hope you can take a deep breath and remember that you deserve to exist and be loved, completely independent of their expectations.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_080",
+    "input_id": "inp_genr_imp_080",
+    "response_style": "reflective",
+    "sandhi_response": "It's terrifying when a moment of recognition turns into an invisible cage of pressure to never make a mistake again. You are allowed to submit work that is just 'good enough' without it defining your intelligence or your right to learn.",
+    "wisdom_theme": "permission_to_be_imperfect",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_081",
+    "input_id": "inp_genr_imp_081",
+    "response_style": "grounding",
+    "sandhi_response": "It makes complete sense that you're feeling overwhelmed, especially when you are measuring your worth against a single, unpredictable interview process. Please remember that clearing an interview requires a foundational baseline of skill that you did possess, and you are allowed to learn on the job rather than knowing everything on day one.",
+    "wisdom_theme": "claiming_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_082",
+    "input_id": "inp_genr_imp_082",
+    "response_style": "reflective",
+    "sandhi_response": "Seeing everyone celebrate an image of you that feels disconnected from your internal reality must feel incredibly isolating and terrifying. It is okay to feel unprepared, but please try to separate your actual knowledge from the heavy, unrealistic expectations your family has placed on your shoulders.",
+    "wisdom_theme": "internal_validation",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_083",
+    "input_id": "inp_genr_imp_083",
+    "response_style": "calming",
+    "sandhi_response": "Leading a team doesn't mean you have to be the most technically skilled programmer in the room; your ability to coordinate, organize, and bridge gaps is a vital skill in itself. It's completely natural to feel out of depth here, but try to see yourself as a facilitator supporting their talents rather than an expert who must know it all.",
+    "wisdom_theme": "permission_to_be_imperfect",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_084",
+    "input_id": "inp_genr_imp_084",
+    "response_style": "reflective",
+    "sandhi_response": "Receiving public praise can ironically feel like a trap, turning a genuine achievement into a heavy cage of expectation that paralyzes your creativity. You don't have to produce a masterpiece every time you write; give yourself permission to write a messy, imperfect first draft just to get started.",
+    "wisdom_theme": "releasing_pressure",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_085",
+    "input_id": "inp_genr_imp_085",
+    "response_style": "grounding",
+    "sandhi_response": "It is incredibly painful when the people who should be celebrating your hard work minimize it, leaving you to internalize their rejection as your own inadequacy. Your 12 LPA offer is a concrete reflection of your own dedication and capability, and you do not need your family's validation to prove you earned your place.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_086",
+    "input_id": "inp_genr_imp_086",
+    "response_style": "grounding",
+    "sandhi_response": "It is terrifying when your achievements feel like a trap waiting to spring, making you feel like a thief in your own life. But memorizing patterns and executing them under immense pressure is a skill you built, not a fluke, and you deserve to occupy this space.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_087",
+    "input_id": "inp_genr_imp_087",
+    "response_style": "reflective",
+    "sandhi_response": "Accepting praise when you feel like an imposter can make you feel incredibly isolated and exposed. Please remember that no interviewer, no matter how kind, hands out elite internships out of charity; they saw your actual competence, even if you can't see it yet.",
+    "wisdom_theme": "trusting_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_088",
+    "input_id": "inp_genr_imp_088",
+    "response_style": "calming",
+    "sandhi_response": "It is incredibly heavy to carry a high grade when you feel like you only survived the project through sheer desperation rather than 'pure' brilliance. Synthesizing resources and fighting through the struggle is how actual learning happens, not a sign of dishonesty.",
+    "wisdom_theme": "permission_to_be_imperfect",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_089",
+    "input_id": "inp_genr_imp_089",
+    "response_style": "grounding",
+    "sandhi_response": "Being put in charge makes the gap between what you think you should know and what you actually know feel like a dangerous drop-off. You do not need to be a flawless database of knowledge to lead; real leadership is about navigating the unknown together, one solved bug at a time.",
+    "wisdom_theme": "releasing_pressure",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_090",
+    "input_id": "inp_genr_imp_090",
+    "response_style": "reflective",
+    "sandhi_response": "It hurts deeply when your hard-won recognition feels like a clerical error that you have to apologize for. You don't have to be a perfect, flawless genius to be worthy of support; your effort and endurance are more than enough to justify your place on that list.",
+    "wisdom_theme": "claiming_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_091",
+    "input_id": "inp_genr_imp_091",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly exhausting to carry the weight of a success that feels like a trap rather than a victory. Your grades are a reflection of your hard work, but they do not demand perfection from you in every moment that follows.",
+    "wisdom_theme": "claiming_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_092",
+    "input_id": "inp_genr_imp_092",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "That nagging fear of being 'found out' often screams loudest just as we are stepping into spaces we have genuinely earned. Even seasoned engineers rely on documentation; using tools to find answers is a sign of resourcefulness, not a proof of fraud.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_093",
+    "input_id": "inp_genr_imp_093",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is heavy to carry the belief that your contribution wasn't 'enough' to deserve praise, especially when you can only see the gaps in your work. Collaborative success belongs to you too, and designing a clear presentation and APIs is vital, skilled work.",
+    "wisdom_theme": "releasing_shame",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_094",
+    "input_id": "inp_genr_imp_094",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "When you see others struggle, it is easy to assume your own progress is a mistake rather than the result of your preparedness. You are not responsible for carrying the weight of the entire system's fairness, and it is safe to claim this opportunity as your own.",
+    "wisdom_theme": "unconditional_self_worth",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_095",
+    "input_id": "inp_genr_imp_095",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "The pressure of carrying your family's expectations on top of your own silent academic struggles is an incredibly lonely burden to hold. Your worth as a child and a human is entirely separate from the numbers on a package or a mock test score.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_096",
+    "input_id": "inp_genr_imp_096",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It makes complete sense that you feel terrified when your mind is telling you this was just luck, but being prepared to capture that exact moment is a skill in itself, not a fluke. Let’s take a gentle breath together and recognize that you had to do the hard work of practicing that difficult LeetCode problem in the first place for that 'luck' to even happen.",
+    "wisdom_theme": "claiming_achievements",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_097",
+    "input_id": "inp_genr_imp_097",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is incredibly exhausting to carry the weight of a high score when it feels like a pedestal you are bound to fall from. You don't have to prove your worthiness by maintaining an flawless streak; you are allowed to simply be a student who is learning step-by-step.",
+    "wisdom_theme": "releasing_pressure",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_098",
+    "input_id": "inp_genr_imp_098",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "Sitting in a room full of loud, fluent voices can make your own quiet capabilities feel completely invisible and invalid. Please remember that your cleared coding rounds weren't a glitch—they were a direct result of your own hands typing out correct logic under intense pressure.",
+    "wisdom_theme": "releasing_comparison",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_099",
+    "input_id": "inp_genr_imp_099",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It is so heavy to carry your father’s high expectations when you are still quietly fighting to master the very basics of your craft. Struggling with complex concepts like recursion is a normal, difficult part of the learning curve, not a sign that you are a disappointment or a fake.",
+    "wisdom_theme": "parental_detachment",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_100",
+    "input_id": "inp_genr_imp_100",
+    "response_style": "reflective/grounding/calming",
+    "sandhi_response": "It sounds incredibly terrifying to be singled out for praise when you feel your contribution was only a small, secondary piece of the puzzle. But organizing, formatting, and writing a cohesive introduction are vital steps that make research accessible, and you deserve to own your part of that collaborative triumph.",
+    "wisdom_theme": "owning_success",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_101",
+    "input_id": "inp_genr_imp_101",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_102",
+    "input_id": "inp_genr_imp_102",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_103",
+    "input_id": "inp_genr_imp_103",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_104",
+    "input_id": "inp_genr_imp_104",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_105",
+    "input_id": "inp_genr_imp_105",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_106",
+    "input_id": "inp_genr_imp_106",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_107",
+    "input_id": "inp_genr_imp_107",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_108",
+    "input_id": "inp_genr_imp_108",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_109",
+    "input_id": "inp_genr_imp_109",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_110",
+    "input_id": "inp_genr_imp_110",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_111",
+    "input_id": "inp_genr_imp_111",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_112",
+    "input_id": "inp_genr_imp_112",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_113",
+    "input_id": "inp_genr_imp_113",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_114",
+    "input_id": "inp_genr_imp_114",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_115",
+    "input_id": "inp_genr_imp_115",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_116",
+    "input_id": "inp_genr_imp_116",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_117",
+    "input_id": "inp_genr_imp_117",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_118",
+    "input_id": "inp_genr_imp_118",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_119",
+    "input_id": "inp_genr_imp_119",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_120",
+    "input_id": "inp_genr_imp_120",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_121",
+    "input_id": "inp_genr_imp_121",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_122",
+    "input_id": "inp_genr_imp_122",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_123",
+    "input_id": "inp_genr_imp_123",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_124",
+    "input_id": "inp_genr_imp_124",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_125",
+    "input_id": "inp_genr_imp_125",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_126",
+    "input_id": "inp_genr_imp_126",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_127",
+    "input_id": "inp_genr_imp_127",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_128",
+    "input_id": "inp_genr_imp_128",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_129",
+    "input_id": "inp_genr_imp_129",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_130",
+    "input_id": "inp_genr_imp_130",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_131",
+    "input_id": "inp_genr_imp_131",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_132",
+    "input_id": "inp_genr_imp_132",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_133",
+    "input_id": "inp_genr_imp_133",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_134",
+    "input_id": "inp_genr_imp_134",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_135",
+    "input_id": "inp_genr_imp_135",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_136",
+    "input_id": "inp_genr_imp_136",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_137",
+    "input_id": "inp_genr_imp_137",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_138",
+    "input_id": "inp_genr_imp_138",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_139",
+    "input_id": "inp_genr_imp_139",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_140",
+    "input_id": "inp_genr_imp_140",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_141",
+    "input_id": "inp_genr_imp_141",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_142",
+    "input_id": "inp_genr_imp_142",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_143",
+    "input_id": "inp_genr_imp_143",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_144",
+    "input_id": "inp_genr_imp_144",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_145",
+    "input_id": "inp_genr_imp_145",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_146",
+    "input_id": "inp_genr_imp_146",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_147",
+    "input_id": "inp_genr_imp_147",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_148",
+    "input_id": "inp_genr_imp_148",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_149",
+    "input_id": "inp_genr_imp_149",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_150",
+    "input_id": "inp_genr_imp_150",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_151",
+    "input_id": "inp_genr_imp_151",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_152",
+    "input_id": "inp_genr_imp_152",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_153",
+    "input_id": "inp_genr_imp_153",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_154",
+    "input_id": "inp_genr_imp_154",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_155",
+    "input_id": "inp_genr_imp_155",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_156",
+    "input_id": "inp_genr_imp_156",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_157",
+    "input_id": "inp_genr_imp_157",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_158",
+    "input_id": "inp_genr_imp_158",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_159",
+    "input_id": "inp_genr_imp_159",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_160",
+    "input_id": "inp_genr_imp_160",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_161",
+    "input_id": "inp_genr_imp_161",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_162",
+    "input_id": "inp_genr_imp_162",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_163",
+    "input_id": "inp_genr_imp_163",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_164",
+    "input_id": "inp_genr_imp_164",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_165",
+    "input_id": "inp_genr_imp_165",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_166",
+    "input_id": "inp_genr_imp_166",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_167",
+    "input_id": "inp_genr_imp_167",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_168",
+    "input_id": "inp_genr_imp_168",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_169",
+    "input_id": "inp_genr_imp_169",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_170",
+    "input_id": "inp_genr_imp_170",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_171",
+    "input_id": "inp_genr_imp_171",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_172",
+    "input_id": "inp_genr_imp_172",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_173",
+    "input_id": "inp_genr_imp_173",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_174",
+    "input_id": "inp_genr_imp_174",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_175",
+    "input_id": "inp_genr_imp_175",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_176",
+    "input_id": "inp_genr_imp_176",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_177",
+    "input_id": "inp_genr_imp_177",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_178",
+    "input_id": "inp_genr_imp_178",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_179",
+    "input_id": "inp_genr_imp_179",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_180",
+    "input_id": "inp_genr_imp_180",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_181",
+    "input_id": "inp_genr_imp_181",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_182",
+    "input_id": "inp_genr_imp_182",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_183",
+    "input_id": "inp_genr_imp_183",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_184",
+    "input_id": "inp_genr_imp_184",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_185",
+    "input_id": "inp_genr_imp_185",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_186",
+    "input_id": "inp_genr_imp_186",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_187",
+    "input_id": "inp_genr_imp_187",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_188",
+    "input_id": "inp_genr_imp_188",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_189",
+    "input_id": "inp_genr_imp_189",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_190",
+    "input_id": "inp_genr_imp_190",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_191",
+    "input_id": "inp_genr_imp_191",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_192",
+    "input_id": "inp_genr_imp_192",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_193",
+    "input_id": "inp_genr_imp_193",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_194",
+    "input_id": "inp_genr_imp_194",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_195",
+    "input_id": "inp_genr_imp_195",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_196",
+    "input_id": "inp_genr_imp_196",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_197",
+    "input_id": "inp_genr_imp_197",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_198",
+    "input_id": "inp_genr_imp_198",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_199",
+    "input_id": "inp_genr_imp_199",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_200",
+    "input_id": "inp_genr_imp_200",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_201",
+    "input_id": "inp_genr_imp_201",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_202",
+    "input_id": "inp_genr_imp_202",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_203",
+    "input_id": "inp_genr_imp_203",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_204",
+    "input_id": "inp_genr_imp_204",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_205",
+    "input_id": "inp_genr_imp_205",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_206",
+    "input_id": "inp_genr_imp_206",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_207",
+    "input_id": "inp_genr_imp_207",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_208",
+    "input_id": "inp_genr_imp_208",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_209",
+    "input_id": "inp_genr_imp_209",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_210",
+    "input_id": "inp_genr_imp_210",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_211",
+    "input_id": "inp_genr_imp_211",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_212",
+    "input_id": "inp_genr_imp_212",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_213",
+    "input_id": "inp_genr_imp_213",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_214",
+    "input_id": "inp_genr_imp_214",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_215",
+    "input_id": "inp_genr_imp_215",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_216",
+    "input_id": "inp_genr_imp_216",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_217",
+    "input_id": "inp_genr_imp_217",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_218",
+    "input_id": "inp_genr_imp_218",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_219",
+    "input_id": "inp_genr_imp_219",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_220",
+    "input_id": "inp_genr_imp_220",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_221",
+    "input_id": "inp_genr_imp_221",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_222",
+    "input_id": "inp_genr_imp_222",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_223",
+    "input_id": "inp_genr_imp_223",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_224",
+    "input_id": "inp_genr_imp_224",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_225",
+    "input_id": "inp_genr_imp_225",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_226",
+    "input_id": "inp_genr_imp_226",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_227",
+    "input_id": "inp_genr_imp_227",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_228",
+    "input_id": "inp_genr_imp_228",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_229",
+    "input_id": "inp_genr_imp_229",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_230",
+    "input_id": "inp_genr_imp_230",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_231",
+    "input_id": "inp_genr_imp_231",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_232",
+    "input_id": "inp_genr_imp_232",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_233",
+    "input_id": "inp_genr_imp_233",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_234",
+    "input_id": "inp_genr_imp_234",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_235",
+    "input_id": "inp_genr_imp_235",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_236",
+    "input_id": "inp_genr_imp_236",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_237",
+    "input_id": "inp_genr_imp_237",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_238",
+    "input_id": "inp_genr_imp_238",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_239",
+    "input_id": "inp_genr_imp_239",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_240",
+    "input_id": "inp_genr_imp_240",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_241",
+    "input_id": "inp_genr_imp_241",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_242",
+    "input_id": "inp_genr_imp_242",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_243",
+    "input_id": "inp_genr_imp_243",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_244",
+    "input_id": "inp_genr_imp_244",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_245",
+    "input_id": "inp_genr_imp_245",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_246",
+    "input_id": "inp_genr_imp_246",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_247",
+    "input_id": "inp_genr_imp_247",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_248",
+    "input_id": "inp_genr_imp_248",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_249",
+    "input_id": "inp_genr_imp_249",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_250",
+    "input_id": "inp_genr_imp_250",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_251",
+    "input_id": "inp_genr_imp_251",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_252",
+    "input_id": "inp_genr_imp_252",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_253",
+    "input_id": "inp_genr_imp_253",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_254",
+    "input_id": "inp_genr_imp_254",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_255",
+    "input_id": "inp_genr_imp_255",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_256",
+    "input_id": "inp_genr_imp_256",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_257",
+    "input_id": "inp_genr_imp_257",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_258",
+    "input_id": "inp_genr_imp_258",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_259",
+    "input_id": "inp_genr_imp_259",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_260",
+    "input_id": "inp_genr_imp_260",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_261",
+    "input_id": "inp_genr_imp_261",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_262",
+    "input_id": "inp_genr_imp_262",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_263",
+    "input_id": "inp_genr_imp_263",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_264",
+    "input_id": "inp_genr_imp_264",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_265",
+    "input_id": "inp_genr_imp_265",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_266",
+    "input_id": "inp_genr_imp_266",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_267",
+    "input_id": "inp_genr_imp_267",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_268",
+    "input_id": "inp_genr_imp_268",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_269",
+    "input_id": "inp_genr_imp_269",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_270",
+    "input_id": "inp_genr_imp_270",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_271",
+    "input_id": "inp_genr_imp_271",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_272",
+    "input_id": "inp_genr_imp_272",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_273",
+    "input_id": "inp_genr_imp_273",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_274",
+    "input_id": "inp_genr_imp_274",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_275",
+    "input_id": "inp_genr_imp_275",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_276",
+    "input_id": "inp_genr_imp_276",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_277",
+    "input_id": "inp_genr_imp_277",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_278",
+    "input_id": "inp_genr_imp_278",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_279",
+    "input_id": "inp_genr_imp_279",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_280",
+    "input_id": "inp_genr_imp_280",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_281",
+    "input_id": "inp_genr_imp_281",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_282",
+    "input_id": "inp_genr_imp_282",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_283",
+    "input_id": "inp_genr_imp_283",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_284",
+    "input_id": "inp_genr_imp_284",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_285",
+    "input_id": "inp_genr_imp_285",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_286",
+    "input_id": "inp_genr_imp_286",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_287",
+    "input_id": "inp_genr_imp_287",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_288",
+    "input_id": "inp_genr_imp_288",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_289",
+    "input_id": "inp_genr_imp_289",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_290",
+    "input_id": "inp_genr_imp_290",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_291",
+    "input_id": "inp_genr_imp_291",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_292",
+    "input_id": "inp_genr_imp_292",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_293",
+    "input_id": "inp_genr_imp_293",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_294",
+    "input_id": "inp_genr_imp_294",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_295",
+    "input_id": "inp_genr_imp_295",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_296",
+    "input_id": "inp_genr_imp_296",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_297",
+    "input_id": "inp_genr_imp_297",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_298",
+    "input_id": "inp_genr_imp_298",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_299",
+    "input_id": "inp_genr_imp_299",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_300",
+    "input_id": "inp_genr_imp_300",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_301",
+    "input_id": "inp_genr_imp_301",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_302",
+    "input_id": "inp_genr_imp_302",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_303",
+    "input_id": "inp_genr_imp_303",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_304",
+    "input_id": "inp_genr_imp_304",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_305",
+    "input_id": "inp_genr_imp_305",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_306",
+    "input_id": "inp_genr_imp_306",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_307",
+    "input_id": "inp_genr_imp_307",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_308",
+    "input_id": "inp_genr_imp_308",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_309",
+    "input_id": "inp_genr_imp_309",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_310",
+    "input_id": "inp_genr_imp_310",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_311",
+    "input_id": "inp_genr_imp_311",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_312",
+    "input_id": "inp_genr_imp_312",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_313",
+    "input_id": "inp_genr_imp_313",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_314",
+    "input_id": "inp_genr_imp_314",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_315",
+    "input_id": "inp_genr_imp_315",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_316",
+    "input_id": "inp_genr_imp_316",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_317",
+    "input_id": "inp_genr_imp_317",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_318",
+    "input_id": "inp_genr_imp_318",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_319",
+    "input_id": "inp_genr_imp_319",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_320",
+    "input_id": "inp_genr_imp_320",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_321",
+    "input_id": "inp_genr_imp_321",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_322",
+    "input_id": "inp_genr_imp_322",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_323",
+    "input_id": "inp_genr_imp_323",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_324",
+    "input_id": "inp_genr_imp_324",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_325",
+    "input_id": "inp_genr_imp_325",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_326",
+    "input_id": "inp_genr_imp_326",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_327",
+    "input_id": "inp_genr_imp_327",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_328",
+    "input_id": "inp_genr_imp_328",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_329",
+    "input_id": "inp_genr_imp_329",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_330",
+    "input_id": "inp_genr_imp_330",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_331",
+    "input_id": "inp_genr_imp_331",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_332",
+    "input_id": "inp_genr_imp_332",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_333",
+    "input_id": "inp_genr_imp_333",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_334",
+    "input_id": "inp_genr_imp_334",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_335",
+    "input_id": "inp_genr_imp_335",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_336",
+    "input_id": "inp_genr_imp_336",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_337",
+    "input_id": "inp_genr_imp_337",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_338",
+    "input_id": "inp_genr_imp_338",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_339",
+    "input_id": "inp_genr_imp_339",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_340",
+    "input_id": "inp_genr_imp_340",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_341",
+    "input_id": "inp_genr_imp_341",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_342",
+    "input_id": "inp_genr_imp_342",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_343",
+    "input_id": "inp_genr_imp_343",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_344",
+    "input_id": "inp_genr_imp_344",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_345",
+    "input_id": "inp_genr_imp_345",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_346",
+    "input_id": "inp_genr_imp_346",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_347",
+    "input_id": "inp_genr_imp_347",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_348",
+    "input_id": "inp_genr_imp_348",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_349",
+    "input_id": "inp_genr_imp_349",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_350",
+    "input_id": "inp_genr_imp_350",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_351",
+    "input_id": "inp_genr_imp_351",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_352",
+    "input_id": "inp_genr_imp_352",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_353",
+    "input_id": "inp_genr_imp_353",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_354",
+    "input_id": "inp_genr_imp_354",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_355",
+    "input_id": "inp_genr_imp_355",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_356",
+    "input_id": "inp_genr_imp_356",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_357",
+    "input_id": "inp_genr_imp_357",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_358",
+    "input_id": "inp_genr_imp_358",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_359",
+    "input_id": "inp_genr_imp_359",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_360",
+    "input_id": "inp_genr_imp_360",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_361",
+    "input_id": "inp_genr_imp_361",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_362",
+    "input_id": "inp_genr_imp_362",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_363",
+    "input_id": "inp_genr_imp_363",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_364",
+    "input_id": "inp_genr_imp_364",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_365",
+    "input_id": "inp_genr_imp_365",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_366",
+    "input_id": "inp_genr_imp_366",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_367",
+    "input_id": "inp_genr_imp_367",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_368",
+    "input_id": "inp_genr_imp_368",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_369",
+    "input_id": "inp_genr_imp_369",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_370",
+    "input_id": "inp_genr_imp_370",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_371",
+    "input_id": "inp_genr_imp_371",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_372",
+    "input_id": "inp_genr_imp_372",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_373",
+    "input_id": "inp_genr_imp_373",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_374",
+    "input_id": "inp_genr_imp_374",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_375",
+    "input_id": "inp_genr_imp_375",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_376",
+    "input_id": "inp_genr_imp_376",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_377",
+    "input_id": "inp_genr_imp_377",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_378",
+    "input_id": "inp_genr_imp_378",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_379",
+    "input_id": "inp_genr_imp_379",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_380",
+    "input_id": "inp_genr_imp_380",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_381",
+    "input_id": "inp_genr_imp_381",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_382",
+    "input_id": "inp_genr_imp_382",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_383",
+    "input_id": "inp_genr_imp_383",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_384",
+    "input_id": "inp_genr_imp_384",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_385",
+    "input_id": "inp_genr_imp_385",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_386",
+    "input_id": "inp_genr_imp_386",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_387",
+    "input_id": "inp_genr_imp_387",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_388",
+    "input_id": "inp_genr_imp_388",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_389",
+    "input_id": "inp_genr_imp_389",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_390",
+    "input_id": "inp_genr_imp_390",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_391",
+    "input_id": "inp_genr_imp_391",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_392",
+    "input_id": "inp_genr_imp_392",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_393",
+    "input_id": "inp_genr_imp_393",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_394",
+    "input_id": "inp_genr_imp_394",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_395",
+    "input_id": "inp_genr_imp_395",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_396",
+    "input_id": "inp_genr_imp_396",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_397",
+    "input_id": "inp_genr_imp_397",
+    "response_style": "reflective",
+    "sandhi_response": "Carrying the stress of imposter triggers is highly exhausting. Take a slow breath—your worth is not tied to this immediate grade.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_398",
+    "input_id": "inp_genr_imp_398",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_399",
+    "input_id": "inp_genr_imp_399",
+    "response_style": "reflective",
+    "sandhi_response": "Avoidance is your nervous system's freeze response to severe threat. Let's make the study goal ridiculously small today.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  },
+  {
+    "response_id": "rsp_genr_imp_400",
+    "input_id": "inp_genr_imp_400",
+    "response_style": "reflective",
+    "sandhi_response": "It is completely understandable to feel overwhelmed by placement and academic pressure. Let's start with just one tiny step.",
+    "wisdom_theme": "reducing_friction",
+    "tone": "calm",
+    "length": "medium"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "empathy_score": 2,
+    "groundedness_score": 1,
+    "genericness_score": 9,
+    "emotional_safety_score": 4,
+    "wisdom_depth_score": 2,
+    "human_likeness_score": 2,
+    "final_score": 2.0,
+    "approved": false,
+    "response_id": "rsp_001"
+  },
+  {
+    "empathy_score": 6,
+    "groundedness_score": 2,
+    "genericness_score": 9,
+    "emotional_safety_score": 10,
+    "wisdom_depth_score": 3,
+    "human_likeness_score": 5,
+    "final_score": 4.5,
+    "approved": false,
+    "response_id": "rsp_002"
+  },
+  {
+    "empathy_score": 2,
+    "groundedness_score": 1,
+    "genericness_score": 9,
+    "emotional_safety_score": 5,
+    "wisdom_depth_score": 1,
+    "human_likeness_score": 1,
+    "final_score": 1.8333333333333333,
+    "approved": false,
+    "response_id": "rsp_003"
+  },
+  {
+    "empathy_score": 8,
+    "groundedness_score": 7,
+    "genericness_score": 8,
+    "emotional_safety_score": 10,
+    "wisdom_depth_score": 6,
+    "human_likeness_score": 9,
+    "final_score": 7.0,
+    "approved": true,
+    "response_id": "rsp_004"
+  },
+  {
+    "empathy_score": 1,
+    "groundedness_score": 3,
+    "genericness_score": 9,
+    "emotional_safety_score": 4,
+    "wisdom_depth_score": 3,
+    "human_likeness_score": 1,
+    "final_score": 2.17,
+    "approved": false,
+    "response_id": "rsp_005"
+  },
+  {
+    "empathy_score": 6,
+    "groundedness_score": 5,
+    "genericness_score": 7,
+    "emotional_safety_score": 9,
+    "wisdom_depth_score": 7,
+    "human_likeness_score": 6,
+    "final_score": 6.0,
+    "approved": false,
+    "response_id": "rsp_006"
+  },
+  {
+    "empathy_score": 3,
+    "groundedness_score": 6,
+    "genericness_score": 9,
+    "emotional_safety_score": 7,
+    "wisdom_depth_score": 5,
+    "human_likeness_score": 3,
+    "final_score": 4.17,
+    "approved": false,
+    "response_id": "rsp_007"
+  },
+  {
+    "empathy_score": 5,
+    "groundedness_score": 9,
+    "genericness_score": 8,
+    "emotional_safety_score": 10,
+    "wisdom_depth_score": 8,
+    "human_likeness_score": 6,
+    "final_score": 6.67,
+    "approved": false,
+    "response_id": "rsp_008"
+  },
+  {
+    "empathy_score": 7,
+    "groundedness_score": 4,
+    "genericness_score": 9,
+    "emotional_safety_score": 10,
+    "wisdom_depth_score": 5,
+    "human_likeness_score": 9,
+    "final_score": 6.0,
+    "approved": false,
+    "response_id": "rsp_009"
+  },
+  {
+    "empathy_score": 1,
+    "groundedness_score": 1,
+    "genericness_score": 10,
+    "emotional_safety_score": 1,
+    "wisdom_depth_score": 1,
+    "human_likeness_score": 1,
+    "final_score": 0.833,
+    "approved": false,
+    "response_id": "rsp_010"
+  },
+  {
+    "empathy_score": 4,
+    "groundedness_score": 2,
+    "genericness_score": 8,
+    "emotional_safety_score": 7,
+    "wisdom_depth_score": 4,
+    "human_likeness_score": 3,
+    "final_score": 3.67,
+    "approved": false,
+    "response_id": "rsp_011"
+  },
+  {
+    "empathy_score": 8,
+    "groundedness_score": 4,
+    "genericness_score": 8,
+    "emotional_safety_score": 10,
+    "wisdom_depth_score": 5,
+    "human_likeness_score": 9,
+    "final_score": 6.33,
+    "approved": false,
+    "response_id": "rsp_012"
+  },
+  {
+    "empathy_score": 2,
+    "groundedness_score": 1,
+    "genericness_score": 9,
+    "emotional_safety_score": 6,
+    "wisdom_depth_score": 3,
+    "human_likeness_score": 1,
+    "final_score": 2.33,
+    "approved": false,
+    "response_id": "rsp_013"
+  },
+  {
+    "empathy_score": 2,
+    "groundedness_score": 1,
+    "genericness_score": 9,
+    "emotional_safety_score": 6,
+    "wisdom_depth_score": 3,
+    "human_likeness_score": 1,
+    "final_score": 2.33,
+    "approved": false,
+    "response_id": "rsp_014"
+  },
+  {
+    "empathy_score": 1,
+    "groundedness_score": 1,
+    "genericness_score": 9,
+    "emotional_safety_score": 6,
+    "wisdom_depth_score": 2,
+    "human_likeness_score": 1,
+    "final_score": 2.0,
+    "approved": false,
+    "response_id": "rsp_015"
+  },
+  {
+    "empathy_score": 2,
+    "groundedness_score": 1,
+    "genericness_score": 8,
+    "emotional_safety_score": 3,
+    "wisdom_depth_score": 4,
+    "human_likeness_score": 1,
+    "final_score": 2.17,
+    "approved": false,
+    "response_id": "rsp_016"
+  },
+  {
+    "empathy_score": 8,
+    "groundedness_score": 9,
+    "genericness_score": 7,
+    "emotional_safety_score": 10,
+    "wisdom_depth_score": 7,
+    "human_likeness_score": 9,
+    "final_score": 7.67,
+    "approved": true,
+    "response_id": "rsp_017"
+  },
+  {
+    "empathy_score": 9,
+    "groundedness_score": 6,
+    "genericness_score": 8,
+    "emotional_safety_score": 10,
+    "wisdom_depth_score": 6,
+    "human_likeness_score": 9,
+    "final_score": 7.0,
+    "approved": true,
+    "response_id": "rsp_018"
+  },
+  {
+    "empathy_score": 1,
+    "groundedness_score": 1,
+    "genericness_score": 9,
+    "emotional_safety_score": 6,
+    "wisdom_depth_score": 2,
+    "human_likeness_score": 1,
+    "final_score": 2.0,
+    "approved": false,
+    "response_id": "rsp_019"
+  },
+  {
+    "empathy_score": 1,
+    "groundedness_score": 1,
+    "genericness_score": 10,
+    "emotional_safety_score": 2,
+    "wisdom_depth_score": 1,
+    "human_likeness_score": 1,
+    "final_score": 1.0,
+    "approved": false,
+    "response_id": "rsp_020"
+  }
+]

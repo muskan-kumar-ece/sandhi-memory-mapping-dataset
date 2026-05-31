@@ -1,0 +1,13 @@
+{
+  "subcategory_id": "SUB-DEPR",
+  "subcategory_name": "depression",
+  "category": "Social Isolation",
+  "description": "Emotional state and behaviors relating to depression under Social Isolation.",
+  "complexity_level": "medium",
+  "clinical_relevance": "high",
+  "tags": [
+    "social_isolation",
+    "depression",
+    "student_support"
+  ]
+}
