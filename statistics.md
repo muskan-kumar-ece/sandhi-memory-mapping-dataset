@@ -1,19 +1,19 @@
 # Dataset Statistics
 
-Generated at: `2026-06-04T19:27:45.127438+00:00`
+Generated at: `2026-06-04T19:31:57.543867+00:00`
 
 ## Core Counts
 
 - Total folders: 864
 - Total subfolders: 861
-- Total files: 5792
-- Total JSON files: 5778
-- Total dataset size: 663.94 MB (696,195,663 bytes)
-- Average JSON file size: 117.65 KB (120,477 bytes)
+- Total files: 5797
+- Total JSON files: 5779
+- Total dataset size: 664.00 MB (696,257,544 bytes)
+- Average JSON file size: 117.63 KB (120,457 bytes)
 - Emotional categories: 130
 - Emotional subcategories: 713
 - Spiritual collections: 5
-- Total records (top-level JSON items): 1,144,124
+- Total records (top-level JSON items): 1,144,125
 - Token count (unavailable): Not computed
 
 ## Dataset Sections
