@@ -18,7 +18,7 @@
 
 ## 📖 Overview
 
-The **Sandhi Memory Mapping Dataset** is a comprehensive, multi-dimensional repository (~680 MB, ~170M+ Tokens) built to empower artificial intelligence with deep emotional intelligence and spiritual understanding. 
+The **Sandhi Memory Mapping Dataset** is a comprehensive, multi-dimensional repository (664.00 MB on disk; see [statistics.md](statistics.md)) built to empower artificial intelligence with deep emotional intelligence and spiritual understanding. 
 
 While modern Large Language Models (LLMs) excel at reasoning and factual recall, they fundamentally lack the structural grounding required to engage with the complex dimensions of human experience—empathy, memory, meaning-seeking, and vulnerability. 
 
@@ -35,13 +35,19 @@ Sandhi solves this by providing the exact cognitive schemas required to build **
 
 ---
 
+## 📚 Documentation
+
+- **Dataset Card:** [DATASET_CARD.md](DATASET_CARD.md)
+- **Schema Documentation:** [SCHEMA.md](SCHEMA.md)
+- **Dataset Statistics:** [statistics.md](statistics.md) / [statistics.json](statistics.json)
+
 ## 🏗 Dataset Architecture
 
 The repository is logically divided into two major domains:
 
 ```text
 sandhi-memory-mapping-dataset/
-├── 🧠 sandhi-emotional-intelligence-dataset/  # 133+ Categories of Emotional States
+├── 🧠 sandhi-emotional-intelligence-dataset/  # 130 Categories of Emotional States
 │   ├── Abandonment Issues/                    # Example Category
 │   │   ├── fear_of_rejection/                 # Subcategory
 │   │   │   ├── responses.json                 # Empathetic AI responses
@@ -62,12 +68,22 @@ sandhi-memory-mapping-dataset/
 
 | Metric | Count / Size | Description |
 | :--- | :--- | :--- |
-| **Total Size** | `~680 MB` | Uncompressed JSON files on disk. |
-| **Approx. Tokens** | `~170M+` | Estimated token volume for LLM context. |
+| **Total Size** | `664.00 MB` | Uncompressed files on disk. |
+| **Approx. Tokens** | `Not computed` | Tokenizer not bundled; see statistics. |
 | **Domains** | `2` | Emotional Intelligence & Spiritual Intelligence. |
-| **Categories** | `133+` | Top-level psychological and philosophical categories. |
-| **Subcategories** | `700+` | High-fidelity mapping of specific human situations. |
-| **JSON Files** | `10,000+` | Structured files optimized for vector databases. |
+| **Categories** | `130` | Top-level emotional categories. |
+| **Subcategories** | `713` | Emotional subcategories. |
+| **JSON Files** | `5,779` | Structured files on disk. |
+| **Total Records** | `1,144,125` | Top-level JSON items across files. |
+
+---
+
+## ✅ Dataset Validation and Quality Assurance
+
+- `scripts/dataset_statistics.py` computes file counts, sizes, and record totals; outputs are in `statistics.json` and `statistics.md`.
+- The `sandhi-emotional-intelligence-dataset/taxonomy/` directory provides authoritative category and subcategory lists for manual validation.
+- Each emotional subcategory folder contains a consistent set of JSON files (inputs, responses, evaluations, curated pairs, metadata, variations, flows, memory patterns).
+- No automated test suite or linting configuration is included in the repository; validation is currently manual and script-assisted.
 
 ---
 
